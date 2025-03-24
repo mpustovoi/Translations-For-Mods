@@ -1,6 +1,6 @@
 {
-  "alexscaves:cave_creature": "Alex's Caves Creatures",
-  "alexscaves:deep_sea_creature": "Alex's Caves Deep Sea Creatures",
+  "alexscaves:cave_creature": "Cave Creatures",
+  "alexscaves:deep_sea_creature": "Deep Sea Creatures",
   "effect.alexscaves.bubbled.description": "Causes target to be encased in a giant bubble. Causes drowning.",
   "effect.alexscaves.darkness_incarnate.description": "Grants the ability of fast flight within dark areas.",
   "effect.alexscaves.deepsight.description": "Grants the ability to see further underwater.",

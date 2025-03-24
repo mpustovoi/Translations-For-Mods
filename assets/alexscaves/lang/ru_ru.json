@@ -1,7 +1,7 @@
 {
   "advancements.alexscaves.root.title": "Пещеры Alex'а",
-  "alexscaves:cave_creature": "Существ пещер Alex'а",
-  "alexscaves:deep_sea_creature": "Глубоководных существ пещер Alex'а",
+  "alexscaves:cave_creature": "Пещерных существ",
+  "alexscaves:deep_sea_creature": "Глубоководных существ",
   "alexscaves.startup_warning.generation_incompatible": "Генерация пещер Alex'а несовместима с модом (ID:%s). Пещерные биомы могут вообще не появляться. Это предупреждение можно отключить в конфиге пещер Alex'а.",
   "cape.alexscaves_contributor": "Спонсор пещеры Alex'а",
   "cape.alexscaves_developer": "Разработчик пещеры Alex'а",
