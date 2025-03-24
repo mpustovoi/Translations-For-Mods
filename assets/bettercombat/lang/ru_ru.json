@@ -27,7 +27,7 @@
   "text.autoconfig.bettercombat.option.client.isSmoothAnimationTransitionEnabled.@Tooltip": "Анимации атаки плавно переходят ценой точности.",
   "text.autoconfig.bettercombat.option.client.isTooltipAttackRangeEnabled": "Подсказка в предмете: дальность атаки",
   "text.autoconfig.bettercombat.option.client.isTooltipAttackRangeEnabled.@Tooltip": "Показывать атрибут дальности атаки в подказке оружия.",
-  "text.autoconfig.bettercombat.option.client.weaponSwingSoundVolume": "Громкость звука взмаха оружия в %",
+  "text.autoconfig.bettercombat.option.client.weaponSwingSoundVolume": "Громкость звука взмаха оружия в %%",
   "text.autoconfig.bettercombat.option.client.weaponSwingSoundVolume.@Tooltip": "Изменить громкость звуков при взмахе оружием.",
   "text.autoconfig.bettercombat.option.client.isSweepingParticleEnabled": "Показывать взмах",
   "text.autoconfig.bettercombat.option.client.isSweepingParticleEnabled.@Tooltip": "Включает показ эффект частиц при взмахе мечом.",

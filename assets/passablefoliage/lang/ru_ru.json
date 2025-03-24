@@ -22,7 +22,7 @@
   "passablefoliage.config.sounds.volume": "Громкость",
   "passablefoliage.config.sounds.volume.desc": "Громкость звука, издаваемого при движении внутри листьев",
   "passablefoliage.config.speedReductionHorizontal": "Снижение скорости по горизонтали",
-  "passablefoliage.config.speedReductionHorizontal.desc": "Уменьшенная горизонтальная скорость при прохождении через листья. (% от обычной)",
+  "passablefoliage.config.speedReductionHorizontal.desc": "Уменьшенная горизонтальная скорость при прохождении через листья. (%% от обычной)",
   "passablefoliage.config.speedReductionVertical": "Снижение скорости по вертикали",
-  "passablefoliage.config.speedReductionVertical.desc": "Уменьшенная вертикальная скорость при прохождении через листья. (% от обычной)"
+  "passablefoliage.config.speedReductionVertical.desc": "Уменьшенная вертикальная скорость при прохождении через листья. (%% от обычной)"
 }

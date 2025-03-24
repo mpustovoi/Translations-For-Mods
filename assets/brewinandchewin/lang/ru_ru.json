@@ -74,7 +74,7 @@
   "effect.brewinandchewin.intoxication": "Опьянение",
   "effect.brewinandchewin.intoxication.description": "Не даёт игроку насыщаться пищей.",
   "effect.brewinandchewin.raging": "Ярость",
-  "effect.brewinandchewin.raging.description": "Позволяет увеличить скорость атаки на 5% при нанесении урона существам в ближнем бою. Этот эффект складывается до 4 раз.",
+  "effect.brewinandchewin.raging.description": "Позволяет увеличить скорость атаки на 5%% при нанесении урона существам в ближнем бою. Этот эффект складывается до 4 раз.",
   "effect.brewinandchewin.sweet_heart": "Зазноба",
   "effect.brewinandchewin.sweet_heart.description": "Позволяет исцеляться на основе насыщения при любом уровне голода в дополнение к существующему исцелению от насыщения.",
   "brewinandchewin.tooltip.dread_nog": "Увеличивает «Дурной знак» на 1 уровень",

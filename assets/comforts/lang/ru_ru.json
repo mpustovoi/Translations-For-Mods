@@ -73,7 +73,7 @@
   "gui.comforts.config.sleepingBagsStopPhantoms.name": "Спальный мешок останавливает фантомов",
   "gui.comforts.config.sleepingBagsStopPhantoms.description": "Если включено, то попытка поспать в спальном мешке останавливает появление фантомов.",
   "gui.comforts.config.daySleepingPercentage.name": "Доля спящих днём",
-  "gui.comforts.config.daySleepingPercentage.description": "Какой процент игроков должен спать, чтобы пропустить день.\nЗначение 0 позволит пропускать день, если хотя бы 1 игрок спит, значение 100% потребует, чтобы все игроки спали.\nПри значении меньше 0 будет по умолчанию использоваться игровое правило «Процент спящих».",
+  "gui.comforts.config.daySleepingPercentage.description": "Какой процент игроков должен спать, чтобы пропустить день.\nЗначение 0 позволит пропускать день, если хотя бы 1 игрок спит, значение 100%% потребует, чтобы все игроки спали.\nПри значении меньше 0 будет по умолчанию использоваться игровое правило «Процент спящих».",
   "gui.comforts.config.dayWakeTimeOffset.name": "Смещение времени пробуждения с ночи на день",
   "gui.comforts.config.dayWakeTimeOffset.description": "Количество времени в тактах, которое будет добавлено или вычтено из нового времени после ночного сна.",
   "gui.comforts.config.nightWakeTimeOffset.name": "Смещение времени пробуждения со дня на ночь",

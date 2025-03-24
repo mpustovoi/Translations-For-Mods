@@ -21,7 +21,7 @@
   "advancements.mutantmonsters.you_da_bomby.title": "Ты просто бомба",
   "block.mutantmonsters.mutant_skeleton_skull": "Череп скелета-мутанта",
   "block.mutantmonsters.mutant_skeleton_wall_skull": "Настенный череп скелета-мутанта",
-  "effect.mutantmonsters.chemical_x.description": "С шансом в 50% превращает сущность в мутанта. Взрывает, если превращение невозможно.",
+  "effect.mutantmonsters.chemical_x.description": "С шансом в 50%% превращает сущность в мутанта. Взрывает, если превращение невозможно.",
   "effect.mutantmonsters.chemical_x": "Химикат X",
   "entity.mutantmonsters.body_part": "Часть тела скелета-мутанта",
   "entity.mutantmonsters.chemical_x": "Химикат X",

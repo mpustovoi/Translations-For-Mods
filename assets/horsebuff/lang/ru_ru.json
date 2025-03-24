@@ -41,7 +41,7 @@
 
   "text.autoconfig.HorseBuff.option.pitchFade.enabled": "Включено",
 
-  "text.autoconfig.HorseBuff.option.pitchFade.startAngle": "Угол прозрачности 0%",
+  "text.autoconfig.HorseBuff.option.pitchFade.startAngle": "Угол прозрачности 0%%",
   "text.autoconfig.HorseBuff.option.pitchFade.startAngle.@Tooltip": "Выше этого угла лошадь не будет прозрачной\nесли посмотреть ниже, то непрозрачность начнёт уменьшаться.",
   "text.autoconfig.HorseBuff.option.pitchFade.endAngle": "Максимальный угол прозрачности",
   "text.autoconfig.HorseBuff.option.pitchFade.endAngle.@Tooltip": "Ниже этого угла лошадь настолько прозрачна, насколько это возможно.",

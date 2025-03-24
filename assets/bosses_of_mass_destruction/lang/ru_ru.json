@@ -41,7 +41,7 @@
   "item.bosses_of_mass_destruction.mob_ward.tooltip": "При размещении мобы не будут появляться в радиусе 64 блоков",
 
   "block.bosses_of_mass_destruction.monolith_block": "Усилитель взрывов",
-  "item.bosses_of_mass_destruction.monolith_block.tooltip_0": "При размещении на 30% увеличивает мощность взрыва",
+  "item.bosses_of_mass_destruction.monolith_block.tooltip_0": "При размещении на 30%% увеличивает мощность взрыва",
   "item.bosses_of_mass_destruction.monolith_block.tooltip_1": "в радиусе 64 блока. Этот эффект не накапливается",
 
   "block.bosses_of_mass_destruction.levitation_block": "Стол левитации",

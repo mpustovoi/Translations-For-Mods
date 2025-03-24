@@ -252,7 +252,7 @@
   "distanthorizons.config.common.logging": "Журналирование",
   "distanthorizons.config.common.multiThreading.numberOfThreads.@tooltip": "Сколько потоков будут использовать «Далёкие Горизонты».",
   "distanthorizons.config.common.multiThreading.numberOfThreads": "Количество потоков",
-  "distanthorizons.config.common.multiThreading.threadRunTimeRatio": "% времени выполнения для потоков",
+  "distanthorizons.config.common.multiThreading.threadRunTimeRatio": "%% времени выполнения для потоков",
   "distanthorizons.config.common.multiThreading": "Многопоточность",
   "distanthorizons.config.common.worldGenerator.distantGeneratorMode.@tooltip": "Насколько сложной должна быть генерация при создании чанков детализации за пределами ванильного расстояния отрисовки.",
   "distanthorizons.config.common.worldGenerator.distantGeneratorMode": "Режим дальнего генератора",
