@@ -1,0 +1,44 @@
+{
+  "block.dragonloot.dragon_anvil": "Драконья наковальня",
+  "item.dragonloot.dragon_scale": "Драконья чешуя",
+
+  "item.dragonloot.dragon_helmet": "Шлем из драконьей чешуи",
+  "item.dragonloot.dragon_chestplate": "Нагрудник из драконьей чешуи",
+  "item.dragonloot.dragon_leggings": "Поножи из драконьей чешуи",
+  "item.dragonloot.dragon_boots": "Ботинки из драконьей чешуи",
+  "item.dragonloot.upgraded_dragon_chestplate": "Крылатый нагрудник из драконьей чешуи",
+
+  "item.dragonloot.dragon_pickaxe": "Драконья кирка",
+  "item.dragonloot.dragon_axe": "Драконий топор",
+  "item.dragonloot.dragon_shovel": "Драконья лопата",
+  "item.dragonloot.dragon_hoe": "Драконья мотыга",
+  "item.dragonloot.dragon_sword": "Драконий меч",
+  "item.dragonloot.dragon_bow": "Драконий лук",
+  "item.dragonloot.dragon_crossbow": "Драконий арбалет",
+
+  "item.dragonloot.dragon_horse_armor": "Драконья конская броня",
+  "item.dragonloot.dragon_trident": "Драконий трезубец",
+  "entity.dragonloot.dragon_trident": "Драконий трезубец",
+
+  "itemGroup.dragonloot.dragonloot": "Драконья Добыча",
+
+  "text.autoconfig.dragonloot.title": "Настройка драконьей добычи",
+  "text.autoconfig.dragonloot.option.scale_minimum_drop_amount": "Минимальное количество выпадающей чешуи",
+  "text.autoconfig.dragonloot.option.additional_scales_per_player": "Дополнительное число чешуи за каждого игрока",
+  "text.autoconfig.dragonloot.option.additional_scale_drop_chance": "Дополнительный шанс выпадения чешуи",
+  "text.autoconfig.dragonloot.option.dragon_armor_protection_helmet": "Защита шлема из драконьей чешуи",
+  "text.autoconfig.dragonloot.option.dragon_armor_protection_chest": "Защита нагрудника из драконьей чешуи",
+  "text.autoconfig.dragonloot.option.dragon_armor_protection_leggings": "Защита поножей из драконьей чешуи",
+  "text.autoconfig.dragonloot.option.dragon_armor_protection_boots": "Защита ботинок из драконьей чешуи",
+  "text.autoconfig.dragonloot.option.dragon_armor_durability_multiplier": "Множитель прочности драконьей брони",
+  "text.autoconfig.dragonloot.option.dragon_item_durability": "Прочность драконьих предметов",
+  "text.autoconfig.dragonloot.option.dragon_item_base_damage": "Базовый урон драконьих инструментов",
+  "text.autoconfig.dragonloot.option.dragon_anvil_no_cap": "Драконья наковальня без лимита уровней",
+  "text.autoconfig.dragonloot.option.dragon_armor_toughness": "Твёрдость драконьей брони",
+  "text.autoconfig.dragonloot.option.dragon_armor_knockback_resistance": "Сопротивление к отбрасыванию драконьей брони",
+  "text.autoconfig.dragonloot.option.dragon_armor_enchantability": "Зачаровываемость драконьей брони",
+  "text.autoconfig.dragonloot.option.dragon_item_mining_speed_multiplier": "Множитель скорости добычи драконьих предметов",
+
+  "dragonloot.advancements.dragon_armor.title": "Из чешуи зверя",
+  "dragonloot.advancements.dragon_armor.description": "Соберите полный комплект драконьих доспехов"
+}

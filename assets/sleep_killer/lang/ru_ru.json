@@ -1,0 +1,11 @@
+{
+  "effect.sleep_killer.insomnia.description": "",
+  "effect.sleep_killer.insomnia": "Бессонница",
+  "entity.sleep_killer.sleep_killer": "Морок",
+  "item.sleep_killer.echo": "Эхон",
+  "item.sleep_killer.sleep_killer_spawn_egg": "Яйцо призыва Морока",
+  "subtitles.entity.sleep_killer.ambient": "Морок дышит",
+  "subtitles.entity.sleep_killer.death": "Морок погибает",
+  "subtitles.entity.sleep_killer.hurt": "Морок ранен",
+  "subtitles.entity.sleep_killer.shoot": "Морок стреляет"
+}

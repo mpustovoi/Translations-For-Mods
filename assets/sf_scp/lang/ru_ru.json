@@ -1,0 +1,40 @@
+{
+  "entity.sf_scp.frank_scp": "Варвар",
+  "entity.sf_scp.smile_scp": "Улыбака",
+
+  "item.sf_scp.frank_scp_spawn_egg": "Яйцо призыва Варвара",
+  "item.sf_scp.rage_essence": "Эссенция ярости",
+  "item.sf_scp.smile_mask": "Маска Улыбаки",
+  "item.sf_scp.smile_scp_spawn_egg": "Яйцо призыва Улыбаки",
+
+  "sf_scp.subtitles.smile_scp.ambient": "Улыбака хихикает",
+  "sf_scp.subtitles.smile_scp.bite": "Улыбака атакует",
+  "sf_scp.subtitles.smile_scp.death": "Улыбака погибает",
+  "sf_scp.subtitles.smile_scp.swipe": "Улыбака атакует",
+
+  "sf_scp.subtitles.frank_scp.ambient": "Варвар рычит",
+  "sf_scp.subtitles.frank_scp.bite": "Варвар атакует",
+  "sf_scp.subtitles.frank_scp.death": "Варвар погибает",
+  "sf_scp.subtitles.frank_scp.slam": "Варвар атакует",
+
+  "sf_scp.subtitles.rage_essence.roar": "Что-то ревёт",
+
+  "sf_scp.midnightconfig.title": "Конфигурация «Сможешь ли ты выжить?»",
+
+  "sf_scp.midnightconfig.biomeConfig": "§c§l§n[!]§7§o Если вы хотите изменить биомы, в которых появляются существа, вы должны сделать это с помощью §c§l§nНАБОРА ДАННЫХ.§7§o Их файлы находятся по пути §9§o'sf_scp:tags/worldgen/biome/has_<entity>.json'\n\n§7§oЧтобы §c§l§nИСКЛЮЧИТЬ§7§o появление существ в определённых биомах, добавьте биомы в §9§o'sf_scp:tags/worldgen/biome/blacklist/<entity>_blacklist.json'\n\n§c§oВаша игра должна быть перезапущена и загружены новые чанки, чтобы они вступили в силу.",
+  "sf_scp.midnightconfig.blacklistConfig": "§7§oЧтобы §c§l§nИСКЛЮЧИТЬ§7§o появление существ в определённых биомах, добавьте биомы в §9§o'sf_scp:tags/worldgen/biome/blacklist/<animal>_blacklist.json'",
+
+  "sf_scp.midnightconfig.frankSpawnWeight": "§9Вес появления Варвара",
+  "sf_scp.midnightconfig.frankSpawnWeight.tooltip": "§8§o[?]§7§o Шанс появления Варвара в мире.",
+  "sf_scp.midnightconfig.frankSpawnMinGroupSize": "§7§oМинимальный размер группы Варваров",
+  "sf_scp.midnightconfig.frankSpawnMinGroupSize.tooltip": "§8§o[?]§7§o Минимальное количество Варваров, которые могут появиться в группе.",
+  "sf_scp.midnightconfig.frankSpawnMaxGroupSize": "§7§oМинимальный размер группы Варваров",
+  "sf_scp.midnightconfig.frankSpawnMaxGroupSize.tooltip": "§8§o[?]§7§o Максимальное количество Варваров, которые могут появиться в группе.",
+
+  "sf_scp.midnightconfig.smileSpawnWeight": "§9Вес появления Улыбаки",
+  "sf_scp.midnightconfig.smileSpawnWeight.tooltip": "§8§o[?]§7§oШанс появления Улыбаки в мире.",
+  "sf_scp.midnightconfig.smileSpawnMinGroupSize": "§7§oМинимальный размер группы Улыбак",
+  "sf_scp.midnightconfig.smileSpawnMinGroupSize.tooltip": "§8§o[?]§7§o Минимальное количество Улыбак, которые могут появиться в группе.",
+  "sf_scp.midnightconfig.smileSpawnMaxGroupSize": "§7§oМинимальный размер группы Улыбак",
+  "sf_scp.midnightconfig.smileSpawnMaxGroupSize.tooltip": "§8§o[?]§7§o Максимальное количество Улыбак, которые могут появиться в группе."
+}

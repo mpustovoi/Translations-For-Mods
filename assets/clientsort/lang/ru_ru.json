@@ -1,0 +1,38 @@
+{
+  "screen.clientsort.default": "Клиентская сортировка",
+  "screen.clientsort.options": "Параметры клиентской сортировки",
+
+  "message.clientsort.install_cloth": "Установите Cloth Config API для доступа к параметрам мода.",
+  "message.clientsort.go_modrinth": "Посмотреть на Modrinth",
+
+  "clientsort.key_group": "Клиентская сортировка",
+  "key.clientsort.sort": "Сортировать инвентарь",
+
+  "option.clientsort.general": "Общие",
+  "option.clientsort.interaction_rate_server": "Скорость сетевого взаимодействия",
+  "option.clientsort.interaction_rate_client": "Скорость локального взаимодействия",
+  "option.clientsort.interaction_rate.tooltip": "Уменьшите, чтобы ускорить сортировку, увеличьте, если у вас возникли проблемы со скоростью передачи пакетов",
+  "option.clientsort.hotbar_mode": "Режим горячей панели",
+  "option.clientsort.sorting": "Сортировка",
+  "option.clientsort.sort_mode": "Режим сортировки",
+  "option.clientsort.shift_sort_mode": "Режим сортировки по Shift",
+  "option.clientsort.ctrl_sort_mode": "Режим сортировки по Ctrl",
+  "option.clientsort.alt_sort_mode": "Режим сортировки по Alt",
+  "option.clientsort.optimized_creative_sorting": "Оптимизированная творческая сортировка",
+
+  "hotbar_mode.clientsort.merge": "Слияние",
+  "hotbar_mode.clientsort.merge.tooltip": "Горячая панель будет рассматриваться как часть основного инвентаря",
+  "hotbar_mode.clientsort.split": "Разделение",
+  "hotbar_mode.clientsort.split.tooltip": "Горячая панель будет рассматриваться как другой инвентарь",
+  "hotbar_mode.clientsort.off": "Выключено",
+  "hotbar_mode.clientsort.off.tooltip": "Горячая панель не может быть отсортирована",
+
+  "sort_order.clientsort.none": "Никакая",
+  "sort_order.clientsort.alphabet": "Алфавитная",
+  "sort_order.clientsort.creative": "Творческая",
+  "sort_order.clientsort.quantity": "По количеству",
+  "sort_order.clientsort.raw_id": "Необработанные идентификаторы",
+
+  "option.clientsort.error.low": "Слишком низко",
+  "option.clientsort.error.high": "Слишком высоко"
+}

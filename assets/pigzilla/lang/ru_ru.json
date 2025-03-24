@@ -1,0 +1,19 @@
+{
+  "block.pigzilla.vomit": "Рвота",
+  "entity.pigzilla.biting_pig": "Кусающаяся свинья",
+  "entity.pigzilla.laser_example": "Лазер",
+  "entity.pigzilla.pigzilla": "Свинозилла",
+  "entity.pigzilla.quake_entity": "Землетрясение",
+  "entity.pigzilla.vibration_entity": "Вибрация",
+  "entity.pigzilla.vomit_ray": "Рвотный луч",
+  "fluid.pigzilla.vomit": "Рвота",
+  "item.pigzilla.biting_pig_spawn_egg": "Яйцо призыва кусающейся свиньи",
+  "item.pigzilla.laser_example_spawn_egg": "Яйцо призыва лазера",
+  "item.pigzilla.laser_item": "Лазер",
+  "item.pigzilla.pigzilla_spawn_egg": "Яйцо призыва свинозиллы",
+  "item.pigzilla.vomit_bucket": "Ведро рвоты",
+  "item.pigzilla.vomit_ray_spawn_egg": "Яйцо призыва рвотного луча",
+  "subtitles.pigzilla_stomp": "Свинозилла топает",
+  "subtitles.pigzilla_tusk_wielding": "Свинозилла орудует своими клыками",
+  "subtitles.tusk_wielding": "Свинозилла орудует своими клыками."
+}

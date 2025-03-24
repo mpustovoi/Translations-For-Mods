@@ -1,0 +1,66 @@
+{
+  "credit": "Made with Blockbench",
+  "textures": {
+  	"1": "forgottengraves:block/dead_mossy_gravestone"
+  },
+  "elements": [
+  	{
+  		"name": "stone",
+  		"from": [2, 0, 13],
+  		"to": [14, 16, 16],
+  		"faces": {
+  			"north": {"uv": [0, 0, 12, 16], "rotation": 180, "texture": "#1"},
+  			"east": {"uv": [13, 0, 16, 16], "rotation": 180, "texture": "#1"},
+  			"south": {"uv": [0, 0, 12, 16], "rotation": 180, "texture": "#1"},
+  			"west": {"uv": [13, 0, 16, 16], "rotation": 180, "texture": "#1"},
+  			"up": {"uv": [0, 11, 12, 13], "rotation": 180, "texture": "#1"},
+  			"down": {"uv": [0, 13, 12, 15], "rotation": 180, "texture": "#1"}
+  		}
+  	}
+  ],
+  "display": {
+  	"thirdperson_righthand": {
+  		"translation": [0, 1.75, -1.5],
+  		"scale": [0.4, 0.4, 0.4]
+  	},
+  	"thirdperson_lefthand": {
+  		"translation": [0, 1.75, -1.5],
+  		"scale": [0.4, 0.4, 0.4]
+  	},
+  	"firstperson_righthand": {
+  		"rotation": [-21, -7, 0],
+  		"translation": [11.75, 0, -15.75]
+  	},
+  	"firstperson_lefthand": {
+  		"rotation": [-21, -7, 0],
+  		"translation": [11.75, 0, -15.75]
+  	},
+  	"ground": {
+  		"translation": [0, 0, -4],
+  		"scale": [0.6, 0.6, 0.6]
+  	},
+  	"gui": {
+  		"rotation": [32, 138, 0],
+  		"translation": [-3, -2, 0],
+  		"scale": [0.75, 0.75, 0.75]
+  	},
+  	"fixed": {
+  		"translation": [0, 0, -5.25]
+  	}
+  },
+  "groups": [
+  	{
+  		"name": "Dirt",
+  		"origin": [0, 0, 0],
+  		"color": 0,
+  		"children": []
+  	},
+  	{
+  		"name": "Headstone",
+  		"origin": [0, 0, 0],
+  		"color": 0,
+  		"children": []
+  	},
+  	0
+  ]
+}

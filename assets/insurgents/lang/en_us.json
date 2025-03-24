@@ -1,0 +1,15 @@
+{
+  "block.insurgents.sandbag_block": "Sandbag Block",
+  "block.insurgents.sandbag_slab": "Sandbag Slab",
+  "entity.insurgents.insurgent": "Insurgent",
+  "entity.insurgents.security": "Security",
+  "entity.insurgents.suicide_insurgent": "Insurgent",
+  "item.insurgents.insurgent_spawn_egg": "Insurgent Spawn Egg",
+  "item.insurgents.radio": "Radio",
+  "item.insurgents.rifle_round": "Rifle Round",
+  "item.insurgents.security_spawn_egg": "Security Spawn Egg",
+  "item.insurgents.suicide_insurgent_spawn_egg": "Suicide Insurgent Spawn Egg",
+  "subtitles.ak_fire": "Gunfire",
+  "subtitles.bullet_hit_object": "",
+  "subtitles.explosion": ""
+}

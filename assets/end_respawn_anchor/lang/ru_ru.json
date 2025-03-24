@@ -1,0 +1,6 @@
+{
+  "block.end_respawn_anchor.end_respawn_anchor": "Эндер-якорь возрождения",
+  "text.autoconfig.end_respawn_anchor.option.isExplode": "Взрывается при использовании в других измерениях",
+  "text.autoconfig.end_respawn_anchor.option.shouldOverrideSpawnData": "Перезаписывать данные о возрождении",
+  "text.autoconfig.end_respawn_anchor.title": "Настройки Эндер-якоря возрождения"
+}

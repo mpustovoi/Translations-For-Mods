@@ -1,0 +1,13 @@
+{
+  "effect.xaeroworldmap.no_cave_maps_harmful.description": "Disables the world map in cave mode.",
+  "effect.xaeroworldmap.no_cave_maps_harmful" : "§cNo World Cave Maps§r",
+  "effect.xaeroworldmap.no_cave_maps.description": "Disables the world map in cave mode.",
+  "effect.xaeroworldmap.no_cave_maps" : "No World Cave Maps",
+  "effect.xaeroworldmap.no_world_map_beneficial.description": "Disables the world map.",
+  "effect.xaeroworldmap.no_world_map_beneficial" : "§aNo World Map§r",
+  "effect.xaeroworldmap.no_world_map_harmful.description": "Disables the world map.",
+  "effect.xaeroworldmap.no_world_map_harmful" : "§cNo World Map§r",
+  "effect.xaeroworldmap.no_world_map.description": "Disables the world map.",
+  "effect.xaeroworldmap.no_world_map" : "No World Map",
+  "gui.xaero_world_map_settings" : "World Map Settings"
+}

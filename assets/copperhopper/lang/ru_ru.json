@@ -1,0 +1,7 @@
+{
+  "advancements.copperhopper.get_copper_hopper.descr": "Создайте медную воронку",
+  "advancements.copperhopper.get_copper_hopper.title": "Всех рассортирую",
+  "block.copperhopper.copper_hopper" : "Медная воронка",
+  "entity.copperhopper.copper_hopper_minecart" : "Вагонетка с медной воронкой",
+  "item.copperhopper.copper_hopper_minecart" : "Вагонетка с медной воронкой"
+}

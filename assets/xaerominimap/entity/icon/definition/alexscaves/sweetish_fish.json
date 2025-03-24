@@ -1,0 +1,9 @@
+{
+  "variants": {
+  "alexscaves:textures/entity/sweetish_fish_blue.png": "outlined_sprite:alexscaves/sweetish_fish/blue.png",
+  "alexscaves:textures/entity/sweetish_fish_green.png": "outlined_sprite:alexscaves/sweetish_fish/green.png",
+  "alexscaves:textures/entity/sweetish_fish_pink.png": "outlined_sprite:alexscaves/sweetish_fish/pink.png",
+  "alexscaves:textures/entity/sweetish_fish_red.png": "outlined_sprite:alexscaves/sweetish_fish/red.png",
+  "alexscaves:textures/entity/sweetish_fish_yellow.png": "outlined_sprite:alexscaves/sweetish_fish/yellow.png"
+  }
+}

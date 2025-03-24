@@ -1,0 +1,54 @@
+{
+  "entity.rootoffear.wilted": "Rhizome",
+  "item.rootoffear.wilted_spawn_egg": "Rhizome Spawn Egg",
+  "entity.rootoffear.decoy_wilted": "Rhizome",
+  "entity.rootoffear.shadow_wilted": "Rhizome",
+  "entity.rootoffear.light_extinguisher": "Rootstock",
+  "entity.rootoffear.wilted_hands": "Rhizome Hands",
+  "entity.rootoffear.wilted_barrier": "Rhizome Barrier",
+
+  "commands.rootoffear.setspawnday.success": "Set the Rhizome's next spawn day to day %s",
+  "commands.rootoffear.setspawndayrelative.success": "Set the Rhizome to spawn in %s days",
+  "commands.rootoffear.getspawnday.success": "The Rhizome will spawn next on day %s",
+  "commands.rootoffear.getspawndayrelative.success": "The Rhizome will spawn next in %s days",
+
+  "commands.rootoffear.getassignedwilted.success": "%s's assigned Rhizome is %s",
+  "commands.rootoffear.setassignedwilted.success": "Assigned %s to %s",
+  "commands.rootoffear.clearassignedwilted.success": "Cleared %s's assigned Rhizome",
+
+  "commands.rootoffear.getultimatetarget.success": "%s's ultimate target is %s",
+  "commands.rootoffear.setultimatetarget.success": "Set %s's ultimate target to %s",
+  "commands.rootoffear.setultimatetarget.success_multiple": "Set ultimate target of %s Rhizome to %s",
+  "commands.rootoffear.clearultimatetarget.success": "Cleared %s's ultimate target",
+  "commands.rootoffear.clearultimatetarget.success_multiple": "Cleared the ultimate target of %s Rhizome",
+
+  "commands.rootoffear.fail": "This dimension can't have an assigned Rhizome",
+  "commands.rootoffear.fail_no_target": "The dimension needs an assigned Rhizome for this command to be performed",
+  "commands.rootoffear.fail_not_wilted": "No Rhizome selected",
+  "commands.rootoffear.fail_no_assigned_wilted": "%s doesn't have an assigned Rhizome",
+  "commands.rootoffear.fail_no_ultimate_target": "None of the selected Rhizome have an ultimate target",
+
+  "commands.rootoffear.setdisguisedtrue.success": "Added disguise to %s",
+  "commands.rootoffear.setdisguisedtrue.success_multiple": "Added disguise to %s Rhizome",
+  "commands.rootoffear.setdisguisedfalse.success": "Removed disguise from %s",
+  "commands.rootoffear.setdisguisedfalse.success_multiple": "Removed disguise from %s Rhizome",
+
+  "block.minecraft.bed.wilted": "You may not rest now; something is hunting you",
+
+  "subtitles.entity.wilted.idle": "Rhizome stalks",
+  "subtitles.entity.wilted.hurt": "Rhizome burns",
+  "subtitles.entity.wilted.step": "Rhizome steps",
+  "subtitles.entity.wilted.attack": "Rhizome attacks",
+  "subtitles.entity.wilted.leaf_storm": "Leaves swirl",
+  "subtitles.entity.wilted.sway": "Rhizome is shielded",
+  "subtitles.entity.wilted.extinguish": "Rhizome envelops light",
+  "subtitles.entity.wilted.leap": "Rhizome leaps",
+  "subtitles.entity.wilted.land": "Rhizome lands",
+  "subtitles.entity.wilted.dig_out": "Rhizome emerges",
+  "subtitles.entity.wilted.dig_in": "Rhizome digs",
+  "subtitles.entity.wilted.ground_grab": "Rhizome pulls",
+  "subtitles.entity.wilted.curse_item": "Rhizome curses",
+  "subtitles.entity.wilted.death": "Rhizome dies",
+  "subtitles.entity.wilted.pulse": "Rhizome pulses",
+  "subtitles.entity.wilted.reveal": "Rhizome unfolds"
+}

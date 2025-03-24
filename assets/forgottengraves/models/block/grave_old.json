@@ -1,0 +1,52 @@
+{
+  "credit": "Made with Blockbench",
+  "textures": {
+  	"0": "forgottengraves:block/rooted_dirt",
+  	"1": "forgottengraves:block/dead_mossy_gravestone",
+  	"particle": "forgottengraves:block/rooted_dirt"
+  },
+  "elements": [
+  	{
+  		"name": "coarse_dirt",
+  		"from": [1, 0, 2],
+  		"to": [15, 1, 15],
+  		"faces": {
+  			"north": {"uv": [1, 1, 15, 2], "texture": "#0"},
+  			"east": {"uv": [1, 1, 12, 2], "texture": "#0"},
+  			"south": {"uv": [1, 1, 15, 2], "texture": "#0"},
+  			"west": {"uv": [1, 1, 12, 2], "texture": "#0"},
+  			"up": {"uv": [1, 1, 15, 12], "texture": "#0"},
+  			"down": {"uv": [1, 1, 15, 12], "texture": "#0"}
+  		}
+  	},
+  	{
+  		"name": "stone",
+  		"from": [2, 0, 13],
+  		"to": [14, 16, 16],
+  		"faces": {
+  			"north": {"uv": [0, 0, 12, 16], "rotation": 180, "texture": "#1"},
+  			"east": {"uv": [13, 0, 16, 16], "rotation": 180, "texture": "#1"},
+  			"south": {"uv": [0, 0, 12, 16], "rotation": 180, "texture": "#1"},
+  			"west": {"uv": [13, 0, 16, 16], "rotation": 180, "texture": "#1"},
+  			"up": {"uv": [0, 11, 12, 13], "rotation": 180, "texture": "#1"},
+  			"down": {"uv": [0, 13, 12, 15], "rotation": 180, "texture": "#1"}
+  		}
+  	}
+  ],
+  "groups": [
+  	{
+  		"name": "Dirt",
+  		"origin": [0, 0, 0],
+  		"color": 0,
+  		"children": []
+  	},
+  	{
+  		"name": "Headstone",
+  		"origin": [0, 0, 0],
+  		"color": 0,
+  		"children": []
+  	},
+  	0,
+  	1
+  ]
+}

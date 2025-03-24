@@ -1,0 +1,21 @@
+{
+  "block.editenchanting.enchantment_edit_table": "Стол редактирования зачарований",
+  "tile.container.disenchant": "Редактор",
+  "desc.editenchanting.export": "Стоимость экспорта:",
+  "desc.editenchanting.edit": "Стоимость редактирования:",
+  "desc.editenchanting.cost": "Стоимость снятия:",
+  "desc.editenchanting.experience": "%s опыта",
+  "desc.editenchanting.item": "%s %s",
+  "desc.editenchanting.enchant_slot": "Слот снятия:",
+  "desc.editenchanting.book_slot": "Аттрибуты:",
+  "desc.editenchanting.tip": "Tip: ",
+  "desc.editenchanting.require": "Требуется %s",
+  "desc.editenchanting.exp": "опыта",
+  "desc.editenchanting.shift": "[SHIFT]",
+  "desc.editenchanting.empty": "     ",
+  "config.editenchanting.max_text_width": "110",
+  "config.editenchanting.position": "125",
+  "subtitles.block.disenchantment_table.use": "Использован стол редактирования зачарований",
+  "subtitles.block.disenchantment_table.page_turn": "Шорох стола редактирования зачарований",
+  "modmenu.descriptionTranslation.editenchanting": "Многофункциональный стол редактирования зачарований."
+}

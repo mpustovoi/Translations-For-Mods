@@ -1,0 +1,15 @@
+{
+  "blocky-bubbles.options.culling_awareness.enum.bubble_column": "Без изменений (Java Edition)",
+  "blocky-bubbles.options.culling_awareness.enum.non_air": "На воздухе (non-air)",
+  "blocky-bubbles.options.culling_awareness.enum.none": "Везде (no culling)",
+  "blocky-bubbles.options.culling_awareness.name": "Режим отбраковки",
+  "blocky-bubbles.options.culling_awareness.tooltip": "Какие блоки должны вызывать отбраковку соседних граней колонны пузырей.",
+  "blocky-bubbles.options.enable_animations.name": "Включить анимацию",
+  "blocky-bubbles.options.enable_animations.tooltip": "Следует ли анимировать текстуры колонны пузырей (требует перезагрузки ресурсов).",
+  "blocky-bubbles.options.quality.name": "Колонны Пузырей",
+  "blocky-bubbles.options.quality.tooltip": "Влияет на качество колонн пузырей.",
+  "modmenu.descriptionTranslation.blocky-bubbles": "Позволяет отображать колонны пузырей в виде блока, что внешне напоминает «Быстрые пузыри» из Bedrock Edition.",
+  "modmenu.summaryTranslation.blocky-bubbles": "Порт «Быстрых пузырей» из Bedrock Edition.",
+  "resourcePack.blocky-bubbles:32x_upscale.description": "Основано на §8https://faithfulpack.net",
+  "resourcePack.blocky-bubbles:32x_upscale.name": "Блочные Пузыри 32×32"
+}

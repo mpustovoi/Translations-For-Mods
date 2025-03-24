@@ -1,0 +1,9 @@
+{
+  "variants" : {
+  	"naturalist:textures/entity/lizard/green_tail.png" : "sprite:lizard/lizard_tail.png",
+  	"naturalist:textures/entity/lizard/brown_tail.png" : "sprite:lizard/lizard_tail.png",
+  	"naturalist:textures/entity/lizard/beardie_tail.png" : "sprite:lizard/lizard_tail.png",
+  	"naturalist:textures/entity/lizard/leopard_gecko_tail.png" : "sprite:lizard/lizard_tail.png",
+  	"naturalist:textures/entity/lizard/pink_tail.png" : "sprite:lizard/lizard_tail.png"
+  }
+}

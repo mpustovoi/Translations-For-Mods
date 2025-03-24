@@ -1,0 +1,23 @@
+{
+  "death.attack.dehydrate": "%1$s умер от обезвоживания",
+  "death.attack.dehydrate.player": "%1$s умер от обезвоживания, пока сражался с %2$s",
+  "item.thirst.wooden_water_bowl": "Деревянная миска с водой",
+  "item.thirst.terracotta_water_bowl": "Терракотовая миска с водой",
+  "item.thirst.terracotta_bowl": "Терракотовая миска",
+  "item.thirst.clay_bowl": "Глиняная миска",
+  "itemGroup.thirst": "Жажда Была Утолена",
+  "thirst.purity.dirty": "Грязная",
+  "thirst.purity.slightly_dirty": "Грязноватая",
+  "thirst.purity.acceptable": "Приемлемая",
+  "thirst.purity.purified": "Чистая",
+  "block.thirst.sand_filter": "Песочный фильтр",
+  
+  "thirst.ponder.sand_filter.header": "Очищайте воду с помощью песочного фильтра",
+  "thirst.ponder.sand_filter.text_1": "Песочный фильтр за один этап очищает прокачиваемую через него воду",
+  "thirst.ponder.sand_filter.text_2": "Грязную воду нужно закачивать сверху...",
+  "thirst.ponder.sand_filter.text_3": "и очищенную воду, соответственно, снизу.",
+  "command.thirst.query": "Текущая жажда: %1$s, текущее утоление: %2$s",
+  "command.thirst.set": "установлена жажда %1$s, установлено утоление %2$s",
+  "command.thirst.enable": "Включить такт жажды для %1$s",
+  "command.thirst.disable": "Отключить такт жажды для %1$s"
+}

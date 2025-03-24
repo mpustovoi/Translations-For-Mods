@@ -1,0 +1,11 @@
+{
+  "entity.riskofrain_mobs.gunner_drone_entity": "Беспилотник-наводчик",
+  "entity.riskofrain_mobs.lemurian_entity":	 "Лемуриец",
+  "entity.riskofrain_mobs.stone_golem_entity":  "Stone Golem",
+
+  "item.riskofrain_mobs.gunner_drone_spawn_egg": "Яйцо призыва беспилотника-наводчика",
+  "item.riskofrain_mobs.lemurian_spawn_egg": "Яйцо призыва лемурийца",
+  "item.riskofrain_mobs.stone_golem_spawn_egg": "Яйцо призыва каменного голема",
+
+  "message.riskofrain_mobs.not_gold": "ТОЛЬКО НЕ ЗОЛОТО!"
+}

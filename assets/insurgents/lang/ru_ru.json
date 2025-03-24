@@ -1,0 +1,15 @@
+{
+  "block.insurgents.sandbag_block": "Блок мешков с песком",
+  "block.insurgents.sandbag_slab": "Плита мешков с песком",
+  "entity.insurgents.insurgent": "Повстанец",
+  "entity.insurgents.security": "Охранник",
+  "entity.insurgents.suicide_insurgent": "Повстанец",
+  "item.insurgents.insurgent_spawn_egg": "Яйцо призыва повстанца",
+  "item.insurgents.radio": "Радио",
+  "item.insurgents.rifle_round": "Винтовочный патрон",
+  "item.insurgents.security_spawn_egg": "Яйцо призыва охранника",
+  "item.insurgents.suicide_insurgent_spawn_egg": "Яйцо призыва повстанца-смертника",
+  "subtitles.ak_fire": "Стрельба",
+  "subtitles.bullet_hit_object": "",
+  "subtitles.explosion": ""
+}

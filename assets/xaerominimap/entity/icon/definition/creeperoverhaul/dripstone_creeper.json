@@ -1,0 +1,6 @@
+{
+  "variants": {
+  "default": "outlined_sprite:creeperoverhaul/dripstone/dripstone_creeper.png",
+  "layersAllowed": true
+}
+}

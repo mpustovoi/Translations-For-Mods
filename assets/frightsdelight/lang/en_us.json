@@ -1,0 +1,9 @@
+{
+  "effect.frightsdelight.chills.description": "You feel a spectral presence nearby, you may feel a chill if they pass through you.",
+  "effect.frightsdelight.cobwebbed.description": "Reduces movement speed.",
+  "effect.frightsdelight.fortified_mind.description": "Provides immunity to Hysteria and Chills effects.",
+  "effect.frightsdelight.hysteria.description": "Voices all around ...",
+  "effect.frightsdelight.infected.description": "Similar to Hunger effect, but worse.",
+  "effect.frightsdelight.slimed.description": "Reduces movement speed and makes steps slimy.",
+  "effect.frightsdelight.undead_hunger.description": "Provides immunity to food Poison and Infected."
+}

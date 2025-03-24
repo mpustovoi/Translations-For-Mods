@@ -1,0 +1,19 @@
+{
+  "entity.screaming_villager.screaming_sheep": "Sheep",
+  "entity.screaming_villager.screaming_villager": "Villager",
+  "item.screaming_villager.screaming_sheep_spawn_egg": "Sheep Mimic Spawn Egg",
+  "item.screaming_villager.screaming_villager_spawn_egg": "Villager Mimic Spawn Egg",
+  "subtitles.death": "Villager dies",
+  "subtitles.hurt": "Villager hurts",
+  "subtitles.scream": "Villager disagrees",
+  "subtitles.sheepdeath": "Sheep dies",
+  "subtitles.sheephurt": "Sheep Hurt",
+  "subtitles.sheepnewscream": "Sheep baahs",
+  "subtitles.sheepscream": "Sheep baahs",
+  "subtitles.sheepstep": "Sheep steps",
+  "subtitles.step": "Footsteps",
+  "subtitles.transformation": "Sheep baahs",
+  "subtitles.villagerambient": "Villager mumbles",
+  "subtitles.villagerhurt": "Villager hurts",
+  "subtitles.villagertransformation": "Villager disagrees"
+}

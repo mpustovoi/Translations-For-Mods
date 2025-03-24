@@ -1,0 +1,22 @@
+{
+  "advancements.alexscaves.root.title": "Пещеры Alex'а",
+  "alexscaves:cave_creature": "Существ пещер Alex'а",
+  "alexscaves:deep_sea_creature": "Глубоководных существ пещер Alex'а",
+  "alexscaves.startup_warning.generation_incompatible": "Генерация пещер Alex'а несовместима с модом (ID:%s). Пещерные биомы могут вообще не появляться. Это предупреждение можно отключить в конфиге пещер Alex'а.",
+  "cape.alexscaves_contributor": "Спонсор пещеры Alex'а",
+  "cape.alexscaves_developer": "Разработчик пещеры Alex'а",
+  "effect.alexscaves.bubbled.description": "Приводит к тому, что цель оказывается заключённой в гигантский пузырь. Приводит к утоплению.",
+  "effect.alexscaves.darkness_incarnate.description": "Дает возможность быстрого полёта в темных областях.",
+  "effect.alexscaves.deepsight.description": "Даёт возможность видеть дальше под водой.",
+  "effect.alexscaves.irradiated.description": "Отключает естественное исцеление. Наносит урон на более высоких уровнях.",
+  "effect.alexscaves.magnetizing.description": "Даёт возможность отталкиваться или притягиваться магнитными силами без ношения металлической брони.",
+  "effect.alexscaves.rage.description": "Увеличивает урон от атаки в зависимости от того, насколько мало осталось здоровья. Существа, обладающие этим эффектом, будут атаковать находящихся поблизости существ.",
+  "effect.alexscaves.stunned.description": "Отключает перемещение и атаку. Экран начинает раскачиваться из стороны в сторону.",
+  "effect.alexscaves.sugar_rush.description": "Замедляет время, одновременно увеличивая скорость и инерцию движения цели. Создает яркий визуальный эффект в поле зрения цели.",
+  "item.alexscaves.advancement_tab_icon": "Иконка пещер Alex'а",
+  "item.alexscaves.alex_meal": "Завтрак Alex'а",
+  "itemGroup.alexscaves": "Пещеры Alex'а",
+  "key.special_ability": "Особая способность пещер Alex'а",
+  "text.betterf3.line.cave_creature": "Пещерных существ",
+  "text.betterf3.line.deep_sea_creature": "Глубоководных существ"
+}

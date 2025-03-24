@@ -1,0 +1,7 @@
+{
+  "effect.betterend.end_veil.description": "Allows the user to look at Enderman without angering them.",
+  "item.minecraft.lingering_potion.effect.betterend_long_end_veil": "Lingering Potion Of End Veil",
+  "item.minecraft.potion.effect.betterend_long_end_veil": "Potion Of End Veil",
+  "item.minecraft.splash_potion.effect.betterend_long_end_veil": "Splash Potion Of End Veil",
+  "item.minecraft.tipped_arrow.effect.betterend_long_end_veil": "Arrow Of End Veil"
+}

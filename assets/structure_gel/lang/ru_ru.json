@@ -1,0 +1,20 @@
+{
+  "block.structure_gel.blue_gel": "Синий гель",
+  "block.structure_gel.cyan_gel": "Бирюзовый гель",
+  "block.structure_gel.data_handler": "Обработчик данных",
+  "block.structure_gel.dynamic_spawner": "Динамический рассадник",
+  "block.structure_gel.green_gel": "Зелёный гель",
+  "block.structure_gel.orange_gel": "Оранжевый гель",
+  "block.structure_gel.red_gel": "Красный гель",
+  "block.structure_gel.yellow_gel": "Жёлтый гель",
+  "commands.structure_gel.clone.override": "Переопределение ванильного ограничения на количество клонирования %s блоков путём клонирования %s блоков. Это может занять некоторое время",
+  "commands.structure_gel.fill.override": "Переопределение ванильного ограничения на количество заполнения %s блоков путём заполнения %s блоков. Это может занять некоторое время",
+  "info.structure_gel.building_tool.redo.description": "• Повторяет ранее отменённое действие, выполненное с %s.\n• Ярлык: %s",
+  "info.structure_gel.building_tool.redo": "Переделать",
+  "info.structure_gel.building_tool.undo.description": "• Отменяет предыдущее действие, выполненное с помощью %s.\n• Ярлык: %s",
+  "info.structure_gel.building_tool.undo": "Отменить",
+  "item.structure_gel.building_tool": "Строительный инструмент",
+  "itemGroup.structure_gel.structure_items.no_access": "Вам нужен доступ к командам, чтобы получить доступ к элементам на этой вкладке.",
+  "itemGroup.structure_gel.structure_items": "Структурные Предметы",
+  "key.structure_gel.open_building_tool_gui": "Открыть интерфейс строительного инструмента"
+}

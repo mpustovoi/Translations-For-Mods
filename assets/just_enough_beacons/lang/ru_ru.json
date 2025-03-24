@@ -1,0 +1,8 @@
+{
+  "category.beacon_base_blocks": "Блоки основания маяка",
+  "category.beacon_payments": "Оплата маяка",
+  "category.conduit_frame_blocks": "Блоки рамки морского источника",
+
+  "jei.just_enough_beacons.payment_item.tooltip": "Увеличивает дальность действия маяка на %s блоков при использовании для активации",
+  "jei.just_enough_beacons.base_blocks.tooltip": "Увеличивает уровень первичных эффектов до %s при использовании для постройки маяка"
+}

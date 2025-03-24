@@ -1,0 +1,28 @@
+{
+  "item.betterdeepdark.deep_dark_sword": "§3Меч тёмных глубин",
+  "item.betterdeepdark.deep_dark_pickaxe": "§3Кирка тёмных глубин",
+  "item.betterdeepdark.deep_dark_axe": "§3Топор тёмных глубин",
+  "item.betterdeepdark.deep_dark_shovel": "§3Лопата тёмных глубин",
+  "item.betterdeepdark.deep_dark_hoe": "§3Мотыга тёмных глубин",
+
+  "item.betterdeepdark.echo_helmet": "§3Эхо-шлем",
+  "item.betterdeepdark.echo_chestplate": "§3Эхо-нагрудник",
+  "item.betterdeepdark.echo_leggings": "§3Эхо-поножи",
+  "item.betterdeepdark.echo_boots": "§3Эхо-ботинки",
+
+  "item.betterdeepdark.soul_piece": "Частичка души",
+  "item.betterdeepdark.echo_stone": "Эхо-камень",
+  "item.betterdeepdark.wardens_horn": "Рог хранителя",
+  "item.betterdeepdark.slimed_wardens_horn": "Слизистый рог хранителя",
+  "item.betterdeepdark.dark_ingot": "Тёмный слиток",
+  "item.betterdeepdark.echo_upgrade_smithing_template": "Кузнечный шаблон эхо-улучшения",
+  "block.betterdeepdark.echo_stone_block": "Блок эхо-камня",
+
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance": "§9Незеритовому снаряжению",
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance.tooltip": "§9Тёмный слиток",
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance.result_slot": "§7Эхо-улучшение",
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance.addition_slot": "Поместите незеритовый доспех, инструмент или оружие",
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance.base_slot": "Поместите тёмный слиток",
+
+  "creativetab.betterdeepdark": "Улучшенные Тёмные Глубины"
+}

@@ -1,0 +1,10 @@
+{
+  "item.dracomelette.dracomelette": "Дракономлет",
+  "advancements.dracomelette.end.dracomelette.title": "Переваренный",
+  "advancements.dracomelette.end.dracomelette.description": "Положите яйцо дракона на блок магмы и подождите",
+  "subtitles.dracomelette.block.dragon_egg.cook": "Яйцо дракона варится",
+  "dracomelette.midnightconfig.title": "Дракономлет",
+  "dracomelette.midnightconfig.spawnMultipleEggs": "Генерировать новые яйца дракона",
+  "dracomelette.midnightconfig.breakChance": "Шанс разрушения",
+  "dracomelette.midnightconfig.teleportChance": "Шанс перемещения"
+}

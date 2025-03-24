@@ -1,0 +1,6 @@
+{
+  "variants": {
+  "default": "outlined_sprite:creeperoverhaul/savannah/savannah_creeper.png",
+  "layersAllowed": true
+}
+}

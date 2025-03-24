@@ -1,0 +1,11 @@
+{
+  "item.mutantszombies.crawler_spawn_egg": "Яйцо призыва ползуна",
+  "item.mutantszombies.spitter_spawn_egg": "Яйцо призыва плевателя",
+  "item.mutantszombies.zombie_brute_spawn_egg": "Яйцо призыва зверозомби",
+  "item.mutantszombies.blister_zombie_spawn_egg": "Яйцо призыва зомби-волдыря",
+  "entity.mutantszombies.zombie_brute": "Зверозомби",
+  "entity.mutantszombies.blister_zombie": "Зомби-волдырь",
+  "entity.mutantszombies.crawler": "Ползун",
+  "entity.mutantszombies.spitter": "Плеватель",
+  "entity.mutantszombies.spitter_projectile": "Желчь плевателя"
+}

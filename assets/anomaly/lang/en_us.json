@@ -1,0 +1,18 @@
+{
+  "entity.anomaly.anomaly_base": "§4§kAnomaly§r",
+  "entity.anomaly.anomaly_chase": "§4§kAnomaly§r",
+  "entity.anomaly.anomaly_diamond": "§4§kAnomaly§r",
+  "entity.anomaly.anomaly_ghost": "§4§kAnomaly§r",
+  "entity.anomaly.sound_entity": "§4§kAnomaly§r",
+  "item.anomaly.anomaly_base_spawn_egg": "§4§kAnomaly§r Spawn Egg",
+  "item.anomaly.anomaly_chase_spawn_egg": "§4§kAnomaly§r Spawn Egg (Chase)",
+  "item.anomaly.anomaly_diamond_spawn_egg": "§4§kAnomaly§r Spawn Egg (Diamond)",
+  "item.anomaly.anomaly_finder.description_0": "This Debug tool sends a message if it'll find an Anomaly in a 100 square radius",
+  "item.anomaly.anomaly_finder.description_1": "Has to be held in Hand",
+  "item.anomaly.anomaly_finder": "Anomaly Finder",
+  "item.anomaly.anomaly_ghost_spawn_egg": "§4§kAnomaly§r Spawn Egg (Ghost)",
+  "subtitles.anomalyambient": "",
+  "subtitles.heartbeat": "",
+  "subtitles.horrorambient": "",
+  "subtitles.suspence": ""
+}

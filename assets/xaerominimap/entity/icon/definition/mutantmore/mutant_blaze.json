@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "mutantmore:textures/entity/mobs/mutant_blaze/mutant_blaze.png": "outlined_sprite:mutantmore/mutant_blaze/mutant_blaze.png",
+    "mutantmore:textures/entity/mobs/mutant_blaze/mutant_blaze_armoured.png": "outlined_sprite:mutantmore/mutant_blaze/mutant_blaze_armoured.png",
+    "layersAllowed": true
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "variants": {
+  "default": "outlined_sprite:creeperoverhaul/jungle/jungle_creeper.png",
+  "layersAllowed": true
+}
+}

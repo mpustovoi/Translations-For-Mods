@@ -1,0 +1,21 @@
+{
+  "block.spikyspikes.diamond_spike.description": "С убитых существ выпадает вcя добыча, как и при убийстве игроком.\nМожно наложить зачарования для меча на наковальне.",
+  "block.spikyspikes.diamond_spike": "Алмазный шип",
+  "block.spikyspikes.golden_spike.description": "С убитых существ выпадает только опыт без какой-либо добычи.",
+  "block.spikyspikes.golden_spike": "Золотой шип",
+  "block.spikyspikes.iron_spike.description": "С убитых существ выпадает только обычная добыча без опыта.",
+  "block.spikyspikes.iron_spike": "Железный шип",
+  "block.spikyspikes.netherite_spike.description": "С убитых существ выпадает вcя добыча, как и при убийстве игроком.\nМожно наложить зачарования для меча на наковальне.\nУстойчив к взрывам и Иссушителю.\nНе наносит урон игрокам.",
+  "block.spikyspikes.netherite_spike": "Незеритовый шип",
+  "block.spikyspikes.stone_spike.description": "С убитых существ ничего не выпадает",
+  "block.spikyspikes.stone_spike": "Каменный шип",
+  "block.spikyspikes.wooden_spike.description": "Медленно наносит урон существам, но не добивает.",
+  "block.spikyspikes.wooden_spike": "Деревянный шип",
+  "death.attack.spike.player": "%1$s наткнулся на шипы, убегая от %2$s",
+  "death.attack.spike": "%1$s был заколот до смерти",
+  "item.spikyspikes.spike.tooltip.damage": "Урон: %s",
+  "item.spikyspikes.spike.tooltip.hearts": "%s здоровье(я)",
+  "item.spikyspikes.spike.tooltip.more": "Удерживайте [%s] для сводки",
+  "item.spikyspikes.spike.tooltip.shift": "Shift",
+  "itemGroup.spikyspikes.main": "Острые Шипы"
+}

@@ -1,0 +1,22 @@
+{
+  "advancements.goated.geep.description": "Скрестите овцу и козу",
+  "advancements.goated.geep.title": "О, козлик мой!",
+  "block.goated.ram_block": "Блок тарана",
+  "block.goated.thatch_slab": "Соломенная плита",
+  "block.goated.thatch_stairs": "Соломенные ступеньки",
+  "block.goated.thatch": "Солома",
+  "entity.goated.geep": "Овцекоза",
+  "item.goated.barbarian_helmet": "Шлем варвара",
+  "item.goated.barbaric_helmet": "Варварский шлем",
+  "item.goated.chevon": "Сырая козлятина",
+  "item.goated.cooked_chevon": "Жареная козлятина",
+  "item.goated.geep_spawn_egg": "Яйцо призыва овцекозы",
+  "subtitle.goated.geep.ambient": "Овцекоза блеет",
+  "subtitle.goated.geep.death": "Овцекоза погибает",
+  "subtitle.goated.geep.eat": "Овцекоза ест",
+  "subtitle.goated.geep.hurt": "Овцекоза ранена",
+  "subtitle.goated.geep.infestation": "Овцекоза заражается",
+  "subtitle.goated.geep.long_jump": "Прыжок овцекозы",
+  "subtitle.goated.geep.milk": "Овцекоза подоена",
+  "tooltip.goated.barbaric_helmet": "Урон делает вас сильнее"
+}

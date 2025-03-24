@@ -1,0 +1,21 @@
+{
+  "block.mynethersdelight.blackstone_bricks_cabinet": "Polished Blackstone Brick Cabinet",
+
+  "effect.mynethersdelight.b_pungent.description": "Increases heat sensitivity and prevents burns when leaving the heat zone",
+  "effect.mynethersdelight.g_pungent.description": "Regenerate with heat",
+
+  "emi.category.mynethersdelight.forgoting": "Forgoting",
+  "tag.item.mynethersdelight.block_of_powdery": "Powdery Cane Blocks",
+  "tag.item.mynethersdelight.boiled_egg_candidate": "Boiled Egg Candidates",
+  "tag.item.mynethersdelight.hoglin_cure": "Hoglin Cures",
+  "tag.item.mynethersdelight.hoglin_waxed": "Hoglin Waxers",
+  "tag.item.mynethersdelight.hot_spice": "Hot Spices",
+  "tag.item.mynethersdelight.stove_fire_fuel": "Stove Fire Fuels",
+  "tag.item.mynethersdelight.stove_soul_fuel": "Stove Soul Fuels",
+  "tag.item.mynethersdelight.stuffed_hoglin_items": "Stuffed Hoglin Items",
+
+  "tag.item.mynethersdelight.chili_meats": "Chili Meats",
+  "tag.item.mynethersdelight.curry_meats": "Curry Meats",
+  "tag.item.mynethersdelight.ghast_meats": "Ghast Meats",
+  "tag.item.mynethersdelight.strider_meats": "Strider Meats"
+}

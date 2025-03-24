@@ -1,0 +1,9 @@
+{
+  "text.config.fog-looks-good-now.option.defaultRainFogStart": "Начало дождевого тумана по умолчанию",
+  "text.config.fog-looks-good-now.option.defaultFogStart": "Начало тумана по умолчанию",
+  "text.config.fog-looks-good-now.option.defaultFogDensity": "Плотность тумана по умолчанию",
+  "text.config.fog-looks-good-now.option.useCaveFog": "Включить пещерный туман",
+  "text.config.fog-looks-good-now.option.caveFogDensity": "Плотность пещерного тумана",
+  "text.config.fog-looks-good-now.option.caveFogColor": "Цвет пещерного тумана",
+  "text.config.fog-looks-good-now.title": "Теперь туман выглядит неплохо"
+}

@@ -1,0 +1,11 @@
+{
+  "effect.sleep_killer.insomnia.description": "",
+  "effect.sleep_killer.insomnia": "Insomnia",
+  "entity.sleep_killer.sleep_killer": "Morok",
+  "item.sleep_killer.echo": "Echon",
+  "item.sleep_killer.sleep_killer_spawn_egg": "Morok Spawn Egg",
+  "subtitles.entity.sleep_killer.ambient": "Morok Ambient",
+  "subtitles.entity.sleep_killer.death": "Morok Death",
+  "subtitles.entity.sleep_killer.hurt": "Morok Hurt",
+  "subtitles.entity.sleep_killer.shoot": "Morok Shoot"
+}

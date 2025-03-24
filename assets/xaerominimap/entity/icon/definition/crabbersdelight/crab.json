@@ -1,0 +1,22 @@
+{
+  "variants": {
+  "crabbersdelight:textures/entity/black_crab.png": "outlined_sprite:crabbersdelight/black_crab.png",
+  "crabbersdelight:textures/entity/blue_crab.png": "outlined_sprite:crabbersdelight/blue_crab.png",
+  "crabbersdelight:textures/entity/brown_crab.png": "outlined_sprite:crabbersdelight/brown_crab.png",
+  "crabbersdelight:textures/entity/cyan_crab.png": "outlined_sprite:crabbersdelight/cyan_crab.png",
+  "crabbersdelight:textures/entity/gray_crab.png": "outlined_sprite:crabbersdelight/gray_crab.png",
+  "crabbersdelight:textures/entity/green_crab.png": "outlined_sprite:crabbersdelight/green_crab.png",
+  "crabbersdelight:textures/entity/light_blue_crab.png": "outlined_sprite:crabbersdelight/light_blue_crab.png",
+  "crabbersdelight:textures/entity/light_gray_crab.png": "outlined_sprite:crabbersdelight/light_gray_crab.png",
+  "crabbersdelight:textures/entity/lime_crab.png": "outlined_sprite:crabbersdelight/lime_crab.png",
+  "crabbersdelight:textures/entity/magenta_crab.png": "outlined_sprite:crabbersdelight/magenta_crab.png",
+  "crabbersdelight:textures/entity/orange_crab.png": "outlined_sprite:crabbersdelight/orange_crab.png",
+  "crabbersdelight:textures/entity/pink_crab.png": "outlined_sprite:crabbersdelight/pink_crab.png",
+  "crabbersdelight:textures/entity/purple_crab.png": "outlined_sprite:crabbersdelight/purple_crab.png",
+  "crabbersdelight:textures/entity/red_crab.png": "outlined_sprite:crabbersdelight/red_crab.png",
+  "crabbersdelight:textures/entity/white_crab.png": "outlined_sprite:crabbersdelight/white_crab.png",
+  "crabbersdelight:textures/entity/yellow_crab.png": "outlined_sprite:crabbersdelight/yellow_crab.png",
+  "layersAllowed": true
+  }
+}
+  

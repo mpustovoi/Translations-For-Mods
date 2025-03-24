@@ -1,0 +1,6 @@
+{
+  "block.puddles.puddle": "Лужа",
+  "puddles.midnightconfig.title": "Конфигурация луж",
+  "puddles.midnightconfig.puddleSpawnRate": "Частота появления луж",
+  "puddles.midnightconfig.evaporationChance": "Вероятность испарения"
+}

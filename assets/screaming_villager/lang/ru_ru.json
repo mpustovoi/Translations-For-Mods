@@ -1,0 +1,19 @@
+{
+  "entity.screaming_villager.screaming_sheep": "Овца",
+  "entity.screaming_villager.screaming_villager": "Крестьянин",
+  "item.screaming_villager.screaming_sheep_spawn_egg": "Яйцо призыва крестьянина-мимика",
+  "item.screaming_villager.screaming_villager_spawn_egg": "Яйцо призыва овцы-мимика",
+  "subtitles.death": "Крестьянин погибает",
+  "subtitles.hurt": "Крестьянин ранен",
+  "subtitles.scream": "Крестьянин недоволен",
+  "subtitles.sheepdeath": "Овца погибает",
+  "subtitles.sheephurt": "Овца ранена",
+  "subtitles.sheepnewscream": "Овца блеет",
+  "subtitles.sheepscream": "Овца блеет",
+  "subtitles.sheepstep": "Шаги",
+  "subtitles.step": "Шаги",
+  "subtitles.transformation": "Овца блеет",
+  "subtitles.villagerambient": "Крестьянин бормочет",
+  "subtitles.villagerhurt": "Крестьянин ранен",
+  "subtitles.villagertransformation": "Крестьянин недоволен"
+}

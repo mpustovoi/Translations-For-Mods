@@ -1,0 +1,5 @@
+{
+  "commands.publish.started.customlan": "Local game hosted on port %s with MOTD: %s.\nUse §5/worldhost§r §aip§7|§atempip§r to get an IP address where your friends can connect to your LAN world.",
+  "commands.publish.started.customlan.tunnel": "Local game hosted on port %s tunneled to %s with MOTD: %s.\nUse §5/worldhost§r §aip§7|§atempip§r to get an IP address where your friends can connect to your LAN world.",
+  "lanServer.explanation": "Use §2/op§r and §4/deop§r to control access to commands. Other vanilla server management commands are also available to you.\nUse §5/worldhost§r §aip§7|§atempip§r to get an IP address where your friends can connect to your LAN world."
+}

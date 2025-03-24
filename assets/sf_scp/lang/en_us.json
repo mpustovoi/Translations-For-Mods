@@ -1,0 +1,38 @@
+{
+  "entity.sf_scp.frank_scp": "Barbarian",
+  "entity.sf_scp.smile_scp": "Smiler",
+
+  "item.sf_scp.smile_mask": "Smiler Mask",
+  "item.sf_scp.rage_essence": "Rage Essence",
+
+  "sf_scp.subtitles.smile_scp.ambient": "Smiler chuckles",
+  "sf_scp.subtitles.smile_scp.death": "Smiler dies",
+  "sf_scp.subtitles.smile_scp.bite": "Smiler attacks",
+  "sf_scp.subtitles.smile_scp.swipe": "Smiler attacks",
+
+  "sf_scp.subtitles.frank_scp.ambient": "Barbarian growls",
+  "sf_scp.subtitles.frank_scp.death": "Barbarian dies",
+  "sf_scp.subtitles.frank_scp.bite": "Barbarian attacks",
+  "sf_scp.subtitles.frank_scp.slam": "Barbarian attacks",
+
+  "sf_scp.subtitles.rage_essence.roar": "Something roars",
+
+  "sf_scp.midnightconfig.title": "Can You Survive Config",
+
+  "sf_scp.midnightconfig.biomeConfig": "§c§l§n[!]§7§o If you want to change the biomes entities are in, you must do so with a §c§l§nDATA PACK.§7§o Their files are located under §9§o'sf_scp:tags/worldgen/biome/has_<entity>.json'\n\n§7§oTo §c§l§nREMOVE§7§o entities from spawning in certain biomes, add biomes to §9§o'sf_scp:tags/worldgen/biome/blacklist/<entity>_blacklist.json'\n\n§c§oYour game must be restarted and new chunks must be loaded to take effect.",
+  "sf_scp.midnightconfig.blacklistConfig": "§7§oTo §c§l§nREMOVE§7§o entities from spawning in certain biomes, add biomes to §9§o'sf_scp:tags/worldgen/biome/blacklist/<animal>_blacklist.json'",
+
+  "sf_scp.midnightconfig.frankSpawnWeight": "§9Barbarian Spawn Weight",
+  "sf_scp.midnightconfig.frankSpawnWeight.tooltip": "§8§o[?]§7§o The chance of Barbarian's spawning in the world.",
+  "sf_scp.midnightconfig.frankSpawnMinGroupSize": "§7§oBarbarian Minimum Group Size",
+  "sf_scp.midnightconfig.frankSpawnMinGroupSize.tooltip": "§8§o[?]§7§o The minimum number of Barbarian's that can spawn in a group.",
+  "sf_scp.midnightconfig.frankSpawnMaxGroupSize": "§7§oBarbarian Maximum Group Size",
+  "sf_scp.midnightconfig.frankSpawnMaxGroupSize.tooltip": "§8§o[?]§7§o The maximum number of Barbarian's that can spawn in a group.",
+
+  "sf_scp.midnightconfig.smileSpawnWeight": "§9Smiler Spawn Weight",
+  "sf_scp.midnightconfig.smileSpawnWeight.tooltip": "§8§o[?]§7§o The chance of Smiler's spawning in the world.",
+  "sf_scp.midnightconfig.smileSpawnMinGroupSize": "§7§oSmiler Minimum Group Size",
+  "sf_scp.midnightconfig.smileSpawnMinGroupSize.tooltip": "§8§o[?]§7§o The minimum number of Smiler's that can spawn in a group.",
+  "sf_scp.midnightconfig.smileSpawnMaxGroupSize": "§7§oSmiler Maximum Group Size",
+  "sf_scp.midnightconfig.smileSpawnMaxGroupSize.tooltip": "§8§o[?]§7§o The maximum number of Smiler's that can spawn in a group."
+}

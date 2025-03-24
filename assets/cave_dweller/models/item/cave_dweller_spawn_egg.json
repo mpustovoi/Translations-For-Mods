@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/template_spawn_egg_model",
+  "textures": {
+    "texture": "cave_dweller:item/cave_dweller_spawn_egg"
+  }
+}

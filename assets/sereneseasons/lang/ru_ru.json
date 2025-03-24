@@ -1,0 +1,43 @@
+{
+  "commands.sereneseasons.usage": "/season <get/set> [аргументы]",
+  "commands.sereneseasons.getseason.success": "Текущий сезон — %s, день %s/%s, такт %s/%s",
+  "commands.sereneseasons.setseason.success": "Сезон установлен на %s.",
+  "commands.sereneseasons.setseason.fail": "Неверный сезон %s.",
+  "commands.sereneseasons.setseason.disabled": "В данный момент Сезоны отключены!",
+
+  "gamerule.doSeasonCycle": "Опережающий сезонный цикл",
+  "itemGroup.tabSereneSeasons": "Безмятежные Сезоны",
+
+  "block.sereneseasons.season_sensor": "Датчик сезона",
+  
+  "item.sereneseasons.ss_icon": "Иконка БС",
+  "item.sereneseasons.calendar": "Календарь",
+
+  "desc.sereneseasons.fertile_seasons": "Плодородные сезоны",
+  "desc.sereneseasons.year_round": "Круглый год",
+  "desc.sereneseasons.day_counter": "День %s/%s",
+  "desc.sereneseasons.tropical_day_counter": " (%s/%s)",
+  "desc.sereneseasons.spring": "Весна",
+  "desc.sereneseasons.early_spring": "Начало весны",
+  "desc.sereneseasons.mid_spring": "Середина весны",
+  "desc.sereneseasons.late_spring": "Поздняя весна",
+  "desc.sereneseasons.summer": "Лето",
+  "desc.sereneseasons.early_summer": "Начало лета",
+  "desc.sereneseasons.mid_summer": "Середина лета",
+  "desc.sereneseasons.late_summer": "Позднее лето",
+  "desc.sereneseasons.autumn": "Осень",
+  "desc.sereneseasons.early_autumn": "Начало осени",
+  "desc.sereneseasons.mid_autumn": "Середина осени",
+  "desc.sereneseasons.late_autumn": "Поздняя осень",
+  "desc.sereneseasons.winter": "Зима",
+  "desc.sereneseasons.early_winter": "Начало зимы",
+  "desc.sereneseasons.mid_winter": "Середина зимы",
+  "desc.sereneseasons.late_winter": "Поздняя зима",
+  
+  "desc.sereneseasons.early_wet": "Ранний сезон дождей",
+  "desc.sereneseasons.mid_wet": "Середина сезона дождей",
+  "desc.sereneseasons.late_wet": "Поздний сезон дождей",
+  "desc.sereneseasons.early_dry": "Ранний сезон засухи",
+  "desc.sereneseasons.mid_dry": "Середина сезона засухи",
+  "desc.sereneseasons.late_dry": "Поздний сезон засухи"
+}

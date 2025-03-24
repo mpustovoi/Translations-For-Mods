@@ -1,0 +1,10 @@
+{
+  "advancements.human_reborn.first_death.descr": "Убейтесь об Стива",
+  "advancements.human_reborn.first_death.title": "§bТак кто же после этого лучший?",
+  "advancements.human_reborn.kill_steve.descr": "Убейте Стива",
+  "advancements.human_reborn.kill_steve.title": "§bПрости, легенда",
+  "item.human_reborn.human_spawn_egg": "Яйцо призыва Стива",
+  "item.human_reborn.steves-head": "Голова Стива",
+  "entity.human_reborn.human": "Стив",
+  "itemGroup.human_reborn": "Стив"
+}

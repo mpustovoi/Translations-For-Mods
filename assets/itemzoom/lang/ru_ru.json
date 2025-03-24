@@ -1,0 +1,25 @@
+{
+  "_comment": "Привязки клавиш",
+  "key.itemzoom.toggle": "Переключение увеличения предмета",
+  "key.itemzoom.hold": "Удерживать для отображения",
+  "key.itemzoom.zoom.in": "Приблизить",
+  "key.itemzoom.zoom.out": "Отдалить",
+
+  "_comment": "Настройки",
+  "config.itemzoom.title": "Настройки %MODNAME",
+
+  "config.itemzoom.toggle.enabled": "Переключение увеличения предмета",
+  "config.itemzoom.toggle.enabled.comment": "Если установлено в \"false\", увеличение предмета будет отключено.",
+  "config.itemzoom.zoom.amount": "Величина масштабирования",
+  "config.itemzoom.zoom.amount.comment": "Установите меньшее значение, чтобы уменьшить масштаб элемента.",
+  "config.itemzoom.jei.only": "Только JEI оверлей",
+  "config.itemzoom.jei.only.comment": "Увеличивать предметы только из панели JEI и списка закладок.",
+  "config.itemzoom.show.help.text": "Отобразить текст справки",
+  "config.itemzoom.show.help.text.comment": "Отображать имя \"Item Zoom\" и горячую клавишу для переключения этого мода под увеличенным элементом.",
+  "config.itemzoom.show.damage.bar": "Отображать индикатор прочности",
+  "config.itemzoom.show.damage.bar.comment": "Отображать индикатор прочности у увеличенного предмета.",
+  "config.itemzoom.show.stack.size": "Отображать размер стопки",
+  "config.itemzoom.show.stack.size.comment": "Отображать размер стопки у увеличенного предмета.",
+  "config.itemzoom.show.cooldown": "Отображать перезарядку",
+  "config.itemzoom.show.cooldown.comment": "Отображать анимацию перезарядки у увеличенного предмета."
+}

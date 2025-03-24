@@ -1,0 +1,8 @@
+{
+  "variants": {
+  "aether:textures/entity/mobs/mimic/normal.png":"outlined_sprite:aether/mimic/normal.png",
+  "aether:textures/entity/mobs/mimic/lootr.png":"outlined_sprite:aether/mimic/lootr.png",
+  "aether:textures/entity/mobs/mimic/christmas.png":"outlined_sprite:aether/mimic/christmas.png",
+  "layersAllowed": true
+  }
+}

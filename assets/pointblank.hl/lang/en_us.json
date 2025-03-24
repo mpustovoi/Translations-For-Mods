@@ -1,0 +1,20 @@
+{
+  "itemGroup.pointblank-halflife-pack.items": "Point Blank | Half Life",
+  "item.pointblank.hl_taucannon": "Tau Cannon",
+  "item.pointblank.hl_uspmatch": "USP Match",
+  "item.pointblank.hl_spas12": "SPAS-12",
+  "item.pointblank.hl_mp5": "MP5",
+  "item.pointblank.hl_resistancecrossbow": "Resistance Crossbow",
+  "item.pointblank.hl_coltpython": "Colt Python",
+  "item.pointblank.hl_mp7": "MP7",
+  "item.pointblank.hl_pulserifle": "Overwatch Pulse Rifle",
+  "item.pointblank.hl_crowbar": "Crowbar",
+  "item.pointblank.hl_rebar": "Rebar",
+  "item.pointblank.hl_resistancescope": "Resistance Scope",
+  "item.pointblank.hl_pythonlaser": "Colt Python Laser Sight",
+  "item.pointblank.hl_omegasight": "Omega Sight",
+  "label.pointblank.fireMode.charge": "Charge",
+  "label.pointblank.fireMode.chargemax": "Charge Full Power",
+  "label.pointblank.fireMode.primary": "Primary",
+  "label.pointblank.fireMode.secondary": "Secondary"
+}

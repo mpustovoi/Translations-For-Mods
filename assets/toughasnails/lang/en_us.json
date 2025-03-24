@@ -1,0 +1,9 @@
+{
+  "effect.toughasnails.climate_clemency.description": "Neutralizes body temperature upon spawning in a new world (and respawning if enabled in the config).",
+  "effect.toughasnails.ice_resistance.description": "Grants immunity to freezing damage.",
+  "effect.toughasnails.thirst.description": "Causes thirst bar to drop at a faster rate.",
+  "enchantment.toughasnails.thermal_tuning.desc": "Completely neutralizes the player's body temperature, regardless of the current environmental temperature. Applies to a chestplate.",
+  "enchantment.toughasnails.thermal_tuning": "Thermoregulation",
+  "enchantment.toughasnails.water_cleansing.desc": "Automatically purifies any water poured into the Canteen. Applied to canteens.",
+  "enchantment.toughasnails.water_cleansing": "Filtering"
+}

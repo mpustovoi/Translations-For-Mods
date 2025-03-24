@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/template_spawn_egg_model",
+  "textures": {
+    "texture": "the_anomaly:item/anomaly_spawn_egg"
+  }
+}

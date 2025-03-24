@@ -1,0 +1,10 @@
+{
+  "effect.breedingpotion.breeding": "Breeding",
+  "effect.breedingpotion.breeding.description": "Makes animals and villagers willing to breed to automate breeding. For mobs who cannot breed, makes them slowly regain health, while makes players slowly regain hunger value and saturation.",
+
+  "item.minecraft.potion.effect.breeding": "Potion of Breeding",
+  "item.minecraft.splash_potion.effect.breeding": "Splash Potion of Breeding",
+  "item.minecraft.lingering_potion.effect.breeding": "Lingering Potion of Breeding",
+
+  "item.minecraft.tipped_arrow.effect.breeding": "Arrow of Breeding"
+}

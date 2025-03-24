@@ -1,0 +1,9 @@
+{
+  "variants": {
+  "alexscaves:textures/entity/gummy_bear_blue.png": "outlined_sprite:alexscaves/gummy_bear/blue.png",
+  "alexscaves:textures/entity/gummy_bear_green.png": "outlined_sprite:alexscaves/gummy_bear/green.png",
+  "alexscaves:textures/entity/gummy_bear_pink.png": "outlined_sprite:alexscaves/gummy_bear/pink.png",
+  "alexscaves:textures/entity/gummy_bear_red.png": "outlined_sprite:alexscaves/gummy_bear/red.png",
+  "alexscaves:textures/entity/gummy_bear_yellow.png": "outlined_sprite:alexscaves/gummy_bear/yellow.png"
+  }
+}

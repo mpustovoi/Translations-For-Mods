@@ -1,0 +1,23 @@
+{
+  "immersive_melodies.close": "Закрыть",
+  "immersive_melodies.delete": "Удалить",
+  "immersive_melodies.error.empty": "Невозможно разобрать файл.",
+  "immersive_melodies.favorite": "Избранное",
+  "immersive_melodies.help": "Открыть справку",
+  "immersive_melodies.pause": "Пауза",
+  "immersive_melodies.play": "Играть",
+  "immersive_melodies.playing": "Играет",
+  "immersive_melodies.read": "Нажмите, чтобы узнать, как добавлять мелодии!",
+  "immersive_melodies.remove_favorite": "Удалить избранное",
+  "immersive_melodies.search": "Поиск",
+  "immersive_melodies.tracks": "Список композиций",
+  "item.immersive_melodies.bagpipe": "Волынка",
+  "item.immersive_melodies.didgeridoo": "Диджериду",
+  "item.immersive_melodies.flute": "Флейта",
+  "item.immersive_melodies.lute": "Лютня",
+  "item.immersive_melodies.piano": "Пианино",
+  "item.immersive_melodies.tiny_drum": "Крошечный барабан",
+  "item.immersive_melodies.triangle": "Треугольник",
+  "item.immersive_melodies.trumpet": "Труба",
+  "itemGroup.immersive_melodies.immersive_melodies_tab": "Захватывающие Мелодии"
+}

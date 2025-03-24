@@ -1,0 +1,10 @@
+{
+  "entity.tacz_npc.bandit": "Террорист",
+  "entity.tacz_npc.duty": "Служивый",
+  "item.tacz_npc.bandit_spawn_egg": "Яйцо призыва террориста",
+  "item.tacz_npc.duty_spawn_egg": "Яйцо призыва служивого",
+  "item.tacz_npc.experienced": "Нашивка опытного",
+  "item.tacz_npc.expert": "Нашивка эксперта",
+  "item.tacz_npc.rookie": "Нашивка новичка",
+  "item.tacz_npc.veteran": "Нашивка ветерана"
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "mutantmore:textures/entity/mobs/rodling/rodling.png": "outlined_sprite:mutantmore/rodling/rodling.png",
+    "mutantmore:textures/entity/mobs/rodling/soul_rodling.png": "outlined_sprite:mutantmore/rodling/soul_rodling.png",
+    "layersAllowed": true
+  }
+}

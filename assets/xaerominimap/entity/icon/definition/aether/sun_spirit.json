@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "aether:textures/entity/mobs/sun_spirit/sun_spirit.png": "outlined_sprite:aether/sun_spirit/sun_spirit.png",
+    "aether:textures/entity/mobs/sun_spirit/frozen_sun_spirit.png": "outlined_sprite:aether/sun_spirit/frozen_sun_spirit.png",
+    "layersAllowed": true
+  }
+}

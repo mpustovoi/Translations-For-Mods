@@ -1,0 +1,46 @@
+{
+  "item.expandedstorage.wood_to_copper_conversion_kit":                   "Wood to Copper storage upgrade",
+  "item.expandedstorage.wood_to_iron_conversion_kit":                     "Wood to Iron storage upgrade",
+  "item.expandedstorage.wood_to_gold_conversion_kit":                     "Wood to Gold storage upgrade",
+  "item.expandedstorage.wood_to_diamond_conversion_kit":                  "Wood to Diamond storage upgrade",
+  "item.expandedstorage.wood_to_obsidian_conversion_kit":                 "Wood to Obsidian storage upgrade",
+  "item.expandedstorage.wood_to_netherite_conversion_kit":                "Wood to Netherite storage upgrade",
+
+  "item.expandedstorage.copper_to_iron_conversion_kit":                   "Copper to Iron storage upgrade",
+  "item.expandedstorage.copper_to_gold_conversion_kit":                   "Copper to Gold storage upgrade",
+  "item.expandedstorage.copper_to_diamond_conversion_kit":                "Copper to Diamond storage upgrade",
+  "item.expandedstorage.copper_to_obsidian_conversion_kit":               "Copper to Obsidian storage upgrade",
+  "item.expandedstorage.copper_to_netherite_conversion_kit":              "Copper to Netherite storage upgrade",
+
+  "item.expandedstorage.iron_to_gold_conversion_kit":                     "Iron to Gold storage upgrade",
+  "item.expandedstorage.iron_to_diamond_conversion_kit":                  "Iron to Diamond storage upgrade",
+  "item.expandedstorage.iron_to_obsidian_conversion_kit":                 "Iron to Obsidian storage upgrade",
+  "item.expandedstorage.iron_to_netherite_conversion_kit":                "Iron to Netherite storage upgrade",
+
+  "item.expandedstorage.gold_to_diamond_conversion_kit":                  "Gold to Diamond storage upgrade",
+  "item.expandedstorage.gold_to_obsidian_conversion_kit":                 "Gold to Obsidian storage upgrade",
+  "item.expandedstorage.gold_to_netherite_conversion_kit":                "Gold to Netherite storage upgrade",
+
+  "item.expandedstorage.diamond_to_obsidian_conversion_kit":              "Diamond to Obsidian storage upgrade",
+  "item.expandedstorage.diamond_to_netherite_conversion_kit":             "Diamond to Netherite storage upgrade",
+
+  "item.expandedstorage.obsidian_to_netherite_conversion_kit":            "Obsidian to Netherite storage upgrade",
+
+  "tooltip.expandedstorage.conversion_kit.need_x_upgrades":               "Storage upgrade failed, you need %s more upgrade(s).",
+  
+  "block.expandedstorage.wood_chest":                                     "Wooden Chest",
+
+  "entity.expandedstorage.wood_chest_minecart":                           "Minecart with Wooden Chest",
+  
+  "item.expandedstorage.wood_chest_minecart":                             "Minecart with Wooden Chest",
+  
+  "stat.expandedstorage.open_wood_chest":                                 "[ES] Wooden Chests Opened",
+  
+  "block.expandedstorage.old_wood_chest":                                 "Old Wooden Chest",
+  
+  "stat.expandedstorage.open_old_wood_chest":                             "[ES] Old Wooden Chests Opened",
+
+  "key.expandedstorage.config":                                           "[ES] Open Screen Select",
+  
+  "tag.item.expandedstorage.chests.obsidian":                             "Obsidian Chests"
+}

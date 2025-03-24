@@ -1,0 +1,9 @@
+{
+  "deleteworldstotrash.selectWorld.deleteButton": "Переместить в %s",
+  "deleteworldstotrash.selectWorld.deleteFailure": "Не удалось переместить в %s",
+  "deleteworldstotrash.selectWorld.deleteWarning": "Мир '%s' будет перемещён в %s, чтобы вы могли восстановить его позже, при необходимости.",
+  "deleteworldstotrash.selectWorld.recycleBin": "корзину",
+  "deleteworldstotrash.selectWorld.recycleBinButton": "корзину",
+  "deleteworldstotrash.selectWorld.trash": "мусор",
+  "deleteworldstotrash.selectWorld.trashButton": "мусор"
+}

@@ -1,0 +1,21 @@
+{
+  "inventorysorter.gui.title": "Сортировщик инвентаря",
+  "inventorysorter.gui.middleClickSorting": "Сортировка инвентаря",
+  "inventorysorter.gui.middleClickSorting.tooltip": "Включен ли модуль сортировки инвентаря?",
+  "inventorysorter.gui.containerDebug": "Отладка сортировки контейнера",
+  "inventorysorter.gui.containerDebug.tooltip": "Создавать лог-сообщения при сортировке контейнера для удобства в составлении чёрного списка",
+  "keygroup.inventorysorter": "Сортировщик инвентаря",
+  "key.inventorysorter.sort": "Сортировка инвентаря",
+  "inventorysorter.commands.inventorysorter.usage": "/invsorter §ebladd§f|§eblrem§f|§eshow§f|§elist§f",
+  "inventorysorter.commands.inventorysorter.bladd.message": "§e{0}§f добавлен в чёрный список контейнеров",
+  "inventorysorter.commands.inventorysorter.blremove.message": "§e{0}§f удалён из чёрного списка контейнеров",
+  "inventorysorter.commands.inventorysorter.badtype": "Строк §c{0}§f не является допустимым типом контейнера, игнорируется",
+  "inventorysorter.commands.inventorysorter.showlast.message": "Последний отсортированный контейнер: §e{0}§f",
+  "inventorysorter.commands.inventorysorter.showlast.nosort": "Вы ещё не отсортировали контейнер. Попробуйте хотя бы один.",
+  "inventorysorter.commands.inventorysorter.showblacklist.message": "Текущий чёрный список §e{0}§f",
+  "inventorysorter.commands.inventorysorter.showblacklist.empty": "Чёрный список пуст",
+  "inventorysorter.config.containerblacklist": "Чёрный список контейнеров",
+  "inventorysorter.config.slotblacklist": "Чёрный список типов слотов",
+  "inventorysorter.config.sortorder": "Порядок сортировки",
+  "inventorysorter.config.sortbycountfirst": "Сначала сортировать по количеству"
+}

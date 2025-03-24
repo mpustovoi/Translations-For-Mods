@@ -1,0 +1,11 @@
+{
+  "bagus_lib.config.shakeCameraForVanilla": "Включить тряску камеры для ванили",
+  "bagus_lib.config.aprilFeature": "Включить апрельскую функцию",
+  "bagus_lib.config.betterEndPoem": "Улучшенная поэма Энда",
+  "bagus_lib.watermelon": "Арбуз",
+  "command.bagus_lib.remove_all_dialog": "Успешно удалены все диалоговые окна",
+  "command.bagus_lib.item_dialog": "Успешно добавлено диалоговое окно предмета",
+  "command.bagus_lib.dialog": "Успешно добавлено диалоговое окно",
+  "command.bagus_lib.image_dialog": "Успешно добавлено диалоговое окно изображения",
+  "item.bagus_lib.bagu": "Багу"
+}

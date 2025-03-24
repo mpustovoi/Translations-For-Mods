@@ -1,0 +1,10 @@
+{
+  "advancements.end_trade.description": "Trade with the Enderologist in the End dimension.",
+  "advancements.map_bastion.description": "Use a Bastion Explorer Map from the Netherologist to find a Bastion Remnant.",
+  "advancements.map_endcity.description": "Use an End City Explorer Map from the Enderologist to find an End City.",
+  "advancements.nether_trade.description": "Trade with the Netherologist in the Nether dimension.",
+  "entity.minecraft.villager.enderian": "Enderologist",
+  "entity.minecraft.villager.morevillagers.enderian": "Enderologist",
+  "entity.minecraft.villager.morevillagers.netherian": "Netherologist",
+  "entity.minecraft.villager.netherian": "Netherologist"
+}

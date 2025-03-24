@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "cave_dweller:item/cave_dweller_spawn_egg"
+  }
+}

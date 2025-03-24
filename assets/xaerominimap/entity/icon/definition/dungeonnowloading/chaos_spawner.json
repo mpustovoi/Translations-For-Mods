@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "dungeonnowloading:textures/entity/chaos_spawner_sleeping.png": "outlined_sprite:dungeonnowloading/chaos_spawner.png",
+    "dungeonnowloading:textures/entity/chaos_spawner.png": "outlined_sprite:dungeonnowloading/chaos_spawner.png",
+    "default": "outlined_sprite:dungeonnowloading/chaos_spawner.png",
+    "layersAllowed": true
+  }
+}

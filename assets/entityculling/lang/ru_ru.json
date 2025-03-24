@@ -1,0 +1,5 @@
+{
+  "modmenu.descriptionTranslation.entityculling": "Мод, использующий параллельную трассировку путей для определения видимости сущностей и блочных сущностей, скрытых за блоками.",
+  "text.entityculling.title": "Отбраковка сущностей",
+  "key.entityculling.toggle": "Переключить отбраковку"
+}

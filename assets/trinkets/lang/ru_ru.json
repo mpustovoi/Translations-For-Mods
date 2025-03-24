@@ -1,0 +1,21 @@
+{
+  "trinkets.tooltip.slots.any": "§9Универсальный аксессуар§r",
+  "trinkets.tooltip.slots.list": "Может использоваться как:",
+  "trinkets.tooltip.slots.single": "Используется как %d",
+  "trinkets.tooltip.attributes.all": "Когда надето:",
+  "trinkets.tooltip.attributes.single": "Когда надето как %d:",
+  "trinkets.tooltip.attributes.slots": "%d слоты",
+  "trinkets.slot.head.face": "Маска",
+  "trinkets.slot.head.hat": "Шляпа",
+  "trinkets.slot.charm.charm": "Амулет",
+  "trinkets.slot.chest.necklace": "Подвеска",
+  "trinkets.slot.chest.back": "Рюкзак",
+  "trinkets.slot.chest.cape": "Плащ",
+  "trinkets.slot.legs.belt": "Пояс",
+  "trinkets.slot.feet.aglet": "Эглет",
+  "trinkets.slot.feet.shoes": "Обувь",
+  "trinkets.slot.hand.glove": "Перчатка",
+  "trinkets.slot.offhand.glove": "Перчатка",
+  "trinkets.slot.hand.ring": "Кольцо",
+  "trinkets.slot.offhand.ring": "Кольцо"
+}

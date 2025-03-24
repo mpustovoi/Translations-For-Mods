@@ -1,0 +1,48 @@
+{
+  "item.oxidized.copper_pulsar": "Медный пульсар",
+  "item.oxidized.rose_gold_axe": "Топор из омеднённого золота",
+  "item.oxidized.rose_gold_pickaxe": "Кирка из омеднённого золота",
+  "item.oxidized.rose_gold_hoe": "Мотыга из омеднённого золота",
+  "item.oxidized.rose_gold_shovel": "Лопата из омеднённого золота",
+  "item.oxidized.rose_gold_sword": "Меч из омеднённого золота",
+  "item.oxidized.copper_nugget": "Кусочек меди",
+  "item.oxidized.copper_golem_spawn_egg": "Яйцо призыва медного голема",
+  "item.oxidized.copper_barometer": "Медный барометр",
+  "item.oxidized.rose_gold_upgrade_template": "Кузнечный шаблон",
+
+  "block.oxidized.vertical_cut_copper": "Вертикальная резная медь",
+  "block.oxidized.vertical_exposed_cut_copper": "Потемневшая вертикальная резная медь",
+  "block.oxidized.vertical_weathered_cut_copper": "Состаренная вертикальная резная медь",
+  "block.oxidized.vertical_oxidized_cut_copper": "Окисленная вертикальная резная медь",
+  "block.oxidized.waxed_vertical_cut_copper": "Вощёная вертикальная резная медь",
+  "block.oxidized.waxed_vertical_exposed_cut_copper": "Вощёная потемневшая вертикальная резная медь",
+  "block.oxidized.waxed_vertical_weathered_cut_copper": "Вощёная состаренная вертикальная резная медь",
+  "block.oxidized.waxed_vertical_oxidized_cut_copper": "Вощёная окисленная вертикальная резная медь",
+  "block.oxidized.copper_rail": "Медные рельсы",
+  "block.oxidized.copper_kiln": "Медная сушильня",
+  "block.oxidized.copper_lantern": "Медный фонарь",
+  "block.oxidized.copper_pan": "Медная миска",
+  "block.oxidized.copper_button": "Медная кнопка",
+  "block.oxidized.copper_trap": "Медный капкан",
+
+  "entity.oxidized.copper_golem": "Медный голем",
+
+  "death.attack.trap": "%s попал в капкан.",
+
+  "text.oxidized.rain": "Дождь закончится через %s секунд",
+  "text.oxidized.thunderstorm": "Гроза закончится через %s секунд",
+  "text.oxidized.snow": "Снег закончится %s секунд",
+  "text.oxidized.clearweather": "Осадки ожидаются через %s секунд",
+  "text.oxidized.rose_gold_template": "Омеднённое улучшение",
+  "text.oxidized.rose_gold_template_applies": "Золотому снаряжению",
+  "text.oxidized.rose_gold_template_ingredient": "Медный слиток",
+  "text.oxidized.rose_gold_template.base_desc": "Поместите золотой доспех, инструмент или оружие",
+  "text.oxidized.rose_gold_template.ing_desc": "Поместите медный слиток",
+
+  "gui.recipebook.toggleRecipes.kiln": "Показ рецептов для сушильни",
+  "itemGroup.oxidized.oxidized": "Окисленное",
+  "container.oxidized.copper_kiln": "Медная сушильня",
+  "category.oxidized.kiln_smelting": "Плавка в медной сушильне",
+
+  "tag.item.c.copper_nuggets": "Кусочки меди"
+}

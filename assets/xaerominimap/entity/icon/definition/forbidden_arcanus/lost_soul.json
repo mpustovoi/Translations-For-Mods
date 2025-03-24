@@ -1,0 +1,9 @@
+{
+  "variants":{
+  	"forbidden_arcanus:textures/entity/lost_soul/corrupt_lost_soul.png" : "outlined_sprite:forbidden_arcanus/lost_soul/corrupt_lost_soul.png",
+  	"forbidden_arcanus:textures/entity/lost_soul/enchanted_lost_soul.png" : "outlined_sprite:forbidden_arcanus/lost_soul/enchanted_lost_soul.png",
+  	"forbidden_arcanus:textures/entity/lost_soul/lost_soul.png" : "outlined_sprite:forbidden_arcanus/lost_soul/lost_soul.png",
+  	"layersAllowed":true
+
+  }
+}

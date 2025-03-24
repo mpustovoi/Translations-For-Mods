@@ -1,0 +1,10 @@
+{
+  "effect.breedingpotion.breeding": "Разведение",
+  "effect.breedingpotion.breeding.description": "Заставляет животных разводиться. Мобы, не подверженные размножению будут медленно восстанавливать своё здоровье, а игроки — уровень голода и насыщения.",
+
+  "item.minecraft.potion.effect.breeding": "Зелье разведения",
+  "item.minecraft.splash_potion.effect.breeding": "Взрывное зелье разведения",
+  "item.minecraft.lingering_potion.effect.breeding": "Туманное зелье разведения",
+
+  "item.minecraft.tipped_arrow.effect.breeding": "Стрела разведения"
+}

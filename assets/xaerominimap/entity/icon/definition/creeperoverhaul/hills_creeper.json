@@ -1,0 +1,6 @@
+{
+  "variants": {
+  "default": "outlined_sprite:creeperoverhaul/hills/hills_creeper.png",
+  "layersAllowed": true
+}
+}

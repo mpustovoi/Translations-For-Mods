@@ -1,0 +1,6 @@
+{
+  "variants": {
+  "default": "outlined_sprite:creeperoverhaul/snowy/snowy_creeper.png",
+  "layersAllowed": true
+}
+}

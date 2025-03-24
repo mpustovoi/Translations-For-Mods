@@ -1,0 +1,16 @@
+{
+  "fabrishot.config.title": "Fabrishot",
+  "fabrishot.config.category": "Настройки снимка экрана",
+  "fabrishot.config.custom_file_name": "Формат имени файла",
+  "fabrishot.config.custom_file_name.tooltip": "Используйте %time% для времени,\n%world% для имени мира или сервера",
+  "fabrishot.config.override_screenshot_key": "Заменить обычный снимок экрана на Fabrishot",
+  "fabrishot.config.hide_hud": "Автоматически скрывает интерфейс",
+  "fabrishot.config.save_file": "Сохранять файл снимка экрана",
+  "fabrishot.config.disable_gui_scaling": "Отключить масштабирование интерфейса",
+  "fabrishot.config.width": "Ширина снимка экрана",
+  "fabrishot.config.height": "Высота снимка экрана",
+  "fabrishot.config.delay": "Задержка снимка экрана",
+  "fabrishot.config.delay.tooltip": "Задержка кадров после изменения размера. Настройка для лучшей экспозиции шейдеров",
+  "fabrishot.config.file_format": "Формат файла",
+  "key.fabrishot.screenshot": "Сделать большой снимок экрана"
+}

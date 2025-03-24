@@ -1,0 +1,6 @@
+{
+  "variants": {
+  "default": "outlined_sprite:creeperoverhaul/dark_oak/dark_oak_creeper.png",
+  "layersAllowed": true
+}
+}

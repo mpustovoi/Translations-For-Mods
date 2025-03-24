@@ -1,0 +1,14 @@
+{
+  "death.attack.musket": "%s был застрелен %s",
+  "death.attack.musket.item": "%s был застрелен %s с помощью %s",
+  "entity.unbalancedmusket.iron_musket_ball": "Железная мушкетная пуля",
+  "itemGroup.unbalancedmusket": "Мушкет",
+  "item.unbalancedmusket.bayonet_musket": "Штык-мушкет",
+  "item.unbalancedmusket.iron_musket_ball": "Железная мушкетная пуля",
+  "item.unbalancedmusket.musket": "Мушкет",
+  "item.unbalancedmusket.musket.projectile": "Снаряд:",
+  "item.unbalancedmusket.musket.stage.loaded": "Готов к стрельбе",
+  "item.unbalancedmusket.musket.stage.powdered": "Порох помещён",
+  "item.unbalancedmusket.musket.stage.rammed": "Порох утрамбован",
+  "item.unbalancedmusket.ramrod": "Шомпол"
+}

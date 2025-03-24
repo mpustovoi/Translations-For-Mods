@@ -1,0 +1,27 @@
+{
+  "itemGroup.pointblank-doom-pack.items": "В Упор | Doom",
+  "item.pointblank.doom_shotgun": "Боевой дробовик М93",
+  "item.pointblank.doom_heavycannon": "Тяжёлая пушка",
+  "item.pointblank.doom_handgun": "Ручная пушка",
+  "item.pointblank.doom_combatshotgun": "Боевой дробовик M20",
+  "item.pointblank.doom_bfg9000": "BFG-9000",
+  "item.pointblank.doom_plasmagun": "Плазменная винтовка",
+  "item.pointblank.doom_plasmapistol": "Плазменный пистолет",
+  "item.pointblank.doom_rocketlauncher": "Ракетная установка",
+  "item.pointblank.doom_supershotgun": "Супер-дробовик",
+  "item.pointblank.doom_plasmachaingun": "Плазменная цепная пушка",
+  "item.pointblank.doom_gausscannon": "Пушка Гаусса",
+  "item.pointblank.doom_50calrifle": "Винтовка 50-го калибра",
+  "item.pointblank.doom_50calpistol": "Пистолет 50-го калибра",
+  "item.pointblank.doom_plasmacell": "Плазматическая клетка",
+  "item.pointblank.doom_steelflechette": "Стальная флешетка",
+  "item.pointblank.doom_argentblastcharge": "Серебряный взрывной заряд",
+  "item.pointblank.doom_argentrocket": "Серебряная ракета",
+  "item.pointblank.doom_argent_ingot": "Слиток серебряного оружейного металла",
+  "item.pointblank.doom_argent_compound": "Серебряная смесь",
+  "item.pointblank.doom_plasma_compound": "Плазменная смесь",
+  "item.pointblank.doom_launcher": "Боевой дробовик M20 с режимом установки",
+  "item.pointblank.doom_precisionbolt": "Пушка Гаусса с режимом прецизионного болта",
+
+  "label.pointblank.fireMode.precisionbolt": "Прецизионный болт"
+}

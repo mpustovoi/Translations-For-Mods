@@ -1,0 +1,10 @@
+{
+  "itemGroup.darkenchanting.dark_enchanting_group": "Тёмное Чародейство",
+  "block.darkenchanting.dark_enchanter": "Тёмный чародей",
+  "block.darkenchanting.dark_conduit": "Тёмный проводник",
+  "block.darkenchanting.wall_dark_conduit": "Тёмный проводник",
+  "item.darkenchanting.table_upgrade": "Улучшение стола",
+  "message.darkenchanting.table_upgrade": "Вам нужно присесть и щёлкнуть правой кнопкой мыши по ванильному чародейскому столу, чтобы это сработало!",
+  "tag.enchantment.darkenchanting.disabled": "Отключенные чары",
+  "tag.block.darkenchanting.crying_obsidian": "Блоки плачущего обсидиана"
+}

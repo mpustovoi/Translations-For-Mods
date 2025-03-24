@@ -1,0 +1,18 @@
+{
+  "entity.anomaly.anomaly_base": "§4§kАномалия§r",
+  "entity.anomaly.anomaly_chase": "§4§kАномалия§r",
+  "entity.anomaly.anomaly_diamond": "§4§kАномалия§r",
+  "entity.anomaly.anomaly_ghost": "§4§kАномалия§r",
+  "entity.anomaly.sound_entity": "§4§kАномалия§r",
+  "item.anomaly.anomaly_base_spawn_egg": "Яйцо призыва §4§kаномалии§r",
+  "item.anomaly.anomaly_chase_spawn_egg": "Яйцо призыва §4§kаномалии§r (гонющаяся)",
+  "item.anomaly.anomaly_diamond_spawn_egg": "Яйцо призыва §4§kаномалии§r (алмаз)",
+  "item.anomaly.anomaly_finder.description_0": "Этот инструмент отладки отправляет сообщение, если обнаруживает аномалию в радиусе 100 квадратных метров",
+  "item.anomaly.anomaly_finder.description_1": "Нужно держать в руке",
+  "item.anomaly.anomaly_finder": "Искатель аномалии",
+  "item.anomaly.anomaly_ghost_spawn_egg": "Яйцо призыва §4§kаномалии§r (призрак)",
+  "subtitles.anomalyambient": "",
+  "subtitles.heartbeat": "",
+  "subtitles.horrorambient": "",
+  "subtitles.suspence": ""
+}

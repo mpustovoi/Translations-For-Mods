@@ -1,0 +1,28 @@
+{
+  "key.backslot.switch_backslot": "Переключить слот спины",
+  "key.backslot.switch_beltslot": "Переключить слот пояса",
+
+  "category.backslot.key": "Слот спины",
+
+  "text.autoconfig.backslot.title": "Настройки слота спины",
+  "text.autoconfig.backslot.category.default": "Настройки по умолчанию",
+  "text.autoconfig.backslot.category.advanced_settings": "Расширенные настройки",
+  "text.autoconfig.backslot.option.backslotScaling": "Масштаб предмета слота спины",
+  "text.autoconfig.backslot.option.beltslotScaling": "Масштаб предмета слота пояса",
+  "text.autoconfig.backslot.option.backslotSounds": "Звуки слота спины",
+  "text.autoconfig.backslot.option.changeSlotArrangement": "Изменить расположение слотов",
+  "text.autoconfig.backslot.option.disableBackslotHud": "Отключить интерфейс слота спины",
+  "text.autoconfig.backslot.option.backSlotX": "X слота спины",
+  "text.autoconfig.backslot.option.backSlotY": "Y слота спины",
+  "text.autoconfig.backslot.option.beltSlotX": "X слота пояса",
+  "text.autoconfig.backslot.option.beltSlotY": "Y слота пояса",
+  "text.autoconfig.backslot.option.hudSlotX": "X слота интерфейса",
+  "text.autoconfig.backslot.option.hudSlotY": "Y слота интерфейса",
+  "text.autoconfig.backslot.option.backSlotX.@PrefixText": "Позиции слотов в инвентаре",
+  "text.autoconfig.backslot.option.switchBeltslotSide": "Переключить сторону слота пояса",
+  "text.autoconfig.backslot.option.offhandSwitch": "Переключить вторую руку",
+  "text.autoconfig.backslot.option.offhandShield": "Переключить щит второй руки",
+  "text.autoconfig.backslot.option.offhandFallback": "Откат второй руки",
+  "text.autoconfig.backslot.option.putAside": "Помещать в сторону при полной руке",
+  "text.autoconfig.backslot.option.dropHolding": "Выбросить предмет при отсутствии места"
+}

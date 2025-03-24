@@ -1,0 +1,13 @@
+{
+  "effect.silksstalkerwendigo.adreneline.description": "",
+  "effect.silksstalkerwendigo.adreneline": "Adreneline",
+  "entity.silksstalkerwendigo.stalker": "Wendigo",
+  "gamerule.stalkerWhining.description": "Enables the debug messages of Wendigo, allowing him to complain basically. This is for development purposes, don't turn it on unless you wanna see your chat flooded.",
+  "gamerule.stalkerWhining": "Wendigo Whinings",
+  "item.silksstalkerwendigo.artificial_stalker_skull": "Artificial Wendigo Skull",
+  "item.silksstalkerwendigo.bundled_stalkers_bones": "Bundled Wendigo Bones",
+  "item.silksstalkerwendigo.bundled_stalkers_fur": "Bundled Wendigo Fur",
+  "item.silksstalkerwendigo.stalker_bone": "Wendigo's Bone",
+  "item.silksstalkerwendigo.stalker_fur": "Wendigo's Fur",
+  "item.silksstalkerwendigo.stalker_spawn_egg": "Wendigo Spawn Egg"
+}

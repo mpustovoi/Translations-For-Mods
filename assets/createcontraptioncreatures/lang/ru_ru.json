@@ -1,0 +1,50 @@
+{
+  "block.createcontraptioncreatures.mechanic_table": "Стол механика",
+  "entity.minecraft.villager.ccc_mechanic": "Механик",
+
+  "block.createcontraptioncreatures.plumber_table": "Стол сантехника",
+  "entity.minecraft.villager.ccc_plumber": "Сантехник",
+
+  "block.createcontraptioncreatures.locomotive_table": "Стол железнодорожника",
+  "entity.minecraft.villager.ccc_locomotiveworker": "Железнодорожник",
+
+  "item.createcontraptioncreatures.pea_shooter": "Горохострел",
+  "entity.createcontraptioncreatures.sharpen_seeds": "Заострённые семена",
+
+  "item.createcontraptioncreatures.melon_lobber": "Арбузная долька",
+  "entity.createcontraptioncreatures.thrown_melon": "Брошенный арбуз",
+
+  "item.createcontraptioncreatures.flamer": "Огнемёт",
+  "entity.createcontraptioncreatures.flame_blast": "Струя пламени",
+
+  "item.createcontraptioncreatures.channeller": "Проводник",
+
+  "entity.createcontraptioncreatures.tele_bullet": "Маркеры",
+  "item.createcontraptioncreatures.echo_lens": "Кричащая линза",
+  "item.createcontraptioncreatures.teleport_lens": "Эндер-линза",
+  "item.createcontraptioncreatures.flame_lens": "Базовая линза",
+
+  "entity.createcontraptioncreatures.auto_driller": "Бурильный автомат",
+  "item.createcontraptioncreatures.auto_driller": "Яйцо призыва бурильного автомата",
+
+  "entity.createcontraptioncreatures.auto_lumberer": "Режущий автомат",
+  "item.createcontraptioncreatures.auto_lumberer": "Яйцо призыва режущего автомата",
+
+  "entity.createcontraptioncreatures.auto_porter": "Автомат-носильщик",
+  "item.createcontraptioncreatures.auto_porter": "Яйцо призыва автомата-носильщика",
+
+  "entity.createcontraptioncreatures.gear_bug": "Робо-жук",
+  "item.createcontraptioncreatures.gear_bug": "Яйцо призыва робо-жука",
+
+  "entity.createcontraptioncreatures.gear_dummy": "Робо-кукла",
+  "item.createcontraptioncreatures.gear_dummy": "Яйцо призыва робо-куклы",
+
+  "entity.createcontraptioncreatures.gear_diver": "Робо-ныряльщик",
+  "item.createcontraptioncreatures.gear_diver": "Яйцо призыва робо-ныряльщика",
+
+  "entity.createcontraptioncreatures.gear_knight": "Робо-рыцарь",
+  "item.createcontraptioncreatures.gear_knight": "Яйцо призыва робо-рыцаря",
+
+  "entity.createcontraptioncreatures.gear_marrow": "Робо-мозг",
+  "item.createcontraptioncreatures.gear_marrow": "Яйцо призыва робо-мозга"
+}

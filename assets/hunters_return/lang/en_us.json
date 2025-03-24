@@ -1,0 +1,11 @@
+{
+  "advancements.hunters_return.manhunt.descr": "Kill a Hunter",
+  "advancements.hunters_return.manhunt.title": "Manhunt",
+  "advancements.hunters_return.prey.descr": "Become the prey of a Hunter",
+  "advancements.hunters_return.prey.title": "Hunted Down",
+  "item.hunters_return.mini_crossbow": "Light Crossbow",
+  "item.hunters_return.quiver.empty.description": "Can store two stacks of multiple arrows types",
+  "enchantment.hunters_return.bounce.desc": "Makes the Boomerang bounce off the walls.",
+  "enchantment.hunters_return.return.desc": "Makes the Boomerang return on owner.",
+  "enchantment.hunters_return.cutting.desc": "Increases Boomerang damage."
+}

@@ -1,0 +1,12 @@
+{
+  "block.voidz.item_group": "ПустотьЯ",
+  "block.voidz.void_portal": "Портал в Пустоту",
+  "block.voidz.void_stone": "Камень пустоты",
+  "block.voidz.infested_void_stone": "Заражённый камень пустоты",
+
+  "death.attack.infested": "%1$s был поглощён пустотой",
+
+  "text.autoconfig.voidz.title": "Настройки ПустотьЯ",
+  "text.autoconfig.voidz.option.allow_boss_respawn": "Разрешить возрождение босса",
+  "text.autoconfig.voidz.option.boss_respawn_time": "Время возрождения босса"
+}

@@ -1,0 +1,20 @@
+{
+  "itemGroup.pointblank-halflife-pack.items": "В Упор | Период Полураспада",
+  "item.pointblank.hl_taucannon": "Пушка Тау",
+  "item.pointblank.hl_uspmatch": "USP Матч",
+  "item.pointblank.hl_spas12": "SPAS-12",
+  "item.pointblank.hl_mp5": "MP5",
+  "item.pointblank.hl_resistancecrossbow": "Арбалет сопротивления",
+  "item.pointblank.hl_coltpython": "Кольт Питон",
+  "item.pointblank.hl_mp7": "MP7",
+  "item.pointblank.hl_pulserifle": "Импульсная винтовка сверхсмотра",
+  "item.pointblank.hl_crowbar": "Лом",
+  "item.pointblank.hl_rebar": "Арматура",
+  "item.pointblank.hl_resistancescope": "Прицел сопротивления",
+  "item.pointblank.hl_pythonlaser": "Лазерный прицел Кольта Питон",
+  "item.pointblank.hl_omegasight": "Прицел «Омега»",
+  "label.pointblank.fireMode.charge": "Заряд",
+  "label.pointblank.fireMode.chargemax": "Заряд на полную мощность",
+  "label.pointblank.fireMode.primary": "Первичный",
+  "label.pointblank.fireMode.secondary": "Вторичный"
+}

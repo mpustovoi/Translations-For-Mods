@@ -1,0 +1,43 @@
+{
+  "modmenu.descriptionTranslation.dawn": "API, который облегчает создание функций.\nТакже включает полезные команды, сущности и инструменты для пользователей.",
+
+  "itemGroup.dawn.creative_tools": "Творческие Инструменты",
+
+  "entity.dawn.custom_tnt": "Пользовательский динамит",
+  "entity.dawn.flying_block": "Летающий блок",
+
+  "commands.health.add.success.single": "Выдано %s очков здоровья %s",
+  "commands.health.add.success.multiple": "Выдано %s очков здоровья %s сущностям",
+  "commands.health.set.success.single": "Установлено %s очков здоровья %s",
+  "commands.health.set.success.multiple": "Установлено %s очков здоровья %s сущностям",
+  "commands.health.query.success": "%s имеет %s очков здоровья",
+  "commands.health.query.failed": "Цель не является живой сущностью",
+  "commands.foodbar.add.food.success.single": "Выдано %s очков еды %s",
+  "commands.foodbar.add.food.success.multiple": "Выдано %s очков еды %s сущностям",
+  "commands.foodbar.set.food.success.single": "Установлено %s очков еды %s",
+  "commands.foodbar.set.food.success.multiple": "Установлено %s очков еды %s сущностям",
+  "commands.foodbar.add.saturation.success.single": "Выдано %s очков насыщения %s",
+  "commands.foodbar.add.saturation.success.multiple": "Выдано %s очков насыщения %s сущностям",
+  "commands.foodbar.set.saturation.success.single": "Установлено %s очков насыщения %s",
+  "commands.foodbar.set.saturation.success.multiple": "Установлено %s очков насыщения %s сущностям",
+  "commands.foodbar.query.food": "%s имеет %s очков еды",
+  "commands.foodbar.query.saturation": "%s имеет %s очков насыщения",
+  "commands.motion.add.success.single": "Добавлено %s, %s, %s к движению %s",
+  "commands.motion.add.success.multiple": "Добавлено %s, %s, %s к движению %s сущностей",
+  "commands.motion.set.success.single": "Установлено %s, %s, %s к движению %s",
+  "commands.motion.set.success.multiple": "Установлено %s, %s, %s к движению %s сущностей",
+  "commands.export.start": "Начиная экспорт, ожидайте задержки в работе сервера и повышенное использование оперативной памяти...",
+  "commands.export.success": "Экспорт выполнен успешно! Просмотрите файлы здесь: %s",
+  "commands.export.fail.already_exists": "Папка для этого экспорта уже существует! Просмотрите здесь: %s, и удалите ее, если вы хотите экспортировать снова.",
+  "commands.export.fail.unknown": "Что-то странное во время экспорта, для дополнительной информации проверьте файлы журнала.",
+  "commands.export.dynamic.fail.multiplayer": "Нельзя экспортировать динамический контент в мультиплеер!",
+  "commands.shape.fail.invalid_id": "Нет настроенной фигуры с идентификатором '%s'.",
+  "commands.shape.fail.too_complex": "Настроенная фигура слишком сложна для памяти, выделенной для игры, попробуйте уменьшить сложность фигуры (например, количество процессоров) или увеличить объём памяти, выделенной для игры.",
+  "commands.shape.fail.too_much": "Сконфигурированная фигура вернула слишком много позиций для повторения (max %s, указанный %s)",
+  "commands.shape.fill.success": "Успешно заполнена конфигурируемая форма '%s' с %sx %s",
+  "chat.fileExplorer.click": "Нажмите, чтобы открыть в файловом менеджере",
+  "text.autoconfig.dawn.title": "Настройка Dawn API",
+  "text.autoconfig.dawn.category.features": "Boзмoжнocти",
+
+  "text.autoconfig.dawn.option.features.creativeToolsTab": "Включить вкладку творческих инструментов"
+}
