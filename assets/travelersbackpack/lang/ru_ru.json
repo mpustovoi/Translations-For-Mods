@@ -29,7 +29,7 @@
   "ability.travelersbackpack.redstone": "Редстоуновый блок в форме рюкзака. Даёт сильный сигнал редстоуна",
   "ability.travelersbackpack.spider": "Вы когда-нибудь пробовали лазать по стенам?",
   "ability.travelersbackpack.sponge": "Работает как губка и накапливает воду в резервуарах рюкзака. Для работы требуются пустые или не полностью заполненные водой резервуары",
-  "ability.travelersbackpack.squid": "Даёт подводное дыхание и ночное зрение во время нахождения в воде",
+  "ability.travelersbackpack.squid": "Даёт водное дыхание и ночное зрение во время нахождения в воде",
   "ability.travelersbackpack.warden": "+4 Максимальное здоровье. При атаке наносит эффект медлительности II на 2 секунды",
   "ability.travelersbackpack.when_equipped": "Когда надето:",
   "ability.travelersbackpack.wither": "Даёт силу иссушителя. При атаке наносит эффект иссушения II на 3 секунды",

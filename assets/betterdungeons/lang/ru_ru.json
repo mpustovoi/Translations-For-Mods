@@ -1,16 +1,16 @@
 {
   "Small Nether Dungeons are currently disabled by default. You can enable them in the mod's config.": "Сокровищницы в незере по умолчанию отключены. Вы можете включить их в настройках мода.",
 
-  "betterdungeons.small_dungeon.banner.zombie": "Грязное знамя",
-  "Foul Banner": "Грязное знамя",
-  "betterdungeons.small_dungeon.banner.skeleton": "Мстительное знамя",
-  "Vengeful Banner": "Мстительное знамя",
-  "betterdungeons.small_dungeon.banner.spider": "Призрачное знамя",
-  "Haunted Banner": "Призрачное знамя",
+  "betterdungeons.small_dungeon.banner.zombie": "Грязный флаг",
+  "Foul Banner": "Грязный флаг",
+  "betterdungeons.small_dungeon.banner.skeleton": "Мстительный флаг",
+  "Vengeful Banner": "Мстительный флаг",
+  "betterdungeons.small_dungeon.banner.spider": "Призрачный флаг",
+  "Haunted Banner": "Призрачный флаг",
 
-  "Banner of Decay": "Знамя распада",
-  "Banner of Pork": "Свинознамя",
-  "Banner of Rage": "Знамя ярости",
+  "Banner of Decay": "Флаг распада",
+  "Banner of Pork": "Свинофлаг",
+  "Banner of Rage": "Флаг ярости",
 
   "betterdungeons.advancements.root.title": "Улучшенные сокровищницы YUNG'а",
   "betterdungeons.advancements.root.description": "Приключение ждёт...",
@@ -68,7 +68,7 @@
   "text.autoconfig.betterdungeons-fabric-1_21.option.betterDungeons.zombieDungeon.zombieDungeonMaxSurfaceStaircaseLength.@Tooltip[1]": "Если сделать его слишком большим, это может вызвать проблемы.",
   "text.autoconfig.betterdungeons-fabric-1_21.option.betterDungeons.zombieDungeon.zombieDungeonMaxSurfaceStaircaseLength.@Tooltip[2]": "По умолчанию: 20",
 
-  "text.autoconfig.betterdungeons-fabric-1_21.option.betterDungeons.smallDungeon.bannerMaxCount": "Максимальное количество знамён в малой сокровищнице",
+  "text.autoconfig.betterdungeons-fabric-1_21.option.betterDungeons.smallDungeon.bannerMaxCount": "Максимальное количество флагов в малой сокровищнице",
   "text.autoconfig.betterdungeons-fabric-1_21.option.betterDungeons.smallDungeon.bannerMaxCount.@Tooltip[0]": "Максимальное количество баннеров, которые могут появиться в одной малой сокровищнице.",
   "text.autoconfig.betterdungeons-fabric-1_21.option.betterDungeons.smallDungeon.bannerMaxCount.@Tooltip[1]": "По умолчанию: 2",
 
@@ -85,7 +85,7 @@
   "text.autoconfig.betterdungeons-fabric-1_21.option.betterDungeons.smallDungeon.enableOreProps.@Tooltip[1]": "Если для этого параметра установлено значение false, любые рудные блоки в углах будут заменены воздухом.",
   "text.autoconfig.betterdungeons-fabric-1_21.option.betterDungeons.smallDungeon.enableOreProps.@Tooltip[2]": "По умолчанию: true",
 
-  "text.autoconfig.betterdungeons-fabric-1_21.option.betterDungeons.smallNetherDungeon.bannerMaxCount": "Максимальное количество знамён в малой незерской сокровищнице",
+  "text.autoconfig.betterdungeons-fabric-1_21.option.betterDungeons.smallNetherDungeon.bannerMaxCount": "Максимальное количество флагов в малой незерской сокровищнице",
   "text.autoconfig.betterdungeons-fabric-1_21.option.betterDungeons.smallNetherDungeon.bannerMaxCount.@Tooltip[0]": "Максимальное количество баннеров, которые могут появиться в одной малой незерской сокровищнице.",
   "text.autoconfig.betterdungeons-fabric-1_21.option.betterDungeons.smallNetherDungeon.bannerMaxCount.@Tooltip[1]": "По умолчанию: 2",
 

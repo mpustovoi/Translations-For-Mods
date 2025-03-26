@@ -140,5 +140,8 @@
   "betterstats.gui.qs_screen.err.dwnl.act.http_non200": "Не удалось загрузить файл статистики, так как сервер ответил:\n%s",
 
   "modmenu.summaryTranslation.betterstats": "Улучшенное и более полезное меню просмотра статистики.",
-  "modmenu.descriptionTranslation.betterstats": "Улучшает функционал меню просмотра статистики и делает его более полезным."
+  "modmenu.descriptionTranslation.betterstats": "Улучшает функционал меню просмотра статистики и делает его более полезным.",
+
+  "gui.abuseReport.type.name": "Имя игрока",
+  "symlink_warning.more_info": "Больше информации"
 }

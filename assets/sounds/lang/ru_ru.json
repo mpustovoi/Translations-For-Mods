@@ -42,8 +42,8 @@
   "sounds.config.furnaceMinecartFuel.option.description": "Звук, воспроизводимый при загрузке топлива в самоходную вагонетку.",
 
   "sounds.config.world.actions": "Действия",
-  "sounds.config.option.enableEnderpearlVariety.name": "Разнообразие звуков Эндер-жемчуга",
-  "sounds.config.option.description.enableEnderpearlVariety": "Должен ли звук, воспроизводимый при броске Эндер-жемчуга, быть случайным и более похожим на телепортацию плодами хоруса?",
+  "sounds.config.option.enableEnderpearlVariety.name": "Разнообразие звуков эндер-жемчуга",
+  "sounds.config.option.description.enableEnderpearlVariety": "Должен ли звук, воспроизводимый при броске эндер-жемчуга, быть случайным и более похожим на телепортацию плодами хоруса?",
   "sounds.config.frostWalker.option": "Заморозка «Ледоходом»",
   "sounds.config.frostWalker.option.description": "Звук, воспроизводимый, когда ботинки с зачарованием «Ледоход» замораживают воду.",
   "sounds.config.leadSnapping.option": "Отвязывание мобов",
