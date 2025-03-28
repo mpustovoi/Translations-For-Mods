@@ -17,7 +17,7 @@
 </details>
 
 # Translations-For-Mods
-Aresource pack for **Karbin_Drem**'s modpacks.
+A resource pack for **Karbin_Drem**'s modpacks.
 
 The list of affected mods/datapacks can be found nowhere and this is unlikely to change. (Actually, it's enough to open the `assets` folder)
 
