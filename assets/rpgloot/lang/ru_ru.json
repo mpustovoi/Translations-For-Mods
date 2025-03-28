@@ -1,5 +1,6 @@
 {
   "block.rpgloot.legendary.golden_spawner": "Золотой рассадник",
+  "datapack.uncraftable.rpgloot.name": "§fНабор с §3RPG§r§f добычей\n§7(Только ванильные предметы)",
   "item.rpgloot.epic.atlantean_potion": "Атлантийское зелье",
   "item.rpgloot.epic.bow": "Эпический лук",
   "item.rpgloot.epic.chainmail_boots": "Эпические кольчужные ботинки",
@@ -164,5 +165,16 @@
   "item.rpgloot.uncommon.stone_sword": "Необычный каменный меч",
   "item.rpgloot.uncommon.vial_of_the_crimson_rite": "Флакон с багровым ритуалом",
   "item.rpgloot.uncommon.wooden_axe": "Необычный деревянный топор",
-  "item.rpgloot.uncommon.wooden_sword": "Необычный деревянный меч"
+  "item.rpgloot.uncommon.wooden_sword": "Необычный деревянный меч",
+  "message.rpgloot.epic_item": "Выдан 1 эпический предмет",
+  "message.rpgloot.epic_potion": "Выдано 1 эпическое зелье",
+  "message.rpgloot.legendary_item": "Выдан 1 легендарный предмет",
+  "message.rpgloot.legendary_potion": "Выдано 1 легендарное зелье",
+  "message.rpgloot.random_item": "Выдан 1 случайный предмет",
+  "message.rpgloot.random_potion": "Выдано 1 случайное зелье",
+  "message.rpgloot.rare_item": "Выдан 1 редкий предмет",
+  "message.rpgloot.rare_potion": "Выдано 1 редкое зелье",
+  "message.rpgloot.uncommon_item": "Выдан 1 необычный предмет",
+  "message.rpgloot.uncommon_potion": "Выдано 1 необычное зелье",
+  "resourcepack.rpgloot.description": "§fПереводы для§r набора §3RPG-добычи§r"
 }

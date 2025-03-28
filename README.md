@@ -2,7 +2,7 @@
 <summary>RU</summary>
 
 # Переводы-Для-Модов
-Обязательный набор ресурсов для модпаков **Karbin_Drem**.
+Набор ресурсов для модпаков **Karbin_Drem**.
 
 Перечень затрагиваемых модов/наборов данных можно найти нигде и это навряд ли изменится. (На самом деле достаточно открыть папку `assets`)
 
@@ -17,7 +17,7 @@
 </details>
 
 # Translations-For-Mods
-A required resource pack for **Karbin_Drem**'s modpacks.
+Aresource pack for **Karbin_Drem**'s modpacks.
 
 The list of affected mods/datapacks can be found nowhere and this is unlikely to change. (Actually, it's enough to open the `assets` folder)
 

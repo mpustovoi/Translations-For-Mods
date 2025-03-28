@@ -1,5 +1,6 @@
 {
   "block.rpgloot.legendary.golden_spawner": "Golden Spawner",
+  "datapack.rpgloot.description": "§3RPG §bLoot§r pack\n§7(Only Vanilla items)",
   "item.rpgloot.epic.atlantean_potion": "Atlantean Potion",
   "item.rpgloot.epic.bow": "Epic Bow",
   "item.rpgloot.epic.chainmail_boots": "Epic Chainmail Boots",
@@ -164,5 +165,16 @@
   "item.rpgloot.uncommon.stone_sword": "Uncommon Stone Sword",
   "item.rpgloot.uncommon.vial_of_the_crimson_rite": "Vial of the Crimson Rite",
   "item.rpgloot.uncommon.wooden_axe": "Uncommon Wooden Axe",
-  "item.rpgloot.uncommon.wooden_sword": "Uncommon Wooden Sword"
+  "item.rpgloot.uncommon.wooden_sword": "Uncommon Wooden Sword",
+  "message.rpgloot.epic_item": "Given 1 Epic item",
+  "message.rpgloot.epic_potion": "Given 1 Epic potion",
+  "message.rpgloot.legendary_item": "Given 1 Legendary item",
+  "message.rpgloot.legendary_potion": "Given 1 Legendary potion",
+  "message.rpgloot.random_item" :"Given 1 random item",
+  "message.rpgloot.random_potion": "Given 1 random potion",
+  "message.rpgloot.rare_item": "Given 1 Rare item",
+  "message.rpgloot.rare_potion": "Given 1 Rare potion",
+  "message.rpgloot.uncommon_item": "Given 1 Uncommon item",
+  "message.rpgloot.uncommon_potion": "Given 1 Uncommon potion",
+  "resourcepack.rpgloot.description": "§fTranslations for §3RPG Loot§r pack"
 }

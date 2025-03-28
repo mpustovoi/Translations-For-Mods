@@ -41,5 +41,8 @@
   "takesapillage.configGui.hardGolemRate.title": "Замена глиняного голема на сложной сложности",
   "takesapillage.configGui.pillageSiegesOccur.title": "Разбойничьи осады",
   "instrument.takesapillage.raid_horn": "Рейдовый рог",
-  "item_group.takesapillage.main_tab": "Продолжение «Этому Нужен Рейд»"
+  "item_group.takesapillage.main_tab": "Продолжение «Этому Нужен Рейд»",
+
+  "item.takesapillage.bastille_blues_music_disc.desc": "изофар — Bastille Blues",
+  "item.takesapillage.bastille_blues_music_disc": "Пластинка"
 }

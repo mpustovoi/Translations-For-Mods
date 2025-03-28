@@ -5,6 +5,7 @@ Thumbs.db
 *.tmp
 *.bak
 *.swp
+*.~*
 
 .idea/
 .vscode/
@@ -20,3 +21,7 @@ Thumbs.db
 *.zip
 *.jar
 *.rar
+
+generated/
+*.mcmeta
+!pack.mcmeta
