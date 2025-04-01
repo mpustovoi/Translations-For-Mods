@@ -245,8 +245,8 @@
   "itemGroup.spore_t": "Технологии Споры",
 
 
-  "item.armor.shift": "Зажав SHIFT, можно взобраться по стене.",
-  "item.armor.normal": "Зажми SHIFT для информации.",
+  "item.armor.shift": "Зажав Shift, можно взобраться по стене.",
+  "item.armor.normal": "Зажми Shift для информации.",
   "item.rapier.corrosive": "Наносит коррозийные ранения",
 
   "sounds.spore.damage": "Заражённый ранен",
@@ -267,7 +267,7 @@
   "sounds.spore.record": "Воспроизведение заражённой пластинки",
 
   "item.line.shift": "Питательный суп, приготовленный из животной материи.",
-  "item.line.normal": "Зажми SHIFT для информации.",
+  "item.line.normal": "Зажмите Shift для информации.",
 
   "hivemind_summon_message": "Выдержи...",
   "calamity_summon_message": "Приготовься...",
@@ -308,7 +308,7 @@
   "block.spore.lab_block": "Лабораторный блок",
   "block.spore.lab_slab": "Лабораторная плита",
   "block.spore.lab_stair": "Лабораторные ступени",
-  "container.line.normal": "Зажми SHIFT для информации.",
+  "container.line.normal": "Зажми Shift для информации.",
   "container.line.shift": "Ячейка хранилища биологической опасности — прекрасное дополнение для хранения органических материалов.",
   "cdu.line": "Криогенный дозатор"
 }

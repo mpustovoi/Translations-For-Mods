@@ -1,0 +1,20 @@
+{
+  "block.create_d2d.amethyst_block_pillar": "Amethyst Pillar",
+  "block.create_d2d.cut_amethyst_block": "Cut Amethyst",
+  "block.create_d2d.cut_amethyst_block_brick_slab": "Cut Amethyst Brick Slab",
+  "block.create_d2d.cut_amethyst_block_brick_stairs": "Cut Amethyst Brick Stairs",
+  "block.create_d2d.cut_amethyst_block_brick_wall": "Cut Amethyst Brick Wall",
+  "block.create_d2d.cut_amethyst_block_bricks": "Cut Amethyst Bricks",
+  "block.create_d2d.cut_amethyst_block_slab": "Cut Amethyst Slab",
+  "block.create_d2d.cut_amethyst_block_stairs": "Cut Amethyst Stairs",
+  "block.create_d2d.cut_amethyst_block_wall": "Cut Amethyst Wall",
+  "block.create_d2d.layered_amethyst_block": "Layered Amethyst",
+  "block.create_d2d.polished_cut_amethyst_block": "Polished Cut Amethyst",
+  "block.create_d2d.polished_cut_amethyst_block_slab": "Polished Cut Amethyst Slab",
+  "block.create_d2d.polished_cut_amethyst_block_stairs": "Polished Cut Amethyst Stairs",
+  "block.create_d2d.polished_cut_amethyst_block_wall": "Polished Cut Amethyst Wall",
+  "block.create_d2d.small_amethyst_block_brick_slab": "Small Amethyst Brick Slab",
+  "block.create_d2d.small_amethyst_block_brick_stairs": "Small Amethyst Brick Stairs",
+  "block.create_d2d.small_amethyst_block_brick_wall": "Small Amethyst Brick Wall",
+  "block.create_d2d.small_amethyst_block_bricks": "Small Amethyst Bricks"
+}

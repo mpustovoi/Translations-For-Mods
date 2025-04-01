@@ -1,0 +1,57 @@
+{
+  "block.createqol.alchemy_saw": "Alchemy Saw",
+  "block.createqol.botanist_saw": "Botanist Saw",
+  "block.createqol.carpenters_saw": "Carpenters Saw",
+  "block.createqol.glassblower_saw": "Glassblower Saw",
+  "block.createqol.inventory_linker": "Inventory Linker",
+  "block.createqol.loom_saw": "Loom Saw",
+  "block.createqol.mason_saw": "Mason Saw",
+  "block.createqol.tinkering_saw": "Tinkering Saw",
+
+  "item.createqol.player_paper": "Player Paper",
+  "item.createqol.shadow_radiance": "Shadow Radiance",
+  "item.createqol.shadow_radiance_helmet": "Shadow Radiance Helmet",
+  "item.createqol.shadow_radiance_chestplate": "Shadow Radiance Chestplate",
+  "item.createqol.shadow_radiance_chestplate_placeable": "Shadow Radiance Chestplate Placeable",
+  "item.createqol.shadow_radiance_leggings": "Shadow Radiance Leggings",
+  "item.createqol.shadow_radiance_boots": "Shadow Radiance Boots",
+
+  "create.options.createqol.inventory_linker.label": "Inventory Link Mode",
+  "create.options.createqol.inventory_linker.inventory": "Inventory",
+  "create.options.createqol.inventory_linker.armor": "Armor",
+  "create.options.createqol.inventory_linker.off_hand": "Offhand",
+
+  "tooltip.createqol.player_paper.linked_player": "Linked Player: %s",
+  "tooltip.createqol.player_paper.no_linked_player": "No Player Linked",
+
+  "item.createqol.player_paper.tooltip": "PLAYER PAPER",
+  "item.createqol.player_paper.tooltip.summary": "Link any player to this item",
+  "item.createqol.player_paper.tooltip.condition1": "When right-clicked when empty",
+  "item.createqol.player_paper.tooltip.behaviour1": "Stock _the player_ who clicked",
+  "item.createqol.player_paper.tooltip.condition2": "When right-clicked while Sneaking when full",
+  "item.createqol.player_paper.tooltip.behaviour2": "Clear the stocked player",
+
+  "block.createqol.inventory_linker.tooltip": "INVENTORY LINKER",
+  "block.createqol.inventory_linker.tooltip.summary": "Link any player's inventory to this block",
+  "block.createqol.inventory_linker.tooltip.condition1": "When right-clicked with a full player paper",
+  "block.createqol.inventory_linker.tooltip.behaviour1": "Put the _player paper_ in the block",
+
+  "item.createqol.shadow_radiance_chestplate.tooltip.behaviour1": "Provides _Pressurized_ _Air_ to Equipment that requires it. Can be _configured_ with a _Keybind_",
+  "item.createqol.shadow_radiance_chestplate.tooltip.behaviour2": "_Collects_ _Pressurized_ _Air_ at a rate depending on the Rotational Speed.",
+  "item.createqol.shadow_radiance_chestplate.tooltip.behaviour3": "_Adds_ _Propeller_ to the Chestplate.",
+  "item.createqol.shadow_radiance_chestplate.tooltip.condition1": "When Worn",
+  "item.createqol.shadow_radiance_chestplate.tooltip.condition2": "When placed, Powered by Kinetics",
+  "item.createqol.shadow_radiance_chestplate.tooltip.condition3": "When placed, right-clicked with Propeller",
+  "item.createqol.shadow_radiance_chestplate.tooltip.summary": "A _Wearable_ _Tank_ for carrying Pressurized Air.",
+
+  "item.createqol.shadow_armor.tooltip.summary": "A _powerful armor_ which provides _useful stuff_.",
+  "item.createqol.shadow_armor.tooltip.condition1": "When Worn",
+  "item.createqol.shadow_armor.tooltip.behaviour1": "Can be _configured_ with a _Keybind_",
+
+  "itemGroup.createqol": "Create: Quality of Life",
+  "keybind.createqol.category": "Create: Quality of Life",
+
+  "keybind.createqol.shadow_radiance_chestplate_fans": "Toggle Fans",
+  "keybind.createqol.shadow_radiance_chestplate_hover": "Toggle Hover",
+  "keybind.createqol.open_armor_config": "Open Armor Config"
+}

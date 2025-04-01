@@ -21,8 +21,8 @@
   "item.expandeddelight.peanut_butter_honey_sandwich": "Бутерброд с арахисовым маслом и мёдом",
   "item.expandeddelight.peanut_salad": "Арахисовый салат",
   "item.expandeddelight.peanut_honey_soup": "Медово-арахисовый суп",
-  "item.expandeddelight.sweet_berry_jelly_sandwich": "Сэндвич с арахисовым маслом и сладким ягодным желе",
-  "item.expandeddelight.glow_berry_jelly_sandwich": "Сэндвич с арахисовым маслом и светящимся ягодным желе",
+  "item.expandeddelight.sweet_berry_jelly_sandwich": "Сэндвич с арахисовым маслом и желе из сладких ягод",
+  "item.expandeddelight.glow_berry_jelly_sandwich": "Сэндвич с арахисовым маслом и желе из светящихся ягод",
 
   "item.expandeddelight.cranberries": "Клюква",
   "item.expandeddelight.cranberry_chicken": "Курица с клюквой",
@@ -58,12 +58,12 @@
   "item.expandeddelight.snickerdoodle": "Хихикающий каракуль",
 	
   "item.expandeddelight.apple_juice": "Яблочный сок",
-  "item.expandeddelight.sweet_berry_juice": "Сладкий ягодный сок",
-  "item.expandeddelight.glow_berry_juice": "Светящийся ягодный сок",
+  "item.expandeddelight.sweet_berry_juice": "Сок из сладких ягод",
+  "item.expandeddelight.glow_berry_juice": "Сок из светящихся ягод",
   "item.expandeddelight.cranberry_juice": "Клюквенный сок",
 	
-  "item.expandeddelight.sweet_berry_jelly": "Сладкое ягодное желе",
-  "item.expandeddelight.glow_berry_jelly": "Светящееся ягодное желе",
+  "item.expandeddelight.sweet_berry_jelly": "Желе из сладких ягод",
+  "item.expandeddelight.glow_berry_jelly": "Желе из светящихся ягод",
   "item.expandeddelight.cranberry_jelly": "Клюквенное желе",
 	
   "item.expandeddelight.juicer_item": "Соковыжималка",

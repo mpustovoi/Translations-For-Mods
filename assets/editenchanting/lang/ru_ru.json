@@ -11,7 +11,7 @@
   "desc.editenchanting.tip": "Tip: ",
   "desc.editenchanting.require": "Требуется %s",
   "desc.editenchanting.exp": "опыта",
-  "desc.editenchanting.shift": "[SHIFT]",
+  "desc.editenchanting.shift": "[Shift]",
   "desc.editenchanting.empty": "     ",
   "config.editenchanting.max_text_width": "110",
   "config.editenchanting.position": "125",

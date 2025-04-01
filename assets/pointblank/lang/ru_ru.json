@@ -1,4 +1,6 @@
 {
+  "poinblank.resources": "Ресурсы «В Упор»",
+  "pointblank.resources.extension_resources": "Ресурсы мода «Vic's Point Blank»",
   "block.pointblank.printer": "Оружейный окрашиватель",
   "block.pointblank.workstation": "Рабочая станция торговца оружием",
   "description.pointblank.allowsSightsetc": "Позволяет размещать прицелы/рукояти",

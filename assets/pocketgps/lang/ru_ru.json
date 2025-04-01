@@ -1,7 +1,7 @@
 {
   "tab.pocketgps": "Карманный GPS",
   "item.pocketgps.gps": "Карманный GPS",
-  "item.pocketgps.gps.tooltip.default": "Удерживайте SHIFT для подробной информации",
+  "item.pocketgps.gps.tooltip.default": "Удерживайте Shift для подробной информации",
   "item.pocketgps.gps.tooltip_1": "Наличие этого предмета в вашем инвентаре",
   "item.pocketgps.gps.tooltip_2": "позволяет использовать миникарты",
   "item.pocketgps.gps.tooltip_3": "Щёлкните ПКМ для переключения",

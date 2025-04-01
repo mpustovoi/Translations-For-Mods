@@ -19,7 +19,7 @@
   "commands.hordes.StartHorde.wrongArgCount": "Wrong number of arguments supplied for /startHordeEvent",
   "commands.hordes.StopHorde.success": "Stopped active horde event",
   "commands.hordes.StopHorde.usage": "/hordes stop",
-  "datapack.hordes.description": "§4The Hordes§r config datapack",
+  "datapack.hordes.description": "§4The Hordes§r config data pack",
   "death.attack.infection.zombified": "%1$s was zombified.",
   "death.attack.infection": "%1$s succumbed to zombie infection.",
   "effect.hordes.immunity.description": "Provides protection against the zombie infection.",

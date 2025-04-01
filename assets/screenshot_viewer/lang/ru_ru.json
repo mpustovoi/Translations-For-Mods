@@ -1,6 +1,6 @@
 {
   "screen.screenshot_viewer.manage_screenshots": "Управление снимками экрана",
-  "screen.screenshot_viewer.screenshot_manager.zoom": "Режим масштабирования (Удерживайте CTRL)",
+  "screen.screenshot_viewer.screenshot_manager.zoom": "Режим масштабирования (Удерживайте Ctrl)",
   "screen.screenshot_viewer.screenshot_manager.fast_delete": "Режим быстрого удаления",
   "screen.screenshot_viewer.screenshot_manager.no_screenshots": "Похоже, вы ещё не сделали ни одного снимка экрана!",
   "screen.screenshot_viewer.screenshot_manager.delete_n_screenshots": "Удалить %d снимков экрана",
@@ -25,7 +25,7 @@
   "screen.screenshot_viewer.button_placement.movement": "Щёлкните ПКМ, чтобы переместить виджет в положение мыши.",
   "screen.screenshot_viewer.button_placement.confirm": "Нажмите ENTER для подтверждения, ESCAPE для отмены, R для сброса.",
   "tooltip.screenshot_viewer.redirect_to_screenshot_manager": "Открыть снимок экрана в менеджере...",
-  "tooltip.screenshot_viewer.menu_hint": "Щёлкните ПКМ, чтобы управлять \nНажмите CTRL-C для копирования в буфер обмена",
+  "tooltip.screenshot_viewer.menu_hint": "Щёлкните ПКМ, чтобы управлять \nНажмите Ctrl-C для копирования в буфер обмена",
 
   "screen.screenshot_viewer.config": "Настройки Просмотра Снимков Экрана",
   "config.screenshot_viewer.show_button_in_game_pause_menu": "Показывать кнопку в меню паузы",

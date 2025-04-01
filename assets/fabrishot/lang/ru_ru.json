@@ -4,7 +4,7 @@
   "fabrishot.config.custom_file_name": "Формат имени файла",
   "fabrishot.config.custom_file_name.tooltip": "Используйте %time% для времени,\n%world% для имени мира или сервера",
   "fabrishot.config.override_screenshot_key": "Заменить обычный снимок экрана на Fabrishot",
-  "fabrishot.config.hide_hud": "Автоматически скрывает интерфейс",
+  "fabrishot.config.hide_hud": "Автоматически скрывать интерфейс",
   "fabrishot.config.save_file": "Сохранять файл снимка экрана",
   "fabrishot.config.disable_gui_scaling": "Отключить масштабирование интерфейса",
   "fabrishot.config.width": "Ширина снимка экрана",

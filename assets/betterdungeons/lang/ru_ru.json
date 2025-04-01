@@ -92,8 +92,8 @@
   "text.autoconfig.betterdungeons-fabric-1_21.option.betterDungeons.smallNetherDungeon.enabled": "Включить малые незерские сокровищницы",
   "text.autoconfig.betterdungeons-fabric-1_21.option.betterDungeons.smallNetherDungeon.enabled.@Tooltip": "Должны ли генерироваться малые незерские сокровищницы.",
 
-  "text.autoconfig.betterdungeons-fabric-1_21.option.betterDungeons.smallNetherDungeon.witherSkeletonsDropWitherSkulls": "Визер-скелеты из рассадников сбрасывают черепа",
-  "text.autoconfig.betterdungeons-fabric-1_21.option.betterDungeons.smallNetherDungeon.witherSkeletonsDropWitherSkulls.@Tooltip": "Могут ли визер-скелеты из маленьких незерских сокровищниц сбрасывать свои черепа.",
+  "text.autoconfig.betterdungeons-fabric-1_21.option.betterDungeons.smallNetherDungeon.witherSkeletonsDropWitherSkulls": "Скелеты-иссушители из рассадников сбрасывают черепа",
+  "text.autoconfig.betterdungeons-fabric-1_21.option.betterDungeons.smallNetherDungeon.witherSkeletonsDropWitherSkulls.@Tooltip": "Могут ли скелеты-иссушители из маленьких незерских сокровищниц сбрасывать свои черепа.",
 
   "text.autoconfig.betterdungeons-fabric-1_21.option.betterDungeons.smallNetherDungeon.blazesDropBlazeRods": "Всполохи из рассадников сбрасывают огненные стержни",
   "text.autoconfig.betterdungeons-fabric-1_21.option.betterDungeons.smallNetherDungeon.blazesDropBlazeRods.@Tooltip": "Могут ли всполохи из незерских сокровищниц сбрасывать огненные стержни."

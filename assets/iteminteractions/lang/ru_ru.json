@@ -1,0 +1,9 @@
+{
+  "item.container.tooltip.hold": "Удерживайте",
+  "item.container.tooltip.press": "Нажмите",
+  "item.container.tooltip.revealContents": "%s %s, чтобы открыть содержимое",
+  "key.categories.iteminteractions": "Взаимодействие Предметов",
+  "key.toggleCarriedItemTooltips": "Переключить подсказки о переносимом предмете",
+  "key.toggleSelectedItemTooltips": "Переключить подсказки о выбранном предмете",
+  "key.toggleVisualItemContents": "Переключить визуальное содержимое предмета"
+}

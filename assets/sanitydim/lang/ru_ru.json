@@ -41,7 +41,7 @@
   "gui.sanitydim.hint17": "СЛИШКОМ ГРОМКО, СЛИШКОМ ГРОМКО, СЛИШКОМ ГРОМКО",
   "gui.sanitydim.hint18": "ГОЛОСА... Я НЕ МОГУ...",
 
-  "item.sanitydim.tooltip.press_shift": "§7Нажмите §9SHIFT§7 для дополнительной информации",
+  "item.sanitydim.tooltip.press_shift": "§7Нажмите §9Shift§7 для дополнительной информации",
   "item.sanitydim.garland": "Венок",
   "item.sanitydim.garland.tooltip": "§7То, что поможет успокоить нервы.\n\nМедленно восстанавливает ваше здравомыслие и делает вас немного более стрессоустойчивым.",
   "itemGroup.sanitydim": "Погружение в Безумие"

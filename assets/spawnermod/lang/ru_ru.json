@@ -2,31 +2,33 @@
   "item.spawnermod.spawner_key": "Ключ рассадника",
   "item.spawnermod.iron_golem_spawn_egg": "Яйцо призыва железного голема",
   "itemGroup.spawnermod": "Улучшенные Рассадники",
-  
+
   "button.count.default": "Стандартное кол-во",
   "button.count.low": "Пониженное кол-во",
   "button.count.high": "Повышенное кол-во",
   "button.count.very_high": "Максимальное кол-во",
   "button.count.disabled": "Отключён",
-  
+
   "button.speed.default": "Стандартная скорость",
   "button.speed.low": "Медленная скорость",
   "button.speed.high": "Высокая скорость",
   "button.speed.very_high": "Максимальная скорость",
   "button.speed.disabled": "Отключён",
-  
+
   "button.range.default": "Радиус активации:",
   "button.range.low": "Радиус активации:",
   "button.range.high": "Радиус активации:",
   "button.range.very_high": "Радиус активации:",
   "button.range.disabled": "Отключён",
   "button.range.custom": "Пользовательский радиус",
-  
+
   "button.toggle.enabled": "Рассадник включён",
   "button.toggle.disabled": "Рассадник выключен",
-  
+
   "button.save": "Применить",
   "button.cancel": "Отмена",
-  
-  "tooltip.spawnermod.spawner_key_disabled": "Ключ рассадника отключен"
+
+  "tooltip.spawnermod.spawner_key_disabled": "Ключ рассадника отключен",
+
+  "gui.spawnermod.spawner_config_screen_title": "Конфигурация рассадника"
 }

@@ -5,5 +5,7 @@
   "deleteworldstotrash.selectWorld.recycleBin": "корзину",
   "deleteworldstotrash.selectWorld.recycleBinButton": "корзину",
   "deleteworldstotrash.selectWorld.trash": "мусор",
-  "deleteworldstotrash.selectWorld.trashButton": "мусор"
+  "deleteworldstotrash.selectWorld.trashButton": "мусор",
+  "deleteworldstotrash.selectWorld.deleteButton.recycle_bin": "'%s' будет перемещён в корзину, чтобы вы могли восстановить его позже, при необходимости.",
+  "deleteworldstotrash.selectWorld.deleteButton.trash": "'%s' будет перемещён в мусор, чтобы вы могли восстановить его позже, при необходимости."
 }

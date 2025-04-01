@@ -1,0 +1,19 @@
+{
+  "block.create_mechanical_chicken.chicken_nutrient": "Куриный субстрат",
+  "block.create_mechanical_chicken.mechanical_chicken": "Механическая курица",
+  "block.create_mechanical_chicken.mechanical_chicken.tooltip": "МЕХАНИЧЕСКАЯ курица",
+  "block.create_mechanical_chicken.mechanical_chicken.tooltip.summary": "Генератор куриных _яиц_.",
+  "config.jade.plugin_create_mechanical_chicken.data": "Данные механической курицы",
+  "create_mechanical_chicken.chicken.tooltip.progress": "Прогресс: %d%%",
+  "create_mechanical_chicken.itemGroup.create_mechanical_chicken:main": "Create: Механическая Курица",
+  "create_mechanical_chicken.ponder.mechanical_chicken.header": "Генерирует куриные яйца",
+  "create_mechanical_chicken.ponder.mechanical_chicken.text_1": "Механическая курица использует вращательную силу и специальную жидкость для генерации яиц",
+  "create_mechanical_chicken.ponder.mechanical_chicken.text_2": "Он запитывается снизу",
+  "create_mechanical_chicken.ponder.mechanical_chicken.text_3": "Подача жидкости может осуществляться ТОЛЬКО с ПЕРЕДНЕЙ стороны",
+  "create_mechanical_chicken.ponder.mechanical_chicken.text_4": "Выход яиц осуществляется ТОЛЬКО с ЗАДНЕЙ стороны",
+  "create_mechanical_chicken.ponder.mechanical_chicken.text_5": "Может быть извлечён только с помощью автоматизации",
+  "create_mechanical_chicken.recipe": "Рецепт механической курицы",
+  "fluid.create_mechanical_chicken.chicken_nutrient": "Куриный субстрат",
+  "item.create_mechanical_chicken.chicken_nutrient_bucket": "Ведро куриного субстрата",
+  "itemGroup.create_mechanical_chicken:main": "Create: Механическая Курица"
+}

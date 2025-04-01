@@ -195,5 +195,7 @@
   "message.pointblank.preparing": "Preparing",
   "message.pointblank.press_and_hold_to_craft": "Press and hold to craft",
   "message.pointblank.reloading": "Reloading",
-  "message.pointblank.targetAcquired": "Target acquired"
+  "message.pointblank.targetAcquired": "Target acquired",
+  "poinblank.resources": "Point Blank Resources",
+  "pointblank.resources.extension_resources": "Vic's Point Blank mod resources"
 }
