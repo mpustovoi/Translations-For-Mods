@@ -1,0 +1,32 @@
+{
+  "voxy.config.title": "Настройки Voxy",
+
+  "voxy.config.general": "Основные",
+  "voxy.config.threads": "Обработка",
+  "voxy.config.storage": "Хранение",
+
+  "voxy.config.general.enabled": "Включить Voxy",
+  "voxy.config.general.enabled.tooltip": "Полностью переключает функционал Voxy.",
+  "voxy.config.general.ingest": "Поглощение чанков",
+  "voxy.config.general.ingest.tooltip": "Включает или отключает возможность Voxy преобразовывать новые чанки.",
+  "voxy.config.general.quality": "Качество детализации",
+  "voxy.config.general.quality.tooltip": "Удалённость области понижения детализации.",
+  "voxy.config.general.geometryBuffer": "Геометрический буфер",
+  "voxy.config.general.geometryBuffer.tooltip": "Максимальное количество пар полигонов в геометрическом буфере.",
+  "voxy.config.general.maxSections": "Лимит секций",
+  "voxy.config.general.maxSections.tooltip": "Максимальное количество секций для отрисовки.",
+  "voxy.config.general.renderDistance": "Прорисовка",
+  "voxy.config.general.renderDistance.tooltip": "Дальность выгрузки чанков ('-1' для отключения).",
+  "voxy.config.general.nvmesh": "Использовать сеточные шейдеры",
+  "voxy.config.general.nvmesh.tooltip": "Использовать сеточные шейдеры Nvidia для\nускорения отрисовки уровней детализации\n(если поддерживается).",
+
+  "voxy.config.threads.ingest": "Поглощение",
+  "voxy.config.threads.ingest.tooltip": "Сколько потоков Voxy будет использовать для поглощения новых чанков.",
+  "voxy.config.threads.saving": "Сохранение",
+  "voxy.config.threads.saving.tooltip": "Сколько потоков Voxy будет использовать для сохранения секций во внутреннем хранилище.",
+  "voxy.config.threads.render": "Отрисовка",
+  "voxy.config.threads.render.tooltip": "Сколько потоков Voxy будет использовать для генерации данных для отрисовки.",
+
+  "modmenu.summaryTranslation.voxy": "Мод для отрисовки уровней детализации.",
+  "modmenu.descriptionTranslation.voxy": "Отрисовка геометрии удалённой местности с использованием уровней детализации."
+}

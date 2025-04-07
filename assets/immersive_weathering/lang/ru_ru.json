@@ -211,15 +211,15 @@
   "item.immersive_weathering.golden_moss_clump": "Золотой комок мха",
   "item.immersive_weathering.enchanted_golden_moss_clump": "Зачарованный золотой комок мха",
 
-  "block.immersive_weathering.oak_leaf_pile": "Куча дубовых листьев",
-  "block.immersive_weathering.spruce_leaf_pile": "Куча еловых листьев",
-  "block.immersive_weathering.birch_leaf_pile": "Куча берёзовых листьев",
-  "block.immersive_weathering.jungle_leaf_pile": "Куча листьев тропического дерева",
-  "block.immersive_weathering.acacia_leaf_pile": "Куча листьев акации",
-  "block.immersive_weathering.dark_oak_leaf_pile": "Куча листьев тёмного дуба",
-  "block.immersive_weathering.azalea_leaf_pile": "Куча листьев азалии",
-  "block.immersive_weathering.flowering_azalea_leaf_pile": "Куча листьев цветущей азалии",
-  "block.immersive_weathering.azalea_flower_pile": "Куча цветов азалии",
+  "block.immersive_weathering.oak_leaf_pile": "Кучка дубовых листьев",
+  "block.immersive_weathering.spruce_leaf_pile": "Кучка еловых листьев",
+  "block.immersive_weathering.birch_leaf_pile": "Кучка берёзовых листьев",
+  "block.immersive_weathering.jungle_leaf_pile": "Кучка листьев тропического дерева",
+  "block.immersive_weathering.acacia_leaf_pile": "Кучка листьев акации",
+  "block.immersive_weathering.dark_oak_leaf_pile": "Кучка листьев тёмного дуба",
+  "block.immersive_weathering.azalea_leaf_pile": "Кучка листьев азалии",
+  "block.immersive_weathering.flowering_azalea_leaf_pile": "Кучка листьев цветущей азалии",
+  "block.immersive_weathering.azalea_flower_pile": "Кучка цветов азалии",
 
   "item.immersive_weathering.oak_bark": "Кора дуба",
   "item.immersive_weathering.spruce_bark": "Кора ели",
@@ -456,7 +456,7 @@
   "block.immersive_weathering.waxed_rusted_iron_bars": "Вощёные ржавые железные прутья",
   
   "item.immersive_weathering.bark": "Кора %s",
-  "block.immersive_weathering.leaf_pile": "Куча листьев %s",
+  "block.immersive_weathering.leaf_pile": "Кучка листьев %s",
 
   "sound.immersive_weathering.ice.crack": "Треск тонкого льда"
 }

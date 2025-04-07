@@ -1,6 +1,8 @@
 {
+  "entity.minecraft.villager.chef": "Шеф-повар",
   "entity.minecraft.villager.chefsdelight.delightchef": "Шеф-повар",
   "entity.minecraft.villager.chefsdelight.delightcook": "Повар",
+  "entity.minecraft.villager.cook": "Повар",
   "entity.minecraft.villager.delightchef": "Шеф-повар",
   "entity.minecraft.villager.delightcook": "Повар",
   "itemGroup.chefsdelight": "Шефский Восторг"

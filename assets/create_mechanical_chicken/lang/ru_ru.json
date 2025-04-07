@@ -8,7 +8,7 @@
   "create_mechanical_chicken.itemGroup.create_mechanical_chicken:main": "Create: Механическая Курица",
   "create_mechanical_chicken.ponder.mechanical_chicken.header": "Генерирует куриные яйца",
   "create_mechanical_chicken.ponder.mechanical_chicken.text_1": "Механическая курица использует вращательную силу и специальную жидкость для генерации яиц",
-  "create_mechanical_chicken.ponder.mechanical_chicken.text_2": "Он запитывается снизу",
+  "create_mechanical_chicken.ponder.mechanical_chicken.text_2": "Она запитывается снизу",
   "create_mechanical_chicken.ponder.mechanical_chicken.text_3": "Подача жидкости может осуществляться ТОЛЬКО с ПЕРЕДНЕЙ стороны",
   "create_mechanical_chicken.ponder.mechanical_chicken.text_4": "Выход яиц осуществляется ТОЛЬКО с ЗАДНЕЙ стороны",
   "create_mechanical_chicken.ponder.mechanical_chicken.text_5": "Может быть извлечён только с помощью автоматизации",

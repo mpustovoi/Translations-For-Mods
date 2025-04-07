@@ -34,7 +34,7 @@
   "create_mechanical_spawner.generic.biome_dependant": "Зависимость от биома",
   "create_mechanical_spawner.generic.with_custom_loot": "Пользовательская добыча со сборщиком добычи",
   "create_mechanical_spawner.itemGroup.create_mechanical_spawner:main": "Create: Механический Рассадник",
-  "create_mechanical_spawner.ponder.spawner.header": "Призыв живых существ",
+  "create_mechanical_spawner.ponder.spawner.header": "Призывом живых существ",
   "create_mechanical_spawner.ponder.spawner.text_1": "Рассадник использует вращательную силу и специальные жидкости для призыва существ",
   "create_mechanical_spawner.ponder.spawner.text_2": "Он запитывается снизу",
   "create_mechanical_spawner.ponder.spawner.text_3": "Подача жидкости может осуществляться с любой горизонтальной стороны",

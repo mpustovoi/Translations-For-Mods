@@ -2,7 +2,7 @@
   "block.create_mechanical_extruder.mechanical_brass_extruder": "Латунный механический экструдер",
   "block.create_mechanical_extruder.mechanical_extruder": "Механический экструдер",
   "create_mechanical_extruder.goggles.bonks": "%1$s ударяется",
-  "create_mechanical_extruder.ponder.extruder.header": "Генерация блоков",
+  "create_mechanical_extruder.ponder.extruder.header": "Генерацией блоков",
   "create_mechanical_extruder.ponder.extruder.text_1": "Экструдер использует вращательную силу для генерации блоков",
   "create_mechanical_extruder.ponder.extruder.text_2": "Генерация зависит от блоков сбоку и снизу.",
   "create_mechanical_extruder.ponder.extruder.text_3": "Когда процесс будет завершён, результат можно будет получить, щёлкнув ПКМ",
