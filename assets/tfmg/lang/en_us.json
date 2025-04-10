@@ -5,6 +5,8 @@
   "fluid.tfmg.lpg": "Liquefied Petroleum Gas",
   "item.tfmg.lpg_bucket": "Liquefied Petroleum Gas Tank",
   "item.tfmg.unfinished_lpg_engine": "Unfinished Liquefied Gas Engine",
+  "itemGroup.tfmg.base": "Create: The Factory Must Grow",
+  "itemGroup.tfmg.building": "Create: TFMG — Building Blocks",
   "tfmg.ponder.distillation_tower.text_7": "Liquefied Petroleum Gas",
   "tfmg.ponder.small_engines.text_4": "Small engines include liquefied petroleum gas, kerosene and gasoline engines"
 }

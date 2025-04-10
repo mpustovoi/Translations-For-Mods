@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "default": "outlined_sprite:dried_ghast/happy_ghast.png",
+    "layersAllowed": true
+  }
+}

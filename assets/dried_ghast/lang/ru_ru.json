@@ -1,0 +1,26 @@
+{
+  "item.dried_ghast.light_blue_harness": "Голубая упряжь",
+  "entity.dried_ghast.ghastling": "Гастёнок",
+  "item.dried_ghast.blue_harness": "Синяя упряжь",
+  "item.dried_ghast.red_harness": "Красная упряжь",
+  "item.dried_ghast.lime_harness": "Лаймовая упряжь",
+  "item.dried_ghast.brown_harness": "Коричневая упряжь",
+  "item.dried_ghast.pink_harness": "Розовая упряжь",
+  "item.dried_ghast.green_harness": "Зелёная упряжь",
+  "item.dried_ghast.gray_harness": "Серая упряжь",
+  "item.dried_ghast.white_harness": "Белая упряжь",
+  "block.dried_ghast.dried_ghast": "Высохший гаст",
+  "item.dried_ghast.magenta_harness": "Пурпурная упряжь",
+  "item.dried_ghast.ghastling_spawn_egg": "Яйцо призыва гастёнка",
+  "item.dried_ghast.cyan_harness": "Бирюзовая упряжь",
+  "item.dried_ghast.orange_harness": "Оранжевая упряжь",
+  "item.dried_ghast.light_gray_harness": "Светло-серая упряжь",
+  "item.dried_ghast.purple_harness": "Фиолетовая упряжь",
+  "item.dried_ghast.black_harness": "Чёрная упряжь",
+  "item.dried_ghast.yellow_harness": "Жёлтая упряжь",
+  "entity.dried_ghast.happy_ghast": "Счастливый гаст",
+  "item.dried_ghast.happy_ghast_spawn_egg": "Яйцо призыва счастливого гаста",
+
+
+  "ИКОНКА": "НЕ ЗАБЫТЬ"
+}
