@@ -21,6 +21,8 @@
   "immersive_aircraft.slot.dye": "Краска",
   "immersive_aircraft.slot.upgrade": "Модернизация",
   "immersive_aircraft.slot.weapon": "Оружие",
+  "immersive_aircraft.subtitles.cannon": "Пушка стреляет",
+  "immersive_aircraft.subtitles.repair": "Летательный аппарат отремонтирован",
   "immersive_aircraft.tooltip.inventory": "Содержит %s предметов.",
   "immersive_aircraft.tooltip.no_space": "Не хватает места.",
   "immersive_aircraft.tooltip.no_target": "Требуется сборка на полу.",

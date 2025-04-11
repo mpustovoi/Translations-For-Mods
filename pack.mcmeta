@@ -4,7 +4,7 @@
       "translate": "resourcepack.uncraftable.uncraftable.name",
       "fallback": "§fA §7resource pack§r for §5Karbin_Drem§r's modpacks"
     },
-    "pack_format": 15,
+    "pack_format": 34,
     "supported_formats": {
       "min_inclusive": 9,
       "max_inclusive": 55

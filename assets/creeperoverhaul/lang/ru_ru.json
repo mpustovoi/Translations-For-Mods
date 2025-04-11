@@ -1,8 +1,8 @@
 {
-  "advancements.creeperoverhaul.kill_all_overhauled_creepers.descr": "Убейте всех новых криперов",
-  "advancements.creeperoverhaul.kill_all_overhauled_creepers.title": "Пересмотр завершён",
-  "advancements.creeperoverhaul.kill_overhauled_creeper.descr": "Убейте нового крипера",
-  "advancements.creeperoverhaul.kill_overhauled_creeper.title": "Пересмотр криперов",
+  "advancements.creeperoverhaul.kill_all_overhauled_creepers.descr": "Убейте всех пересмотренных криперов",
+  "advancements.creeperoverhaul.kill_all_overhauled_creepers.title": "Криперы пересмотрены",
+  "advancements.creeperoverhaul.kill_overhauled_creeper.descr": "Убейте пересмотренного крипера",
+  "advancements.creeperoverhaul.kill_overhauled_creeper.title": "Крипер пересмотрен",
   "block.creeperoverhaul.potted_tiny_cactus": "Маленький кактус в горшке",
   "block.creeperoverhaul.tiny_cactus": "Маленький кактус",
   "entity.creeperoverhaul.badlands_creeper": "Крипер пустоши",

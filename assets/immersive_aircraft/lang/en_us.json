@@ -21,6 +21,8 @@
   "immersive_aircraft.slot.dye": "Dye",
   "immersive_aircraft.slot.upgrade": "Upgrade",
   "immersive_aircraft.slot.weapon": "Weapon",
+  "immersive_aircraft.subtitles.cannon": "Cannon Fires",
+  "immersive_aircraft.subtitles.repair": "Aircraft Repaired",
   "immersive_aircraft.tooltip.inventory": "Contains %s items.",
   "immersive_aircraft.tooltip.no_space": "Not enough space.",
   "immersive_aircraft.tooltip.no_target": "Needs to be assembled on the floor.",

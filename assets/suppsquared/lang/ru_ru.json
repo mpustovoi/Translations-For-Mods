@@ -54,5 +54,20 @@
   "block.suppsquared.crimson_lantern": "Багровый фонарь",
   "block.suppsquared.gold_lantern": "Золотой фонарь",
   "block.suppsquared.brass_lantern": "Латунный фонарь",
-  "block.supplementaries.item_shelf": "Дубовая полка"
+  "block.supplementaries.item_shelf": "Дубовая полка",
+
+  "block.supplementaries.item_shelf_bamboo": "Бамбуковая полка",
+  "block.supplementaries.mynethersdelight/item_shelf_powdery": "Пороховая полка",
+  "block.supplementaries.gardens_of_the_dead/item_shelf_soulblight": "Душегубная полка",
+  "block.supplementaries.gardens_of_the_dead/item_shelf_whistlecane": "Свистростниковая полка",
+  "block.supplementaries.item_shelf_spruce": "Еловая полка",
+  "block.supplementaries.item_shelf_birch": "Берёзовая полка",
+  "block.supplementaries.item_shelf_jungle": "Полка из тропического дерева",
+  "block.supplementaries.item_shelf_acacia": "Акациевая полка",
+  "block.supplementaries.item_shelf_cherry": "Вишнёвая полка",
+  "block.supplementaries.item_shelf_dark_oak": "Полка из тёмного дуба",
+  "block.supplementaries.item_shelf_mangrove": "Мангровая полка",
+  "block.supplementaries.item_shelf_crimson": "Багровая полка",
+  "block.supplementaries.item_shelf_warped": "Искажённая полка",
+  "block.supplementaries.betterarcheology/item_shelf_rotten": "Гнилая полка"
 }

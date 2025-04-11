@@ -541,8 +541,8 @@
   "subtitles.supplementaries.turntable.cat": "Чин Чан Чон Чи Чича Чочи",
 
   "create.display_source.fill_level.fluid_amount": "Объём жидкости",
-  "create.item_attributes.present_recipient": "Подарок адресован: \"%1$s\"",
-  "create.item_attributes.present_recipient.inverted": "Подарок не адресован: \"%1$s\"",
+  "create.item_attributes.present_recipient": "Подарок адресован: '%1$s'",
+  "create.item_attributes.present_recipient.inverted": "Подарок не адресован: '%1$s'",
   "supplementaries.display_source.fluid_amount": "Объём жидкости",
   "supplementaries.display_source.item_name": "Название предмета",
   "supplementaries.display_source.notice_board": "Копировать информационную доску",
@@ -577,5 +577,21 @@
   "commands.supplementaries.registry.elements_count": "Записи: %s",
   "commands.supplementaries.registry.copy_elements_names": "Нажмите, чтобы скопировать все имена записей в буфер обмена",
   "commands.supplementaries.registry.element": "%s : %s",
-  "commands.supplementaries.registry.page_info": "%s <страница %s / %s>"
+  "commands.supplementaries.registry.page_info": "%s <страница %s / %s>",
+
+  "block.supplementaries.way_sign_oak": "Дубовый указатель",
+  "block.supplementaries.way_sign_spruce": "Еловый указатель",
+  "block.supplementaries.way_sign_birch": "Берёзовый указатель",
+  "block.supplementaries.way_sign_jungle": "Указатель из тропического дерева",
+  "block.supplementaries.way_sign_acacia": "Акациевый указатель",
+  "block.supplementaries.way_sign_dark_oak": "Указатель из тёмного дуба",
+  "block.supplementaries.way_sign_mangrove": "Мангровый указатель",
+  "block.supplementaries.way_sign_cherry": "Вишнёвый указатель",
+  "block.supplementaries.way_sign_bamboo": "Бамбуковый указатель",
+  "block.supplementaries.way_sign_crimson": "Багровый указатель",
+  "block.supplementaries.way_sign_warped": "Искажённый указатель",
+  "block.supplementaries.mynethersdelight/way_sign_powdery": "Пороховой указатель",
+  "block.supplementaries.gardens_of_the_dead/way_sign_soulblight": "Душегубный указатель",
+  "block.supplementaries.gardens_of_the_dead/way_sign_whistlecane": "Свистростниковый указатель",
+  "block.supplementaries.betterarcheology/way_sign_rotten": "Гнилой указатель"
 }

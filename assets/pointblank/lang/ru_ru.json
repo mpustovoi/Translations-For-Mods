@@ -1,8 +1,10 @@
 {
-  "poinblank.resources": "Ресурсы «В Упор»",
-  "pointblank.resources.extension_resources": "Ресурсы мода «Vic's Point Blank»",
-  "block.pointblank.printer": "Оружейный окрашиватель",
-  "block.pointblank.workstation": "Рабочая станция торговца оружием",
+  "advancements.pointblank.root.descr": "Заполучите оружейный принтер",
+  "advancements.pointblank.root.title": "Сейчас пойдёт потеха",
+  "advancements.pointblank.workstation.descr": "Получите оружейный станок",
+  "advancements.pointblank.workstation.title": "Оружейный барон",
+  "block.pointblank.printer": "Оружейный принтер",
+  "block.pointblank.workstation": "Оружейный верстак",
   "description.pointblank.allowsSightsetc": "Позволяет размещать прицелы/рукояти",
   "description.pointblank.changesAmmoCapacity": "Изменяет количество боеприпасов на",
   "description.pointblank.enablesAimingWithZoom": "Приближение:",
@@ -76,7 +78,7 @@
   "item.pointblank.grenade40mm": "Граната 40 мм",
   "item.pointblank.guninternals": "Внутренние части оружия",
   "item.pointblank.gunmetal_ingot": "Слиток оружейного металла",
-  "item.pointblank.gunmetal_mesh": "Сетка из оружейного металла",
+  "item.pointblank.gunmetal_mesh": "Сплав оружейного металла",
   "item.pointblank.gunmetal_nugget": "Кусочек оружейного металла",
   "item.pointblank.hamr": "Прицел HAMR",
   "item.pointblank.hawk_scope": "Ястребиный прицел",
@@ -126,7 +128,7 @@
   "item.pointblank.p30l": "P30L",
   "item.pointblank.p90": "P90",
   "item.pointblank.precision_scope": "Высокоточный прицел",
-  "item.pointblank.processor": "Процессор KamiCat",
+  "item.pointblank.processor": "Центральный процессор",
   "item.pointblank.railriser": "Подставка для рейки",
   "item.pointblank.rf_suppressor": "Глушитель RF",
   "item.pointblank.rhino": "Носорог",
@@ -197,5 +199,7 @@
   "message.pointblank.preparing": "Подготовка",
   "message.pointblank.press_and_hold_to_craft": "Нажмите и удерживайте для сборки",
   "message.pointblank.reloading": "Перезарядка",
-  "message.pointblank.targetAcquired": "Цель достигнута"
+  "message.pointblank.targetAcquired": "Цель достигнута",
+  "poinblank.resources": "Ресурсы «В Упор»",
+  "pointblank.resources.extension_resources": "Ресурсы мода «Vic's Point Blank»"
 }
