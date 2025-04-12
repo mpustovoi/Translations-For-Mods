@@ -26,3 +26,5 @@ generated/
 *.mcmeta
 !pack.mcmeta
 *.lnk
+
+assets WIP/
