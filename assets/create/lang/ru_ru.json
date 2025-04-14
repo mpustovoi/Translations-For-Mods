@@ -1512,7 +1512,7 @@
   "create.item_attributes.smokable": "можно прокоптить",
   "create.item_attributes.washable.inverted": "нельзя промыть",
   "create.item_attributes.washable": "можно промыть",
-  "create.item_hatch.deposit_inventory": "Предметы из  инвентаря перемещены",
+  "create.item_hatch.deposit_inventory": "Предметы из инвентаря перемещены",
   "create.item_hatch.deposit_item": "Предмет в руке перемещён в инвентарь",
   "create.keyinfo.rotate_menu": "Открыть меню вращения блока",
   "create.keyinfo.toolbelt": "Доступ к ящикам для инструментов",

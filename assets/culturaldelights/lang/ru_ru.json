@@ -2,7 +2,7 @@
   "itemGroup.culturaldelights": "Культурные Изыски",
 
   "culturaldelights.group.main": "Культурные Изыски",
-  
+
   "item.culturaldelights.cucumber_seeds": "Семена огурца",
   "item.culturaldelights.eggplant_seeds": "Семена баклажанов",
   "item.culturaldelights.corn_kernels": "Кукурузные зёрна",
@@ -75,5 +75,15 @@
   "block.culturaldelights.pickle_crate": "Ящик с солёными огурцами",
   "block.culturaldelights.corn_cob_crate": "Ящик с кукурузными початками",
   "block.culturaldelights.eggplant_crate": "Ящик с баклажанами",
-  "block.culturaldelights.white_eggplant_crate": "Ящик с белыми баклажанами"
+  "block.culturaldelights.white_eggplant_crate": "Ящик с белыми баклажанами",
+
+  "item.culturaldelights.ginger": "Имбирь",
+  "item.culturaldelights.empanada": "Эмпанада",
+  "item.culturaldelights.poached_eggplants": "Баклажаны-пашот",
+  "item.culturaldelights.eggplant_parmesan": "Тарелка баклажанов с пармезаном",
+
+  "block.culturaldelights.fruiting_avocado_leaves": "Плодоносящие листья авокадо",
+  "block.culturaldelights.eggplant_parmesan_block": "Баклажаны с пармезаном",
+
+  "creativetab.culturaldelights.culturaldelights_tab": "Культурные Изыски"
 }
