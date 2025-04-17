@@ -1,9 +1,9 @@
 {
-  "lradd.ammo.2mm_ec.name": "2 мм ЭК",
+  "lradd.ammo.2mm_ec.name": "2 мм ЭМК",
   "lradd.ammo.arrow.name": "Арбалетный болт",
-  "lradd.ammo.flintlock_bullet.name": "Патроны Флинтлок",
+  "lradd.ammo.flintlock_bullet.name": "Патрон Флинтлок",
   "lradd.ammo.fusion_cell.name": "Ядерная батарея",
-  "lradd.ammo.m993.name": "Патроны M993",
+  "lradd.ammo.m993.name": "Патрон M993",
   "lradd.ammo.nail.name": "Гвозди",
   "lradd.attachment.grip_bipod.name": "Сошка X48",
   "lradd.attachment.grip_bipod.tooltip": "",

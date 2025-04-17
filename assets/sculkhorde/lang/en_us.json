@@ -457,6 +457,12 @@
   "effect.sculkhorde.neurotoxin.description": "§1§kDescription Missing§r",
 
   "block.sculkhorde.tendril_core_block": "Tendril Core",
+  "effect.sculkhorde.neurotoxin_stage1.description": "§1§kDescription Missing§r",
+  "effect.sculkhorde.neurotoxin_stage1": "Neurotoxin",
+  "effect.sculkhorde.neurotoxin_stage2.description": "§1§kDescription Missing§r",
+  "effect.sculkhorde.neurotoxin_stage2": "Neurotoxin",
+  "effect.sculkhorde.neurotoxin_stage3.description": "§1§kDescription Missing§r",
+  "effect.sculkhorde.neurotoxin_stage3": "Neurotoxin",
   "effect.sculkhorde.soul_disruption.description": "§1§kDescription Missing§r",
   "effect.sculkhorde.soul_disruption": "Soul Disruption",
   "entity.sculkhorde.chunk_infect_entity": "Chunk Infect Entity",
@@ -477,5 +483,7 @@
   "entity.sculkhorde.soul_spear_projectile": "Soul Spear Projectile",
   "entity.sculkhorde.soul_spear_summoner_entity": "Soul Spear Summoner Entity",
   "entity.sculkhorde.zoltraak_attack_entity": "Zoltraak Attack Entity",
+  "item.sculkhorde.sculk_brood_hatcher_spawn_egg": "Sculk Brood Hatcher Spawn Egg",
+  "item.sculkhorde.sculk_broodling_spawn_egg": "Sculk Broodling Spawn Egg",
   "item.sculkhorde.sculk_guardian_spawn_egg": "Sculk Guardian Spawn Egg"
 }

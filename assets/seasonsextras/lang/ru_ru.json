@@ -1,18 +1,18 @@
 {
-  "itemGroup.seasonsextras.creative_tab": "Fabric-Сезоны: дополнения",
-  
+  "itemGroup.seasonsextras.creative_tab": "Fabric Seasons: дополнения",
+
   "item.seasonsextras.seasonal_compendium": "Сезонный сборник",
-  "item.seasonsextras.crop_season_tester": "Тестер сезона сбора урожая",
-  
+  "item.seasonsextras.crop_season_tester": "Тестер сезона культур",
+
   "block.seasonsextras.season_calendar": "Календарь сезонов",
-  "block.seasonsextras.season_detector": "Датчик времени года",
+  "block.seasonsextras.season_detector": "Датчик сезона",
   "block.seasonsextras.black_greenhouse_glass": "Чёрное тепличное стекло",
   "block.seasonsextras.blue_greenhouse_glass": "Синее тепличное стекло",
   "block.seasonsextras.brown_greenhouse_glass": "Коричневое тепличное стекло",
   "block.seasonsextras.cyan_greenhouse_glass": "Бирюзовое тепличное стекло",
   "block.seasonsextras.gray_greenhouse_glass": "Серое тепличное стекло",
   "block.seasonsextras.green_greenhouse_glass": "Зелёное тепличное стекло",
-  "block.seasonsextras.light_blue_greenhouse_glass": "Светло-синее тепличное стекло",
+  "block.seasonsextras.light_blue_greenhouse_glass": "Голубое тепличное стекло",
   "block.seasonsextras.light_gray_greenhouse_glass": "Светло-серое тепличное стекло",
   "block.seasonsextras.lime_greenhouse_glass": "Лаймовое тепличное стекло",
   "block.seasonsextras.magenta_greenhouse_glass": "Пурпурное тепличное стекло",
@@ -23,9 +23,9 @@
   "block.seasonsextras.white_greenhouse_glass": "Белое тепличное стекло",
   "block.seasonsextras.yellow_greenhouse_glass": "Жёлтое тепличное стекло",
   "block.seasonsextras.tinted_greenhouse_glass": "Тонированное тепличное стекло",
-  "block.seasonsextras.heater": "Подогреватель урожая",
-  "block.seasonsextras.chiller": "Охладитель урожая",
-  
+  "block.seasonsextras.heater": "Подогреватель культур",
+  "block.seasonsextras.chiller": "Охладитель культур",
+
   "tooltip.seasonsextras.calendar_info_1": "Осталось ",
   "tooltip.seasonsextras.calendar_info_2": " дней до ",
   "tooltip.seasonsextras.crop_tester_1": "Показывает, какой сезон действует на тестируемой",
@@ -38,17 +38,17 @@
   "tooltip.seasonsextras.heater_2": "культурам расти вне сезона. Использует сжигаемое топливо.",
   "tooltip.seasonsextras.chiller_1": "Активно охлаждает площадь 9×9×9, позволяя некоторым близлежащим",
   "tooltip.seasonsextras.chiller_2": "культурам расти вне сезона. Использует замороженное топливо.",
-  "tooltip.seasonsextras.detector_1": "Выдает сигнал редстоуна, если мировое время года",
+  "tooltip.seasonsextras.detector_1": "Выдает редстоун-сигнал, если мировое время года",
   "tooltip.seasonsextras.detector_2": "совпадает с настроенным временем года детектора.",
-  
+
   "tooltip.seasonsextras.tester_result_disabled_1": "Культуры, посаженные на этом блоке,",
   "tooltip.seasonsextras.tester_result_disabled_2": "будут расти с обычной скоростью.",
   "tooltip.seasonsextras.tester_result_enabled_1": "Культуры, посаженные на этом блоке,",
   "tooltip.seasonsextras.tester_result_enabled_2": "расти так, как если бы это была %s",
-  "tooltip.seasonsextras.tester_result_crop_1": "Этот урожай будет расти на %sx",
+  "tooltip.seasonsextras.tester_result_crop_1": "Эта культура будет расти на %sx",
   "tooltip.seasonsextras.tester_result_crop_2": "от своей обычной скорости (%s)",
   "tooltip.seasonsextras.not_enabled": "Эта функция не включена.",
-  
+
   "screen.seasonsextras.enable_particles": "Включить частицы",
   "screen.seasonsextras.disable_particles": "Отключить частицы",
   "screen.seasonsextras.open_valve": "Открыть клапан",
@@ -57,7 +57,7 @@
   "screen.seasonsextras.level_description": "%s находится на уровне %s",
   "screen.seasonsextras.burn_description": "Сжигаемый слот %s: %s",
   "screen.seasonsextras.time_left": "%s осталось",
-  
+
   "patchouli.seasonsextras.description": "Лучший друг путешественника по биомам.",
   "patchouli.seasonsextras.entries": "Записи",
   "patchouli.seasonsextras.biomes": "Биомы",
@@ -101,21 +101,21 @@
   "patchouli.seasonsextras.all_seasons": "все сезоны.",
   "patchouli.seasonsextras.recipe": "Рецепт",
 
-  "patchouli.seasonsextras.landing_text": "This is a $(#579A20)complete guide$() about the $(#579A20)seasonal changes$() added by the $(#579A20)Fabric Seasons$() mod.$(br2)You'll find information on how seasons affect your game's $(#579A20)biomes$() and $(#579A20)crop behavior$() throughout the year.$(br2)You'll also find all the new $(#579A20)blocks and items$() added by the mod and how you can use them.",
-  "patchouli.seasonsextras.crops_text": "Crops are Minecraft $(#579A20)plants$() that are $(#579A20)cultivated$() for food, resource, or other purposes.$(br2)$(#579A20)Fabric Seasons$() adds seasons to the game, adding more $(#579A20)realism$() to crop growth.$(br2)Crops will grow at $(#579A20)different speeds$() depending on the $(#579A20)current season$().",
-  "patchouli.seasonsextras.biomes_text": "Biomes are $(#579A20)areas$() of Minecraft worlds that have similar $(#579A20)climates$(), flora and fauna.$(br2)$(#579A20)Fabric Seasons$() adds seasons to the game, dynamically changing $(#579A20)biomes$() as you play.$(br2)Biomes will have different $(#579A20)temperatures$() and $(#579A20)weather$() depending on the $(#579A20)current season$().",
-  "patchouli.seasonsextras.glass_text": "The $(#579A20)Greenhouse Glass$() is a $(#579A20)special$() type of glass that $(#579A20)warms$() the air underneath it.$(br2)That creates a $(#579A20)microclimate$() that enables some crops to $(#579A20)grow out of season$().$(br2)It mimics the conditions of a $(#579A20)warmer season$(), allowing crop cultivation in what would otherwise be an $(#579A20)inappropriate season$().",
-  "patchouli.seasonsextras.glass_extra": "The $(#579A20)microclimate$() underneath the glass will behave as following$(br2)$(2)Spring$() will behave as $(6)Summer$()$(br)$(6)Summer$() will behave as $(6)Summer$()$(br)$(c)Fall$() will behave as $(2)Spring$()$(br)$(3)Winter$() will behave as $(c)Fall$()",
-  "patchouli.seasonsextras.tinted_text": "The $(#579A20)Tinted Greenhouse Glass$() is a $(#579A20)special$() type of glass that $(#579A20)colds$() the air underneath it.$(br2)That creates a $(#579A20)microclimate$() that enables some crops to $(#579A20)grow out of season$().$(br2)It mimics the conditions of a $(#579A20)colder season$(), allowing crop cultivation in what would otherwise be an $(#579A20)inappropriate season$().",
-  "patchouli.seasonsextras.tinted_extra": "The $(#579A20)microclimate$() underneath the glass will behave as following$(br2)$(2)Spring$() will behave as $(c)Fall$()$(br)$(6)Summer$() will behave as $(2)Spring$()$(br)$(c)Fall$() will behave as $(3)Winter$()$(br)$(3)Winter$() will behave as $(3)Winter$()",
-  "patchouli.seasonsextras.heater_text": "The $(#579A20)Crop Heater$() is a machine that $(#579A20)warms$() up the air around it in a $(#579A20)4-block radius$() (totalizing a 9×9×9 area).$(br2)With $(#579A20)three levels$(), it mimics the conditions of a $(#579A20)warmer$() season, enabling crop cultivation $(#579A20)all year round$().$(br2)Each $(#579A20)level$() warms up the current season by $(#579A20)one$(), facilitating crop growth.",
-  "patchouli.seasonsextras.heater_extra": "The $(#579A20)microclimate$() generated by the machine will depend on the burning $(5)level$() (items being simultaneous burned)$(br2)$(3)Winter$()+$(5)1$() will behave as $(c)Fall$()$(br)$(3)Winter$()+$(5)2$() will behave as $(2)Spring$()$(br)$(3)Winter$()+$(5)3$() will behave as $(6)Summer$()",
-  "patchouli.seasonsextras.chiller_text": "The $(#579A20)Crop Chiller$() is a machine that $(#579A20)colds$() up the air around it in a $(#579A20)4-block radius$() (totalizing a 9×9×9 area).$(br2)With $(#579A20)three levels$(), it mimics the conditions of a $(#579A20)colder$() season, enabling crop cultivation $(#579A20)all year round$().$(br2)Each $(#579A20)level$() colds up the current season by $(#579A20)one$(), facilitating crop growth.",
-  "patchouli.seasonsextras.chiller_extra": "The $(#579A20)microclimate$() generated by the machine will depend on the burning $(5)level$() (items being simultaneous burned)$(br2)$(6)Summer$()+$(5)1$() will behave as $(2)Spring$()$(br)$(6)Summer$()+$(5)2$() will behave as $(c)Fall$()$(br)$(6)Summer$()+$(5)3$() will behave as $(3)Winter$()",
-  "patchouli.seasonsextras.detector_text": "The $(#579A20)Season Detector$() is a block that functions like the $(#579A20)Daylight Detector$(), but instead of detecting the time of day, it sends a $(#579A20)redstone signal$() based on the current $(#579A20)season$().$(br2)With four configurations, it can $(#579A20)detect$() the configured season, providing a versatile tool for building $(#579A20)automated systems$() in Fabric Seasons.",
-  "patchouli.seasonsextras.detector_extra": "To change the Season Detector configuration.$(br2)$(#579A20)Right-click$() it to change the configurated season.$(br)$(#579A20)Shift Right-click$() it to invert the redstone signal. ",
-  "patchouli.seasonsextras.calendar_text": "The $(#579A20)Season Calendar$() is an $(#579A20)item/block$() that shows the $(#579A20)progress$() of the $(#579A20)season$().$(br2)The calendar has $(#579A20)16 states$() for each season. The current state will $(#579A20)update automatically$() as the days go by.",
-  "patchouli.seasonsextras.calendar_extra": "You can also get $(#579A20)additional information$() by checking the item's $(#579A20)tooltip$().",
-  "patchouli.seasonsextras.tester_text": "The $(#579A20)Crop Season Tester$() is an $(#579A20)item$() that $(#579A20)tests a block$() for what season is $(#579A20)affecting$() it.$(br2)It's useful when building $(#579A20)greenhouses$() and checking if your $(#579A20)crop$() is being affected by the $(#579A20)intended season$().$(br2)When used on a $(#579A20)crop$(), it'll show what season is affecting that crop and how $(#579A20)exactly$() its affecting it.",
-  "patchouli.seasonsextras.tester_extra": "When used on any $(#579A20)other block$() it'll show what season is affecting the $(#579A20)block on top$() of it."
+  "patchouli.seasonsextras.landing_text": "Это $(#579A20)полное руководство$() по $(#579A20)сезонным изменениям$(), добавляемым модом $(#579A20)Fabric Seasons$().$(br2)Вы узнаете, как сезоны влияют на $(#579A20)биомы$() и $(#579A20)поведение сельхозкультур$() в течение года.$(br2)Также вы найдёте информацию обо всех новых $(#579A20)блоках и предметах$(), добавленных модом, и о том, как их использовать.",
+  "patchouli.seasonsextras.crops_text": "Сельхозкультуры — это $(#579A20)растения$() Minecraft, $(#579A20)выращиваемые$() ради еды, ресурсов или других целей.$(br2)Мод $(#579A20)Fabric Seasons$() добавляет в игру сезоны, внося больше $(#579A20)реализма$() в рост культур.$(br2)Скорость роста культур будет $(#579A20)разной$() в зависимости от $(#579A20)текущего сезона$().",
+  "patchouli.seasonsextras.biomes_text": "Биомы — это $(#579A20)регионы$() в мире Minecraft с похожими $(#579A20)климатами$(), флорой и фауной.$(br2)Мод $(#579A20)Fabric Seasons$() добавляет сезоны, динамически изменяя $(#579A20)биомы$() в процессе игры.$(br2)Температура и $(#579A20)погода$() в биомах будут различаться в зависимости от $(#579A20)текущего сезона$().",
+  "patchouli.seasonsextras.glass_text": "$(#579A20)Тепличное стекло$() — это $(#579A20)особый$() тип стекла, который $(#579A20)согревает$() воздух под собой.$(br2)Это создаёт $(#579A20)микроклимат$(), позволяющий некоторым культурам $(#579A20)расти не по сезону$().$(br2)Оно имитирует условия $(#579A20)более тёплого сезона$(), позволяя выращивать культуры в $(#579A20)неподходящее время$().",
+  "patchouli.seasonsextras.glass_extra": "$(#579A20)Микроклимат$() под стеклом будет вести себя следующим образом:$(br2)$(2)Весна$() ведёт себя как $(6)Лето$()$(br)$(6)Лето$() ведёт себя как $(6)Лето$()$(br)$(c)Осень$() ведёт себя как $(2)Весна$()$(br)$(3)Зима$() ведёт себя как $(c)Осень$()",
+  "patchouli.seasonsextras.tinted_text": "$(#579A20)Тонированное тепличное стекло$() — это $(#579A20)особый$() тип стекла, который $(#579A20)охлаждает$() воздух под собой.$(br2)Это создаёт $(#579A20)микроклимат$(), позволяющий некоторым культурам $(#579A20)расти не по сезону$().$(br2)Оно имитирует условия $(#579A20)более холодного сезона$(), позволяя выращивать культуры в $(#579A20)неподходящее время$().",
+  "patchouli.seasonsextras.tinted_extra": "$(#579A20)Микроклимат$() под стеклом будет вести себя следующим образом:$(br2)$(2)Весна$() ведёт себя как $(c)Осень$()$(br)$(6)Лето$() ведёт себя как $(2)Весна$()$(br)$(c)Осень$() ведёт себя как $(3)Зима$()$(br)$(3)Зима$() ведёт себя как $(3)Зима$()",
+  "patchouli.seasonsextras.heater_text": "$(#579A20)Обогреватель культур$() — это машина, $(#579A20)согревающая$() воздух в радиусе $(#579A20)4 блоков$() (зона 9×9×9).$(br2)С $(#579A20)тремя уровнями$() мощности, она имитирует $(#579A20)более тёплый$() сезон, позволяя выращивать культуры $(#579A20)круглый год$().$(br2)Каждый $(#579A20)уровень$() повышает температуру сезона на $(#579A20)один$(), облегчая рост культур.",
+  "patchouli.seasonsextras.heater_extra": "$(#579A20)Микроклимат$(), создаваемый машиной, зависит от уровня $(5)топлива$() (количество предметов, сгорающих одновременно):$(br2)$(3)Зима$()+$(5)1$() ведёт себя как $(c)Осень$()$(br)$(3)Зима$()+$(5)2$() ведёт себя как $(2)Весна$()$(br)$(3)Зима$()+$(5)3$() ведёт себя как $(6)Лето$()",
+  "patchouli.seasonsextras.chiller_text": "$(#579A20)Охладитель культур$() — это машина, $(#579A20)охлаждающая$() воздух в радиусе $(#579A20)4 блоков$() (зона 9×9×9).$(br2)С $(#579A20)тремя уровнями$() мощности, она имитирует $(#579A20)более холодный$() сезон, позволяя выращивать культуры $(#579A20)круглый год$().$(br2)Каждый $(#579A20)уровень$() понижает температуру сезона на $(#579A20)один$(), облегчая рост культур.",
+  "patchouli.seasonsextras.chiller_extra": "$(#579A20)Микроклимат$(), создаваемый машиной, зависит от уровня $(5)топлива$():$(br2)$(6)Лето$()+$(5)1$() ведёт себя как $(2)Весна$()$(br)$(6)Лето$()+$(5)2$() ведёт себя как $(c)Осень$()$(br)$(6)Лето$()+$(5)3$() ведёт себя как $(3)Зима$()",
+  "patchouli.seasonsextras.detector_text": "$(#579A20)Датчик сезона$() — это блок, работающий как $(#579A20)детектор дневного света$(), но вместо времени суток определяет $(#579A20)сезон$() и подаёт $(#579A20)редстоун-сигнал$().$(br2)Имеет четыре режима, позволяет $(#579A20)определять$() нужный сезон и использоваться в $(#579A20)автоматических системах$().",
+  "patchouli.seasonsextras.detector_extra": "Чтобы изменить конфигурацию детектора:$(br2)Щёлкните по нему $(#579A20)ПКМ$() для смены выбранного сезона.$(br)Щёлкните $(#579A20)Shift + ПКМ$() для инверсии сигнала.",
+  "patchouli.seasonsextras.calendar_text": "$(#579A20)Сезонный календарь$() — это $(#579A20)предмет/блок$(), показывающий $(#579A20)текущее состояние$() $(#579A20)сезона$().$(br2)Имеет $(#579A20)16 стадий$() на каждый сезон и $(#579A20)обновляется автоматически$() по мере прохождения дней.",
+  "patchouli.seasonsextras.calendar_extra": "Вы также можете узнать $(#579A20)дополнительную информацию$() в $(#579A20)подсказке предмета$().",
+  "patchouli.seasonsextras.tester_text": "$(#579A20)Тестер сезонов культур$() — это $(#579A20)предмет$(), $(#579A20)проверяющий блок$() на влияние $(#579A20)текущего сезона$().$(br2)Полезен при строительстве $(#579A20)теплиц$() и проверке, влияет ли сезон на $(#579A20)ваши культуры$() должным образом.$(br2)При использовании на $(#579A20)культуре$() покажет текущий сезон и $(#579A20)подробно$() опишет эффект.",
+  "patchouli.seasonsextras.tester_extra": "При использовании на $(#579A20)другом блоке$() покажет, какой сезон влияет на $(#579A20)блок сверху$()."
 }

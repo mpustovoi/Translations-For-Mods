@@ -457,8 +457,14 @@
   "effect.sculkhorde.neurotoxin.description": "§1§kОписание отсутствует§r.",
 
   "block.sculkhorde.tendril_core_block": "Сердцевина усиков",
-  "effect.sculkhorde.soul_disruption": "Разрушение души",
+  "effect.sculkhorde.neurotoxin_stage1.description": "§1§kОписание отсутствует§r",
+  "effect.sculkhorde.neurotoxin_stage1": "Нейротоксин",
+  "effect.sculkhorde.neurotoxin_stage2.description": "§1§kОписание отсутствует§r",
+  "effect.sculkhorde.neurotoxin_stage2": "Нейротоксин",
+  "effect.sculkhorde.neurotoxin_stage3.description": "§1§kОписание отсутствует§r",
+  "effect.sculkhorde.neurotoxin_stage3": "Нейротоксин",
   "effect.sculkhorde.soul_disruption.description": "§1§kОписание отсутствует§r",
+  "effect.sculkhorde.soul_disruption": "Разрушение души",
   "entity.sculkhorde.chunk_infect_entity": "Сущность заражения чанка",
   "entity.sculkhorde.elemental_breeze_magic_circle": "Магический круг стихийного вихря",
   "entity.sculkhorde.elemental_fire_magic_circle": "Магический круг стихийного огня",
@@ -477,5 +483,7 @@
   "entity.sculkhorde.soul_spear_projectile": "Снаряд копья душ",
   "entity.sculkhorde.soul_spear_summoner_entity": "Призывающая копьё душ сущность",
   "entity.sculkhorde.zoltraak_attack_entity": "Сущность атаки Золтраака",
+  "item.sculkhorde.sculk_brood_hatcher_spawn_egg": "Яйцо призыва скаклкового выводкового инкубатора",
+  "item.sculkhorde.sculk_broodling_spawn_egg": "Яйцо призыва скалкового выводка",
   "item.sculkhorde.sculk_guardian_spawn_egg": "Яйцо призыва скалкового стража"
 }

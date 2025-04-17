@@ -6,5 +6,6 @@
   "effect.alexsmobsinteraction.gusting.description": "Immune to affection with gusts and spawns gusts simultaniously around the player",
   "effect.alexsmobsinteraction.gusting.title": "Gusting",
   "effect.alexsmobsinteraction.skreeching.description": "Causes a Warden to spawn when the effect wares off",
-  "effect.alexsmobsinteraction.skreeching.title": "Skreeching"
+  "effect.alexsmobsinteraction.skreeching.title": "Skreeching",
+  "item.alexsmobsinteraction.eggs": "Eggs"
 }
