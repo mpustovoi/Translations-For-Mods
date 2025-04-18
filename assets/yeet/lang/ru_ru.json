@@ -18,5 +18,8 @@
   "yeet.gun.shg43.desc": "Также известная как 'Картофелемялка'",
   "yeet.gun.shg43.name": "Ручная граната 43",
   "yeet.gun.shg43at.desc": "К чёрту тебя и всех вокруг",
-  "yeet.gun.shg43at.name": "Ручная противотанковая граната 43"
+  "yeet.gun.shg43at.name": "Ручная противотанковая граната 43",
+
+  "key.categories.yeet": "Бросок",
+  "key.yeet.yeet": "Бросить предмет"
 }
