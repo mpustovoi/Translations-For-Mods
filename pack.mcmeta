@@ -1,7 +1,7 @@
 {
   "pack": {
     "description": {
-      "translate": "resourcepack.uncraftable.uncraftable.name",
+      "translate": "resourcepack.uncraftable.uncraftable.descr",
       "fallback": "§fA §7resource pack§r for §5Karbin_Drem§r's modpacks"
     },
     "pack_format": 34,
