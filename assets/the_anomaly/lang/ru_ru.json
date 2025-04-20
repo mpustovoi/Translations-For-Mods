@@ -1,4 +1,8 @@
 {
+  "advancements.the_anomaly.liquidate_anomalies.descr": "Уничтожьте? все возможные §4§kаномалии§r",
+  "advancements.the_anomaly.liquidate_anomalies.title": "Больше никаких §4§kаномалий§r..?",
+  "advancements.the_anomaly.liquidate_anomaly.descr": "Уничтожьте? §4§kаномалию§r",
+  "advancements.the_anomaly.liquidate_anomaly.title": "§4§kАномалия§r ликвидирована..?",
   "effect.the_anomaly.anxiety.description": "§4§kОписание отсутствует§r",
   "effect.the_anomaly.anxiety": "Тревога",
   "entity.the_anomaly.anomaly_attack_crawl": "§4§kАномалия§r",

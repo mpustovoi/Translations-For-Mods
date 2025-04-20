@@ -1,6 +1,6 @@
 {
   "death.attack.dehydrate": "%1$s умер от обезвоживания",
-  "death.attack.dehydrate.player": "%1$s умер от обезвоживания, пока сражался с %2$s",
+  "death.attack.dehydrate.player": "%1$s умер от обезвоживания, пока боролся с %2$s",
   "item.thirst.wooden_water_bowl": "Деревянная миска с водой",
   "item.thirst.terracotta_water_bowl": "Терракотовая миска с водой",
   "item.thirst.terracotta_bowl": "Терракотовая миска",

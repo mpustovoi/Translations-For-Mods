@@ -10,6 +10,9 @@
   "servertabinfo.msg.not_allowed": "У вас нет разрешения просматривать производительность сервера",
   "servertabinfo.servertabinfo:overall": "В общем",
 
+  "servertabinfo.boh:boiler_room_dimension": "Котельная",
+  "servertabinfo.boh:gaster_dimension": "Гастерия",
+  "servertabinfo.boh:level_0": "Уровень 0",
   "servertabinfo.bracken:dormis": "Дормис",
   "servertabinfo.bracken:glacium": "Ледник",
   "servertabinfo.bracken:omnidrome": "Омнидром",
@@ -29,13 +32,13 @@
   "servertabinfo.limbo:limbo_dim": "Лимб",
   "servertabinfo.lostcities:lostcity": "Затерянные Города",
   "servertabinfo.man:halucination": "Галлюцинация",
-  "servertabinfo.minecraft:overworld": "Надземный мир",
+  "servertabinfo.minecraft:overworld": "Обычный мир",
   "servertabinfo.minecraft:the_end": "Энд",
   "servertabinfo.minecraft:the_nether": "Незер",
   "servertabinfo.twilightforest:twilight_forest": "Сумеречный Лес",
   "servertabinfo.undergarden:undergarden": "Подземный Сад",
 
-  "minecraft:overworld": "Надземный мир",
+  "minecraft:overworld": "Обычный мир",
   "minecraft:the_end": "Энд",
   "minecraft:the_nether": "Незер"
 }

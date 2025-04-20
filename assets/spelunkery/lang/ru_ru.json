@@ -474,7 +474,7 @@
   "container.spelunkery.sluice": "Шлюз",
   
   "death.attack.stonecutter": "%1$s был(а) распилен надвое",
-  "death.attack.stonecutter.player": "%1$s был(а) распилен надвое, пока сражался с %2$s",
+  "death.attack.stonecutter.player": "%1$s был(а) распилен надвое, пока боролся с %2$s",
   
   "item.spelunkery.eggplant": "Баклажан"
 }

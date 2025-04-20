@@ -38,7 +38,7 @@
   "tag.c.forest": "Леса",
   "tag.c.icy": "Ледяной",
   "tag.c.in_nether": "В Незере",
-  "tag.c.in_overworld": "В Надземном мире",
+  "tag.c.in_overworld": "В обычном мире",
   "tag.c.in_the_end": "В Энде",
   "tag.c.jungle": "Джунгли",
   "tag.c.mesa": "Плато",
@@ -76,7 +76,7 @@
   "tag.minecraft.is_mountain": "Является горами",
   "tag.minecraft.is_nether": "Является Незером",
   "tag.minecraft.is_ocean": "Является океаном",
-  "tag.minecraft.is_overworld": "Является Надземным миром",
+  "tag.minecraft.is_overworld": "Является обычным миром",
   "tag.minecraft.is_river": "Является рекой",
   "tag.minecraft.is_savanna": "Является саванной",
   "tag.minecraft.is_taiga": "Является тайгой"

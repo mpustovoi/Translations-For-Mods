@@ -39,7 +39,7 @@
 	"item.createaddition.diamond_grit_sandpaper": "Наждачная бумага с алмазной крошкой",
 	"item.createaddition.diamond_grit_sandpaper.tooltip.summary": "Можно использовать для _шлифовки материалов_. Процесс можно автоматизировать с помощью автономного активатора.",
 	"item.createaddition.diamond_grit_sandpaper.tooltip.condition1": "При использовании",
-	"item.createaddition.diamond_grit_sandpaper.tooltip.behaviour1": "Полирует предметы, находящиеся во _второй руке_ или на _земле_, если на них _смотреть_",
+	"item.createaddition.diamond_grit_sandpaper.tooltip.behaviour1": "Полирует предметы, находящиеся во _второй руке_ или на _земле_, если на них _смотреть_.",
 
 	"item.createaddition.zinc_sheet": "Цинковый лист",
 
@@ -188,7 +188,7 @@
 	"block.createaddition.small_light_connector.tooltip.condition2": "ПКМ",
 	"block.createaddition.small_light_connector.tooltip.behaviour2": "Удерживая _медную_, _золотую_, или _электрумовую катушку_ создаётся до 4 _проводных соединений_ с другими _низковольтными соединителями_.",
 	"block.createaddition.small_light_connector.tooltip.condition3": "ПКМ с гаечным ключом",
-	"block.createaddition.small_light_connector.tooltip.behaviour3": "Для переключения между режимами: _передача с токоприёмом_, _передача с токоотдачей_ и _Только передача_.",
+	"block.createaddition.small_light_connector.tooltip.behaviour3": "Для переключения между режимами: _передача с токоприёмом_, _передача с токоотдачей_ и _только передача_.",
 
 	"block.createaddition.large_connector": "Высоковольтный соединитель",
 	"block.createaddition.large_connector.tooltip": "СОЕДИНИТЕЛЬ",

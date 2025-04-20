@@ -191,9 +191,9 @@
   "shouldersurfing.configuration.player.hide_player_when_looking_up_angle": "Центрировать камеру при просмотре под углом вверх",
   "shouldersurfing.configuration.player.hide_player_when_looking_up_angle.tooltip": "Угол, под которым игрок больше не будет отображаться при взгляде вверх. Установите значение 0 для отключения.",
   "shouldersurfing.configuration.player.player_x_rot_follows_camera": "Поворот игрока по X следует за камерой",
-  "shouldersurfing.configuration.player.player_x_rot_follows_camera.tooltip": "Должен ли поворот игрока по X следовать за поворотом камеры по X. Этот параметр настройки применяется только при отключенной камере.",
+  "shouldersurfing.configuration.player.player_x_rot_follows_camera.tooltip": "Должен ли поворот игрока по X следовать за поворотом камеры по X. Этот параметр настройки применяется только при отключённой камере.",
   "shouldersurfing.configuration.player.player_y_rot_follows_camera": "Поворот игрока по Y следует за камерой",
-  "shouldersurfing.configuration.player.player_y_rot_follows_camera.tooltip": "Должен ли поворот игрока по Y следовать за поворотом камеры по Y. Этот параметр настройки применяется только при отключенной камере.",
+  "shouldersurfing.configuration.player.player_y_rot_follows_camera.tooltip": "Должен ли поворот игрока по Y следовать за поворотом камеры по Y. Этот параметр настройки применяется только при отключённой камере.",
   "shouldersurfing.configuration.player.player_y_rot_follow_angle_limit": "Ограничение угла поворота игрока по оси y",
   "shouldersurfing.configuration.player.player_y_rot_follow_angle_limit.tooltip": "Максимальный угол, на который поворот игрока по Y следует за поворотом камеры по Y. Этот параметр настройки применяется только в том случае, если включена опция 'Поворот игрока по Y следует за камерой'.",
 

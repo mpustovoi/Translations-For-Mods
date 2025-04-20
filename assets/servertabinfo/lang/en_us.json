@@ -10,6 +10,9 @@
   "servertabinfo.msg.not_allowed": "You do not have permission to see TPS information",
   "servertabinfo.servertabinfo:overall": "Overall",
 
+  "servertabinfo.boh:boiler_room_dimension": "Boiler Room",
+  "servertabinfo.boh:gaster_dimension": "Gasteria",
+  "servertabinfo.boh:level_0": "Level 0",
   "servertabinfo.bracken:dormis": "Dormis",
   "servertabinfo.bracken:glacium": "Glacium",
   "servertabinfo.bracken:omnidrome": "Omnidrome",

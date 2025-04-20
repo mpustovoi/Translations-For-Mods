@@ -129,7 +129,7 @@
   "text.config.accessories.option.clientOptions.showCosmeticAccessories.tooltip": "Включает/отключает отображение косметических вариантов предметов, если таковые имеются.",
 
   "text.config.accessories.option.clientOptions.disabledDefaultRenders": "Отключить рендеринг по умолчанию",
-  "text.config.accessories.option.clientOptions.disabledDefaultRenders.tooltip": "Отключает включенный по умолчанию рендерер отображения элементов, если он используется.",
+  "text.config.accessories.option.clientOptions.disabledDefaultRenders.tooltip": "Отключает включённый по умолчанию рендерер отображения элементов, если он используется.",
 
   "text.config.accessories.option.clientOptions.equipControl": "Режим быстрой экипировки",
   "text.config.accessories.option.clientOptions.equipControl.tooltip": "Изменяет режим, используемый для быстрой экипировки предметов из вашей руки.",

@@ -122,5 +122,5 @@
   "tooltip.bclib.place_underwater_depth": "мин. глубина: %d",
   "tooltip.bclib.place_underwater_on": "Выживает под водой на: %s",
   "tooltip.bclib.pottable_on": "Размещается в горшок на: %s",
-  "warning.config.bclib.client.ui.forceBetterXPreset": "СКОРЕЕ ВСЕГО, ВЫ ЗАХОТИТЕ ОСТАВИТЬ ЭТУ ОПЦИЮ ВКЛЮЧЕННОЙ.\n"
+  "warning.config.bclib.client.ui.forceBetterXPreset": "СКОРЕЕ ВСЕГО, ВЫ ЗАХОТИТЕ ОСТАВИТЬ ЭТУ ОПЦИЮ ВКЛЮЧЁННОЙ.\n"
 }

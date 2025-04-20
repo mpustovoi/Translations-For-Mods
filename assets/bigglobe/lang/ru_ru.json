@@ -303,7 +303,7 @@
 
 	"text.autoconfig.bigglobe.option.dataPackDebugging": "Вывод отладочной информации набора данных",
 	"text.autoconfig.bigglobe.option.dataPackDebugging.@Tooltip[0]": "Опции, полезные разработчикам наборов данных.",
-	"text.autoconfig.bigglobe.option.dataPackDebugging.@Tooltip[1]": "Обычные пользователи должны оставить всё это отключенным.",
+	"text.autoconfig.bigglobe.option.dataPackDebugging.@Tooltip[1]": "Обычные пользователи должны оставить всё это отключённым.",
 
 	"text.autoconfig.bigglobe.option.dataPackDebugging.dependencyGraphs": "Создание графиков зависимостей",
 	"text.autoconfig.bigglobe.option.dataPackDebugging.dependencyGraphs.@Tooltip[0]": "Если включено, «Большой Глобус» сгенерирует графики, показывающие зависимости значений всех столбцов.",

@@ -367,10 +367,10 @@
   "block.createcasing.brass_shaft.tooltip": "ЛАТУННЫЙ ВАЛ",
   "block.createcasing.brass_shaft.tooltip.summary": "_Останавливается,_ когда _нагрузка_ _выше_ _настроенной_. Может быть _перезапущен_ сигналом _редстоуна_. Не перезапускается самостоятельно.",
   "block.createcasing.brass_shaft.tooltip.condition1": "При клике ПКМ",
-  "block.createcasing.brass_shaft.tooltip.behaviour1": "Открывает экран настройки",
+  "block.createcasing.brass_shaft.tooltip.behaviour1": "Открывает экран настройки.",
 
   "block.createcasing.custom_mixer.tooltip": "КАСТОМНЫЙ СМЕШИВАТЕЛЬ",
-  "block.createcasing.custom_mixer.tooltip.summary": "_Работает_ как _обычный_ смешиватель",
+  "block.createcasing.custom_mixer.tooltip.summary": "_Работает_ как _обычный_ смешиватель.",
 
   "createcasing.brass_shaft.max_stress": "Максимальная нагрузка",
   "createcasing.brass_shaft.mode": "Режим",
@@ -382,7 +382,7 @@
   "createcasing.brass_shaft.operation.greater": "Больше",
 
   "block.createcasing.custom_press.tooltip": "КАСТОМНЫЙ ПРЕСС",
-  "block.createcasing.custom_press.tooltip.summary": "_Работает_ как _обычный_ пресс",
+  "block.createcasing.custom_press.tooltip.summary": "_Работает_ как _обычный_ пресс.",
 
   "item.createcasing.vertical_brass_gearbox": "Латунная вертикальная коробка передач",
   "item.createcasing.vertical_copper_gearbox": "Медная вертикальная коробка передач",

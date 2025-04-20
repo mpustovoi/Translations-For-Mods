@@ -3,7 +3,7 @@
   "travelerstitles.commands.biometitle.notfound": "Не найдено названия для биома «%s»",
 
   "travelerstitles.minecraft.overworld.color": "ffffff",
-  "travelerstitles.minecraft.overworld": "Надземный Мир",
+  "travelerstitles.minecraft.overworld": "Обычный мир",
   "travelerstitles.minecraft.the_nether.color": "750909",
   "travelerstitles.minecraft.the_nether": "Незер",
   "travelerstitles.minecraft.the_end.color": "4f219e",
@@ -439,7 +439,7 @@
   "text.autoconfig.travelerstitles-fabric-1_21.option.biomes.resetBiomeCacheOnDimensionChange.@Tooltip[2]": "Этот параметр определит должен ли каждый раз очищаться список, когда",
   "text.autoconfig.travelerstitles-fabric-1_21.option.biomes.resetBiomeCacheOnDimensionChange.@Tooltip[3]": "игрок сменяет измерения.",
   "text.autoconfig.travelerstitles-fabric-1_21.option.biomes.onlyUpdateAtSurface": "Отображать названия биомов только при нахождении под открытым небом",
-  "text.autoconfig.travelerstitles-fabric-1_21.option.biomes.onlyUpdateAtSurface.@Tooltip[0]": "Если включено, измерения без потолков (например Надземный мир) будут отображать",
+  "text.autoconfig.travelerstitles-fabric-1_21.option.biomes.onlyUpdateAtSurface.@Tooltip[0]": "Если включено, измерения без потолков (например обычный мир) будут отображать",
   "text.autoconfig.travelerstitles-fabric-1_21.option.biomes.onlyUpdateAtSurface.@Tooltip[1]": "названия биомов только, когда игрок находится под открытым небом.",
   "text.autoconfig.travelerstitles-fabric-1_21.option.biomes.onlyUpdateAtSurface.@Tooltip[2]": "Это лишит возможности отображения названий биомов при нахождении игрока под землёй.",
 
@@ -475,7 +475,7 @@
   "text.autoconfig.travelerstitles-fabric-1_21.option.dimensions.centerText.@Tooltip[1]": "Параметры смещения текста по X и Y, относящиеся к",
   "text.autoconfig.travelerstitles-fabric-1_21.option.dimensions.centerText.@Tooltip[2]": "центру экрана, если это включено.",
   "text.autoconfig.travelerstitles-fabric-1_21.option.dimensions.onlyUpdateAtSurface": "Отображать названия измерений только при нахождении под открытым небом",
-  "text.autoconfig.travelerstitles-fabric-1_21.option.dimensions.onlyUpdateAtSurface.@Tooltip[0]": "Если включено, измерения без потолков (например Надземный мир) будут отображать",
+  "text.autoconfig.travelerstitles-fabric-1_21.option.dimensions.onlyUpdateAtSurface.@Tooltip[0]": "Если включено, измерения без потолков (например обычный мир) будут отображать",
   "text.autoconfig.travelerstitles-fabric-1_21.option.dimensions.onlyUpdateAtSurface.@Tooltip[1]": "названия измерений только, когда игрок находится под открытым небом.",
   "text.autoconfig.travelerstitles-fabric-1_21.option.dimensions.onlyUpdateAtSurface.@Tooltip[2]": "Это лишит возможности отображения названий измерений при нахождении игрока под землёй.",
 
@@ -548,7 +548,7 @@
   "text.autoconfig.travelerstitles-fabric-1_20.option.biomes.resetBiomeCacheOnDimensionChange.@Tooltip[2]": "Этот параметр определит должен ли каждый раз очищаться список, когда",
   "text.autoconfig.travelerstitles-fabric-1_20.option.biomes.resetBiomeCacheOnDimensionChange.@Tooltip[3]": "игрок сменяет измерения.",
   "text.autoconfig.travelerstitles-fabric-1_20.option.biomes.onlyUpdateAtSurface": "Отображать названия биомов только при нахождении под открытым небом",
-  "text.autoconfig.travelerstitles-fabric-1_20.option.biomes.onlyUpdateAtSurface.@Tooltip[0]": "Если включено, измерения без потолков (например Надземный мир) будут отображать",
+  "text.autoconfig.travelerstitles-fabric-1_20.option.biomes.onlyUpdateAtSurface.@Tooltip[0]": "Если включено, измерения без потолков (например обычный мир) будут отображать",
   "text.autoconfig.travelerstitles-fabric-1_20.option.biomes.onlyUpdateAtSurface.@Tooltip[1]": "названия биомов только, когда игрок находится под открытым небом.",
   "text.autoconfig.travelerstitles-fabric-1_20.option.biomes.onlyUpdateAtSurface.@Tooltip[2]": "Это лишит возможности отображения названий биомов при нахождении игрока под землёй.",
 
@@ -584,7 +584,7 @@
   "text.autoconfig.travelerstitles-fabric-1_20.option.dimensions.centerText.@Tooltip[1]": "Параметры смещения текста по X и Y, относящиеся к",
   "text.autoconfig.travelerstitles-fabric-1_20.option.dimensions.centerText.@Tooltip[2]": "центру экрана, если это включено.",
   "text.autoconfig.travelerstitles-fabric-1_20.option.dimensions.onlyUpdateAtSurface": "Отображать названия измерений только при нахождении под открытым небом",
-  "text.autoconfig.travelerstitles-fabric-1_20.option.dimensions.onlyUpdateAtSurface.@Tooltip[0]": "Если включено, измерения без потолков (например Надземный мир) будут отображать",
+  "text.autoconfig.travelerstitles-fabric-1_20.option.dimensions.onlyUpdateAtSurface.@Tooltip[0]": "Если включено, измерения без потолков (например обычный мир) будут отображать",
   "text.autoconfig.travelerstitles-fabric-1_20.option.dimensions.onlyUpdateAtSurface.@Tooltip[1]": "названия измерений только, когда игрок находится под открытым небом.",
   "text.autoconfig.travelerstitles-fabric-1_20.option.dimensions.onlyUpdateAtSurface.@Tooltip[2]": "Это лишит возможности отображения названий измерений при нахождении игрока под землёй.",
 

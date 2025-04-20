@@ -103,7 +103,7 @@
   "config.herobrineSkinConfig.title": "Скин Хиробрина",
   "config.hittingThatGriddyConfig.description": "Определяет, будет ли Хиробрин при спавне танцевать.",
   "config.hittingThatGriddyConfig.title": "Танец",
-  "config.hoeBrineReturnsConfig.description": "Изменяет Хиробрина обратно на Мотыгобрина в качестве отсылки на ошибку, которая возникала, когда игрок видел Хиробрина без включенного набора ресурсов.",
+  "config.hoeBrineReturnsConfig.description": "Изменяет Хиробрина обратно на Мотыгобрина в качестве отсылки на ошибку, которая возникала, когда игрок видел Хиробрина без включённого набора ресурсов.",
   "config.hoeBrineReturnsConfig.title": "Возвращение Мотыгобрина",
   "config.jumpscareConfig.description": "Даёт Хиробрину возможность пугать игрока, если последний подойдёт слишком близко.",
   "config.jumpscareConfig.title": "Скример",

@@ -778,7 +778,7 @@
   "title.config.betternether.default_game_rules.egg_plant.player_damage": "Яйцевидные растения вредят игрокам",
   "title.config.betternether.default_game_rules.piglin.ignore_nether_armor": "Пиглины игнорируют незерскую броню",
   "title.config.betternether.default_game_rules.piglin.wear_nether_armor": "Пиглины носят незерскую броню",
-  "title.config.betternether.world.structure.city_in_overworld": "Генерировать незерский город в Надземном мире",
+  "title.config.betternether.world.structure.city_in_overworld": "Генерировать незерский город в обычном мире",
   "title.config.group.betternether.damage": "Урон",
   "upgrade.betternether.bowl_upgrade": "Незеритовое улучшение жаровни",
   "upgrade.betternether.cincinnasite_diamond_upgrade": "Алмазно-цинцинназитовое улучшение",

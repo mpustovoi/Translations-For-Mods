@@ -2,7 +2,7 @@
   "block.dungeons_plus.granite_gold_ore": "Золотоносный гранит",
   "block.dungeons_plus.granite_iron_ore": "Железоносный гранит",
   "death.attack.dungeons_plus.consume_soul": "%1$s поглотил свою душу",
-  "death.attack.dungeons_plus.consume_soul.player": "%1$s поглотил свою душу пока сражался с %2$s",
+  "death.attack.dungeons_plus.consume_soul.player": "%1$s поглотил свою душу, пока боролся с %2$s",
   "death.attack.dungeons_plus.warped_axe": "%1$s был зарублен %2$s",
   "death.attack.dungeons_plus.warped_axe.item": "%1$s был зарублен %2$s с помощью %3$s",
   "dungeons_plus:advancements.adventure.axe_a_phantom.description": "Бросьте искажённый топор в фантома с расстояния не менее 25 блоков",
