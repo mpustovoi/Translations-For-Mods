@@ -409,7 +409,7 @@
   "createcasing.ponder.mechanical_press.text_1": "Механический пресс может обрабатывать предметы под собой",
   "createcasing.ponder.mechanical_press.text_2": "Подаваемые предметы должны быть брошены или помещены под пресс",
   "createcasing.ponder.mechanical_press.text_3": "Когда предметы подаются на конвейере...",
-  "createcasing.ponder.mechanical_press.text_4": "...Пресс будет задерживать и прессовать их автоматически",
+  "createcasing.ponder.mechanical_press.text_4": "...пресс будет задерживать и прессовать их автоматически",
   "createcasing.ponder.mechanical_press_compacting.header": "Спрессовыванием и сжатием предметов механическим прессом",
   "createcasing.ponder.mechanical_press_compacting.text_1": "Спрессовывание предметов в чаше скомпонует их",
   "createcasing.ponder.mechanical_press_compacting.text_2": "Сжатие предметов и спрессовывание включают в себя любые заполненные 2×2 или 3×3 рецепты создания и некоторые другие",

@@ -14,7 +14,7 @@
   "block.interiors.chair.tooltip.behaviour3": "Переключает размер спинки _кресла_.",
   "block.interiors.chair.tooltip.condition1": "ПКМ по креслу",
   "block.interiors.chair.tooltip.condition2": "ПКМ по креслу гаечным ключом",
-  "block.interiors.chair.tooltip.condition3": "ПКМ крадучись по креслу гаечным ключом",
+  "block.interiors.chair.tooltip.condition3": "ПКМ на приседе по креслу гаечным ключом",
   "block.interiors.chair.tooltip.summary": "Присядьте и наслаждайтесь поездкой! Привязывает игрока к движущейся _штуковине_. Также может быть привлекательной _мебелью_.",
   "block.interiors.cushion.tooltip": "СИДУШКА",
   "block.interiors.cushion.tooltip.summary": "Мягкая и удобная _сидушка_. Упругая!",

@@ -168,6 +168,8 @@
   "tag.mob_effect.brewinandchewin.low_priority.milk_bottle": "Низкий приоритет для бутылочки молока",
   "tag.mob_effect.brewinandchewin.low_priority.hot_cocoa": "Низкий приоритет для горячего какао",
 
+  "tag.damage_type.brewinandchewin.triggers_raging": "Вызывает ярость",
+
   "comment_1": "Ниже идут строки из обновлённой версии мода для Forge 1.20.1",
 
   "fluid_type.brewinandchewin.milk_type": "Молоко",
