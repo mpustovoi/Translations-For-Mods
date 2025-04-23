@@ -1,6 +1,6 @@
 {
   "_comment": "Творческая вкладка",
-  "itemGroup.mowziesmobs.creativeTab": "Мобы Mowzie",
+  "itemGroup.mowziesmobs.creativeTab": "Mowzie's Mobs",
 
   "_comment": "Сущности",
   "entity.mowziesmobs.foliaath": "Рослолист",
@@ -90,7 +90,7 @@
   "item.mowziesmobs.earthrend_gauntlet.text.2": "§lПодъём столпа§r§7\nНажатие красться и прыжка, чтобы подняться вверх на столпе земли.\nШирина столпа увеличивается, если он растёт сквозь геомантические валуны",
   "item.mowziesmobs.earthrend_gauntlet.text.3": "Перезаряжается будучи в инвентаре.",
 
-  "item.mowziesmobs.mob_remover.text.0": "Нажатие ЛКМ — убрать моба Mowzie.",
+  "item.mowziesmobs.mob_remover.text.0": "Нажатие ЛКМ — убрать существо Mowzie's Mobs.",
 
   "item.mowziesmobs.wrought_helmet.text.0": "Никогда не разрушается.",
 
@@ -161,15 +161,15 @@
 
   "_comment": "Зелья",
   "effect.mowziesmobs.suns_blessing": "Благословение солнца",
-  "effect.mowziesmobs.suns_blessing.description": "§kОписание отсутствует§r",
+  "effect.mowziesmobs.suns_blessing.description": "Позволяет управлять силой солнца.",
   "effect.mowziesmobs.geomancy": "Геомантия",
-  "effect.mowziesmobs.geomancy.description": "§kОписание отсутствует§r",
+  "effect.mowziesmobs.geomancy.description": "Позволяет управлять силой земли.",
   "effect.mowziesmobs.frozen": "Заморозка",
-  "effect.mowziesmobs.frozen.description": "§kОписание отсутствует§r",
+  "effect.mowziesmobs.frozen.description": "На короткое время предотвращает все действия. Урон от огня снимет эффект раньше времени.",
   "effect.mowziesmobs.sunblock": "Защита от солнца",
-  "effect.mowziesmobs.sunblock.description": "§kОписание отсутствует§r",
+  "effect.mowziesmobs.sunblock.description": "Небольшое повышение регенерации и устойчивости к урону.",
   "effect.mowziesmobs.poison_resist": "Отравостойкость",
-  "effect.mowziesmobs.poison_resist.description": "§kОписание отсутствует§r",
+  "effect.mowziesmobs.poison_resist.description": "Предотвращает отравление.",
   "item.minecraft.potion.effect.poison_resist": "Зелье отравостойкости",
   "item.minecraft.splash_potion.effect.poison_resist": "Взрывное зелье отравостойкости",
   "item.minecraft.lingering_potion.effect.poison_resist": "Туманное зелье отравостойкости",
@@ -199,7 +199,7 @@
 
   "_comment": "Конфигурация",
   "config.mowziesmobs.mobs": "Существа",
-  "config.mowziesmobs.mobs.tooltip": "Настройки всех мобов Mowzie.",
+  "config.mowziesmobs.mobs.tooltip": "Настройки всех существ Mowzie's Mobs.",
   "config.mowziesmobs.foliaath": "Рослолист",
   "config.mowziesmobs.foliaath.tooltip": "",
   "config.mowziesmobs.has_boss_bar": "Отображать панель босса",
@@ -301,8 +301,8 @@
   "config.mowziesmobs.crane_heal_sounds": "Воспроизводить звуки исцеления Людонегрота-журавля",
 
   "_comment": "Advancements",
-  "advancements.mowziesmobs.root.title": "Мобы Mowzie",
-  "advancements.mowziesmobs.root.description": "Добро пожаловать в Мобов Mowzie!",
+  "advancements.mowziesmobs.root.title": "Mowzie's Mobs",
+  "advancements.mowziesmobs.root.description": "Добро пожаловать в Mowzie's Mobs!",
   "advancements.mowziesmobs.kill_umvuthi.title": "Хвала солнцу",
   "advancements.mowziesmobs.kill_umvuthi.description": "Убейте Людопепелку, нектарку",
   "advancements.mowziesmobs.kill_ferrous_wroughtnaut.title": "Всего лишь рана в теле",
