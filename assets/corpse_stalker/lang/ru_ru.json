@@ -1,8 +1,8 @@
 {
-  "advancements.corpse_stalker.gravedigger.descr": "Убйте Могильщика",
+  "advancements.corpse_stalker.gravedigger.descr": "Убйте могильщика",
   "advancements.corpse_stalker.gravedigger.title": "§8Копай свою могилу",
   "entity.corpse_stalker.corpse_stalker": "Могильщик",
-  "item.corpse_stalker.corpse_stalker_spawn_egg": "Яйцо призыва Могильщика",
+  "item.corpse_stalker.corpse_stalker_spawn_egg": "Яйцо призыва могильщика",
   "sound.corpse_stalker:cavenoise_1": "Жуткий шум",
   "sound.corpse_stalker:cavenoise_2": "Жуткий шум",
   "sound.corpse_stalker:cavenoise_3": "Жуткий шум",

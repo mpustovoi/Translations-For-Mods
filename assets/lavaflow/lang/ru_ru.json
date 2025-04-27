@@ -1,0 +1,20 @@
+{
+  "structure.minecraft.bastion_remnant.treasure": "Развалины бастиона с сокровищем",
+  "structure.minecraft.bastion_remnant.housing": "Развалины жилого бастиона",
+  "structure.minecraft.bastion_remnant.hoglin_stable": "Развалины бастиона с загонами хоглинов",
+  "structure.minecraft.bastion_remnant.bridge": "Мост развалин бастиона",
+  "structure.lavaflow.scaffolding": "Строительные леса",
+  "structure.lavaflow.strider_staples": "Скобы лавомерок",
+
+  "biome.lavaflow.caves": "Пещеры Незера",
+  "biome.lavaflow.crimson_forest_layer": "Слой багрового леса",
+  "biome.lavaflow.warped_forest_layer": "Слой искажённого леса",
+  "biome.lavaflow.nether_wastes_layer": "Слой пустошей Незера",
+  "biome.lavaflow.ghost_forest": "Призрачный лес",
+  "biome.lavaflow.river": "Река лавы",
+  "biome.lavaflow.soul_sand_valley_river": "Река долины песка душ",
+  "biome.lavaflow.ocean": "Океан лавы",
+  "biome.lavaflow.gravel_beach": "Гравийный пляж",
+  "biome.lavaflow.old_growth_warped_forest": "Реликтовый искажённый лес",
+  "biome.lavaflow.old_growth_crimson_forest": "Реликтовый багровый лес"
+}

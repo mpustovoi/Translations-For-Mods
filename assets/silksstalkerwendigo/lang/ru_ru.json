@@ -2,12 +2,12 @@
   "effect.silksstalkerwendigo.adreneline.description": "",
   "effect.silksstalkerwendigo.adreneline": "Адреналин",
   "entity.silksstalkerwendigo.stalker": "Вендиго",
-  "gamerule.stalkerWhining.description": "Включает отладочные сообщения Вендиго, позволяя ему, в основном, жаловаться. Это сделано в целях разработки, не включайте это, если не хотите, чтобы ваш чат был заполнен спамом.",
-  "gamerule.stalkerWhining": "Скулёж Вендиго",
-  "item.silksstalkerwendigo.artificial_stalker_skull": "Искусственный череп Вендиго",
-  "item.silksstalkerwendigo.bundled_stalkers_bones": "Связка костей Вендиго",
-  "item.silksstalkerwendigo.bundled_stalkers_fur": "Связка меха Вендиго",
+  "gamerule.stalkerWhining.description": "Включает отладочные сообщения вендиго, позволяя ему, в основном, жаловаться. Это сделано в целях разработки, не включайте это, если не хотите, чтобы ваш чат был заполнен спамом.",
+  "gamerule.stalkerWhining": "Скулёж вендиго",
+  "item.silksstalkerwendigo.artificial_stalker_skull": "Искусственный череп вендиго",
+  "item.silksstalkerwendigo.bundled_stalkers_bones": "Связка костей вендиго",
+  "item.silksstalkerwendigo.bundled_stalkers_fur": "Связка меха вендиго",
   "item.silksstalkerwendigo.stalker_bone": "Кость Вeндиго",
-  "item.silksstalkerwendigo.stalker_fur": "Мех Вендиго",
-  "item.silksstalkerwendigo.stalker_spawn_egg": "Яйцо призыва Вендиго"
+  "item.silksstalkerwendigo.stalker_fur": "Мех вендиго",
+  "item.silksstalkerwendigo.stalker_spawn_egg": "Яйцо призыва вендиго"
 }

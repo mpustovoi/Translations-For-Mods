@@ -1,8 +1,6 @@
 {
-  "variants" : {
-  "deep_aether:textures/entity/aerglow_fish.png" : "outlined_sprite:deep_aether/aerglow_fish/aerglow_fish.png",
-
-
-  	"layersAllowed":true
+  "variants": {
+    "deep_aether:textures/entity/aerglow_fish.png": "outlined_sprite:deep_aether/aerglow_fish/aerglow_fish.png",
+    "layersAllowed": true
   }
 }

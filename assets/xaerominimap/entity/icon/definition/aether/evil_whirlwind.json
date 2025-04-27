@@ -1,6 +1,6 @@
 {
   "variants": {
-  "default": "outlined_sprite:aether/evil_whirlwind.png",
-  "layersAllowed": true
+    "default": "outlined_sprite:aether/evil_whirlwind.png",
+    "layersAllowed": true
   }
 }

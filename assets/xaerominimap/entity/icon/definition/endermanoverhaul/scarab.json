@@ -1,7 +1,6 @@
 {
   "variants": {
-  "default" : "outlined_sprite:endermanoverhaul/scarab.png"
-  ,
-  "layersAllowed": true
+    "default": "outlined_sprite:endermanoverhaul/scarab.png",
+    "layersAllowed": true
   }
 }

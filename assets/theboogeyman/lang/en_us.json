@@ -1,5 +1,5 @@
 {
-  "effect.theboogeyman.fear.description": "",
+  "effect.theboogeyman.fear.description": "§kDescription Missing§r",
   "effect.theboogeyman.fear": "Fear",
   "entity.theboogeyman.boogeyman_hallucination": "Boogeyman",
   "entity.theboogeyman.boogeyman_trigger_1": "Boogeyman",
@@ -26,4 +26,5 @@
   "subtitles.entity.boogeyman.growl": "Boogeyman Growl",
   "subtitles.entity.boogeyman.hurt": "Boogeyman Hurt",
   "subtitles.silence": ""
+
 }

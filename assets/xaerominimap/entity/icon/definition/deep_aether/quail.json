@@ -1,13 +1,12 @@
 {
-  "variants" : {
-  "deep_aether:textures/entity/quail/quail_copper.png" : "outlined_sprite:deep_aether/quail/quail_copper.png",
-  "deep_aether:textures/entity/quail/quail_faded_yellow.png" : "outlined_sprite:deep_aether/quail/quail_faded_yellow.png",
-  "deep_aether:textures/entity/quail/quail_light_blue.png" : "outlined_sprite:deep_aether/quail/quail_light_blue.png",
-  "deep_aether:textures/entity/quail/quail_old_green.png" : "outlined_sprite:deep_aether/quail/quail_old_green.png",
-  "deep_aether:textures/entity/quail/quail_pink.png" : "outlined_sprite:deep_aether/quail/quail_pink.png",
-  "deep_aether:textures/entity/quail/quail_purple.png" : "outlined_sprite:deep_aether/quail/quail_purple.png",
-  "deep_aether:textures/entity/quail/quail_tropical_blue.png" : "outlined_sprite:deep_aether/quail/quail_tropical_blue.png",
-
-  	"layersAllowed":true
+  "variants": {
+    "deep_aether:textures/entity/quail/quail_copper.png": "outlined_sprite:deep_aether/quail/quail_copper.png",
+    "deep_aether:textures/entity/quail/quail_faded_yellow.png": "outlined_sprite:deep_aether/quail/quail_faded_yellow.png",
+    "deep_aether:textures/entity/quail/quail_light_blue.png": "outlined_sprite:deep_aether/quail/quail_light_blue.png",
+    "deep_aether:textures/entity/quail/quail_old_green.png": "outlined_sprite:deep_aether/quail/quail_old_green.png",
+    "deep_aether:textures/entity/quail/quail_pink.png": "outlined_sprite:deep_aether/quail/quail_pink.png",
+    "deep_aether:textures/entity/quail/quail_purple.png": "outlined_sprite:deep_aether/quail/quail_purple.png",
+    "deep_aether:textures/entity/quail/quail_tropical_blue.png": "outlined_sprite:deep_aether/quail/quail_tropical_blue.png",
+    "layersAllowed": true
   }
 }

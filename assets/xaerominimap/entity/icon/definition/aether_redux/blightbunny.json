@@ -1,7 +1,6 @@
 {
-  "variants" : {
-  	"aether_redux:textures/entity/mobs/blightbunny/blightbunny.png" : "outlined_sprite:aether_redux/blightbunny/blightbunny.png",
-  	
-  	"layersAllowed":true
+  "variants": {
+    "aether_redux:textures/entity/mobs/blightbunny/blightbunny.png": "outlined_sprite:aether_redux/blightbunny/blightbunny.png",
+    "layersAllowed": true
   }
 }

@@ -1,4 +1,19 @@
 {
+  "entity.goatman.goatman_clone": "Goatman",
+  "item.goatman.goat_bell": "Goat Bell",
+  "item.goatman.goatman_clone_spawn_egg": "Goatman Spawn Egg",
+  "item.goatman.goatman_horn": "Goatman Horn",
+  "subtitles.goatman.chase": "",
+  "subtitles.goatman.death": "",
+  "subtitles.goatman.disappear": "",
+  "subtitles.goatman.flee": "",
+  "subtitles.goatman.hurt": "",
+  "subtitles.goatman.jumpscare": "",
+  "subtitles.goatman.noise": "",
+  "subtitles.goatman.scream": "",
+  "subtitles.goatman.spotted": "",
+  "subtitles.goatman.step": "",
+
   "advancements.goatman.goatskin.descr": "Kill a Goatman",
   "advancements.goatman.goatskin.title": "§4Goated One",
   "entity.goatman.goatman": "Goatman",
@@ -25,4 +40,5 @@
   "sound.goatman:flee_2": "Goatman fears",
   "sound.goatman:spotted": "Bone Cracking",
   "sounds.goatman:cavenoise_1": "Eerie noise"
+
 }

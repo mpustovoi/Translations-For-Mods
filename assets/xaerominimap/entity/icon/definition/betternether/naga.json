@@ -1,7 +1,6 @@
 {
   "variants": {
-  "default" : "outlined_sprite:betternether/naga.png"
-  ,
-  "layersAllowed": true
+    "default": "outlined_sprite:betternether/naga.png",
+    "layersAllowed": true
   }
 }

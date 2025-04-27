@@ -2,10 +2,10 @@
   "entity.sf_scp.frank_scp": "Варвар",
   "entity.sf_scp.smile_scp": "Улыбака",
 
-  "item.sf_scp.frank_scp_spawn_egg": "Яйцо призыва Варвара",
+  "item.sf_scp.frank_scp_spawn_egg": "Яйцо призыва варвара",
   "item.sf_scp.rage_essence": "Эссенция ярости",
   "item.sf_scp.smile_mask": "Маска Улыбаки",
-  "item.sf_scp.smile_scp_spawn_egg": "Яйцо призыва Улыбаки",
+  "item.sf_scp.smile_scp_spawn_egg": "Яйцо призыва улыбаки",
 
   "sf_scp.subtitles.smile_scp.ambient": "Улыбака хихикает",
   "sf_scp.subtitles.smile_scp.bite": "Улыбака атакует",

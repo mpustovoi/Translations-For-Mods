@@ -1,9 +1,7 @@
 {
-  "variants" : {
-  "deep_aether:textures/entity/venomite/venomite.png" : "outlined_sprite:deep_aether/venomite/venomite.png",
-  "deep_aether:textures/entity/venomite/venomite_angry.png" : "outlined_sprite:deep_aether/venomite/venomite_angry.png",
-
-
-  	"layersAllowed":true
+  "variants": {
+    "deep_aether:textures/entity/venomite/venomite.png": "outlined_sprite:deep_aether/venomite/venomite.png",
+    "deep_aether:textures/entity/venomite/venomite_angry.png": "outlined_sprite:deep_aether/venomite/venomite_angry.png",
+    "layersAllowed": true
   }
 }

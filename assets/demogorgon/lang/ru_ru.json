@@ -33,5 +33,5 @@
   "config.speedIdle": "Скорость при блуждании (вещественное)",
   "config.speedNearTarget": "Скорость при приближении к цели (вещественное)",
   "entity.demogorgon.deep_dweller": "Демогоргон",
-  "item.demogorgon.deep_dweller_spawn_egg": "Яйцо призыва Демогоргона"
+  "item.demogorgon.deep_dweller_spawn_egg": "Яйцо призыва демогоргона"
 }

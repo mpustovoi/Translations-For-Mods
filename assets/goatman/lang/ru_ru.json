@@ -1,8 +1,23 @@
 {
-  "advancements.goatman.goatskin.descr": "Убейте Козогоба",
+  "entity.goatman.goatman_clone": "Козогоб",
+  "item.goatman.goat_bell": "Козий колокольчик",
+  "item.goatman.goatman_clone_spawn_egg": "Яйцо призыва козогоба",
+  "item.goatman.goatman_horn": "Рог козогоба",
+  "subtitles.goatman.chase": "",
+  "subtitles.goatman.death": "",
+  "subtitles.goatman.disappear": "",
+  "subtitles.goatman.flee": "",
+  "subtitles.goatman.hurt": "",
+  "subtitles.goatman.jumpscare": "",
+  "subtitles.goatman.noise": "",
+  "subtitles.goatman.scream": "",
+  "subtitles.goatman.spotted": "",
+  "subtitles.goatman.step": "",
+
+  "advancements.goatman.goatskin.descr": "Убейте козогоба",
   "advancements.goatman.goatskin.title": "§4Кóзел безалкогольный",
   "entity.goatman.goatman": "Козогоб",
-  "item.goatman.goatman_spawn_egg": "Яйцо призыва Козогоба",
+  "item.goatman.goatman_spawn_egg": "Яйцо призыва козогоба",
   "sound.goatman:cavenoise_1": "Жуткий шум",
   "sound.goatman:cavenoise_2": "Жуткий шум",
   "sound.goatman:cavenoise_3": "Жуткий шум",
@@ -25,4 +40,6 @@
   "sound.goatman:flee_2": "Козогоб сбегает",
   "sound.goatman:spotted": "Треск костей",
   "sounds.goatman:cavenoise_1": "Жуткий шум"
+
+
 }

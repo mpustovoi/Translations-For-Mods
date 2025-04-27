@@ -6,6 +6,7 @@
   "advancement.trading_floor.money_money_money": "Деньги Деньги Деньги",
   "advancement.trading_floor.money_money_money.desc": "Совершите автоматическую сделку, используя торговое депо",
   "block.trading_floor.trading_depot": "Торговое депо",
+  "block.trading_floor.trading_depot.tooltip.summary": "Торгуйте с крестьянами, но учтите, что крестьяне могут _торговаться в своё обычное рабочее время_.",
   "trading_floor.display_link.trading_depot.no_trade": "Нет сделок",
   "trading_floor.display_link.trading_depot.trades_completed": "Сделок завершено:",
   "trading_floor.display_source.trade_completed_count": "Количество завершённых сделок",

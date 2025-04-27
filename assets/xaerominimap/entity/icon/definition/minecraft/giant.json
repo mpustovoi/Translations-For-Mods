@@ -1,8 +1,6 @@
-
 {
-  "variants" : {
-    "default" : "sprite:minecraft/zombie/giant.png"
-  	,
-  	"layersAllowed": true
-    }
+  "variants": {
+    "default": "sprite:minecraft/zombie/giant.png",
+    "layersAllowed": true
+  }
 }

@@ -1,7 +1,6 @@
 {
-  "variants" : {
-  	"aether_redux:textures/entity/mobs/mykapod/mykapod.png" : "outlined_sprite:aether_redux/mykapod/mykapod.png",
-  	
-  	"layersAllowed":true
+  "variants": {
+    "aether_redux:textures/entity/mobs/mykapod/mykapod.png": "outlined_sprite:aether_redux/mykapod/mykapod.png",
+    "layersAllowed": true
   }
 }

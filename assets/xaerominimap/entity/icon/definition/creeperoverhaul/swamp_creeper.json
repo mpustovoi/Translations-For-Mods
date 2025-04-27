@@ -1,6 +1,6 @@
 {
   "variants": {
-  "default": "outlined_sprite:creeperoverhaul/swamp/swamp_creeper.png",
-  "layersAllowed": true
-}
+    "default": "outlined_sprite:creeperoverhaul/swamp/swamp_creeper.png",
+    "layersAllowed": true
+  }
 }

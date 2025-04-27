@@ -1,7 +1,6 @@
 {
   "variants": {
-  "default" : "outlined_sprite:endermanoverhaul/windswept_hills_enderman.png"
-  ,
-  "layersAllowed": true
+    "default": "outlined_sprite:endermanoverhaul/windswept_hills_enderman.png",
+    "layersAllowed": true
   }
 }

@@ -1,7 +1,6 @@
 {
   "variants": {
-  "default" : "outlined_sprite:deeperdarker/sculk_leech.png"
-  ,
-  "layersAllowed": true
+    "default": "outlined_sprite:deeperdarker/sculk_leech.png",
+    "layersAllowed": true
   }
 }
