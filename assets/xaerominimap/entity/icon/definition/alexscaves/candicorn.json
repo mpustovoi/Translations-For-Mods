@@ -1,0 +1,9 @@
+{
+  "variants": {
+    "alexscaves:textures/entity/candicorn_0.png": "outlined_sprite:alexscaves/candicorn/0.png",
+    "alexscaves:textures/entity/candicorn_1.png": "outlined_sprite:alexscaves/candicorn/1.png",
+    "alexscaves:textures/entity/candicorn_2.png": "outlined_sprite:alexscaves/candicorn/2.png",
+    "alexscaves:textures/entity/candicorn_3.png": "outlined_sprite:alexscaves/candicorn/3.png",
+    "alexscaves:textures/entity/candicorn_4.png": "outlined_sprite:alexscaves/candicorn/4.png"
+  }
+}

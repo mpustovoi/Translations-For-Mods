@@ -1,6 +1,6 @@
 {
   "variants": {
-  "default": "outlined_sprite:alexscaves/gingerbread_man/0.png",
-  "layersAllowed": true
+    "default": "outlined_sprite:alexscaves/gingerbread_man/0.png",
+    "layersAllowed": true
   }
 }

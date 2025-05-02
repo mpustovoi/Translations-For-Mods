@@ -1,4 +1,6 @@
 {
+  "tab.ellsso.main": "Ellie's Storage Options",
+
   "block.ellsso.barrel": "Подозрительная бочка",
   "container.ellsso.barrel": "Высокая бочка",
 
@@ -22,5 +24,19 @@
   "block.ellsso.brown_shulker_box": "Кориченвый пурпуровый шалкеровый ящик",
   "block.ellsso.green_shulker_box": "Зелёный пурпуровый шалкеровый ящик",
   "block.ellsso.red_shulker_box": "Красный пурпуровый шалкеровый ящик",
-  "block.ellsso.black_shulker_box": "Чёрный пурпуровый шалкеровый ящик"
+  "block.ellsso.black_shulker_box": "Чёрный пурпуровый шалкеровый ящик",
+
+  "block.ellsso.mini_chest": "Мини-сундук",
+  "container.ellsso.mini_chest": "Мини-сундук",
+
+  "block.ellsso.oak_chest": "Дубовый сундук",
+  "block.ellsso.spruce_chest": "Еловый сундук",
+  "block.ellsso.dark_oak_chest": "Сундук из тёмного дуба",
+  "block.ellsso.acacia_chest": "Акациевый сундук",
+  "block.ellsso.bamboo_chest": "Бамбуковый сундук",
+  "block.ellsso.birch_chest": "Берёзовый сундук",
+  "block.ellsso.cherry_chest": "Вишнёвый сундук",
+  "block.ellsso.crimson_chest": "Багровый сундук",
+  "block.ellsso.pale_oak_chest": "Сундук из бледного дуба",
+  "block.ellsso.warped_chest": "Искажённый сундук"
 }
