@@ -18,5 +18,17 @@
   "advancements.easy_emerald.get_ruby_armor.descr": "Put on the Ruby armor",
   "advancements.easy_emerald.get_ruby_armor.title": "The Red Dawn",
   "advancements.easy_emerald.get_ruby_pickaxe.descr": "Obtain a Ruby Pickaxe",
-  "advancements.easy_emerald.get_ruby_pickaxe.title": "Further Improvement"
+  "advancements.easy_emerald.get_ruby_pickaxe.title": "Further Improvement",
+  "item.easy_emerald.amethyst_treeaxe": "Amethyst Maul",
+  "item.easy_emerald.copper_treeaxe": "Copper Maul",
+  "item.easy_emerald.diamond_treeaxe": "Diamond Maul",
+  "item.easy_emerald.emerald_treeaxe": "Emerald Maul",
+  "item.easy_emerald.excavator.tip1": "A 3×3 Shovel",
+  "item.easy_emerald.gold_treeaxe": "Golden Maul",
+  "item.easy_emerald.hammer.tip1": "A 3×3 Pickaxe",
+  "item.easy_emerald.iron_treeaxe": "Iron Maul",
+  "item.easy_emerald.netherite_treeaxe": "Netherite Maul",
+  "item.easy_emerald.obsidian_treeaxe": "Obsidian Maul",
+  "item.easy_emerald.ruby_treeaxe": "Ruby Maul",
+  "item.easy_emerald.wooden_treeaxe": "Wooden Maul"
 }

@@ -1,4 +1,15 @@
 {
+  "advancements.bro.enter_overworld_from_void.descr": "Return to the Overworld",
+  "advancements.bro.enter_overworld_from_void.title": "§2Finally Home",
+  "advancements.bro.enter_saturated_from_void.descr": "Visit an Another Place",
+  "advancements.bro.enter_saturated_from_void.title": "§5Feeling Saturated",
+  "advancements.bro.enter_void_first_time.descr": "Almost suffocate in Gravel",
+  "advancements.bro.enter_void_first_time.title": "§0Noclip Out of Reality",
+  "advancements.bro.enter_void_from_saturated.descr": "Come back where you came from",
+  "advancements.bro.enter_void_from_saturated.title": "§0Here We Are Again",
+  "advancements.bro.find_liminal.descr": "Find that secret place",
+  "advancements.bro.find_liminal.title": "§eLiminal Spaces",
+
   "advancements.bro.saturated.enter_saturated.descr": "Enter Saturated",
   "advancements.bro.saturated.enter_saturated.title": "My Eyes!",
   "advancements.bro.saturated.enter_void.descr": "End up in the Void",
