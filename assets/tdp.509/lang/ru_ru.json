@@ -18,5 +18,6 @@
   "advancements.tdp.509.milk_skips_bad_luck.title": "Не повезло шкиперу",
   "advancements.tdp.509.milk_skips_bad_luck.descr": "§aВыпейте молока, это принесёт вам удачу",
   "advancements.tdp.509.open_fishing_crate.title": "Что внутри?",
-  "advancements.tdp.509.open_fishing_crate.descr": "§eПоймайте §5рыбацкий ящик§e и посмотрите, что внутри..."
+  "advancements.tdp.509.open_fishing_crate.descr": "§eПоймайте §5рыбацкий ящик§e и посмотрите, что внутри...",
+  "tag.item.tdp.509.fish": "Рыба"
 }

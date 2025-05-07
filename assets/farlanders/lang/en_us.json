@@ -23,5 +23,9 @@
   "advancements.farlanders.titan.title": "The Defense has Fallen...",
   "entity.farlanders.fanmade_enderman": "Fanatic Enderman",
   "item.farlanders.fanmade_enderman_spawn_egg": "Fanatic Enderman Spawn Egg",
-  "subtitles.entity.fanmade_enderman.idle": "Enderman whispers"
+  "subtitles.entity.fanmade_enderman.idle": "Enderman whispers",
+  "tag.item.farlanders.enderminion_holdable": "Enderminion Holdable",
+  "tag.item.farlanders.enderminion_tame_food": "Enderminion Tame Food",
+  "tag.item.farlanders.looter_stealable": "Looter Stealable",
+  "tag.item.farlanders.mystic_wands": "Mystic Wands"
 }

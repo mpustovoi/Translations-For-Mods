@@ -50,5 +50,7 @@
   "subtitles.entity.wilted.curse_item": "Подвой проклинает",
   "subtitles.entity.wilted.death": "Подвой погибает",
   "subtitles.entity.wilted.pulse": "Подвой пульсирует",
-  "subtitles.entity.wilted.reveal": "Подвой раскрывает"
+  "subtitles.entity.wilted.reveal": "Подвой раскрывает",
+
+  "tag.item.rootoffear.wilted_adds_cooldown_to": "Подвой добавляет перезарядку к"
 }

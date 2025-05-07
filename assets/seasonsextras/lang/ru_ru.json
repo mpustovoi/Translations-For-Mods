@@ -2,7 +2,7 @@
   "itemGroup.seasonsextras.creative_tab": "Fabric Seasons: дополнения",
 
   "item.seasonsextras.seasonal_compendium": "Сезонный сборник",
-  "item.seasonsextras.crop_season_tester": "Тестер сезона культур",
+  "item.seasonsextras.crop_season_tester": "Тестер сезона посевов",
 
   "block.seasonsextras.season_calendar": "Календарь сезонов",
   "block.seasonsextras.season_detector": "Датчик сезона",
@@ -45,7 +45,7 @@
   "tooltip.seasonsextras.tester_result_disabled_2": "будут расти с обычной скоростью.",
   "tooltip.seasonsextras.tester_result_enabled_1": "Культуры, посаженные на этом блоке,",
   "tooltip.seasonsextras.tester_result_enabled_2": "расти так, как если бы это была %s",
-  "tooltip.seasonsextras.tester_result_crop_1": "Эта культура будет расти на %sx",
+  "tooltip.seasonsextras.tester_result_crop_1": "Этот посев будет расти на %sx",
   "tooltip.seasonsextras.tester_result_crop_2": "от своей обычной скорости (%s)",
   "tooltip.seasonsextras.not_enabled": "Эта функция не включена.",
 

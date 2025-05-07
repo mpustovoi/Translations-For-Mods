@@ -22,5 +22,8 @@
   "entity.minecraft.villager.villagersplus.horticulturist": "Садовод",
   "entity.minecraft.villager.villagersplus.occultist": "Оккультист",
   "entity.minecraft.villager.villagersplus.oceanographer": "Океанолог",
-  "itemGroup.villagersplus.group": "Крестьяне+"
+  "itemGroup.villagersplus.group": "Крестьяне+",
+  "tag.item.villagersplus.aquarium_plantable_items": "Можно посадить в аквариум",
+  "tag.item.villagersplus.flower_tub_small_plantable_items": "Маленькие цветы для цветочной кадки",
+  "tag.item.villagersplus.flower_tub_tall_plantable_items": "Высокие цветы для цветочной кадки"
 }

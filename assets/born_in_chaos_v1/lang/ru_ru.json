@@ -173,8 +173,8 @@
   "block.born_in_chaos_v1.green_stained_glass_panel": "Зеленая витражная панель",
   "block.born_in_chaos_v1.green_stained_glass": "Зеленый витраж",
   "block.born_in_chaos_v1.hound_trap": "§6Капкан гончих",
-  "block.born_in_chaos_v1.infected_deepslate_diamond_ore": "§bАлмазоносный глубинный сланец",
-  "block.born_in_chaos_v1.infected_diamond_ore": "§bАлмазная руда",
+  "block.born_in_chaos_v1.infected_deepslate_diamond_ore": "Алмазоносный глубинный сланец",
+  "block.born_in_chaos_v1.infected_diamond_ore": "Алмазная руда",
   "block.born_in_chaos_v1.infernal_evil_pumpkin_s": "§aЗлобная скверная тыква",
   "block.born_in_chaos_v1.infernal_evil_pumpkin": "Злобная скверная тыква",
   "block.born_in_chaos_v1.lifestealer_skull": "Череп жизнекрада",
@@ -948,5 +948,7 @@
   "subtitles.zombie_brute_hurt": "",
   "subtitles.zombie_brute_idle": "",
   "subtitles.zombie_clown_attack": "",
+  "tag.item.born_in_chaos_v1.rareloot": "Редкая добыча",
+  "tag.item.born_in_chaos_v1.unusualloot": "Необычная добыча",
   "zh_cn": ""
 }

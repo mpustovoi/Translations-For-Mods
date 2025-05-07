@@ -2,5 +2,7 @@
   "advancements.golemoverhaul.kill_all_overhauled_creepers.descr": "Kill all the Overhauled Golems",
   "advancements.golemoverhaul.kill_all_overhauled_creepers.title": "Golems Overhauled",
   "advancements.golemoverhaul.kill_overhauled_creeper.descr": "Kill an Overhauled Golem",
-  "advancements.golemoverhaul.kill_overhauled_creeper.title": "Golem Overhauled"
+  "advancements.golemoverhaul.kill_overhauled_creeper.title": "Golem Overhauled",
+  "tag.item.golemoverhaul.cactus": "Cactus",
+  "tag.item.golemoverhaul.wax": "Wax"
 }

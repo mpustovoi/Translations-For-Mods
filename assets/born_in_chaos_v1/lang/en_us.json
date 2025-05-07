@@ -173,8 +173,8 @@
   "block.born_in_chaos_v1.green_stained_glass_panel": "Green Ornate Glass Pane",
   "block.born_in_chaos_v1.green_stained_glass": "Green Ornate Glass",
   "block.born_in_chaos_v1.hound_trap": "§6Hound Trap",
-  "block.born_in_chaos_v1.infected_deepslate_diamond_ore": "§3Infected Diamond Ore",
-  "block.born_in_chaos_v1.infected_diamond_ore": "§3Infected Diamond Ore",
+  "block.born_in_chaos_v1.infected_deepslate_diamond_ore": "Deepslate Diamond Ore",
+  "block.born_in_chaos_v1.infected_diamond_ore": "Diamond Ore",
   "block.born_in_chaos_v1.infernal_evil_pumpkin_s": "§aInfernal Evil Pumpkin",
   "block.born_in_chaos_v1.infernal_evil_pumpkin": "Infernal Evil Pumpkin",
   "block.born_in_chaos_v1.lifestealer_skull": "Lifestealer Skull",
@@ -948,5 +948,7 @@
   "subtitles.zombie_brute_hurt": "",
   "subtitles.zombie_brute_idle": "",
   "subtitles.zombie_clown_attack": "",
+  "tag.item.born_in_chaos_v1.rareloot": "Rare Loot",
+  "tag.item.born_in_chaos_v1.unusualloot": "Unusual Loot",
   "zh_cn": ""
 }

@@ -22,5 +22,8 @@
   "entity.minecraft.villager.villagersplus.horticulturist": "Horticulturist",
   "entity.minecraft.villager.villagersplus.occultist": "Occultist",
   "entity.minecraft.villager.villagersplus.oceanographer": "Oceanologist",
-  "itemGroup.villagersplus.group": "VillagersPlus"
+  "itemGroup.villagersplus.group": "VillagersPlus",
+  "tag.item.villagersplus.aquarium_plantable_items": "Aquarium Plantable Items",
+  "tag.item.villagersplus.flower_tub_small_plantable_items": "Small Flower Tub Plantable Items",
+  "tag.item.villagersplus.flower_tub_tall_plantable_items": "Tall Flower Tub Plantable Items"
 }

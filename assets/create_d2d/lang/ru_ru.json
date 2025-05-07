@@ -264,5 +264,19 @@
   "item.create_d2d.pumpkin_milkshake_bucket": "Ведро тыквенного коктейля",
   "item.create_d2d.sap_bucket": "Ведро живицы",
   "item.create_d2d.strawberry_milkshake_bucket": "Ведро клубничного коктейля",
-  "item.create_d2d.vanilla_milkshake_bucket": "Ведро ванильного коктейля"
+  "item.create_d2d.vanilla_milkshake_bucket": "Ведро ванильного коктейля",
+  "tag.item.create_d2d.asphalts": "Асфальт",
+  "tag.item.create_d2d.bore_blocks": "Буровые блоки",
+  "tag.item.create_d2d.dyed_blocks": "Окрашенные блоки",
+  "tag.item.create_d2d.palette_blocks": "Блоки паллеты",
+  "tag.item.create_d2d.stone_types.amethyst_block": "Аметистовые камни",
+  "tag.item.create_d2d.stone_types.basalt": "Базальтовые камни",
+  "tag.item.create_d2d.stone_types.blackstone": "Чернитные камни",
+  "tag.item.create_d2d.stone_types.breccia": "Брекчиевые камни",
+  "tag.item.create_d2d.stone_types.dolomite": "Доломитовые камни",
+  "tag.item.create_d2d.stone_types.gabbro": "Габбровые камни",
+  "tag.item.create_d2d.stone_types.netherrack": "Незераковые камни",
+  "tag.item.create_d2d.stone_types.packed_mud": "Саманные камни",
+  "tag.item.create_d2d.stone_types.stone": "Каменные камни",
+  "tag.item.create_d2d.stone_types.weathered_limestone": "Выветренно-известняковые камни"
 }

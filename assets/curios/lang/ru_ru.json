@@ -46,5 +46,14 @@
   "key.curios.open.desc": "Открыть/Закрыть инвентарь аксессуаров",
   "gui.curios.toggle": "Переключить видимость",
   "gui.curios.toggle.cosmetics": "Переключать косметику",
-  "gui.curios.page": "Страница %d / %d"
+  "gui.curios.page": "Страница %d / %d",
+  "tag.item.curios.arrow": "Стрелы",
+  "tag.item.curios.back": "Спина",
+  "tag.item.curios.belt": "Пояс",
+  "tag.item.curios.body": "Тело",
+  "tag.item.curios.bracelet": "Браслет",
+  "tag.item.curios.calendarslot": "Календарь",
+  "tag.item.curios.charm": "Амулет",
+  "tag.item.curios.head": "Голова",
+  "tag.item.curios.shulker": "Шалкер"
 }

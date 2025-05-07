@@ -395,5 +395,22 @@
   "gui.exposure.viewfinder.focal_length": "%sмм",
   "gui.exposure.viewfinder.focal_length.tooltip": "Фокусное расстояние",
   "gui.exposure.viewfinder.shutter_speed.tooltip": "Выдержка затвора",
-  "item.exposure.interplanar_projector.tooltip.switch_info": "§8[§7ПКМ§8] для смены режима"
+  "item.exposure.interplanar_projector.tooltip.switch_info": "§8[§7ПКМ§8] для смены режима",
+
+  "tag.item.exposure.black_and_white_film_rolls": "Рулоны чёрно-белой плёнки",
+  "tag.item.exposure.black_printing_dyes": "Чёрные печатные красители",
+  "tag.item.exposure.blue_filters": "Синие фильтры",
+  "tag.item.exposure.color_film_rolls": "Рулоны цветной плёнки",
+  "tag.item.exposure.cyan_printing_dyes": "Бирюзовые печатные красители",
+  "tag.item.exposure.developed_film_rolls": "Рулоны проявленной плёнки",
+  "tag.item.exposure.film_rolls": "Рулоны плёнки",
+  "tag.item.exposure.filters": "Фильтры",
+  "tag.item.exposure.flashes": "Вспышки",
+  "tag.item.exposure.green_filters": "Зелёные фильтры",
+  "tag.item.exposure.lenses": "Объективы",
+  "tag.item.exposure.magenta_printing_dyes": "Пурпурные печатные красители",
+  "tag.item.exposure.photo_agers": "Состариватели фотографий",
+  "tag.item.exposure.photo_papers": "Фотобумага",
+  "tag.item.exposure.red_filters": "Красные фильтры",
+  "tag.item.exposure.yellow_printing_dyes": "Жёлтые печатные красители"
 }

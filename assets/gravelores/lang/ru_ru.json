@@ -1,24 +1,24 @@
 {
   "gravelores.gravelores": "Гравийные руды",
-  "block.gravelores.iron_gravel_ore": "Железная гравийная руда",
-  "block.gravelores.gold_gravel_ore": "Золотая гравийная руда",
-  "block.gravelores.copper_gravel_ore": "Медная гравийная руда",
+  "block.gravelores.iron_gravel_ore": "Железоносный гравий",
+  "block.gravelores.gold_gravel_ore": "Золотоносный гравий",
+  "block.gravelores.copper_gravel_ore": "Меденосный гравий",
   
-  "block.gravelores.diamond_gravel_ore": "Алмазная гравийная руда",
-  "block.gravelores.emerald_gravel_ore": "Изумрудная гравийная руда",
-  "block.gravelores.quartz_gravel_ore": "Кварцевая гравийная руда",
+  "block.gravelores.diamond_gravel_ore": "Алмазоносный гравий",
+  "block.gravelores.emerald_gravel_ore": "Изумрудоносный гравий",
+  "block.gravelores.quartz_gravel_ore": "Кварценосный гравий",
   
-  "block.gravelores.coal_gravel_ore": "Угольная гравийная руда",
-  "block.gravelores.redstone_gravel_ore": "Редстоуновая гравийная руда",
-  "block.gravelores.lapis_gravel_ore": "Лазуритовая гравийная руда",
+  "block.gravelores.coal_gravel_ore": "Угленосный гравий",
+  "block.gravelores.redstone_gravel_ore": "Редстоуноносный гравий",
+  "block.gravelores.lapis_gravel_ore": "Лазуритоносный гравий",
   
-  "block.gravelores.aluminum_gravel_ore": "Алюминиевая гравийная руда",
-  "block.gravelores.cobalt_gravel_ore": "Кобальтовяа гравийная руда",
-  "block.gravelores.lead_gravel_ore": "Свинцовая гравийная руда",
-  "block.gravelores.nickel_gravel_ore": "Никелевая гравийная руда",
-  "block.gravelores.osmium_gravel_ore": "Осмиевая гравийная руда",
-  "block.gravelores.silver_gravel_ore": "Серебряная гравийная руда",
-  "block.gravelores.tin_gravel_ore": "Оловянная гравийная руда",
-  "block.gravelores.uranium_gravel_ore": "Урановая гравийная руда",
-  "block.gravelores.zinc_gravel_ore": "Цинковая гравийная руда"
+  "block.gravelores.aluminum_gravel_ore": "Алюминиеносный гравий",
+  "block.gravelores.cobalt_gravel_ore": "Кобальтоносный гравий",
+  "block.gravelores.lead_gravel_ore": "Свинцоносный гравий",
+  "block.gravelores.nickel_gravel_ore": "Никеленосный гравий",
+  "block.gravelores.osmium_gravel_ore": "Осмиеносный гравий",
+  "block.gravelores.silver_gravel_ore": "Сереброносный гравий",
+  "block.gravelores.tin_gravel_ore": "Оловоносный гравий",
+  "block.gravelores.uranium_gravel_ore": "Ураноносный гравий",
+  "block.gravelores.zinc_gravel_ore": "Цинконосный гравий"
 }

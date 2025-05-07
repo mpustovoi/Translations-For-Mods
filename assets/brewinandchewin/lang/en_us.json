@@ -2,5 +2,10 @@
   "effect.brewinandchewin.tipsy.description": "Provides the screen with a wobble effect. At level III or higher, your mouse will have drag to it. At level IV or higher, chat sent by you, other player's chat on your end and signs will be scrambled. May delay damage, notated by orange Tipsy hearts.",
   "effect.brewinandchewin.intoxication.description": "Makes the player unable to gain Saturation from food.",
   "effect.brewinandchewin.raging.description": "Allows you to gain a 5%% attack speed boost upon dealing melee damage to entities. This stacks up to 4 times.",
-  "effect.brewinandchewin.sweet_heart.description": "Allows for extra saturation based healing at any hunger level on top of the existing saturation healing."
+  "effect.brewinandchewin.sweet_heart.description": "Allows for extra saturation based healing at any hunger level on top of the existing saturation healing.",
+  "tag.item.brewinandchewin.foods.horror_meats": "Horror Meats",
+  "tag.item.brewinandchewin.foods.pizza_toppings": "Pizza Toppings",
+  "tag.item.brewinandchewin.foods.cheese_wedges": "Cheese Wedges",
+  "tag.item.brewinandchewin.foods.raw_meats": "Raw Meats",
+  "tag.item.brewinandchewin.horror_lasagna_meats": "Horror Lasagna Meats"
 }

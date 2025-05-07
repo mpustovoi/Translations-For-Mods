@@ -5,5 +5,9 @@
   "message.dummmmmmy.hps": "%1$s исцеления/сек",
   "message.dummmmmmy.single": "%1$s: %2$s",
   "message.dummmmmmy.double": "%1$s: %2$s, %3$s",
-  "message.dummmmmmy.crit": "%d (×%d)"
+  "message.dummmmmmy.crit": "%d (×%d)",
+  "tag.item.dummmmmmy.aquatic_mob_heads": "Головы водных мобов",
+  "tag.item.dummmmmmy.arthropod_heads": "Головы членистоногих",
+  "tag.item.dummmmmmy.nether_mob_heads": "Головы незерских мобов",
+  "tag.item.dummmmmmy.undead_heads": "Головы нежити"
 }

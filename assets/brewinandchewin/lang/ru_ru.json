@@ -196,6 +196,11 @@
   "tag.item.brewinandchewin.raw_meats": "Сырое мясо",
   "tag.item.brewinandchewin.pizza_toppings": "Начинки для пиццы",
   "tag.item.brewinandchewin.cheese_wedges": "Сырные дольки",
+  "tag.item.brewinandchewin.horror_lasagna_meats": "Мясо для ужасной лазаньи",
+  "tag.item.brewinandchewin.foods.horror_meats": "Ужасное мясо",
+  "tag.item.brewinandchewin.foods.raw_meats": "Сырое мясо",
+  "tag.item.brewinandchewin.foods.pizza_toppings": "Начинки для пиццы",
+  "tag.item.brewinandchewin.foods.cheese_wedges": "Сырные дольки",
 
   "comment_2": "Ниже идут старые строки из устаревшего порта мода для Fabric 1.20.1",
 

@@ -1,0 +1,18 @@
+{
+  "tag.item.universal_ores.by_ore.coal": "Coal Ores",
+  "tag.item.universal_ores.by_ore.copper": "Copper Ores",
+  "tag.item.universal_ores.by_ore.diamond": "Diamond Ores",
+  "tag.item.universal_ores.by_ore.emerald": "Emerald Ores",
+  "tag.item.universal_ores.by_ore.gold": "Gold Ores",
+  "tag.item.universal_ores.by_ore.iron": "Iron Ores",
+  "tag.item.universal_ores.by_ore.lapis": "Lapis Ores",
+  "tag.item.universal_ores.by_ore.quartz": "Quartz Ores",
+  "tag.item.universal_ores.by_ore.redstone": "Redstone Ores",
+  "tag.item.universal_ores.by_stone.andesite": "Andesite Ores",
+  "tag.item.universal_ores.by_stone.basalt": "Basalt Ores",
+  "tag.item.universal_ores.by_stone.blackstone": "Blackstone Ores",
+  "tag.item.universal_ores.by_stone.calcite": "Calcite Ores",
+  "tag.item.universal_ores.by_stone.diorite": "Diorite Ores",
+  "tag.item.universal_ores.by_stone.granite": "Granite Ores",
+  "tag.item.universal_ores.by_stone.tuff": "Tuff Ores"
+}

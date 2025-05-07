@@ -91,5 +91,9 @@
   "additionaladditions.advancements.use_watering_can": "Лей-ка",
   "additionaladditions.advancements.use_watering_can.desc": "Используйте лейку, чтобы удобрить посевы",
   "additionaladditions.gui.config.restart": "Перезапустите игру, чтобы применить изменения",
-  "additionaladditions.gui.pocket_jukebox.tooltip": "Дважды кликните пластинкой, чтобы играть её"
+  "additionaladditions.gui.pocket_jukebox.tooltip": "Дважды кликните пластинкой, чтобы играть её",
+  "tag.item.additionaladditions.gilded_netherite_upgrade": "Улучшение в позолоченный незерит",
+  "tag.item.additionaladditions.gold_ring": "Золотое кольцо",
+  "tag.item.additionaladditions.rose_gold_alloy": "Сплав розового золота",
+  "tag.item.additionaladditions.rose_gold_upgrade": "Улучшение в розовое золото"
 }

@@ -48,6 +48,10 @@
   "item.travelersbackpack.tier_upgrade_tooltip": "Combine with %s tier Backpack in Smithing Table to apply upgrade",
   "itemGroup.travelersbackpack": "Traveler's Backpack",
   "key.travelersbackpack.category": "Traveler's Backpack",
+  "tag.item.travelersbackpack.acceptable_tools": "Acceptable Tools",
+  "tag.item.travelersbackpack.backpack_upgrades": "Backpack Upgrades",
+  "tag.item.travelersbackpack.custom_travelers_backpack": "Custom Backpacks",
+  "tag.item.travelersbackpack.sleeping_bags": "Sleeping Bags",
   "text.autoconfig.travelersbackpack.option.backpackUpgrades.feedingUpgradeSettings.enableUpgrade": "Enable Feeding Upgrade",
   "text.autoconfig.travelersbackpack.title": "Traveler's Backpack"
 }

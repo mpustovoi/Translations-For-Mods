@@ -50,5 +50,7 @@
   "subtitles.entity.wilted.curse_item": "Rhizome curses",
   "subtitles.entity.wilted.death": "Rhizome dies",
   "subtitles.entity.wilted.pulse": "Rhizome pulses",
-  "subtitles.entity.wilted.reveal": "Rhizome unfolds"
+  "subtitles.entity.wilted.reveal": "Rhizome unfolds",
+
+  "tag.item.rootoffear.wilted_adds_cooldown_to": "Rhizome Adds Cooldown To"
 }

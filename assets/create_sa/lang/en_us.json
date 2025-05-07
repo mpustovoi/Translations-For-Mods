@@ -202,5 +202,8 @@
   "key.create_sa.increase_reach": "Increase Drone Reach",
   "key.create_stuff_additions.flying": "Flying",
   "subtitles.cogs_sound": "",
-  "subtitles.steam_noise": "Steam noise"
+  "subtitles.steam_noise": "Steam noise",
+  "tag.item.create_sa.fillable": "Fillable",
+  "tag.item.create_sa.fuelable": "Fuelable",
+  "tag.item.create_sa.jetpack": "Jetpacks"
 }

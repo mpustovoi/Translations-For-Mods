@@ -123,5 +123,8 @@
   "tag.item.farmersdelight.straw_harvesters": "Straw Harvesters",
   "tag.item.farmersdelight.tools.knives": "Knives",
   "tag.item.farmersdelight.wild_crops": "Wild Crops",
-  "tag.item.farmersdelight.wolf_prey": "Wolf Prey"
+  "tag.item.farmersdelight.wolf_prey": "Wolf Prey",
+
+  "tag.item.farmersdelight.cabinets.stone": "Stone Cabinets",
+  "tag.item.farmersdelight.straw_plants": "Straw Plants"
 }

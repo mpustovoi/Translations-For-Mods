@@ -1,0 +1,8 @@
+{
+  "advancement.createnuclear.graphite_rod.desc": "Combine graphite and steel ingots in a mechanical crafter to make graphite rods",
+  "block.createnuclear.reactor_input.tooltip.behaviour1": "Insert _uranium_ and _graphite_ rods in large quantities to power _the reactor_ ",
+  "block.createnuclear.reactor_input.tooltip.summary": "_The Reactor Input_ is a _block_ that can be used to insert _Uranium_ and _Graphite_ rods into the _Reactor_",
+  "effect.createnuclear.radiation.description": "☢️☢️☢️",
+  "tag.item.c.ingots.lead": "Lead ingots",
+  "tag.item.c.ingots.steel": "Steel ingots"
+}

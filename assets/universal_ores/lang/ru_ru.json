@@ -43,5 +43,21 @@
   "block.universal_ores.tuff_iron_ore": "Железоносный туф",
   "block.universal_ores.tuff_lapis_ore": "Лазуритоносный туф",
   "block.universal_ores.tuff_redstone_ore": "Редстоуноносный туф",
-  "modmenu.descriptionTranslation.universal_ores": "Добавляет варианты ванильных руд для андезита, диорита, гранита, туфа, кальцита, чернита и базальта."
+  "modmenu.descriptionTranslation.universal_ores": "Добавляет варианты ванильных руд для андезита, диорита, гранита, туфа, кальцита, чернита и базальта.",
+  "tag.item.universal_ores.by_ore.coal": "Угленосные руды",
+  "tag.item.universal_ores.by_ore.copper": "Меденосные руды",
+  "tag.item.universal_ores.by_ore.diamond": "Алмазоносные руды",
+  "tag.item.universal_ores.by_ore.emerald": "Изумрудоносные руды",
+  "tag.item.universal_ores.by_ore.gold": "Золотоносные руды",
+  "tag.item.universal_ores.by_ore.iron": "Железоносные руды",
+  "tag.item.universal_ores.by_ore.lapis": "Лазуритоносные руды",
+  "tag.item.universal_ores.by_ore.quartz": "Кварценосные руды",
+  "tag.item.universal_ores.by_ore.redstone": "Редстоуноносные руды",
+  "tag.item.universal_ores.by_stone.andesite": "Андезитовые руды",
+  "tag.item.universal_ores.by_stone.basalt": "Базальтовые руды",
+  "tag.item.universal_ores.by_stone.blackstone": "Чернитные руды",
+  "tag.item.universal_ores.by_stone.calcite": "Кальцитовые руды",
+  "tag.item.universal_ores.by_stone.diorite": "Диоритовые руды",
+  "tag.item.universal_ores.by_stone.granite": "Гранитные руды",
+  "tag.item.universal_ores.by_stone.tuff": "Туфовые руды"
 }

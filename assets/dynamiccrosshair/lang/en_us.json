@@ -1,0 +1,11 @@
+{
+  "tag.item.dynamiccrosshair.always_usable_on_block": "Always Usable on Block",
+  "tag.item.dynamiccrosshair.always_usable": "Always Usable",
+  "tag.item.dynamiccrosshair.blocks": "Blocks",
+  "tag.item.dynamiccrosshair.melee_weapons": "Melee Weapons",
+  "tag.item.dynamiccrosshair.ranged_weapons": "Ranged Weapons",
+  "tag.item.dynamiccrosshair.shields": "Shields",
+  "tag.item.dynamiccrosshair.throwables": "Throwables",
+  "tag.item.dynamiccrosshair.tools": "Tools",
+  "tag.item.dynamiccrosshair.usable": "Usable"
+}

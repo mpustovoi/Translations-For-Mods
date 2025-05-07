@@ -1,4 +1,12 @@
 {
   "datapack.true_ending.description": "§5Пересмотр битвы с Эндер-драконом§r",
-  "resourcepack.true_ending.description": "§5Новая музыка босса для битвы с Эндер-драконом§r"
+  "resourcepack.true_ending.description": "§5Новая музыка босса для битвы с Эндер-драконом§r",
+  "tag.item.true_ending.air": "Воздух",
+  "tag.item.true_ending.end_blocks": "Блоки Энда",
+  "tag.item.true_ending.headpiece": "Головной убор",
+  "tag.item.true_ending.light_emit": "Излучает свет",
+  "tag.item.true_ending.night_mobs": "Ночные мобы",
+  "tag.item.true_ending.permeable": "Проницаемое",
+  "tag.item.true_ending.sword": "Меч",
+  "tag.item.true_ending.unobtainable": "Неполучимое"
 }

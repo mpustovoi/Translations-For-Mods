@@ -108,6 +108,17 @@
   "accessories.back.screen": "К предыдущему экрану",
   "accessories.open.screen": "Открыть аксессуары",
   "accessories.reset.group_filter": "Сбросить групповые фильтры",
+  
+  "tag.item.accessories.all_curios_items": "Аксессуары",
+  "tag.item.accessories.arrow": "Стрелы",
+  "tag.item.accessories.back": "Спина",
+  "tag.item.accessories.belt": "Пояс",
+  "tag.item.accessories.calendarslot": "Календарь",
+  "tag.item.accessories.cape": "Плащ",
+  "tag.item.accessories.charm": "Амулет",
+  "tag.item.accessories.hat": "Шляпа",
+  "tag.item.accessories.shulker": "Шалкер",
+  "tag.item.accessories.wrist": "Запястье",
 
   "#comment_2": "Ниже относящееся к конфигурации",
 

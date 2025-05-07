@@ -30,5 +30,6 @@
   "enchantment.hunters_return.cutting.desc": "Увеличивает урон бумеранга.",
   "hunters_return.config.spacing": "Расстояние",
   "hunters_return.config.separation": "Интервал",
-  "hunters_return.config.rudeHogSpawnInBastion": "Появление груборова бастионах"
+  "hunters_return.config.rudeHogSpawnInBastion": "Появление груборова бастионах",
+  "tag.item.hunters_return.boomerang_enchantable": "Зачаровываемый бумеранг"
 }

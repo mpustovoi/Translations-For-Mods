@@ -123,5 +123,10 @@
   "structure.terralith.underground/oak_cabin": "Дубовая хижина",
   "structure.terralith.underground/old_refinery": "Старая переработка",
   "structure.terralith.underground/sunken_tower": "Затонувшая башня",
-  "structure.terralith.underground/witch_hut": "Хижина ведьмы"
+  "structure.terralith.underground/witch_hut": "Хижина ведьмы",
+  "tag.item.terralith.spire.common_tools": "Обычные инструменты шпиля",
+  "tag.item.terralith.spire.diamond": "Алмазы шпиля",
+  "tag.item.terralith.spire.junk_tools": "Барахло шпиля",
+  "tag.item.terralith.spire.leather_armor": "Кожаная броня шпиля",
+  "tag.item.terralith.spire.rare_tools": "Редкие инструменты шпиля"
 }

@@ -1,3 +1,10 @@
 {
-  "effect.deeperdarker.sculk_affinity.description": "Prevents vibrations sensed by sculk from being emitted."
+  "effect.deeperdarker.sculk_affinity.description": "Prevents vibrations sensed by sculk from being emitted.",
+  "tag.item.deeperdarker.bloom_stems": "Bloom Stems",
+  "tag.item.deeperdarker.dampens_vibrations": "Dampens Vibrations",
+  "tag.item.deeperdarker.echo_logs": "Echo Logs",
+  "tag.item.deeperdarker.reinforced_echo_shard": "Reinforced Echo Shard",
+  "tag.item.deeperdarker.resonarium_armor": "Resonarium Armor",
+  "tag.item.deeperdarker.resonarium_plate": "Resonarium Plate",
+  "tag.item.deeperdarker.resonarium": "Resonarium"
 }

@@ -1,5 +1,5 @@
 {
-  "block.ditr.obsidian_diamond_ore": "Обсидиановая алмазная руда",
-  "gamerule.diamondConversionPercentage": "Шанс образования алмазной руды из обсидиана",
-  "gamerule.handDiamondConversion": "Можно ли превратить обсидиан в алмазную руду, используя дыхание дракона?"
+  "block.ditr.obsidian_diamond_ore": "Алмазоносный обсидиан",
+  "gamerule.diamondConversionPercentage": "Шанс образования алмазоносного обсидиана",
+  "gamerule.handDiamondConversion": "Можно ли превратить обсидиан в алмазоносный, используя дыхание дракона?"
 }

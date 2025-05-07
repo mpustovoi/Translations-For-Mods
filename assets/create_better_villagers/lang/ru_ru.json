@@ -1,0 +1,14 @@
+{
+  "entity.minecraft.villager.andesite_worker": "Андезитовый механик",
+  "entity.minecraft.villager.brass_worker": "Латунный инженер",
+  "entity.minecraft.villager.copper_worker": "Паромастер",
+  "entity.minecraft.villager.create_better_villagers:andesite_worker": "Андезитовый механик",
+  "entity.minecraft.villager.create_better_villagers:brass_worker": "Латунный инженер",
+  "entity.minecraft.villager.create_better_villagers:copper_worker": "Паромастер",
+  "entity.minecraft.villager.create_better_villagers:miner": "Старатель",
+  "entity.minecraft.villager.create_better_villagers.andesite_worker": "Андезитовый механик",
+  "entity.minecraft.villager.create_better_villagers.brass_worker": "Латунный инженер",
+  "entity.minecraft.villager.create_better_villagers.copper_worker": "Паромастер",
+  "entity.minecraft.villager.create_better_villagers.miner": "Старатель",
+  "entity.minecraft.villager.miner": "Старатель"
+}

@@ -5,5 +5,7 @@
   "effect.gigeresque.eggmorphing.description": "§8§kDescription Missing§r",
   "effect.gigeresque.impregnation.description": "§8§kDescription Missing§r",
   "effect.gigeresque.neo_spore.description": "§8§kDescription Missing§r",
-  "effect.gigeresque.trauma.description": "§8§kDescription Missing§r"
+  "effect.gigeresque.trauma.description": "§8§kDescription Missing§r",
+  "tag.item.gigeresque.burster_foods": "Burster Foods",
+  "tag.item.gigeresque.potions": "Potions"
 }

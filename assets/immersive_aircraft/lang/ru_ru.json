@@ -120,5 +120,8 @@
   "option.immersive_aircraft.weaponsAreDestructive": "Разрешить некоторым видам оружия разрушать блоки.",
   "option.immersive_aircraft.windClearWeather": "Базовый эффект ветра.",
   "option.immersive_aircraft.windRainWeather": "Ветер во время дождя.",
-  "option.immersive_aircraft.windThunderWeather": "Дополнительный ветер при грозе."
+  "option.immersive_aircraft.windThunderWeather": "Дополнительный ветер при грозе.",
+  "tag.item.immersive_aircraft.aircraft": "Летательный аппарат",
+  "tag.item.immersive_aircraft.upgrades": "Улучшения",
+  "tag.item.immersive_aircraft.weapons": "Оружие"
 }

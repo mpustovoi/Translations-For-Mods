@@ -139,6 +139,10 @@
   "item.minecraft.splash_potion.effect.glowing": "Взрывное зелье свечения",
   "item.minecraft.lingering_potion.effect.glowing": "Туманное зелье свечения",
 
+  "tag.item.naturalist.bear_tempt_items": "Нравится медведям",
+  "tag.item.naturalist.bird_food_items": "Птичий корм",
+  "tag.item.naturalist.tortoise_tempt_items": "Нравится сухопутным черепахам",
+
   "advancements.husbandry.ride_giraffe_with_map.title": "Целый новый мир",
   "advancements.husbandry.ride_giraffe_with_map.description": "Используйте карту во время катания на жирафе",
   "advancements.husbandry.feed_hippo_melon.title": "Голодные бегемоты",

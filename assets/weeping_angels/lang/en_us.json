@@ -1,5 +1,7 @@
 {
   "advancements.weeping_angels.kill_angel.descr": "Kill a Weeping Angel",
   "advancements.weeping_angels.kill_angel.title": "Abnormality Eliminated",
-  "item.weeping_angels.kontron_ingot": "Kontron Crystal"
+  "item.weeping_angels.kontron_ingot": "Kontron Crystal",
+  "tag.item.weeping_angels.attack.weeping_angels": "Weeping Angels Attackables",
+  "tag.item.weeping_angels.stealable_items": "Stealable Items"
 }

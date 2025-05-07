@@ -51,6 +51,8 @@
   "subtitles.golemoverhaul.entity.netherite_golem.hurt": "Незеритовый голем ранен",
   "subtitles.golemoverhaul.entity.netherite_golem.step": "Шаги незеритового голема",
   "subtitles.golemoverhaul.entity.netherite_golem.summon": "Незеритовый голем призван",
+  "tag.item.golemoverhaul.cactus": "Кактус",
+  "tag.item.golemoverhaul.wax": "Воск",
   "text.golemoverhaul.golem_construction": "Сборка голема",
   "tooltip.golemoverhaul.candle_golem": "Нажмите ПКМ, чтобы превратить в свечного голема",
   "tooltip.golemoverhaul.clay_golem_statue": "Может быть расплавлен, как лёд, и превращён в терракотового голема"

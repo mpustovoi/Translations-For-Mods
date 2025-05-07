@@ -51,6 +51,7 @@
   "entity.hordes.ZombiePlayer.chat": "%1$s-зомби",
   "entity.hordes.ZombiePlayer.name": "Игрок-зомби",
   "entity.hordes.ZombieProvoker.name": "Провокатор-зомби",
+  "entity.hordes.ZombieRedMerchant.name": "Деловой торговец-зомби",
   "entity.hordes.ZombieSkirmisher.name": "Застрельщик-зомби",
   "entity.hordes.ZombieSorcerer.name": "Колдун-зомби",
   "entity.hordes.ZombieSteve.name": "Стив-зомби",
@@ -70,6 +71,7 @@
   "message.hordes.EventStart": "Поблизости слышится вой бродячей орды",
   "message.hordes.title": "Бродячие орды",
   "message.hordes.TrySleep": "Чувство надвигающегося ужаса мешает вам заснуть",
+  "tag.item.hordes.infection_cures": "Лечит зомби-инфекцию",
   "tooltip.hordes.cure": "Лечит зомби-инфекцию",
   "tooltip.hordes.wearableProtection": "Устойчивость к зомби-инфекции"
 }

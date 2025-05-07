@@ -101,10 +101,10 @@
   "item.pigsteel.zombified_pigsteel_soul_lantern": "Зомбифицированный свинцовый фонарь душ",
   "item.pigsteel.zombified_refined_pigsteel": "Зомбифицированный очищенный свинец",
   "tag.block.pigsteel.pigsteel_blocks": "Свинцовые блоки",
-  "tag.block.pigsteel.pigsteel_ores": "Свинцовые руды",
+  "tag.block.pigsteel.pigsteel_ores": "Свинцоносные руды",
   "tag.block.pigsteel.zombification_acceleration": "Ускорение зомбифицирования",
   "tag.block.pigsteel.zombification_deceleration": "Замедление зомбифицирования",
-  "tag.item.pigsteel.pigsteel_ores": "Свинцовые руды",
+  "tag.item.pigsteel.pigsteel_ores": "Свинцоносные руды",
   "tag.worldgen.biome.pigsteel.has_extra_pigsteel": "Имеет больше свинца",
   "tag.worldgen.biome.pigsteel.has_no_pigsteel": "Не имеет свинца",
   "trim_material.pigsteel.pigsteel": "Свинцовая"

@@ -1,4 +1,8 @@
 {
+  "tag.item.trinkets.calendar.calendarslot": "Календарь",
+  "tag.item.trinkets.charm.charm": "Амулет",
+  "tag.item.trinkets.legs.key": "Ключ",
+  "tag.item.trinkets.legs.quiver": "Колчан",
   "trinkets.tooltip.slots.any": "§9Универсальный аксессуар§r",
   "trinkets.tooltip.slots.list": "Может использоваться как:",
   "trinkets.tooltip.slots.single": "Используется как %d",

@@ -8,7 +8,7 @@
   "advancement.alexsmobsinteraction.banana_shear": "Резка бананов",
   "advancement.alexsmobsinteraction.banana_shear.desc": "Нарежьте бананового слизняка на бананы",
   "advancement.alexsmobsinteraction.bird_bomb": "Птицы-бомбардировщики",
-  "advancement.alexsmobsinteraction.bird_bomb.desc": "Бросьте взрывчатку и попросите управляемого орла поднять её. Присядьте, чтобы сбросить её",
+  "advancement.alexsmobsinteraction.bird_bomb.desc": "Бросьте взрывчатку и попросите управляемого белоголового орлана поднять её. Присядьте, чтобы сбросить её",
   "advancement.alexsmobsinteraction.blooded": "Земля, запятнанная кровью",
   "advancement.alexsmobsinteraction.blooded.desc": "Быть нанесенным с эффектом окровавления",
   "advancement.alexsmobsinteraction.blue_shell": "Оболочка смерти",
@@ -147,5 +147,9 @@
   "item.minecraft.tipped_arrow.effect.skreeching": "Стрела визжания",
   "misc.alexsmobsinteraction.ami_book.description": "Добро пожаловать в воплощённую реальность!",
   "misc.alexsmobsinteraction.ami_book.title": "Воплощённые пещеры Alex'а",
-  "misc.alexsmobsinteraction.feature_disabled": "Функция отключена"
+  "misc.alexsmobsinteraction.feature_disabled": "Функция отключена",
+  "tag.item.alexsmobsinteraction.brushes": "Кисти",
+  "tag.item.alexsmobsinteraction.emu_trigger": "Провоцирует эму",
+  "tag.item.alexsmobsinteraction.hot": "Горячее",
+  "tag.item.alexsmobsinteraction.light_fear": "Боится света"
 }

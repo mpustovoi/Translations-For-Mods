@@ -49,7 +49,7 @@
   "advancements.farlanders.shut_your_mouth.title": "Закрой свой рот!",
   "advancements.farlanders.titan.descr": "Убейте эндер-титана",
   "advancements.farlanders.titan.title": "Защита пала...",
-  "block.farlanders.deepslate_endumium_ore": "Глубинносланцевая эндумиевая руда",
+  "block.farlanders.deepslate_endumium_ore": "Эндумиеносный глубинный сланец",
   "block.farlanders.endumium_block": "Эндумиевый блок",
   "block.farlanders.endumium_ore": "Эндумиевая руда",
   "block.farlanders.nightfall_stone": "Сумеречный камень",
@@ -152,5 +152,9 @@
   "subtitles.entity.wanderer.death": "Странник погибает",
   "subtitles.entity.wanderer.hurt": "Странник ранен",
   "subtitles.entity.wanderer.idle": "Странник болтает",
-  "subtitles.item.mystic_wand.use": "Заклинание мистического жезла"
+  "subtitles.item.mystic_wand.use": "Заклинание мистического жезла",
+  "tag.item.farlanders.enderminion_holdable": "Может держать эндер-спутник",
+  "tag.item.farlanders.enderminion_tame_food": "Еда эндер-спутника",
+  "tag.item.farlanders.looter_stealable": "Обиратель может украсть",
+  "tag.item.farlanders.mystic_wands": "Мистические жезлы"
 }

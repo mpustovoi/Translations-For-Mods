@@ -1,4 +1,13 @@
 {
   "item.minecraft.tipped_arrow.effect.tcc:blind_rage": "Arrow of Blind Rage",
-  "item.minecraft.tipped_arrow.effect.tcc:fortitude": "Arrow of Fortitude"
+  "item.minecraft.tipped_arrow.effect.tcc:fortitude": "Arrow of Fortitude",
+  "tag.item.tcc.can_be_potted": "Can Be Potted",
+  "tag.item.tcc.dyes": "Dyes",
+  "tag.item.tcc.gobblerift_instamine": "Gobblerift Instamines",
+  "tag.item.tcc.gobblerift_meat": "Gobblerift Meat",
+  "tag.item.tcc.music_discs": "Music Discs",
+  "tag.item.tcc.pot_materials": "Pot Materials",
+  "tag.item.tcc.raw_stone_crafting_materials": "Raw Stone Crafting Materials",
+  "tag.item.tcc.suspicious_powders": "Suspicious Powders",
+  "tag.item.tcc.tea_ingredients": "Tea Ingredients"
 }

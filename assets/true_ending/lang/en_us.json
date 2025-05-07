@@ -1,4 +1,12 @@
 {
   "datapack.true_ending.description": "§5An Ender Dragon fight overhaul§r",
-  "resourcepack.true_ending.description": "§5New boss music for the Ender Dragon fight§r"
+  "resourcepack.true_ending.description": "§5New boss music for the Ender Dragon fight§r",
+  "tag.item.true_ending.air": "Air",
+  "tag.item.true_ending.end_blocks": "End Blocks",
+  "tag.item.true_ending.headpiece": "Headpiece",
+  "tag.item.true_ending.light_emit": "Emits Light",
+  "tag.item.true_ending.night_mobs": "Night Mobs",
+  "tag.item.true_ending.permeable": "Permeable",
+  "tag.item.true_ending.sword": "Sword",
+  "tag.item.true_ending.unobtainable": "Unobtainable"
 }

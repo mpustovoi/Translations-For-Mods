@@ -327,11 +327,11 @@
   "tag.item.c.eggs": "Яйца",
   "tag.item.c.mushrooms": "Грибы",
 
-  "tag.item.c.crops.cabbage": "Капустные культуры",
-  "tag.item.c.crops.grain": "Зерновые культуры",
-  "tag.item.c.crops.onion": "Луковые культуры",
-  "tag.item.c.crops.rice": "Рисовые культуры",
-  "tag.item.c.crops.tomato": "Томатные культуры",
+  "tag.item.c.crops.cabbage": "Капуста",
+  "tag.item.c.crops.grain": "Зерновые",
+  "tag.item.c.crops.onion": "Лук",
+  "tag.item.c.crops.rice": "Рис",
+  "tag.item.c.crops.tomato": "Томаты",
   "tag.item.c.foods.berries": "Ягоды",
   "tag.item.c.foods.breads": "Хлеб",
   "tag.item.c.foods.breads.wheat": "Пшеничный хлеб",
@@ -445,5 +445,8 @@
   "tag.item.farmersdelight.straw_harvesters": "Сборщики соломы",
   "tag.item.farmersdelight.tools.knives": "Ножи",
   "tag.item.farmersdelight.wild_crops": "Дикорастущие культуры",
-  "tag.item.farmersdelight.wolf_prey": "Волчья добыча"
+  "tag.item.farmersdelight.wolf_prey": "Волчья добыча",
+
+  "tag.item.farmersdelight.cabinets.stone": "Каменные кладовые",
+  "tag.item.farmersdelight.straw_plants": "Соломенные растения"
 }

@@ -324,5 +324,7 @@
   "subtitles.gigeresque.hugger_death": "",
   "subtitles.gigeresque.hugger_hurt": "",
   "subtitles.gigeresque.hugger_implant": "",
-  "subtitles.gigeresque.tracker_summon": "Появляется призрачная фигура"
+  "subtitles.gigeresque.tracker_summon": "Появляется призрачная фигура",
+  "tag.item.gigeresque.burster_foods": "Еда грудолома",
+  "tag.item.gigeresque.potions": "Зелья"
 }

@@ -22,9 +22,9 @@
   "item.nethersdelight.grilled_strider": "Лавомерка на гриле",
   "item.nethersdelight.ground_strider": "Лавомерочный фарш",
   "item.nethersdelight.hoglin_ear": "Ухо хоглина",
-  "item.nethersdelight.hoglin_hide": "Туша хоглина",
-  "item.nethersdelight.hoglin_loin": "Филе хоглина",
-  "item.nethersdelight.hoglin_sirloin": "Жареное филе хоглина",
+  "item.nethersdelight.hoglin_hide": "Шкура хоглина",
+  "item.nethersdelight.hoglin_loin": "Хоглинская вырезка",
+  "item.nethersdelight.hoglin_sirloin": "Жареная хоглинская вырезка",
   "item.nethersdelight.iron_machete": "Железное мачете",
   "item.nethersdelight.magma_gelatin": "Магматический желатин в ведре",
   "item.nethersdelight.nether_skewer": "Взрывшлык",
@@ -53,5 +53,6 @@
   "nethersdelight.rei.decomposition.accelerators": "Процесс ускоряется посредством добавления активаторов (см. ниже)",
   "nethersdelight.rei.decomposition.fluid": "Процесс ускоряется близлежащей лавой",
   "nethersdelight.rei.decomposition.light": "Процесс ускоряется близлежащим пламенем (см. ниже)",
-  "nethersdelight.tab.main": "Незерский восторг"
+  "nethersdelight.tab.main": "Незерский восторг",
+  "tag.item.nethersdelight.meal_item": "Блюда"
 }

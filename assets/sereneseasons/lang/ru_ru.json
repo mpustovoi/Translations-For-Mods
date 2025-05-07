@@ -9,7 +9,7 @@
   "itemGroup.tabSereneSeasons": "Безмятежные Сезоны",
 
   "block.sereneseasons.season_sensor": "Датчик сезона",
-  
+
   "item.sereneseasons.ss_icon": "Иконка БС",
   "item.sereneseasons.calendar": "Календарь",
 
@@ -33,11 +33,17 @@
   "desc.sereneseasons.early_winter": "Начало зимы",
   "desc.sereneseasons.mid_winter": "Середина зимы",
   "desc.sereneseasons.late_winter": "Поздняя зима",
-  
+
   "desc.sereneseasons.early_wet": "Ранний сезон дождей",
   "desc.sereneseasons.mid_wet": "Середина сезона дождей",
   "desc.sereneseasons.late_wet": "Поздний сезон дождей",
   "desc.sereneseasons.early_dry": "Ранний сезон засухи",
   "desc.sereneseasons.mid_dry": "Середина сезона засухи",
-  "desc.sereneseasons.late_dry": "Поздний сезон засухи"
+  "desc.sereneseasons.late_dry": "Поздний сезон засухи",
+
+  "tag.item.sereneseasons.autumn_crops": "Осенние посевы",
+  "tag.item.sereneseasons.spring_crops": "Весенние посевы",
+  "tag.item.sereneseasons.summer_crops": "Летние посевы",
+  "tag.item.sereneseasons.winter_crops": "Зимние посевы",
+  "tag.item.sereneseasons.year_round_crops": "Круглогодичные посевы"
 }

@@ -7,5 +7,6 @@
   "item.hunters_return.quiver.empty.description": "Can store two stacks of multiple arrows types",
   "enchantment.hunters_return.bounce.desc": "Makes the Boomerang bounce off the walls.",
   "enchantment.hunters_return.return.desc": "Makes the Boomerang return on owner.",
-  "enchantment.hunters_return.cutting.desc": "Increases Boomerang damage."
+  "enchantment.hunters_return.cutting.desc": "Increases Boomerang damage.",
+  "tag.item.hunters_return.boomerang_enchantable": "Boomerang Enchantable"
 }

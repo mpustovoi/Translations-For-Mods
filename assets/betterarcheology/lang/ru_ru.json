@@ -125,5 +125,8 @@
   "filled_map.catacombs": "Карта исследователя катакомб",
   "filled_map.light": "Карта исследователя храма света",
 
+  "tag.item.betterarcheology.rotten_logs": "Гнилые брёвна",
+  "tag.item.betterarcheology.tunneling_items": "Предметы «Туннелирования»",
+
   "config.notify.disabled": "Эта функция была отключена в конфигурации!"
 }

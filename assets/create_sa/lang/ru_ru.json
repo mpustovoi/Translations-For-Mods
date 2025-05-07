@@ -202,5 +202,8 @@
   "key.create_sa.increase_reach": "Увеличение радиуса действия дрона",
   "key.create_stuff_additions.flying": "Полёт",
   "subtitles.cogs_sound": "Грохот шестерней",
-  "subtitles.steam_noise": "Шум пара"
+  "subtitles.steam_noise": "Шум пара",
+  "tag.item.create_sa.fillable": "Заполняемое",
+  "tag.item.create_sa.fuelable": "Заправляемое",
+  "tag.item.create_sa.jetpack": "Реактивные ранцы"
 }

@@ -123,5 +123,10 @@
   "structure.terralith.underground/oak_cabin": "Oak Cabin",
   "structure.terralith.underground/old_refinery": "Old Refinery",
   "structure.terralith.underground/sunken_tower": "Sunken Tower",
-  "structure.terralith.underground/witch_hut": "Witch Hut"
+  "structure.terralith.underground/witch_hut": "Witch Hut",
+  "tag.item.terralith.spire.common_tools": "Spire Common Tools",
+  "tag.item.terralith.spire.diamond": "Spire Diamond",
+  "tag.item.terralith.spire.junk_tools": "Spire Junk",
+  "tag.item.terralith.spire.leather_armor": "Spire Leather Armor",
+  "tag.item.terralith.spire.rare_tools": "Spire Rare Tools"
 }

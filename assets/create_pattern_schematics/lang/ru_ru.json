@@ -24,5 +24,7 @@
   "item.create_pattern_schematics.empty_pattern_schematic": "Пустая шаблонная схематика",
   "item.create_pattern_schematics.empty_pattern_schematic.tooltip.summary": "Может быть использована для создания _расширенной версии схематики Create_, которая позволяет штуковинам и строительным пушкам многократно _повторять дизайн_.",
   "item.create_pattern_schematics.pattern_schematic": "Шаблонная схематика",
-  "item.create_pattern_schematics.pattern_schematic.tooltip.summary": "_Расширенная версия схематики Create_, которая позволяет штуковинам и строительным пушкам многократно _повторять дизайн_."
+  "item.create_pattern_schematics.pattern_schematic.tooltip.summary": "_Расширенная версия схематики Create_, которая позволяет штуковинам и строительным пушкам многократно _повторять дизайн_.",
+  "tag.item.create_pattern_schematics.pattern_schematic_paper_substitutes": "Заменители бумаги для шаблонных схематик",
+  "tag.item.create_pattern_schematics.schematic_paper_substitutes": "Заменители бумаги для схематик"
 }

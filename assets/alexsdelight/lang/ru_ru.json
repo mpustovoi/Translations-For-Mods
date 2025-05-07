@@ -22,5 +22,7 @@
   "item.alexsdelight.raw_bunfungus_drumstick": "Сырая голень грибного кролика",
   "item.alexsdelight.raw_bunfungus": "Сырой грибной кролик",
   "item.alexsdelight.raw_catfish_slice": "Сырой ломтик сома",
-  "itemGroup.culturalTab": "Восторг Alex'а"
+  "itemGroup.culturalTab": "Восторг Alex'а",
+  "tag.item.alexsdelight.cooked_bunfungus": "Жареный грибной кролик",
+  "tag.item.alexsdelight.cooked_kangaroo": "Жареная кенгурятина"
 }

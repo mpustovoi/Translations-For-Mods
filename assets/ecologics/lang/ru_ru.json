@@ -153,6 +153,7 @@
   "item.minecraft.splash_potion.effect.sliding": "Взрывное зелье скольжения",
   "item.minecraft.tipped_arrow.effect.sliding": "Стрела скольжения",
   "itemGroup.ecologics.tab": "Экология",
+  "tag.item.ecologics.squirrel_tempt_items": "Нравится белкам",
   "text.autoconfig.ecologics.option.beach.coconutCrabSpawnChance": "Вероятность появления пальмового вора после разбивания кокоса (в процентах)",
   "text.autoconfig.ecologics.option.beach.generateCoconutTrees": "Генерировать кокосовые пальмы",
   "text.autoconfig.ecologics.option.beach.generateSeashells": "Генерировать ракушки",

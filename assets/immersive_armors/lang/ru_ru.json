@@ -68,5 +68,7 @@
   "option.immersive_armors.hudCompassY": "Смещение оверлея компаса по Y.",
   "option.immersive_armors.lootChance": "Вероятность найти «Впечатляющие Доспехи» в добыче.",
   "option.immersive_armors.mobEntityUseImmersiveArmorChance": "Вероятность того, что моб будет иметь «Впечатляющие Доспехи» на себе.",
-  "option.immersive_armors.whitelist": "Белый список предметов"
+  "option.immersive_armors.whitelist": "Белый список предметов",
+  "tag.item.immersive_armors.armor": "Броня",
+  "tag.item.immersive_armors.axes": "Топоры"
 }

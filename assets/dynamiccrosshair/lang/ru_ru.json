@@ -1,0 +1,11 @@
+{
+  "tag.item.dynamiccrosshair.always_usable_on_block": "Всегда используемое на блоке",
+  "tag.item.dynamiccrosshair.always_usable": "Всегда используемое",
+  "tag.item.dynamiccrosshair.blocks": "Блоки",
+  "tag.item.dynamiccrosshair.melee_weapons": "Оружие ближнего боя",
+  "tag.item.dynamiccrosshair.ranged_weapons": "Оружие дальнего боя",
+  "tag.item.dynamiccrosshair.shields": "Щиты",
+  "tag.item.dynamiccrosshair.throwables": "Бросаемое",
+  "tag.item.dynamiccrosshair.tools": "Инструменты",
+  "tag.item.dynamiccrosshair.usable": "Используемое"
+}

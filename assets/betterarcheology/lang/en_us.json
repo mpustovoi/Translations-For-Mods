@@ -1,3 +1,5 @@
 {
-  "entity.betterarcheology.bombentity": "Bomb"
+  "entity.betterarcheology.bombentity": "Bomb",
+  "tag.item.betterarcheology.rotten_logs": "Rotten Logs",
+  "tag.item.betterarcheology.tunneling_items": "Tunneling Items"
 }

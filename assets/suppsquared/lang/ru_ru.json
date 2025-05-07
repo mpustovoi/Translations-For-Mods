@@ -69,5 +69,7 @@
   "block.suppsquared.item_shelf_mangrove": "Мангровая полка",
   "block.suppsquared.item_shelf_crimson": "Багровая полка",
   "block.suppsquared.item_shelf_warped": "Искажённая полка",
-  "block.suppsquared.betterarcheology.item_shelf_rotten": "Гнилая полка"
+  "block.suppsquared.betterarcheology.item_shelf_rotten": "Гнилая полка",
+
+  "tag.item.suppsquared.item_shelves": "Полки"
 }

@@ -325,5 +325,11 @@
   "effect.createaddition.shocking.description": "Приводит к значительному снижению скорости передвижения",
 
   "createaddition.subtitle.loud_zap": "Катушка Теслы разряжается",
-  "createaddition.subtitle.little_zap": "Катушка Теслы искрит"
+  "createaddition.subtitle.little_zap": "Катушка Теслы искрит",
+
+  "tag.item.createaddition.large_connector_usable_rods": "Используемые на высоковольтных соединителях стержни",
+  "tag.item.createaddition.modular_accumulator_usable_wires": "Используемые многоблочными аккумуляторами провода",
+  "tag.item.createaddition.plant_foods": "Plant Foods",
+  "tag.item.createaddition.plants": "Растения",
+  "tag.item.createaddition.spools": "Катушки"
 }

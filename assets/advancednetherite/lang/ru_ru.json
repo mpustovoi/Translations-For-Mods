@@ -69,7 +69,7 @@
 
   "tooltip.advancednetherite.sword.additional_enderman_mob_drop": "%s Вероятность получить дополнительный эндер-жемчуг при убийстве эндермена",
   "tooltip.advancednetherite.sword.additional_piglin_mob_drop": "%s Вероятность получить дополнительный золотой слиток при убийстве пиглина",
-  "tooltip.advancednetherite.sword.additional_zombified_piglin_mob_drop": "%s Вероятность получить дополнительных золотых самородков при убийстве зомбифицированного пиглина",
+  "tooltip.advancednetherite.sword.additional_zombified_piglin_mob_drop": "%s Вероятность получить дополнительных кусочков золота при убийстве зомбифицированного пиглина",
   "tooltip.advancednetherite.sword.additional_phantom_mob_drop": "%s Вероятность получить дополнительных мембран при убийстве фантома",
 
   "tooltip.advancednetherite.misc.press_shift_key": "Нажмите %s для просмотра всех бонусов",
@@ -126,7 +126,7 @@
   "config.advancednetherite.server.additional_drops.ores.raw_gold_drop_chance": "Вероятность выпадения дополнительного рудного золота",
   "config.advancednetherite.server.additional_drops.ores.emerald_drop_chance": "Вероятность выпадения дополнительного изумруда",
   "config.advancednetherite.server.additional_drops.ores.diamond_drop_chance": "Вероятность выпадения дополнительного алмаза",
-  "config.advancednetherite.server.additional_drops.ores.gold_nugget_drop_chance": "Вероятность выпадения дополнительных золотых самородков",
+  "config.advancednetherite.server.additional_drops.ores.gold_nugget_drop_chance": "Вероятность выпадения дополнительных кусочков золота",
 
   "config.advancednetherite.screen.description.top": "Установите мод %s для редактирования конфигураций, добавленных %s в игре.",
   "config.advancednetherite.screen.description.bottom": "Посмотреть вики-страницу для инструкций.",

@@ -88,5 +88,9 @@
   "item.amendments.dye_bottle.aqua": "Морско-волновой",
   "item.amendments.dye_bottle.slate": "Грифельный",
   "fluid.amendments.dye": "Краситель",
-  "message.amendments.cauldron": "Смесь зелий кажется нестабильной..."
+  "message.amendments.cauldron": "Смесь зелий кажется нестабильной...",
+  "tag.item.amendments.goes_in_lectern": "Помещается в кафедру",
+  "tag.item.amendments.goes_in_tripwire_hook": "Помещается в крюк",
+  "tag.item.amendments.non_stackable_heads": "Нескладываемые головы",
+  "tag.item.amendments.sets_on_fire": "Поджигает"
 }

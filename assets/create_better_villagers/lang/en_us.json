@@ -1,0 +1,14 @@
+{
+  "entity.minecraft.villager.andesite_worker": "Andesite Machinist",
+  "entity.minecraft.villager.brass_worker": "Brass Engineer",
+  "entity.minecraft.villager.copper_worker": "Steamwright",
+  "entity.minecraft.villager.create_better_villagers:andesite_worker": "Andesite Machinist",
+  "entity.minecraft.villager.create_better_villagers:brass_worker": "Brass Engineer",
+  "entity.minecraft.villager.create_better_villagers:copper_worker": "Steamwright",
+  "entity.minecraft.villager.create_better_villagers:miner": "Prospector",
+  "entity.minecraft.villager.create_better_villagers.andesite_worker": "Andesite Machinist",
+  "entity.minecraft.villager.create_better_villagers.brass_worker": "Brass Engineer",
+  "entity.minecraft.villager.create_better_villagers.copper_worker": "Steamwright",
+  "entity.minecraft.villager.create_better_villagers.miner": "Prospector",
+  "entity.minecraft.villager.miner": "Prospector"
+}

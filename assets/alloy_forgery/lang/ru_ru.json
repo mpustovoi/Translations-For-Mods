@@ -32,9 +32,9 @@
 
   "emi.category.alloy_forgery.alloy_forge": "Ковка из сплава",
 
-  "tag.item.c.copper_ores": "Медные руды",
-  "tag.item.c.iron_ores": "Железные руды",
-  "tag.item.c.gold_ores": "Золотые руды",
+  "tag.item.c.copper_ores": "Меденосные руды",
+  "tag.item.c.iron_ores": "Железоносные руды",
+  "tag.item.c.gold_ores": "Золотоносные руды",
   "tag.item.c.raw_copper_blocks": "Блоки рудной меди",
   "tag.item.c.raw_iron_blocks": "Блоки рудного железа",
   "tag.item.c.raw_gold_blocks": "Блоки рудного золота",

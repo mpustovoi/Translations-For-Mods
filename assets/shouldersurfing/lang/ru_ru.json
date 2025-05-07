@@ -300,6 +300,17 @@
   "shouldersurfing.configuration.audio.center_player_sounds": "Центрировать звуки игрока",
   "shouldersurfing.configuration.audio.center_player_sounds.tooltip": "Следует ли центрировать звуки, издаваемые игроком.",
 
+  "shouldersurfing.configuration.integrations.button": "Редактировать",
+  "shouldersurfing.configuration.integrations": "Интеграции",
+  "shouldersurfing.configuration.integrations.tooltip": "Настройки интеграции.",
+
+  "shouldersurfing.configuration.epicfight.button": "Редактировать",
+  "shouldersurfing.configuration.epicfight": "Epic Fight",
+  "shouldersurfing.configuration.epicfight.tooltip": "Настройки для Epic Fight.",
+
+  "shouldersurfing.configuration.integrations.epicfight.decoupled_camera_lock_on": "Блокировка несвязанной камеры",
+  "shouldersurfing.configuration.integrations.epicfight.decoupled_camera_lock_on.tooltip": "Следует ли разрешать фиксацию цели, когда камера не связана.",
+
   "shouldersurfing.modloadingissue.incompatiblemod": "Мод §e{2}§r §cнесовместим§r с §3{3}§r.§7В настоящий момент, §3{3}§r§7 §o{4}§r",
 
   "key.shouldersurfing.adjust_camera_left": "Отрегулировать камеру влево",

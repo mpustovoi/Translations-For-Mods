@@ -76,5 +76,6 @@
   "subtitles.entity.guard.death": "Стражник погибает",
   "subtitles.entity.guard.hurt": "Стражник ранен",
   "subtitles.entity.guard.no": "Стражник не согласен",
-  "subtitles.entity.guard.yes": "Стражник согласен"
+  "subtitles.entity.guard.yes": "Стражник согласен",
+  "tag.item.guardvillagers.convertible_guard_items": "Превращает в стражников"
 }

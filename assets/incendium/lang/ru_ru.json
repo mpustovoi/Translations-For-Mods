@@ -350,5 +350,15 @@
   "incendium.system.spectral": "спектральные стрелы",
   "language.code": "ru_ru",
   "language.name": "Русский",
-  "language.region": "Россия"
+  "language.region": "Россия",
+  "tag.item.incendium.armor": "Броня",
+  "tag.item.incendium.blackstone_blocks": "Чернитные блоки",
+  "tag.item.incendium.brewing_ingredients": "Ингредиенты зельеварения",
+  "tag.item.incendium.cheater_items": "Предметы читера",
+  "tag.item.incendium.gold_stackable": "Складываемое золото",
+  "tag.item.incendium.gold_unstackable": "Нескладываемое золото",
+  "tag.item.incendium.iron_stackable": "Складываемое железо",
+  "tag.item.incendium.smooth_stone_crafting_materials": "Гладкий камень для изготовления",
+  "tag.item.incendium.tools_armor": "Инструменты и броня",
+  "tag.item.incendium.tools": "Инструменты"
 }

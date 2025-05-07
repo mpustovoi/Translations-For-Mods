@@ -342,5 +342,15 @@
   "structure.incendium.pipeline": "Pipeline",
   "structure.incendium.quartz_kitchen": "Quartz Kitchen",
   "structure.incendium.ruined_lab": "Ruined Lab",
-  "structure.incendium.sanctum": "Sanctum"
+  "structure.incendium.sanctum": "Sanctum",
+  "tag.item.incendium.armor": "Armor",
+  "tag.item.incendium.blackstone_blocks": "Blackstone Blocks",
+  "tag.item.incendium.brewing_ingredients": "Brewing Ingredients",
+  "tag.item.incendium.cheater_items": "Cheater Items",
+  "tag.item.incendium.gold_stackable": "Stackable Gold",
+  "tag.item.incendium.gold_unstackable": "Unstackable Gold",
+  "tag.item.incendium.iron_stackable": "Stackable Iron",
+  "tag.item.incendium.smooth_stone_crafting_materials": "Smooth Stone Crafting Materials",
+  "tag.item.incendium.tools_armor": "Tools & Armor",
+  "tag.item.incendium.tools": "Tools"
 }

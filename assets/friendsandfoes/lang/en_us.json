@@ -1,4 +1,10 @@
 {
   "text.betterf3.line.glares": "Glares",
-  "text.betterf3.line.rascals": "Rascals"
+  "text.betterf3.line.rascals": "Rascals",
+  "tag.item.friendsandfoes.copper_buttons": "Copper Buttons",
+  "tag.item.friendsandfoes.crab_tempt_items": "Crab Temptables",
+  "tag.item.friendsandfoes.glare_food_items": "Glare Food Items",
+  "tag.item.friendsandfoes.glare_tempt_items": "Glare Temptables",
+  "tag.item.friendsandfoes.repairs_wildfire_crown": "Repairs Wildfire Crown",
+  "tag.item.friendsandfoes.totems": "Totems"
 }

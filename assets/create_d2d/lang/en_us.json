@@ -16,5 +16,19 @@
   "block.create_d2d.small_amethyst_block_brick_slab": "Small Amethyst Brick Slab",
   "block.create_d2d.small_amethyst_block_brick_stairs": "Small Amethyst Brick Stairs",
   "block.create_d2d.small_amethyst_block_brick_wall": "Small Amethyst Brick Wall",
-  "block.create_d2d.small_amethyst_block_bricks": "Small Amethyst Bricks"
+  "block.create_d2d.small_amethyst_block_bricks": "Small Amethyst Bricks",
+  "tag.item.create_d2d.asphalts": "Asphalts",
+  "tag.item.create_d2d.bore_blocks": "Bore Blocks",
+  "tag.item.create_d2d.dyed_blocks": "Dyed Blocks",
+  "tag.item.create_d2d.palette_blocks": "Palette Blocks",
+  "tag.item.create_d2d.stone_types.amethyst_block": "Amethyst Stone Types",
+  "tag.item.create_d2d.stone_types.basalt": "Basalt Stone Types",
+  "tag.item.create_d2d.stone_types.blackstone": "Blackstone Stone Types",
+  "tag.item.create_d2d.stone_types.breccia": "Breccia Stone Types",
+  "tag.item.create_d2d.stone_types.dolomite": "Dolomite Stone Types",
+  "tag.item.create_d2d.stone_types.gabbro": "Gabbro Stone Types",
+  "tag.item.create_d2d.stone_types.netherrack": "Netherrack Stone Types",
+  "tag.item.create_d2d.stone_types.packed_mud": "Packed Mud Stone Types",
+  "tag.item.create_d2d.stone_types.stone": "Stone Stone Types",
+  "tag.item.create_d2d.stone_types.weathered_limestone": "Weathered Limestone Stone Types"
 }

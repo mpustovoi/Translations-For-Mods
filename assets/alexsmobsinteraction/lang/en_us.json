@@ -7,5 +7,9 @@
   "effect.alexsmobsinteraction.gusting.title": "Gusting",
   "effect.alexsmobsinteraction.skreeching.description": "Causes a Warden to spawn when the effect wares off",
   "effect.alexsmobsinteraction.skreeching.title": "Skreeching",
-  "item.alexsmobsinteraction.eggs": "Eggs"
+  "item.alexsmobsinteraction.eggs": "Eggs",
+  "tag.item.alexsmobsinteraction.brushes": "Brushes",
+  "tag.item.alexsmobsinteraction.emu_trigger": "Emu Trigger",
+  "tag.item.alexsmobsinteraction.hot": "Hot",
+  "tag.item.alexsmobsinteraction.light_fear": "Light Fear"
 }

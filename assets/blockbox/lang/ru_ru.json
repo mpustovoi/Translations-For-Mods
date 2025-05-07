@@ -168,6 +168,12 @@
 
   "itemGroup.blockbox": "Коробка с Блоками",
 
+  "tag.item.blockbox.golden_blocks": "Золотые блоки",
+  "tag.item.blockbox.palisades": "Частоколы",
+  "tag.item.blockbox.sky_lanterns": "Небесные фонарики",
+  "tag.item.blockbox.spiked_palisades": "Шипастые частоколы",
+  "tag.item.blockbox.wooden_seats": "Деревянные сиденья",
+
   "blockbox.tooltip.sky_lantern": "Может быть размещён в воздухе",
 
   "death.attack.blockbox.palisade": "%1$s был пронзен шипастым частоколом"
