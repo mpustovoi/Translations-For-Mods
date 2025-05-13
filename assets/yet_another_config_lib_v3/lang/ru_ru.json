@@ -1,6 +1,6 @@
 {
-  "yacl.control.boolean.true": "§aда",
-  "yacl.control.boolean.false": "§cнет",
+  "yacl.control.boolean.true": "Да",
+  "yacl.control.boolean.false": "Нет",
 
   "yacl.control.action.execute": "Выполнить",
 

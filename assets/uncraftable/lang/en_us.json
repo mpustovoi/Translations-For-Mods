@@ -125,5 +125,11 @@
   "resourcepack.uncraftable.uncraftable.descr": "§fA §7resource pack§r for §5Karbin_Drem§r's modpacks",
   "resourcepack.uncraftable.unique-spawn-eggs.name": "§bUnique Spawn Eggs§r by §cGouchnox",
   "resourcepack.uncraftable.vanillatweaks.name": "§6Vanilla Tweaks\n§bvanillatweaks.net",
-  "sodium.resource_pack.unofficial": "§fUnofficial translation for §aSodium§r§f/§dEmbeddium"
+  "tag.item.uncraftable.command_blocks": "Command Blocks",
+  "tag.item.uncraftable.copper.bulbs": "Copper Bulbs",
+  "tag.item.uncraftable.copper.cut": "Cut Copper",
+  "tag.item.uncraftable.copper.doors": "Copper Doors",
+  "tag.item.uncraftable.copper.lightning_rods": "Lightning Rods",
+  "tag.item.uncraftable.copper.trapdoors": "Copper Trapdoors",
+  "tag.item.uncraftable.wood_chests": "Wood Chests"
 }

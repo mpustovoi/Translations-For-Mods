@@ -1,0 +1,11 @@
+{
+  "block.create_arsenal.small_gun_barrel": "Ствол малого орудия",
+  "block.create_arsenal.small_gun_breech": "Затвор малого орудия",
+  "item.create_arsenal.blue_tracer_tip": "Синий трассирующий наконечник",
+  "item.create_arsenal.green_tracer_tip": "Зелёный трассирующий наконечник",
+  "item.create_arsenal.orange_tracer_tip": "Оранжевый трассирующий наконечник",
+  "item.create_arsenal.pink_tracer_tip": "Розовый трассирующий наконечник",
+  "item.create_arsenal.red_tracer_tip": "Красный трассирующий наконечник",
+  "item.create_arsenal.white_tracer_tip": "Белый трассирующий наконечник",
+  "itemGroup.create_arsenal.arsenal": "Create: Арсенал"
+}

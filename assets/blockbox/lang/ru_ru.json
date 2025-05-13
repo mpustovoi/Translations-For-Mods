@@ -168,7 +168,10 @@
 
   "itemGroup.blockbox": "Коробка с Блоками",
 
+  "tag.item.blockbox.copper_blocks": "Медные блоки",
+  "tag.item.blockbox.gold_blocks": "Золотые блоки",
   "tag.item.blockbox.golden_blocks": "Золотые блоки",
+  "tag.item.blockbox.iron_blocks": "Железные блоки",
   "tag.item.blockbox.palisades": "Частоколы",
   "tag.item.blockbox.sky_lanterns": "Небесные фонарики",
   "tag.item.blockbox.spiked_palisades": "Шипастые частоколы",

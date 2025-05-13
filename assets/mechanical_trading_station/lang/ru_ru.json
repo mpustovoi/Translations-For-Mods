@@ -1,0 +1,6 @@
+{
+  "block.mechanical_trading_station.mechanical_trading_station": "Механическая торговая станция",
+  "block.mechanical_trading_station.mechanical_trading_station_unbreakable": "Механическая торговая станция (неразрушимая)",
+  "config.jade.plugin_mechanical_trading_station.data": "Механическая торговая станция",
+  "mechanical_trading_station.display_source.traded_items": "Количество проданных предметов"
+}

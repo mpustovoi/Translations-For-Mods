@@ -198,5 +198,7 @@
   "subtitles.announcement_sound": "Announcement Begins",
   "subtitles.klaxon": "Klaxon Blowing",
   "subtitles.netherite_whistle": "Whistle Blows",
-  "subtitles.portable_whistle": "Whistle Blows"
+  "subtitles.portable_whistle": "Whistle Blows",
+  "tag.item.create_things_and_misc.brass_blocks": "Brass Blocks",
+  "tag.item.create_things_and_misc.train_signs": "Train Signs"
 }

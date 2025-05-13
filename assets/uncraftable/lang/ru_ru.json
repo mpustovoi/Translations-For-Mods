@@ -125,5 +125,11 @@
   "resourcepack.uncraftable.uncraftable.descr": "§7Набор§f ресурсов для модпаков §5Karbin_Drem§r",
   "resourcepack.uncraftable.unique-spawn-eggs.name": "§bУникальные яйца призыва§r§f от §cGouchnox",
   "resourcepack.uncraftable.vanillatweaks.name": "§6Ванильные корректировки\n§bvanillatweaks.net",
-  "sodium.resource_pack.unofficial": "§fНеофициальный перевод для §aSodium§r§f/§dEmbeddium"
+  "tag.item.uncraftable.command_blocks": "Командные блоки",
+  "tag.item.uncraftable.copper.bulbs": "Медные лампы",
+  "tag.item.uncraftable.copper.cut": "Резная медь",
+  "tag.item.uncraftable.copper.doors": "Медные двери",
+  "tag.item.uncraftable.copper.lightning_rods": "Громоотводы",
+  "tag.item.uncraftable.copper.trapdoors": "Медные люки",
+  "tag.item.uncraftable.wood_chests": "Деревянные сундуки"
 }

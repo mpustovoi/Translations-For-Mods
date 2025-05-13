@@ -1,0 +1,14 @@
+{
+  "block.createenergycannons.creative_battery": "Творческий аккумулятор",
+  "block.createenergycannons.energy_cannon_mount": "Основание энергетической пушки",
+  "block.createenergycannons.laser": "Лазер",
+  "block.createenergycannons.nethersteel_coilgun_barrel": "Ствол пушки Гаусса из незерской стали",
+  "block.createenergycannons.nethersteel_rail_screw_breech": "Затвор с винтовым механизмом из незерской стали",
+  "block.createenergycannons.railgun_barrel": "Ствол рельсотрона",
+  "block.createenergycannons.steel_coilgun_barrel": "Стальной ствол пушки Гаусса",
+  "block.createenergycannons.steel_rail_quickfiring_breech": "Стальной скорострельный затвор",
+  "block.createenergycannons.steel_rail_screw_breech": "Стальной винтовой затвор",
+  "block.createenergycannons.steel_rail_sliding_breech": "Стальной скользящий затвор",
+  "item.createenergycannons.magnetic_sled": "Магнитные салазки",
+  "itemGroup.createenergycannons.createenergycannons": "Create: Энергетические Пушки"
+}

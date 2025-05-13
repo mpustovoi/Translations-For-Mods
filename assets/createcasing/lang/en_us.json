@@ -1,6 +1,8 @@
 {
   "itemGroup.createcasing.base": "Create: Encased",
 
+  "block.createcasing.railway_configurable_gearbox": "Train Configurable Gearbox",
+
   "createcasing.ponder.tag.encased_blocks": "Create: Encased",
   "createcasing.ponder.tag.encased_blocks.description": "Components added by Create: Encased"
 }

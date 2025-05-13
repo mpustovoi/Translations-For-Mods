@@ -1,7 +1,10 @@
 {
   "block.blockbox.carved_snow": "'Carved' Snow",
   "item.blockbox.carved_snow": "'Carved' Snow",
+  "tag.item.blockbox.copper_blocks": "Copper Blocks",
+  "tag.item.blockbox.gold_blocks": "Gold Blocks",
   "tag.item.blockbox.golden_blocks": "Golden Blocks",
+  "tag.item.blockbox.iron_blocks": "Iron Blocks",
   "tag.item.blockbox.palisades": "Palisades",
   "tag.item.blockbox.sky_lanterns": "Sky Lanterns",
   "tag.item.blockbox.spiked_palisades": "Spiked Palisades",

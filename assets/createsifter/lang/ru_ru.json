@@ -12,7 +12,7 @@
   "createsifter.ponder.sifter.text_2": "Они могут запитаны сбоку с помощью шестерней",
   "createsifter.ponder.sifter.text_3": "Выбрасывайте или вставляйте предметы сверху",
   "createsifter.ponder.sifter.text_4": "Через некоторое время результат можно будет получить, щёлкнув ПКМ",
-  "createsifter.ponder.sifter.text_5": "Результат также может быть извлечён с помощью автоматизации",
+  "createsifter.ponder.sifter.text_5": "Результат также можно извлечь с помощью автоматизации",
   "createsifter.recipe.sifting": "Рецепт просеивания",
   "createsifter.recipe.sifting.minimumspeed": "%1$s об/мин",
   "createsifter.tooltip.mesh": "Сетка: %s",
@@ -49,5 +49,6 @@
   "mechanicals.ui.recipe_requirement.advanced_sifter.tooltip.title": "Латунный просеиватель",
   "mechanicals.ui.recipe_requirement.advanced_sifter.tooltip.value": "",
   "mechanicals.ui.recipe_requirement.waterlogged.tooltip.title": "Затоплен",
-  "mechanicals.ui.recipe_requirement.waterlogged.tooltip.value": ""
+  "mechanicals.ui.recipe_requirement.waterlogged.tooltip.value": "",
+  "tag.item.createsifter.stone_types.basalt": "Базальтовые камни"
 }

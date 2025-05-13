@@ -450,8 +450,8 @@
   "tooltip.sculkhorde.blade_of_purity.functionality": "§7§oA sword that upon striking a Sculk Horde mob, will give it the purity effect and purify the surrounding land. This blade has a large sweeping edge to it, making it ideal for hordes of mobs.",
   "tooltip.sculkhorde.blade_of_purity.lore": "§7§oA sword imbued with the warm and embracing aura of purity. Holding it fills your body with the resolve to restore balance to a corrupted world. All anguished souls will know peace once they meet this blade.",
   "item.sculkhorde.soul_animator": "Soul Animator",
-  "item.sculkhorde.soul_animator.functionality": "§7§o§kDescription Missing§r.",
-  "item.sculkhorde.soul_animator.lore": "§7§o§kDescription Missing§r.",
+  "tooltip.sculkhorde.soul_animator.functionality": "§7§oA crafting ingredient dropped from the Soul Reaper.",
+  "tooltip.sculkhorde.soul_animator.lore": "§7§oAn artifact with the ability to animate both living and unliving things. It can both hold the power of tortured and pure souls to create constructs and golems.",
 
   "block.sculkhorde.tendril_core_block": "Tendril Core",
   "effect.sculkhorde.dense.description": "Increases the gravity effect on players.",
@@ -478,6 +478,8 @@
   "entity.sculkhorde.floor_soul_spears": "Floor Soul Spears",
   "entity.sculkhorde.golem_of_wrath": "Golem of Wrath",
   "entity.sculkhorde.living_armor": "Living Armor",
+  "entity.sculkhorde.sculk_ghast": "Sculk Ghast",
+  "entity.sculkhorde.sculk_metamorphosis_pod": "Sculk Metamorphosis Pod",
   "entity.sculkhorde.sculk_sheep": "Sculk Sheep",
   "entity.sculkhorde.soul_breeze_projectile": "Soul Breeze Projectile",
   "entity.sculkhorde.soul_fire_projectile": "Soul Fire Projectile",
@@ -486,5 +488,7 @@
   "entity.sculkhorde.soul_poison_projectile": "Soul Poison Projectile",
   "entity.sculkhorde.soul_spear_projectile": "Soul Spear Projectile",
   "entity.sculkhorde.soul_spear_summoner_entity": "Soul Spear Summoner Entity",
-  "entity.sculkhorde.zoltraak_attack_entity": "Zoltraak Attack Entity"
+  "entity.sculkhorde.zoltraak_attack_entity": "Zoltraak Attack Entity",
+  "item.sculkhorde.sculk_ghast_spawn_egg": "Sculk Ghast Spawn Egg",
+  "item.sculkhorde.sculk_metamorphosis_pod_spawn_egg": "Sculk Metamorphosis Pod Spawn Egg"
 }

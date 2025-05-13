@@ -1,12 +1,17 @@
 {
+  "key.categories.yeet": "Бросок",
+  "key.yeet.yeet": "Бросить предмет",
   "pack.yeet.desc": "Самое время бросать!",
   "pack.yeet.name": "Бросаемая вещь",
+  "yeet.ammo.ammo_brick.name": "Кирпич",
   "yeet.ammo.ammo_m18.name": "Коробка с дымовыми гранатами М18",
   "yeet.ammo.ammo_m33a1.name": "Коробка с гранатами M33A1",
   "yeet.ammo.ammo_m48axe.name": "Набор метательных топоров M48",
   "yeet.ammo.ammo_mk2.name": "Ящик с гранатами Mk. II",
   "yeet.ammo.ammo_shg43.name": "Ящик с ручными гранатами 43",
   "yeet.ammo.ammo_shg43at.name": "Ящик с ручными противотанковыми гранатами 43",
+  "yeet.gun.brick.desc": "Просто кирпич",
+  "yeet.gun.brick.name": "Кирпич",
   "yeet.gun.m18.desc": "Это блочный термометр?",
   "yeet.gun.m18.name": "Дымовая граната М18",
   "yeet.gun.m33a1.desc": "Самое круглое дерьмо, которое я когда-либо видел",
@@ -18,8 +23,5 @@
   "yeet.gun.shg43.desc": "Также известная как 'Картофелемялка'",
   "yeet.gun.shg43.name": "Ручная граната 43",
   "yeet.gun.shg43at.desc": "К чёрту тебя и всех вокруг",
-  "yeet.gun.shg43at.name": "Ручная противотанковая граната 43",
-
-  "key.categories.yeet": "Бросок",
-  "key.yeet.yeet": "Бросить предмет"
+  "yeet.gun.shg43at.name": "Ручная противотанковая граната 43"
 }

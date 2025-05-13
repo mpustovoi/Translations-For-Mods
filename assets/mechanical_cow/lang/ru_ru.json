@@ -1,0 +1,15 @@
+{
+  "block.mechanical_cow.mechanical_cow": "Механическая корова",
+  "block.mechanical_cow.mechanical_cow.tooltip.summary": "Генератор коровьего _молока_.",
+  "config.jade.plugin_mechanical_cow.data": "Create: Механическая корова",
+  "mechanical_cow.itemGroup:main": "Create: Механическая корова",
+  "mechanical_cow.mechanical_cow.tooltip.progress": "Прогресс: %d%%",
+  "mechanical_cow.ponder.mechanical_cow.text_1": "Механическая корова использует вращательную силу и особый ингредиент для создания молока",
+  "mechanical_cow.ponder.mechanical_cow.text_2": "Она запитывается снизу",
+  "mechanical_cow.ponder.mechanical_cow.text_3": "Подача предметов может осуществляться ТОЛЬКО с ПЕРЕДНЕЙ стороны",
+  "mechanical_cow.ponder.mechanical_cow.text_4": "Можно подавать только с помощью автоматизации",
+  "mechanical_cow.ponder.mechanical_cow.text_5": "Выход молока осуществляется ТОЛЬКО с ЗАДНЕЙ стороны",
+  "mechanical_cow.ponder.mechanical_cow.text_6": "Можно извлечь только с помощью автоматизации",
+  "mechanical_cow.ponder.ponder.mechanical_cow.header.header": "Механический генератор молока",
+  "mechanical_cow.recipe": "Рецепт механической коровы"
+}
