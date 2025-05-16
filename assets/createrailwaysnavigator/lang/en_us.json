@@ -3,5 +3,6 @@
   "category.createrailwaysnavigator.crn": "Create: Railways Navigator",
   "gui.createrailwaysnavigator.navigator.title": "Create: Railways Navigator",
   "gui.createrailwaysnavigator.navigator.train_initialization_warning": "Some routes may be incomplete or not suggested at all because Create: Railways Navigator hasn't initialized all trains yet.",
+  "gui.createrailwaysnavigator.navigator.route_entry.transfer": "Transfer",
   "createrailwaysnavigator.moin": "Moin"
 }
