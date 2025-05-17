@@ -1,0 +1,16 @@
+{
+  "block.dungeonnowloading.explosive_barrel": "Powder Keg",
+  "block.dungeonnowloading.wooden_wall_platform": "Wooden Platform",
+  "block.dungeonnowloading.wooden_wall_rack": "Wooden Rack",
+  "effect.dungeonnowloading.vertex_transmission.description": "§kDescription Missing§",
+  "entity.dungeonnowloading.chaos_spawner.right_click": "Requires 'Skull of Chaos' to awaken the Chaos Spawner",
+  "entity.dungeonnowloading.fairkeeper_serpent_caller.right_click": "Requires 'Redstone Idol' to awaken the Fairkeeper",
+  "item.dungeonnowloading.music_disc_clash_of_duality_boros.desc": "Callister Corvus - Clash of Duality 'Boros'",
+  "item.dungeonnowloading.music_disc_clash_of_duality_ouros.desc": "Callister Corvus - Clash of Duality 'Ouros'",
+  "item.dungeonnowloading.music_disc_clash_of_duality_pythonic_overdrive.desc": "Callister Corvus - Clash of Duality 'Pythonic Overdrive'",
+  "sounds.dungeonnowloading.clash_of_duality_boros": "Clash of Duality 'Boros' playing",
+  "sounds.dungeonnowloading.clash_of_duality_ouros": "Clash of Duality 'Ouros' playing",
+  "sounds.dungeonnowloading.disc_clash_of_duality_boros": "Clash of Duality - Boros playing",
+  "sounds.dungeonnowloading.disc_clash_of_duality_ouros": "Clash of Duality - Ouros playing",
+  "sounds.dungeonnowloading.disc_clash_of_duality_pythonic_overdrive": "Clash of Duality - Pythonic Overdrive playing"
+}
