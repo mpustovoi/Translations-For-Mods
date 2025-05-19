@@ -342,7 +342,7 @@
   "text.config.deeperdarker.option.server.sculkLeechesFromAncientVaseChance.tooltip": "Определяет шанс появления скалковых пиявок из древней вазы, если приведённая выше настройка окажется верной. Если должен появиться моб, а эта настройка окажется ложной, появится подражатель.",
   "text.config.deeperdarker.option.server.sculkLeechesFromAncientVaseChance": "Шанс появление скалковой пиявки",
   "text.config.deeperdarker.option.server.snapperDropLimit.tooltip": "Определяет максимальное количество сбрасываемых книг каждым скалковым кусакой. Установите в -1 для бесконечных книг.",
-  "text.config.deeperdarker.option.server.snapperDropLimit": "Лимит дропа скалкового кусаки",
+  "text.config.deeperdarker.option.server.snapperDropLimit": "Лимит добычи из скалкового кусаки",
   "text.config.deeperdarker.option.server.sonorousStaffCooldown.tooltip": "Определяет время перезарядки звучного посоха, прежде чем игрок сможет использовать его снова.",
   "text.config.deeperdarker.option.server.sonorousStaffCooldown": "Перезарядка звучного посоха",
   "text.config.deeperdarker.option.server.sonorousStaffDamage.tooltip": "Определяет урон от звукового удара звучного посоха.",

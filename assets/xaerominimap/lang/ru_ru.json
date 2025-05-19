@@ -470,7 +470,7 @@
   "gui.xaero_icons_list": "Список игроков",
   "gui.xaero_icons_off": "Без иконок",
   "gui.xaero_ignore_heightmaps": "Не учитывать данные высот сервера",
-  "gui.xaero_infodisplay_overworld_coords": "Координаты верхнего мира",
+  "gui.xaero_infodisplay_overworld_coords": "Координаты обычного мира",
   "gui.xaero_infodisplay_real_time": "Реальное время",
   "gui.xaero_ingame_waypoint_close_scale": "Масштаб близких меток",
   "gui.xaero_ingame_waypoint_icon_scale": "Масштаб иконок меток",

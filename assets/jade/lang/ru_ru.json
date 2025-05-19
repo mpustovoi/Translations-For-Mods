@@ -240,7 +240,7 @@
   "jade.instrument.custom_head": "Пользовательская голова",
   "config.jade.plugin_minecraft.armor_stand": "Стойка для брони",
   "config.jade.plugin_minecraft.painting": "Картина",
-  "config.jade.plugin_minecraft.next_entity_drop": "Следующий дроп существа",
+  "config.jade.plugin_minecraft.next_entity_drop": "Следующая добыча существа",
   "config.jade.plugin_minecraft.next_entity_drop_desc": "Показывает время до выпадения следующего объекта, такого как яйцо или щит броненосца.",
   "config.jade.plugin_minecraft.next_entity_drop_extra_msg": "яйцо,щиток",
   "jade.nextEgg": "Следующее яйцо: %s",

@@ -159,7 +159,7 @@
   "distanthorizons.config.client.advanced.graphics.quality.ditherDhFade": "Исчезновение блилежащих упрощённых чанков",
   "distanthorizons.config.client.advanced.graphics.quality.grassSideRendering.@tooltip": "Как должны отображаться бока и низ дёрна в упрощённых чанках?",
   "distanthorizons.config.client.advanced.graphics.quality.grassSideRendering": "Отрисовка сторон дёрна",
-  "distanthorizons.config.client.advanced.graphics.quality.horizontalQuality.@tooltip": "Насколько сильно различаются перепады в качестве.\n\nБолее высокие настройки увеличат расстояние между дропами,\nно увеличат использование памяти и графического процессора.",
+  "distanthorizons.config.client.advanced.graphics.quality.horizontalQuality.@tooltip": "Насколько сильно различаются перепады в качестве.\n\nБолее высокие настройки увеличат расстояние между падениями качества,\nно увеличат использование памяти и графического процессора.",
   "distanthorizons.config.client.advanced.graphics.quality.horizontalQuality": "Расстояние сброса детализации",
   "distanthorizons.config.client.advanced.graphics.quality.horizontalScale.@tooltip": "Как быстро снижается качество упрощённых чанков.\n\nБольшие цифры улучшат видимость удалённой местности,\nно увеличат использование памяти и графического процессора.",
   "distanthorizons.config.client.advanced.graphics.quality.horizontalScale": "Горизонтальный масштаб",
