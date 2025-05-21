@@ -1,7 +1,7 @@
 #shaders/lang/ru_ru.lang
 
 # ПЕРЕВОД, ВЫПОЛНЕННЫЙ СООБЩЕСТВОМ
-# Перевод от Folox7 (Nikita) и mpustovoi. Возможно, переводы устарели. SpacEagle17 не может этого гарантировать.
+# Перевод от Folox_ (Nikita) и mpustovoi. Возможно, переводы устарели. SpacEagle17 не может этого гарантировать.
 
 #Profiles
 profile.POTATO=§aКартошка
@@ -395,8 +395,8 @@ option.CLOUD_ALT1=Высота облаков
 option.CLOUD_ALT1.comment=Определяет мировую высоту, на которой будут появляться облака. §e[*]§r Работает только со стилями облаков Reimagined или Unbound.
 
 option.CLOUD_SPEED_MULT=Скорость облаков
-option.CLOUD_SPEED_MULT.comment=Определяет, с какой скоростью будут двигаться облака. «Синхронизированы с мировым временем» использует мировое время Minecraft для продвижения позиций облаков; это позволяет облакам выглядеть одинаково у игроков на одном сервере. §e[*]§r Работает только со стилями облаков Reimagined или Unbound.
-value.CLOUD_SPEED_MULT.100=Синхронизированы с мировым временем
+option.CLOUD_SPEED_MULT.comment=Определяет, с какой скоростью будут двигаться облака. «Синхронизация с миром» использует мировое время Minecraft для продвижения позиций облаков; это позволяет облакам выглядеть одинаково у игроков на одном сервере. §e[*]§r Работает только со стилями облаков Reimagined или Unbound.
+value.CLOUD_SPEED_MULT.100=Синхронизация с миром
 
 option.CLOUD_R=Множитель красного для облаков
 option.CLOUD_G=Множитель зелёного для облаков
@@ -1638,15 +1638,15 @@ value.NETHER_PORTAL_VARIATION.1=Complementary
 value.NETHER_PORTAL_VARIATION.2=Фиолетовая пустота
 
 option.BIOME_COLORED_NETHER_PORTALS=Порталы-хамелеоны
-option.BIOME_COLORED_NETHER_PORTALS.comment=Цвет порталов в Незере зависит от биома.
+option.BIOME_COLORED_NETHER_PORTALS.comment=Цвет порталов в измерении Незера зависит от биома.
 
-option.END_PORTAL_VARIATION=Предустановка порталов Энда
+option.END_PORTAL_VARIATION=Предустановка портала в Энд
 option.END_PORTAL_VARIATION.comment=Выбор стиля портала в Энд. §e[*]§r Требуется встроенный PBR+.
 value.END_PORTAL_VARIATION.0=Complementary
 value.END_PORTAL_VARIATION.1=Размытые нити
 value.END_PORTAL_VARIATION.3=Пиксельная сальса
 
-option.END_PORTAL_BEAM=Лучи портала Энда
+option.END_PORTAL_BEAM=Лучи портала в Энд
 option.END_PORTAL_BEAM.comment=Добавляет световые лучи (как в Minecraft Dungeons). §e[*]§r Работает только на Iris. [§e*§r] Не работает на MacOS.
 
 option.SILHOUETTE=Силуэты
@@ -1890,8 +1890,8 @@ option.MELTING_RADIUS.comment=Радиус, в котором снег тает 
 option.SNOW_TRANSPARENCY=Прозрачность снега
 option.SNOW_TRANSPARENCY.comment=Настройка прозрачности снега.
 
-option.SSS_SEASON_SNOW=Подповерхностное рассеяние снега
-option.SSS_SEASON_SNOW.comment=Добавляет подповерхностное рассеяние к сезонному снегу.
+option.SSS_SEASON_SNOW=Подповерхностное рассеивание снега
+option.SSS_SEASON_SNOW.comment=Добавляет подповерхностное рассеивание к сезонному снегу.
 
 option.WINTER_GREEN_AMOUNT=Количество зелени зимой
 
@@ -1949,7 +1949,7 @@ option.MCBL_INFLUENCE=Влияние многоцветного блочного
 option.MCBL_INFLUENCE.comment=Регулирует влияние многоцветного блочного освещения на стандартный блочный свет.
 
 option.SSS_SNOW_ICE=ПпР снега и льда
-option.SSS_SNOW_ICE.comment=Добавляет подповерхностное рассеяние (SSS) для снега и льда.
+option.SSS_SNOW_ICE.comment=Добавляет подповерхностное рассеивание (SSS) для снега и льда.
 
 option.BEDROCK_NOISE=Шум бедрока
 option.BEDROCK_NOISE.comment=Добавляет эффект шума под бедроком в Незере и обычном мире.
@@ -2153,7 +2153,7 @@ value.HAND_BLOCKLIGHT_FLICKERING.0=Нет
 option.PIXELATED_HANDHELD_LIGHT=Пиксельный свет в руке
 option.PIXELATED_HANDHELD_LIGHT.comment=Пикселизирует текстуру источника света в руке.
 
-option.SSS_STRENGTH=Подповерхностное рассеяние
+option.SSS_STRENGTH=Подповерхностное рассеивание
 value.SSS_STRENGTH.0=Нет
 value.SSS_STRENGTH.1=Да
 
@@ -2240,32 +2240,32 @@ option.STAR_SOFTNESS_OW=Мягкость звёзд
 
 option.STAR_SOFTNESS_END=Мягкость звёзд
 
-option.STAR_COLOR_1_OW_R=Красный звезды 1
-option.STAR_COLOR_1_OW_G=Зелёный звезды 1
-option.STAR_COLOR_1_OW_B=Синий звезды 1
+option.STAR_COLOR_1_OW_R=Красный звёзд 1
+option.STAR_COLOR_1_OW_G=Зелёный звёзд 1
+option.STAR_COLOR_1_OW_B=Синий звёзд 1
 
-option.STAR_COLOR_2_OW_R=Красный звезды 2
-option.STAR_COLOR_2_OW_G=Зелёный звезды 2
-option.STAR_COLOR_2_OW_B=Синий звезды 2
+option.STAR_COLOR_2_OW_R=Красный звёзд 2
+option.STAR_COLOR_2_OW_G=Зелёный звёзд 2
+option.STAR_COLOR_2_OW_B=Синий звёзд 2
 
-option.STAR_COLOR_3_OW_R=Красный звезды 3
-option.STAR_COLOR_3_OW_G=Зелёный звезды 3
-option.STAR_COLOR_3_OW_B=Синий звезды 3
+option.STAR_COLOR_3_OW_R=Красный звёзд 3
+option.STAR_COLOR_3_OW_G=Зелёный звёзд 3
+option.STAR_COLOR_3_OW_B=Синий звёзд 3
 
 option.STAR_COLOR_VARIATION_OW=Интенсивность цвета
 value.STAR_COLOR_VARIATION_OW.0.0=Нет
 
-option.STAR_COLOR_1_END_R=Красный звезды 1
-option.STAR_COLOR_1_END_G=Зелёный звезды 1
-option.STAR_COLOR_1_END_B=Синий звезды 1
+option.STAR_COLOR_1_END_R=Красный звёзд 1
+option.STAR_COLOR_1_END_G=Зелёный звёзд 1
+option.STAR_COLOR_1_END_B=Синий звёзд 1
 
-option.STAR_COLOR_2_END_R=Красный звезды 2
-option.STAR_COLOR_2_END_G=Зелёный звезды 2
-option.STAR_COLOR_2_END_B=Синий звезды 2
+option.STAR_COLOR_2_END_R=Красный звёзд 2
+option.STAR_COLOR_2_END_G=Зелёный звёзд 2
+option.STAR_COLOR_2_END_B=Синий звёзд 2
 
-option.STAR_COLOR_3_END_R=Красный звезды 3
-option.STAR_COLOR_3_END_G=Зелёный звезды 3
-option.STAR_COLOR_3_END_B=Синий звезды 3
+option.STAR_COLOR_3_END_R=Красный звёзд 3
+option.STAR_COLOR_3_END_G=Зелёный звёзд 3
+option.STAR_COLOR_3_END_B=Синий звёзд 3
 
 option.STAR_COLOR_VARIATION_END=Интенсивность цвета
 value.STAR_COLOR_VARIATION_END.0.0=Нет

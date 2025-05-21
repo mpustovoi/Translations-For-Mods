@@ -24,5 +24,6 @@
   "item.create_jetpack.netherite_jetpack.tooltip.control4": "Нажмите [H]",
   "item.create_jetpack.netherite_jetpack.tooltip.summary": "Позволяет летать с помощью сжатого воздуха.",
   "item.create_jetpack.netherite_jetpack.tooltip": "НЕЗЕРИТОВЫЙ РЕАКТИВНЫЙ РАНЕЦ",
-  "item.create_jetpack.netherite_jetpack": "Незеритовый реактивный ранец"
+  "item.create_jetpack.netherite_jetpack": "Незеритовый реактивный ранец",
+  "key.categories.movement.jetpack": "Create: Реактивный Ранец"
 }
