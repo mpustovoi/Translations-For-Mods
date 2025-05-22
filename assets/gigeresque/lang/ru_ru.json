@@ -326,5 +326,6 @@
   "subtitles.gigeresque.hugger_implant": "",
   "subtitles.gigeresque.tracker_summon": "Появляется призрачная фигура",
   "tag.item.gigeresque.burster_foods": "Еда грудолома",
-  "tag.item.gigeresque.potions": "Зелья"
+  "tag.item.gigeresque.potions": "Зелья",
+  "tag.mob_effect.gigeresque.gigstatuseffects": "Гигеризм: эффекты статуса"
 }

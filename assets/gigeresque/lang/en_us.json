@@ -7,5 +7,6 @@
   "effect.gigeresque.neo_spore.description": "§8§kDescription Missing§r",
   "effect.gigeresque.trauma.description": "§8§kDescription Missing§r",
   "tag.item.gigeresque.burster_foods": "Burster Foods",
-  "tag.item.gigeresque.potions": "Potions"
+  "tag.item.gigeresque.potions": "Potions",
+  "tag.mob_effect.gigeresque.gigstatuseffects": "Gigeresque: Status Effects"
 }

@@ -158,5 +158,14 @@
   "item.copycats.copycat_catwalk.tooltip.condition3": "ПКМ гаечным ключом на приседе",
   "item.copycats.copycat_catwalk.tooltip.summary": "_Заполняемые пластины_, собранные в виде мостика для удобного размещения.",
   "item.copycats.copycat_catwalk": "Заполняемый мостик",
-  "itemGroup.copycats.main": "Create: Заполнители+"
+  "itemGroup.copycats.main": "Create: Заполнители+",
+  "tag.item.copycats.copycat_beam": "Заполняемые балки",
+  "tag.item.copycats.copycat_block": "Заполняемые блоки",
+  "tag.item.copycats.copycat_board": "Заполняемые пластины",
+  "tag.item.copycats.copycat_fence": "Заполняемые заборы",
+  "tag.item.copycats.copycat_fence_gate": "Заполняемые калитки",
+  "tag.item.copycats.copycat_slab": "Заполняемые плиты",
+  "tag.item.copycats.copycat_stairs": "Заполняемые ступеньки",
+  "tag.item.copycats.copycat_vertical_step": "Заполняемые вертикальные ступеньки",
+  "tag.item.copycats.copycat_wall": "Заполняемые ограды"
 }
