@@ -1,0 +1,12 @@
+{
+  "type": "setting",
+  "name": "GLOWING_CORALSTONE",
+  "default": false,
+  "file": "materials.glsl",
+  "en_US": {
+    "option": "Glowing Coralstone"
+  },
+  "ru_RU": {
+    "option": "Свечение кораллового камня"
+  }
+}

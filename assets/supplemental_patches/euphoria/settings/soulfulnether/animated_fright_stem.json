@@ -1,0 +1,14 @@
+{
+  "type": "setting",
+  "name": "ANIMATED_FRIGHT_STEM",
+  "default": true,
+  "file": "materials.glsl",
+  "en_US": {
+    "option": "Animated Fright Stem §e[*]§r",
+    "comment": "Enables a glowing animation for the fright stem block. §e[*]§r This feature only works if Emissive Nether Trees is enabled."
+  },
+  "ru_RU": {
+    "option": "Анимированный ужасный стебель §e[*]§r",
+    "comment": "Включает анимированное свечение блока ужасного стебля. §e[*]§r Требует включённого «Свечения грибов Незера»."
+  }
+}

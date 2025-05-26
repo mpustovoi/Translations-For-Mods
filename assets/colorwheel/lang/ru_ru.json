@@ -1,0 +1,4 @@
+{
+  "colorwheel.pack.incompatible": "%s несовместим",
+  "colorwheel.pack.contains_broken_shader": "Набор шейдеров может быть сломан — возможны графические артефакты"
+}

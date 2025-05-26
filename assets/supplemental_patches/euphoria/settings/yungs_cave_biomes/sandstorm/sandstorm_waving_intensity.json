@@ -1,0 +1,18 @@
+{
+  "type": "setting",
+  "name": "YUNGS_SANDSTORM_WAVING_INTENSITY",
+  "default": 0.30,
+  "slider": true,
+  "values": [
+    0.05, 0.10, 0.15, 0.20, 0.25, 0.30, 0.35, 0.40, 0.45, 0.50, 0.55, 0.60
+  ],
+  "file": "wavingBlocks.glsl",
+  "en_US": {
+    "option": "Sandstorm Waving Intensity",
+    "comment": "Determines how strongly foliage waves during a sandstorm."
+  },
+  "ru_RU": {
+    "option": "Интенсивность колыхания в песчаную бурю",
+    "comment": "Определяет силу колыхания листвы во время песчаной бури."
+  }
+}

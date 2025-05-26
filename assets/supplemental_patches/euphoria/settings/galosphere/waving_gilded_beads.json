@@ -1,0 +1,23 @@
+{
+  "type": "setting",
+  "name": "WAVING_GILDED_BEADS",
+  "default": 1,
+  "values": [0, 1, 2, 3],
+  "file": "wavingBlocks.glsl",
+  "en_US": {
+    "option": "Waving Gilded Beads",
+    "comment": "Adjusts the intensity that gilded beads will wave.",
+    "value.0": "§cOFF",
+    "value.1": "Light",
+    "value.2": "Moderate",
+    "value.3": "Intense"
+  },
+  "ru_RU": {
+    "option": "Колыхание позолоченных бусин",
+    "comment": "Регулирует интенсивность колыхания позолоченных бусин.",
+    "value.0": "§cНет",
+    "value.1": "Слабое",
+    "value.2": "Умеренное",
+    "value.3": "Сильное"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "directory",
+  "name": "GENERAL_SETTINGS",
+  "folder": "general",
+  "en_US": {
+    "screen": "General"
+  },
+  "ru_RU": {
+    "screen": "Общие"
+  },
+  "priority": 3
+}

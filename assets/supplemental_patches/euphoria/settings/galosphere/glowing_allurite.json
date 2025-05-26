@@ -1,0 +1,20 @@
+{
+  "type": "setting",
+  "name": "GLOWING_ALLURITE",
+  "priority": 1,
+  "default": 1,
+  "values": [0, 1, 2],
+  "file": "materials.glsl",
+  "en_US": {
+    "option": "Glowing Allurite",
+    "value.0": "§cOFF",
+    "value.1": "Crystal",
+    "value.2": "Crystal & Block"
+  },
+  "ru_RU": {
+    "option": "Свечение аллурита",
+    "value.0": "§cНет",
+    "value.1": "Кристаллы",
+    "value.2": "Кристаллы и блоки"
+  }
+}

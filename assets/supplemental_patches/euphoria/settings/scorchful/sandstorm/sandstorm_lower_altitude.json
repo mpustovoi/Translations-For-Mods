@@ -1,0 +1,18 @@
+{
+  "type": "setting",
+  "name": "SCORCHFUL_SANDSTORM_LOWER_ALT",
+  "default": 64,
+  "slider": true,
+  "values": [
+    0, 4, 8, 16, 24, 32, 40, 48, 56, 64, 72, 80
+  ],
+  "file": "composite.glsl",
+  "en_US": {
+    "option": "Sandstorm Lower Altitude",
+    "comment": "Determines the lower starting point of the volumetric sandstorm. The fog won't appear below this altitude, and it will look the most bright right above this altitude.\n"
+  },
+  "ru_RU": {
+    "option": "Нижний уровень песчаной бури",
+    "comment": "Определяет нижнюю границу объёмной песчаной бури. Эффект не проявляется ниже этой высоты и наиболее ярок непосредственно над ней.\n"
+  }
+}

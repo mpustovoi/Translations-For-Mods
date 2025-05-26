@@ -1,0 +1,21 @@
+{
+  "type": "setting",
+  "name": "ECTOPLASM_EDGE_EFFECT",
+  "default": 0,
+  "values": [0, 1, 2],
+  "file": "materials.glsl",
+  "en_US": {
+    "option": "Ectoplasm Edge Effect",
+    "comment": "Adds an edge to ectoplasm when it touches other blocks. §e[*]§r This feature only works if Advanced Colored Lighting is enabled in Performance Settings.",
+    "value.0": "OFF",
+    "value.1": "ON - Bright",
+    "value.2": "ON - Dark"
+  },
+  "ru_RU": {
+    "option": "Эффект края эктоплазмы",
+    "comment": "Добавляет границу при соприкосновении эктоплазмы с блоками. §e[*]§r Работает только, если «Расширенное цветное освещение» включено в «Настройках производительности» и поддерживается вашей системой.",
+    "value.0": "Нет",
+    "value.1": "Яркие",
+    "value.2": "Тёмные"
+  }
+}

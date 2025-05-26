@@ -1,0 +1,18 @@
+{
+  "type": "setting",
+  "name": "GLOWING_ORE_LEAD",
+  "priority": 1,
+  "conditions": [
+    {
+      "if": "GLOWING_ORE_MASTER == 2 || SHADER_STYLE == 4 && GLOWING_ORE_MASTER == 1",
+      "then": true
+    }
+  ],
+  "file": "materials.glsl",
+  "en_US": {
+    "option": "Glowing Lead Ore"
+  },
+  "ru_RU": {
+    "option": "Свечение свинцовой руды"
+  }
+}
