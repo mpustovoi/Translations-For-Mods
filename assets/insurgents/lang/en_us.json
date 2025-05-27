@@ -10,6 +10,9 @@
   "item.insurgents.security_spawn_egg": "Security Spawn Egg",
   "item.insurgents.suicide_insurgent_spawn_egg": "Suicide Insurgent Spawn Egg",
   "subtitles.ak_fire": "Gunfire",
-  "subtitles.bullet_hit_object": "",
-  "subtitles.explosion": ""
+  "subtitles.bullet_hit_object": "Bullet Hit",
+  "subtitles.distant_ak_fire": "Distant Gunfire",
+  "subtitles.distantexplosion": "Distant Explosion",
+  "subtitles.entity_generic_explode": "Explosion",
+  "subtitles.explosion": "Explosion"
 }

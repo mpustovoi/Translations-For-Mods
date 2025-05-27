@@ -1,0 +1,11 @@
+{
+  "tag.block.neoforge.enderman_place_on_blacklist": "Чёрный список размещения эндермена",
+  "tag.block.neoforge.needs_gold_tool": "Нужны золотые инструменты",
+  "tag.block.neoforge.needs_netherite_tool": "Нужны незеритовые инструменты",
+  "tag.block.neoforge.needs_wood_tool": "Нужны деревянные инструменты",
+  "tag.block.neoforge.villager_farmlands": "Пашни крестьян",
+  "tag.item.neoforge.enchanting_fuels": "Зачаровывающее топливо",
+  "tag.item.neoforge.piglin_usable_crossbows": "Используемые пиглинами арбалеты",
+  "tag.item.neoforge.pillager_usable_crossbows": "Используемые разбойниками арбалеты",
+  "tag.item.neoforge.skeleton_usable_bows": "Используемые скелетами луки"
+}

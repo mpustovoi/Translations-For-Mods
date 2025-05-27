@@ -10,6 +10,9 @@
   "item.insurgents.security_spawn_egg": "Яйцо призыва охранника",
   "item.insurgents.suicide_insurgent_spawn_egg": "Яйцо призыва повстанца-смертника",
   "subtitles.ak_fire": "Стрельба",
-  "subtitles.bullet_hit_object": "",
-  "subtitles.explosion": ""
+  "subtitles.bullet_hit_object": "Попадание пули",
+  "subtitles.distant_ak_fire": "Отдалённая стрельба",
+  "subtitles.distantВзрыв": "Отдалённый взрыв",
+  "subtitles.entity_generic_explode": "Взрыв",
+  "subtitles.Взрыв": "Взрыв"
 }

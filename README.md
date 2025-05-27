@@ -1,9 +1,11 @@
 <details>
 <summary>RU</summary>
 
-# Переводы-Для-Модов
-
-Набор ресурсов для модпаков **Karbin_Drem**.
+<p align="center">
+    <img src="pack.png" />
+    <h1 align="center">Переводы Для Модов</h1>
+    <h2 align="center">Набор ресурсов для модпаков Karbin_Drem</h2>
+</p>
 
 Перечень затрагиваемых модов/наборов данных можно найти нигде и это навряд ли изменится. (На самом деле достаточно открыть папку `assets`)
 
@@ -16,9 +18,11 @@
 
 </details>
 
-# Translations-For-Mods
-
-A resource pack for **Karbin_Drem**'s modpacks.
+<p align="center">
+    <img src="pack.png" />
+    <h1 align="center">Translations For Mods</h1>
+    <h2 align="center">A resource pack for Karbin_Drem's modpacks</h2>
+</p>
 
 The list of affected mods/datapacks can be found nowhere and this is unlikely to change. (Actually, it's enough to open the `assets` folder)
 

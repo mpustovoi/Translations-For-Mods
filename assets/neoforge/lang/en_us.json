@@ -1,0 +1,11 @@
+{
+  "tag.block.neoforge.enderman_place_on_blacklist": "Enderman Place on Blacklist",
+  "tag.block.neoforge.needs_gold_tool": "Needs Gold Tools",
+  "tag.block.neoforge.needs_netherite_tool": "Needs Netherite Tools",
+  "tag.block.neoforge.needs_wood_tool": "Needs Wooden Tools",
+  "tag.block.neoforge.villager_farmlands": "Villager Farmlands",
+  "tag.item.neoforge.enchanting_fuels": "Enchanting Fuels",
+  "tag.item.neoforge.piglin_usable_crossbows": "Piglin Usable Crossbows",
+  "tag.item.neoforge.pillager_usable_crossbows": "Pillager Usable Crossbows",
+  "tag.item.neoforge.skeleton_usable_bows": "Skeleton Usable Bows"
+}
