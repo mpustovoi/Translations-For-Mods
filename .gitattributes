@@ -3,4 +3,5 @@
 *.mcfunction text eol=crlf
 *.mcmeta text eol=crlf
 *.txt text eol=crlf
+*.lang text eol=crlf
 *.md text eol=crlf
