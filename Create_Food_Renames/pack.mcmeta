@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "description": {
+      "translate": "resourcepack.uncraftable.createfood.descr",
+      "fallback": "§fItem names overrides for §6Create: Food§f mod§r"
+    },
+    "pack_format": 34,
+    "supported_formats": {
+      "min_inclusive": 15,
+      "max_inclusive": 55
+    }
+  }
+}
