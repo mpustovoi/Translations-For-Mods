@@ -30,6 +30,7 @@
   "item.createsifter.diorite_pebble": "Diorite Pebble",
   "item.createsifter.granite_pebble": "Granite Pebble",
   "item.createsifter.raw_aluminum_piece": "Raw Aluminum Piece",
+  "item.createsifter.raw_copper_piece": "Raw Copper Piece",
   "item.createsifter.raw_gold_piece": "Raw Gold Piece",
   "item.createsifter.raw_iron_piece": "Raw Iron Piece",
   "item.createsifter.raw_lead_piece": "Raw Lead Piece",
@@ -46,8 +47,10 @@
   "item.createsifter.sturdy_mesh": "Sturdy Mesh",
   "item.createsifter.tuff_pebble": "Tuff Pebble",
   "item.createsifter.zinc_mesh": "Zinc Mesh",
+  "mechanicals.ui.recipe_requirement.advanced_sifter.tooltip.missing": "Requires Brass Sifter",
   "mechanicals.ui.recipe_requirement.advanced_sifter.tooltip.title": "Brass Sifter",
   "mechanicals.ui.recipe_requirement.advanced_sifter.tooltip.value": "",
+  "mechanicals.ui.recipe_requirement.waterlogged.tooltip.missing": "Not Waterlogged",
   "mechanicals.ui.recipe_requirement.waterlogged.tooltip.title": "Waterlogged",
   "mechanicals.ui.recipe_requirement.waterlogged.tooltip.value": "",
   "tag.item.createsifter.stone_types.basalt": "Basalt Stone Types"

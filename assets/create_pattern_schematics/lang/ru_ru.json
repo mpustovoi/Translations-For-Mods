@@ -25,6 +25,12 @@
   "item.create_pattern_schematics.empty_pattern_schematic.tooltip.summary": "Может быть использована для создания _расширенной версии схематики Create_, которая позволяет штуковинам и строительным пушкам многократно _повторять дизайн_.",
   "item.create_pattern_schematics.pattern_schematic": "Шаблонная схематика",
   "item.create_pattern_schematics.pattern_schematic.tooltip.summary": "_Расширенная версия схематики Create_, которая позволяет штуковинам и строительным пушкам многократно _повторять дизайн_.",
+  "item.create_pattern_schematics.pattern_schematic_and_quill": "Шаблонная схематика и перо",
+  "item.create_pattern_schematics.pattern_schematic_and_quill.tooltip.behaviour1": "Выберите две _угловые точки_ с помощью _ПКМ_. Удерживайте _Ctrl_ и прокрутите, чтобы выбрать точки в воздухе.",
+  "item.create_pattern_schematics.pattern_schematic_and_quill.tooltip.behaviour2": "_Ctrl и прокрутка_ на гранях для настройки размера, затем снова ПКМ для сохранения.",
+  "item.create_pattern_schematics.pattern_schematic_and_quill.tooltip.condition1": "Создание выделения",
+  "item.create_pattern_schematics.pattern_schematic_and_quill.tooltip.condition2": "Настройка и сохранение",
+  "item.create_pattern_schematics.pattern_schematic_and_quill.tooltip.summary": "Используется для _сохранения структуры_ в мире в файл _.nbt_ или немедленной печати в _шаблонную схематику_.",
   "tag.item.create_pattern_schematics.pattern_schematic_paper_substitutes": "Заменители бумаги для шаблонных схематик",
   "tag.item.create_pattern_schematics.schematic_paper_substitutes": "Заменители бумаги для схематик"
 }

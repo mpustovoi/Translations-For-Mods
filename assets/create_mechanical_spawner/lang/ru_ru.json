@@ -37,6 +37,7 @@
   "config.jade.plugin_create_mechanical_spawner.data": "Данные механического рассадника монстров",
   "create_mechanical_spawner.generic.biome_dependant": "Зависимость от биома",
   "create_mechanical_spawner.generic.with_custom_loot": "Пользовательская добыча со сборщиком добычи",
+  "create_mechanical_spawner.goggles.with_loot_enchantment": "Добыча: %d",
   "create_mechanical_spawner.itemGroup:main": "Create: Механический Рассадник",
   "create_mechanical_spawner.ponder.spawner.header": "Призывом живых существ",
   "create_mechanical_spawner.ponder.spawner.text_1": "Рассадник использует вращательную силу и специальные жидкости для призыва существ",

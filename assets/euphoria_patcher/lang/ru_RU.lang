@@ -1536,7 +1536,7 @@ value.TWINKLING_STARS.20=2.0
 option.STAR_SIZE=Размер звёзд
 option.STAR_SIZE.comment=Изменяет видимый размер звёзд.
 
-option.SITUATIONAL_ORES=Ситуационные руды
+option.SITUATIONAL_ORES=Условное свечение руд
 option.SITUATIONAL_ORES.comment=Руды светятся только в пещерах и ночью. §e[*]§r Требует включения «Свечения руд».
 
 option.GLOWING_RAW_BLOCKS=Свечение необработанных блоков

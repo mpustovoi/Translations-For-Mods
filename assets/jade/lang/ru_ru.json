@@ -187,7 +187,7 @@
   "config.jade.plugin_jade.block_face_desc": "Показывать поверхность блока, к которому прикасается игрок.",
   "config.jade.plugin_jade.block_face_extra_msg": "направление,сторона",
   "entity.minecraft.villager.none": "Безработный",
-  "entity.minecraft.villager.nitwit": "Простофиля",
+  "entity.minecraft.villager.nitwit": "Деревенщина",
   "command.jade.dump.success": "Успешно сброшено",
   "config.jade.plugin_minecraft.horse_stats": "Характеристики лошади",
   "jade.horseStat.jump": "Высота прыжка: %s",

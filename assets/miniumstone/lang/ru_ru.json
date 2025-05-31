@@ -1,7 +1,7 @@
 {
-  "itemGroup.miniumstone": "Миниум",
-  "item.miniumstone.minium_shard": "Осколок миниума",
-  "item.miniumstone.minium_stone": "Миниумный камень",
+  "itemGroup.miniumstone": "Сурик",
+  "item.miniumstone.minium_shard": "Осколок сурика",
+  "item.miniumstone.minium_stone": "Суриковый камень",
   "item.miniumstone.minium_stone.changeSelection": "Нажмите [%s] + [%s] для перехода в циклический режим",
   "item.miniumstone.minium_stone.changedSelection": "Изменен режим выбора на %s",
   "item.miniumstone.minium_stone.charge": "Нажмите [%s] чтобы зарядить",
@@ -10,10 +10,10 @@
   "item.miniumstone.minium_stone.flat": "Плоскость",
   "item.miniumstone.minium_stone.line": "Линия",
   "item.miniumstone.minium_stone.selection": "Режим выбора: %s",
-  "key.categories.miniumstone": "Миниумный Камень",
-  "key.chargeMiniumStone": "Зарядить миниумный камень",
+  "key.categories.miniumstone": "Суриковый Камень",
+  "key.chargeMiniumStone": "Зарядить суриковый камень",
   "key.openCraftingGrid": "Открыть окно создания",
-  "subtitles.item.miniumstone.charge": "Миниумный камень заряжается",
-  "subtitles.item.miniumstone.transmute": "Миниумный камень преобразует",
-  "subtitles.item.miniumstone.uncharge": "Миниумный камень разряжается"
+  "subtitles.item.miniumstone.charge": "Суриковый камень заряжается",
+  "subtitles.item.miniumstone.transmute": "Суриковый камень преобразует",
+  "subtitles.item.miniumstone.uncharge": "Суриковый камень разряжается"
 }

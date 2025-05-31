@@ -30,6 +30,7 @@
   "item.createsifter.diorite_pebble": "Диоритовая галька",
   "item.createsifter.granite_pebble": "Гранитная галька",
   "item.createsifter.raw_aluminum_piece": "Кусочек рудного алюминия",
+  "item.createsifter.raw_copper_piece": "Кусочек рудной меди",
   "item.createsifter.raw_gold_piece": "Кусочек рудного золота",
   "item.createsifter.raw_iron_piece": "Кусочек рудного железа",
   "item.createsifter.raw_lead_piece": "Кусочек рудного свинца",
@@ -46,8 +47,10 @@
   "item.createsifter.sturdy_mesh": "Прочная сетка",
   "item.createsifter.tuff_pebble": "Туфовая галька",
   "item.createsifter.zinc_mesh": "Цинковая сетка",
+  "mechanicals.ui.recipe_requirement.advanced_sifter.tooltip.missing": "Требуется латунный просеиватель",
   "mechanicals.ui.recipe_requirement.advanced_sifter.tooltip.title": "Латунный просеиватель",
   "mechanicals.ui.recipe_requirement.advanced_sifter.tooltip.value": "",
+  "mechanicals.ui.recipe_requirement.waterlogged.tooltip.missing": "Не затоплен",
   "mechanicals.ui.recipe_requirement.waterlogged.tooltip.title": "Затоплен",
   "mechanicals.ui.recipe_requirement.waterlogged.tooltip.value": "",
   "tag.item.createsifter.stone_types.basalt": "Базальтовые камни"
