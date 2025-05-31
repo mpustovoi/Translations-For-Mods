@@ -11,7 +11,7 @@
   "block.undergardendelight.underbean_crate": "Ящик с глубинными бобами",
   "block.undergardendelight.wigglewood_cabinet": "Кладовая из вьющегося дерева",
   "gui.undergardendelight.undergarden_cabinet.label_cabinet": "Кладовая",
-  "item_group.undergardendelight.undergarden_delight_tab": "Восторг Подземного Сада",
+  "item_group.undergardendelight.undergarden_delight_tab": "Изыски Подземного Сада",
   "item.undergardendelight.baked_gwibling_and_vegetables": "Запечённый гвиблинг с овощами",
   "item.undergardendelight.blood_tomato_soup": "Кровавый грибно-томатный суп",
   "item.undergardendelight.brute_tusk_knife.description_0": "§7Собирает кровавые глобулы с большинства негнилых мобов Подземного Сада.",
@@ -45,5 +45,5 @@
   "item.undergardendelight.underbean_salad": "Салат из глубинных бобов",
   "item.undergardendelight.utherium_knife.description_0": "§cПовышенный урон по гнили.",
   "item.undergardendelight.utherium_knife": "Утериевый нож",
-  "itemGroup.tabundergarden_delight_tab": "Восторг Подземного Сада"
+  "itemGroup.tabundergarden_delight_tab": "Изыски Подземного Сада"
 }

@@ -1,5 +1,5 @@
 {
-  "itemGroup.dumplings_delight": "Пельменный Восторг",
+  "itemGroup.dumplings_delight": "Пельменные Изыски",
   "item.dumplings_delight.garlic_clove": "Зубчик чеснока",
   "item.dumplings_delight.pufferfish_boiled_dumpling": "Пельмень с иглобрюхом",
   "item.dumplings_delight.pork_kelp_boiled_dumpling": "Пельмень со свининой и ламинарией",
@@ -43,8 +43,8 @@
   "block.dumplings_delight.garlic_chive_crate": "Ящик с шнитт-луком",
   "block.dumplings_delight.fennel_crate": "Ящик с фенхелем",
   "block.dumplings_delight.dumpling_medley": "Пельменное ассорти",
-  "dumplings_delight.advancement.root": "Пельменный восторг",
-  "dumplings_delight.advancement.root.desc": "Как говорится, \"Нет ничего вкуснее пельменей!\"",
+  "dumplings_delight.advancement.root": "Пельменные изыски",
+  "dumplings_delight.advancement.root.desc": "Как говорится, 'Нет ничего вкуснее пельменей!'",
   "dumplings_delight.advancement.consume_dumpling.desc": "Съешьте каждый вид пельменей",
   "dumplings_delight.advancement.consume_dumpling": "На колени пред тем, кто придумал пельмени",
   "dumplings_delight.advancement.get_pufferfish_boiled_dumpling.desc": "Приготовьте пельмень с иглобрюхом",

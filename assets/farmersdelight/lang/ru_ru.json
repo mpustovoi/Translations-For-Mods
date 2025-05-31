@@ -138,7 +138,7 @@
   "item.farmersdelight.fruit_salad": "Фруктовый салат",
   "item.farmersdelight.sweet_berry_cookie": "Печенье со сладкими ягодами",
   "item.farmersdelight.honey_cookie": "Медовое печенье",
-  "item.farmersdelight.melon_popsicle": "Арбузное мороженое",
+  "item.farmersdelight.melon_popsicle": "Арбузный фруктовый лёд",
   "item.farmersdelight.glow_berry_custard": "Крем из светящихся ягод",
 
   "item.farmersdelight.earthworm": "Дождевой червь",
@@ -211,7 +211,7 @@
   "enchantment.farmersdelight.backstabbing": "Предательство",
   "enchantment.farmersdelight.backstabbing.desc": "Увеличивает урон при атаке цели со спины.",
 
-  "itemGroup.farmersdelight": "Фермерский Восторг",
+  "itemGroup.farmersdelight": "Фермерские Изыски",
 
   "farmersdelight.container.recipe_book.cookable": "Доступно к готовке",
   "farmersdelight.container.cooking_pot": "Кухонный котёл",
@@ -230,7 +230,7 @@
   "farmersdelight.tooltip.hot_cocoa": "Очищает от 1 вредного эффекта",
   "farmersdelight.tooltip.melon_juice": "Восстанавливает немного здоровья",
 
-  "farmersdelight.advancement.root": "Фермерский восторг",
+  "farmersdelight.advancement.root": "Фермерские изыски",
   "farmersdelight.advancement.root.desc": "Вас ожидает целый мир разнообразных вкусов!",
 
   "farmersdelight.advancement.craft_knife": "Охота и собирательство",
@@ -435,13 +435,16 @@
   "tag.item.c.foods.vegetables.tomato": "Томаты",
 
   "tag.item.farmersdelight.cabbage_roll_ingredients": "Ингредиенты для голубцов",
-  "tag.item.farmersdelight.cabinets": "Шкафы",
   "tag.item.farmersdelight.cabinets.wooden": "Деревянные шкафы",
+  "tag.item.farmersdelight.cabinets": "Шкафы",
   "tag.item.farmersdelight.canvas_signs": "Холщовые таблички",
   "tag.item.farmersdelight.comfort_foods": "Еда с комфортом",
+  "tag.item.farmersdelight.drinks": "Напитки",
   "tag.item.farmersdelight.enchantable.knife": "Зачаровываемые ножи",
+  "tag.item.farmersdelight.feasts": "Большие блюда",
   "tag.item.farmersdelight.flat_on_cutting_board": "Плоское на разделочной доске",
   "tag.item.farmersdelight.hanging_canvas_signs": "Холщовые подвесные таблички",
+  "tag.item.farmersdelight.meals": "Блюда",
   "tag.item.farmersdelight.offhand_equipment": "Снаряжение второй руки",
   "tag.item.farmersdelight.serving_containers": "Сервировочные контейнеры",
   "tag.item.farmersdelight.straw_harvesters": "Сборщики соломы",

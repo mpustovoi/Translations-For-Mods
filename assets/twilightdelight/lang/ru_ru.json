@@ -76,9 +76,9 @@
   "item.twilightdelight.torchberry_juice": "Факелонтовый сок",
   "item.twilightdelight.torchberry_pie_slice": "Кусочек факелонтового пирога",
   "item.twilightdelight.twilight_spring": "Весенний сумрачный напиток",
-  "itemGroup.twilightdelight.twilight_delight": "Сумеречные Ароматы и Наслаждения",
-  "patchouli.twilightdelight.landing": "Наслаждайтесь кроссовером между «Сумеречным Лесом», «Фермерским Восторгом», и «Неаполитанцем»",
-  "patchouli.twilightdelight.title": "Кулинарная книга Сумеречного леса",
+  "itemGroup.twilightdelight.twilight_delight": "Сумеречные Изыски",
+  "patchouli.twilightdelight.landing": "Наслаждайтесь совместимостью между «Сумеречным Лесом», «Фермерскими Изысками», и «Неаполитанцем»",
+  "patchouli.twilightdelight.title": "Кулинарная книга Сумеречного Леса",
   "twilightdelight.jei.frozen": "Обморожение",
   "twilightdelight.tooltip.chance": "%1$s с вероятностью %2$s%%"
 }

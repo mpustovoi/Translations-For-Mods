@@ -131,7 +131,7 @@
   "expandeddelight.jei.cheese_fermenting.fluid": "Процесс ускоряется посредством добавления воды",
   "expandeddelight.jei.cheese_fermenting.accelerators": "Процесс ускоряется посредством добавления активаторов (см. ниже)",
 
-  "itemGroup.expandeddelight": "Расширенный Восторг",
+  "itemGroup.expandeddelight": "Расширенные Изыски",
 
   "expandeddelight.jei.info.wild_asparagus": "Спаржу обычно можно встретить как дикорастущее растение на равнинах.",
   "expandeddelight.jei.info.wild_sweet_potato": "Сладкий картофель обычно встречается в джунглях как дикорастущее растение.",
@@ -155,5 +155,5 @@
   "item.expandeddelight.juicer_item": "Соковыжималка",
   "item.expandeddelight.mortar_and_pestle_item": "Ступка и пестик",
   "item.expandeddelight.raw_cinnamon": "Палочка корицы",
-  "itemGroup.expandeddelight.group": "Расширенный Восторг"
+  "itemGroup.expandeddelight.group": "Расширенные Изыски"
 }

@@ -41,8 +41,8 @@
   "frightsdelight.advancement.get_wither_berry": "Куст иссушающих ягод",
   "frightsdelight.advancement.get_wither_berry.desc": "Куст ягод душ можно превратить в такой куст в темноте, когда источник иссушающей эссенции находится совсем рядом. Ягоды будут дымиться, пока растут",
   "frightsdelight.advancement.master_chef": "Повелитель страха",
-  "frightsdelight.advancement.master_chef.desc": "Покорите все блюда и напитки из «Восторга испуга»",
-  "frightsdelight.advancement.root": "Восторг Испуга",
+  "frightsdelight.advancement.master_chef.desc": "Покорите все блюда и напитки из «Пугающих изысков»",
+  "frightsdelight.advancement.root": "Пугающие изыски",
   "frightsdelight.advancement.root.desc": "Добро пожаловать в мир необычных изысков. Употребляйте с осторожностью.",
   "frightsdelight.container.punch_bowl": "Требуется стеклянная бутылка.",
   "frightsdelight.effect.chills.chance": "Вы чувствуете, что за вами наблюдают...",
@@ -73,5 +73,5 @@
   "item.frightsdelight.undead_kebab": "Шашлык из нежити",
   "item.frightsdelight.web_on_stick": "Паутинка на палочке",
   "item.frightsdelight.wither_berry": "Иссушающие ягоды",
-  "itemGroup.frightsdelight.group": "Пугающий Восторг"
+  "itemGroup.frightsdelight.group": "Пугающие Изыски"
 }
