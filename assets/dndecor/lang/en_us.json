@@ -1,0 +1,17 @@
+{
+  "itemGroup.dndecor.base": "Create: Design n' Decor",
+  "tag.item.dndecor.dark_metal_decor": "Dark Metal Decor",
+  "tag.item.dndecor.dyed_stone_metal_decor": "Dyed Stone Metal Decor",
+  "tag.item.dndecor.dyed_velvet_block": "Dyed Velvet Blocks",
+  "tag.item.dndecor.palette_blocks": "Palette Blocks",
+  "tag.item.dndecor.stone_metal_decor": "Stone Metal Decor",
+  "tag.item.dndecor.stone_types.amethyst": "Amethyst Stone Types",
+  "tag.item.dndecor.stone_types.basalt": "Basalt Stone Types",
+  "tag.item.dndecor.stone_types.blackstone": "Blackstone Stone Types",
+  "tag.item.dndecor.stone_types.dolomite": "Dolomite Stone Types",
+  "tag.item.dndecor.stone_types.gabbro": "Gabbro Stone Types",
+  "tag.item.dndecor.stone_types.netherrack": "Netherrack Stone Types",
+  "tag.item.dndecor.stone_types.packed_mud": "Packed Mud Stone Types",
+  "tag.item.dndecor.stone_types.stone": "Stone Stone Types",
+  "tag.item.dndecor.stone_types.weathered_limestone": "Weathered Limestone Stone Types"
+}

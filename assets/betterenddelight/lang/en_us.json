@@ -1,5 +1,7 @@
 {
   "block.betterenddelight.hydralux_petal_bag": "Hydralux Petal Bag",
   "item.betterenddelight.shadow_berry_cheesecake_slice": "Shadow Berry Cheesecake Slice",
-  "itemGroup.better_end_delight": "BetterEnd Delight"
+  "itemGroup.better_end_delight": "BetterEnd Delight",
+  "tag.item.betterenddelight.cooked_end_fish": "Cooked End Fishes",
+  "tag.item.betterenddelight.polypore": "Polypores"
 }

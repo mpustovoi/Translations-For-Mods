@@ -1,0 +1,13 @@
+{
+  "block.createengineers.railway_engineer_table_block": "Railway Engineering Station",
+  "block.createengineers.hydraulic_engineer_table_block": "Hydraulic Systems Bench",
+  "block.createengineers.mechanical_engineer_table_block": "Mechanical Assembly Station",
+  "block.createengineers.worker_table_block": "Factory Technician's Workbench",
+
+  "entity.minecraft.villager.railway_engineer": "Railway Engineer",
+  "entity.minecraft.villager.hydraulic_engineer": "Hydraulic Systems Specialist",
+  "entity.minecraft.villager.mechanical_engineer": "Mechanical Assembly Technician",
+  "entity.minecraft.villager.worker": "Industrial Technician",
+
+  "itemGroup.createengineers.group": "Create: Engineers"
+}

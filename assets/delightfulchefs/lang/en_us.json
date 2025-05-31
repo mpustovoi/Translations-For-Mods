@@ -1,0 +1,17 @@
+{
+  "block.delightfulchefs.serving_table_block": "Service Station",
+  "block.delightfulchefs.vendor_table_block": "Market Stall Counter",
+  "block.delightfulchefs.prep_table_block": "Preparation Station",
+  "block.delightfulchefs.pastry_table_block": "Pâtisserie Workbench",
+  "block.delightfulchefs.sous_table_block": "Sous Chef's Station",
+  "block.delightfulchefs.head_table_block": "Head Chef's Command Center",
+
+  "entity.minecraft.villager.customer": "Patron",
+  "entity.minecraft.villager.vendor": "Market Vendor",
+  "entity.minecraft.villager.prep_cook": "Preparation Chef",
+  "entity.minecraft.villager.pastry_chef": "Pâtissier",
+  "entity.minecraft.villager.sous_chef": "Sous Chef",
+  "entity.minecraft.villager.head_chef": "Executive Chef",
+
+  "itemGroup.delightfulchefs.group": "Delightful Chefs"
+}

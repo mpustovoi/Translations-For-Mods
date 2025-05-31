@@ -106,7 +106,7 @@
   "item.farmersdelight.tree_bark": "Кора дерева",
 
   "item.farmersdelight.tomato_sauce": "Томатный соус",
-  "item.farmersdelight.fried_egg": "Жареное яйцо",
+  "item.farmersdelight.fried_egg": "Яичница",
   "item.farmersdelight.milk_bottle": "Бутылочка молока",
   "item.farmersdelight.hot_cocoa": "Горячее какао",
   "item.farmersdelight.apple_cider": "Яблочный сидр",
@@ -309,6 +309,7 @@
   "farmersdelight.jei.decomposition.fluid": "Процесс ускоряется посредством добавления воды",
   "farmersdelight.jei.decomposition.accelerators": "Процесс ускоряется посредством добавления активаторов (см. выше)",
 
+  "farmersdelight.jei.info.dough": "Пшеницу можно превратить в тесто, если замесить её с помощью ведра с водой. Но не волнуйтесь, запас воды в ведре не иссякнет!",
   "farmersdelight.jei.info.straw": "Сухое растительное волокно, используемое для создания предметов. Получают путем срезания ножом травянистых культур и растений.",
   "farmersdelight.jei.info.knife": "Лёгкое оружие ближнего боя, с быстрыми взмахами и небольшим уроном.\n\nОни могут собирать солому с травы и гарантируют получение вторичной добычи с животных.",
   "farmersdelight.jei.info.ham": "Большой кусок мяса со cвиней или хоглинов.\n\nДля разделки понадобится что-то полегче меча...",
@@ -437,6 +438,7 @@
   "tag.item.farmersdelight.cabinets": "Шкафы",
   "tag.item.farmersdelight.cabinets.wooden": "Деревянные шкафы",
   "tag.item.farmersdelight.canvas_signs": "Холщовые таблички",
+  "tag.item.farmersdelight.comfort_foods": "Еда с комфортом",
   "tag.item.farmersdelight.enchantable.knife": "Зачаровываемые ножи",
   "tag.item.farmersdelight.flat_on_cutting_board": "Плоское на разделочной доске",
   "tag.item.farmersdelight.hanging_canvas_signs": "Холщовые подвесные таблички",

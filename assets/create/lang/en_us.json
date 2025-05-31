@@ -1,4 +1,6 @@
 {
+  "item.create.dough": "Wheat Dough",
+  "item.create.sweet_roll": "Frosted Sweet Roll",
   "tag.fluid.create.bottomless.allow": "Allow Bottomless",
   "tag.fluid.create.bottomless.deny": "Deny Bottomless",
   "tag.fluid.create.fan_processing_catalysts.blasting": "Blasting Fan Processing Catalysts",

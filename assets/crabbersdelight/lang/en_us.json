@@ -1,10 +1,6 @@
 {
+  "block.crabbersdelight.scute_block": "Turtle Scute Block",
   "crabbersdelight.block.crab_trap.insufficient_surrounding_water": "Crab trap needs a 3×3 of water surrounding it to function!",
-  "tag.crabbersdelight.jei_display_results.minecraft.air": "Unbaited",
-  "tag.crabbersdelight.jei_display_results.minecraft.cod": "Cod Bait",
-  "tag.crabbersdelight.jei_display_results.minecraft.pufferfish": "Pufferfish Bait",
-  "tag.crabbersdelight.jei_display_results.minecraft.salmon": "Salmon Bait",
-  "tag.crabbersdelight.jei_display_results.minecraft.tropical_fish": "Tropical Fish Bait",
   "tag.item.crabbersdelight.cooked_seafood": "Cooked Seafood",
   "tag.item.crabbersdelight.cooked_squid": "Cooked Squid",
   "tag.item.crabbersdelight.crab_tempt_item": "Crab Temptables",
@@ -14,6 +10,11 @@
   "tag.item.crabbersdelight.jei_display_results.crabbersdelight.bucket_of_clawster_chum": "Bucket Of Clawster Chum Bait",
   "tag.item.crabbersdelight.jei_display_results.crabbersdelight.bucket_of_crab_chum": "Bucket Of Crab Chum Bait",
   "tag.item.crabbersdelight.jei_display_results.crabbersdelight.bucket_of_shrimp_chum": "Bucket Of Shrimp Chum Bait",
+  "tag.item.crabbersdelight.jei_display_results.minecraft.air": "Unbaited",
+  "tag.item.crabbersdelight.jei_display_results.minecraft.cod": "Cod Bait",
+  "tag.item.crabbersdelight.jei_display_results.minecraft.pufferfish": "Pufferfish Bait",
+  "tag.item.crabbersdelight.jei_display_results.minecraft.salmon": "Salmon Bait",
+  "tag.item.crabbersdelight.jei_display_results.minecraft.tropical_fish": "Tropical Fish Bait",
   "tag.item.crabbersdelight.raw_seafood": "Raw Seafood",
   "tag.item.crabbersdelight.raw_squid": "Raw Squid"
 }

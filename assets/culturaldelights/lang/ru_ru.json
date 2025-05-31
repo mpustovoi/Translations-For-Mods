@@ -1,8 +1,4 @@
 {
-  "itemGroup.culturaldelights": "Культурные Изыски",
-
-  "culturaldelights.group.main": "Культурные Изыски",
-
   "item.culturaldelights.cucumber_seeds": "Семена огурца",
   "item.culturaldelights.eggplant_seeds": "Семена баклажанов",
   "item.culturaldelights.corn_kernels": "Кукурузные зёрна",
@@ -23,6 +19,7 @@
   "item.culturaldelights.cut_eggplant": "Нарезанный баклажан",
   "item.culturaldelights.smoked_cut_eggplant": "Копчёный нарезанный баклажан",
   "item.culturaldelights.corn_cob": "Кукурузный початок",
+  "item.culturaldelights.ginger": "Имбирь",
   "item.culturaldelights.popcorn": "Попкорн",
   "item.culturaldelights.corn_dough": "Кукурузное тесто",
   "item.culturaldelights.tortilla": "Тортилья",
@@ -34,11 +31,11 @@
   "item.culturaldelights.cooked_calamari": "Приготовленные кальмары",
 
   "item.culturaldelights.elote": "Элот",
+  "item.culturaldelights.empanada": "Эмпанада",
   "item.culturaldelights.hearty_salad": "Сытный салат",
   "item.culturaldelights.beef_burrito": "Буррито с говядиной",
   "item.culturaldelights.mutton_sandwich": "Сэндвич с бараниной",
   "item.culturaldelights.eggplant_burger": "Баклажанбургер",
-  "item.culturaldelights.fried_eggplant_pasta": "Паста из жареных баклажанов",
   "item.culturaldelights.avocado_toast": "Тост с авокадо",
   "item.culturaldelights.creamed_corn": "Кукуруза со сливками",
   "item.culturaldelights.chicken_taco": "Куриное тако",
@@ -47,27 +44,28 @@
   "item.culturaldelights.fish_taco": "Рыбный тако",
 
   "item.culturaldelights.chicken_roll": "Большой ролл с курицей",
-  "item.culturaldelights.midori_roll": "Большой ролл Мидори",
+  "item.culturaldelights.midori_roll": "Большой ролл мидори",
   "item.culturaldelights.chicken_roll_slice": "Ролл с курицей",
-  "item.culturaldelights.midori_roll_slice": "Ролл Мидори",
+  "item.culturaldelights.midori_roll_slice": "Ролл мидори",
   "item.culturaldelights.pufferfish_roll": "Суши с рыбой фугу",
   "item.culturaldelights.tropical_roll": "Тропический суши",
   "item.culturaldelights.rice_ball": "Рисовый шарик",
   "item.culturaldelights.egg_roll": "Суши с яйцом",
   "item.culturaldelights.calamari_roll": "Суши с кальмаром",
 
-  "block.culturaldelights.corn": "Кукуруза",
-  "block.culturaldelights.corn_upper": "Кукуруза",
   "block.culturaldelights.cucumbers": "Огурцы",
   "block.culturaldelights.eggplants": "Баклажаны",
+  "block.culturaldelights.corn": "Кукуруза",
+  "block.culturaldelights.corn_upper": "Кукуруза",
+
   "block.culturaldelights.avocado_bundle": "Мешок авокадо",
   "block.culturaldelights.wild_cucumbers": "Дикие огурцы",
-  "block.culturaldelights.wild_corn": "Дикая кукуруза",
+  "block.culturaldelights.wild_corn": "Дикая кукуруза", 
   "block.culturaldelights.wild_eggplants": "Дикие баклажаны",
   "block.culturaldelights.avocado_log": "Бревно из авокадо",
   "block.culturaldelights.avocado_wood": "Доски из авокадо",
   "block.culturaldelights.avocado_leaves": "Листья авокадо",
-  "block.culturaldelights.avocado_leaf_carpet": "Ковёр из листьев авокадо",
+  "block.culturaldelights.fruiting_avocado_leaves": "Плодоносящие листья авокадо",
   "block.culturaldelights.avocado_sapling": "Саженец авокадо",
   "block.culturaldelights.avocado_pit": "Косточка авокадо",
   "block.culturaldelights.avocado_crate": "Ящик с авокадо",
@@ -76,14 +74,26 @@
   "block.culturaldelights.corn_cob_crate": "Ящик с кукурузными початками",
   "block.culturaldelights.eggplant_crate": "Ящик с баклажанами",
   "block.culturaldelights.white_eggplant_crate": "Ящик с белыми баклажанами",
-
-  "item.culturaldelights.ginger": "Имбирь",
-  "item.culturaldelights.empanada": "Эмпанада",
   "item.culturaldelights.poached_eggplants": "Баклажаны-пашот",
   "item.culturaldelights.eggplant_parmesan": "Тарелка баклажанов с пармезаном",
-
-  "block.culturaldelights.fruiting_avocado_leaves": "Плодоносящие листья авокадо",
   "block.culturaldelights.eggplant_parmesan_block": "Баклажаны с пармезаном",
 
-  "creativetab.culturaldelights.culturaldelights_tab": "Культурные Изыски"
+  "creativetab.culturaldelights.culturaldelights_tab": "Культурные Изыски",
+
+  "tag.item.culturaldelights.all_eggplants": "Баклажаны",
+  "tag.item.culturaldelights.avocado_logs": "Брёвна авокадо",
+  "tag.item.culturaldelights.avocados": "Авокадо",
+  "tag.item.culturaldelights.cooked_beefs": "Жареная говядина",
+  "tag.item.culturaldelights.cooked_chickens": "Жареная курица",
+  "tag.item.culturaldelights.cooked_muttons": "Жареная баранина",
+  "tag.item.culturaldelights.cooked_porks": "Жареная свинина",
+  "tag.item.culturaldelights.cucumbers": "Огурцы",
+  "tag.item.culturaldelights.raw_salmons": "Сырой лосось",
+  "tag.item.culturaldelights.regular_eggplants": "Обычные баклажаны",
+  "tag.item.culturaldelights.smoked_regular_eggplants": "Копчёные обычные баклажаны",
+
+  "block.culturaldelights.avocado_leaf_carpet": "Ковёр из листьев авокадо",
+  "culturaldelights.group.main": "Культурные Изыски",
+  "item.culturaldelights.fried_eggplant_pasta": "Паста с жареными баклажанами",
+  "itemGroup.culturaldelights": "Культурные Изыски"
 }

@@ -1,0 +1,455 @@
+option.iterationT_VERSION=iterationT от Tahnass
+value.iterationT_VERSION.AT=3.2.0
+value.iterationT_VERSION.BT=r3.2.0
+option.iterationT_VERSION_TYPE=Стадия разработки
+value.iterationT_VERSION_TYPE.AT=Версия
+value.iterationT_VERSION_TYPE.BT=241004
+option.iterationT_INFO=§f§nНаведите на кнопку
+option.iterationT_INFO.comment=Комментарии не на китайском не поддерживаются
+value.iterationT_INFO.AT=§f§nдля просмотра деталей
+value.iterationT_INFO.BT=§f§nдля просмотра деталей
+
+option.TITLE=Название
+
+profile.Low=Низкий
+profile.Medium=Средний
+profile.High=Высокий (рекомендуется)
+profile.Ultra=Ультра
+profile.Extreme=Экстремальный
+
+screen.LIGHTING=§e§lОсвещение
+
+screen.LIGHT_SOURCE=§aНастройки источников света
+option.sunPathRotation=Вращение пути солнца
+option.SUNLIGHT_INTENSITY=Интенсивность солнечного света
+option.SKYLIGHT_INTENSITY=Интенсивность небесного света
+option.NIGHT_BRIGHTNESS=Яркость ночи
+option.COLD_MOONLIGHT=Холодный лунный свет
+option.TORCHLIGHT_BRIGHTNESS=Яркость блочного освещения
+option.TORCHLIGHT_COLOR_TEMPERATURE=Цветовая температура блочного освещения
+suffix.TORCHLIGHT_COLOR_TEMPERATURE= К
+option.DIRECTIONAL_BLOCKLIGHT=Направленное блочное освещение
+option.DIRECTIONAL_BLOCKLIGHT_STRENGTH=Сила направленности
+option.NOLIGHT_BRIGHTNESS=Базовая яркость
+option.NETHER_BRIGHTNESS=Яркость освещения в Незере
+
+screen.HELDLIGHT=§eНастройка света в руке
+option.HELDLIGHT_MODE=§eРежим света в руке
+value.HELDLIGHT_MODE.0=Факел
+value.HELDLIGHT_MODE.1=Фонарик
+option.SPECULAR_HELDLIGHT=Блики
+option.HELDLIGHT_SHADOW=Включить тени
+option.HELDLIGHT_BRIGHTNESS=Яркость
+option.HELDLIGHT_FALLOFF=Затухание факела
+option.FLASHLIGHT_HELDLIGHT_FALLOFF=Затухание фонарика
+
+screen.FLASHLIGHT=Настройки режима фонарика
+option.FLASHLIGHT_FOV=Угол луча фонарика
+option.FLASHLIGHT_CAMERA_SMOOTH=Плавное движение фонарика
+option.FLASHLIGHT_CAMERA_SMOOTH_TIME=Время перехода
+option.FLASHLIGHT_COLOR_R=Цвет фонарика: красный
+option.FLASHLIGHT_COLOR_G=Цвет фонарика: зелёный
+option.FLASHLIGHT_COLOR_B=Цвет фонарика: синий
+option.FLASHLIGHT_POS_L_X=Горизонтальная позиция: лево
+option.FLASHLIGHT_POS_L_Y=Вертикальная позиция: лево
+option.FLASHLIGHT_POS_R_X=Горизонтальная позиция: право
+option.FLASHLIGHT_POS_R_Y=Вертикальная позиция: право
+
+screen.SHADOW=§6Настройки теней
+option.shadowMapResolution=Разрешение карты теней
+option.shadowDistance=Дальность теней
+value.shadowDistance.64.0=4 чанка
+value.shadowDistance.96.0=6 чанков
+value.shadowDistance.128.0=8 чанков
+value.shadowDistance.192.0=12 чанков
+value.shadowDistance.256.0=16 чанков
+value.shadowDistance.384.0=24 чанка
+value.shadowDistance.512.0=32 чанка
+value.shadowDistance.768.0=48 чанков
+value.shadowDistance.1024.0=64 чанка
+value.shadowDistance.1536.0=96 чанков
+value.shadowDistance.2048.0=128 чанков
+option.SHADOW_MAP_BIAS=Смещение карты теней
+option.SHADOW_BASIC_BLUR=Базовое размытие теней
+option.VARIABLE_PENUMBRA_SHADOWS=Переменная полутень
+option.VPS_QUALITY=Качество теней
+option.VPS_SPREAD=Радиус размытия
+option.COLORED_SHADOWS=Цветные тени
+option.CAUSTICS=Каустики воды
+option.SCREEN_SPACE_SHADOWS=Тени в экранном пространстве
+option.SUNLIGHT_LEAK_FIX=Исправление утечек солнечного света
+
+screen.GI=§cНастройки глоб. осв.
+option.GI_RSM=§cКарты отражённых теней
+option.GI_QUALITY=Качество
+option.GI_RENDER_RESOLUTION=Размер отрисовки
+value.GI_RENDER_RESOLUTION.0.25=25%
+value.GI_RENDER_RESOLUTION.0.5=50%
+option.GI_RADIUS=Радиус
+option.GI_BRIGHTNESS=Интенсивность
+option.GI_FALLOFF=Затухание
+option.GI_SKYLIGHT_FALLOFF=Затухание небесного света
+
+screen.AO=§4Настройки окр. оккл.
+option.GTAO=§4Общая тонал. окр. оккл.
+option.GTAO_QUALITY=Качество выборки
+option.GTAO_SLICE_QUALITY=Качество геометрической выборки
+option.GTAO_RADIUS_MODE=Основание радиуса
+value.GTAO_RADIUS_MODE.0=Расстояние до ландшафта
+value.GTAO_RADIUS_MODE.1=Отношение к экрану
+option.GTAO_WORLD_RADIUS=Радиус (основание: дальность)
+option.GTAO_MAX_RADIUS=Максимальный радиус (основание: дальность)
+option.GTAO_SCREEN_RADIUS=Радиус (основание: экран)
+option.GTAO_FALLOFF_START=Начало затухания
+option.GTAO_STRENGTH=Интенсивность
+option.GTAO_MULTIBOUNCE=Аппроксимация многократных отражений
+
+screen.SURFACE=§a§lТекстуры
+
+option.TEXTURE_RESOLUTION=Разрешение текстур блоков
+value.TEXTURE_RESOLUTION.0=Авто
+option.ENTITIES_TEXTURE_RESOLUTION=Разрешение текстур существ
+option.ANISOTROPIC_FILTERING_QUALITY=Анизотропная фильтрация
+value.ANISOTROPIC_FILTERING_QUALITY.0=Нет
+value.ANISOTROPIC_FILTERING_QUALITY.2=2×
+value.ANISOTROPIC_FILTERING_QUALITY.4=4×
+value.ANISOTROPIC_FILTERING_QUALITY.8=8×
+value.ANISOTROPIC_FILTERING_QUALITY.16=16×
+value.ANISOTROPIC_FILTERING_QUALITY.32=32×
+option.ANISOTROPIC_FILTERING_NORMAL_SPECULAR=Применять к нормалям и бликам
+
+screen.POM=§6Настройки параллакса
+option.PARALLAX_MODE=§6Режим
+value.PARALLAX_MODE.0=Нет
+value.PARALLAX_MODE.1=Резкий
+value.PARALLAX_MODE.2=Плавный
+option.ENTITIES_PARALLAX=Параллакс существ
+option.PARALLAX_DEPTH=Глубина параллакса
+option.PARALLAX_SHADOW=Собственные тени параллакса
+option.PARALLAX_QUALITY=Качество
+option.PARALLAX_SHADOW_QUALITY=Качество собственных теней
+option.PARALLAX_BASED_NORMAL=Нормали на основе параллакса
+value.PARALLAX_BASED_NORMAL.0=Нет
+value.PARALLAX_BASED_NORMAL.1=Только боковые
+value.PARALLAX_BASED_NORMAL.2=Все
+option.PARALLAX_FADE=Затухание параллакса
+
+screen.PBR=§eНастройки PBR-текстур
+option.ENABLE_PBR=§eВключить PBR
+option.TEXTURE_PBR_FORMAT=Формат PBR
+value.TEXTURE_PBR_FORMAT.0=labPBR
+value.TEXTURE_PBR_FORMAT.1=labPBR (без предустановок)
+value.TEXTURE_PBR_FORMAT.2=PTGI
+
+screen.REFLECTION=Настройки отражений
+option.SKY_IMAGE_RESOLUTION=Разрешение небосвода
+option.ROUGHNESS_CLAMP=Ограничение шероховатости
+option.TERRAIN_NORMAL_CLAMP=Ограничение нормалей местности
+option.HAND_NORMAL_CLAMP=Ограничение нормалей руки
+option.ENTITIES_NORMAL_CLAMP=Ограничение нормалей существ
+
+screen.SSS=Настройки подповерхностного рассеивания
+option.SSS_QUALITY=Качество
+option.SSS_STRENGTH=Множитель силы
+option.SSS_STRENGTH_OFFSET=Смещение силы
+option.SSS_BRIGHTNESS=Яркость
+option.SSS_NORMAL=Влияние нормалей
+
+screen.EMISSIVE=Настройки свечения
+option.TEXTURE_EMISSIVENESS_MODE=Режим светящихся текстур
+value.TEXTURE_EMISSIVENESS_MODE.0=Только запрогр.
+value.TEXTURE_EMISSIVENESS_MODE.1=Только PBR
+value.TEXTURE_EMISSIVENESS_MODE.2=PBR + запрогр.
+option.TEXTURE_BRIGHTNESS=Запрогр. яркость
+option.EMISSIVENESS_BRIGHTNESS=Яркость PBR-свечения
+option.EMISSIVENESS_GAMMA=Гамма
+
+screen.POROSITY=Настройки пористости
+option.TEXTURE_PBR_POROSITY=Пористость labPBR
+option.TEXTURE_DEFAULT_POROSITY=Стандартная пористость
+option.POROSITY_ABSORPTION=Поглощение альбедо при намокании
+option.SURFACE_WETNESS=Переопределение влажности поверхности
+
+screen.WATER_RAIN=§aНастройки воды и погоды
+option.WATER_PARALLAX=Параллакс воды
+option.WAVE_SCALE=Масштаб волн
+option.WAVE_HEIGHT=Высота волн
+option.RAIN_SHADOW=Тень от дождя
+option.RAIN_SPLASH_EFFECT=Эффект брызг дождя
+option.drynessHalflife=Период высыхания (полужизнь)
+option.wetnessHalflife=Период намокания (полужизнь)
+option.RAIN_VISIBILITY=Видимость капель дождя
+option.RAIN_WIND_X=Направление ветра дождя по X
+option.RAIN_WIND_Z=Направление ветра дождя по Z
+option.RAIN_DISTURBANCE=Интенсивность помех дождя
+option.DISABLE_LOCAL_PRECIPITATION=Отключить определение осадков
+
+screen.SKY_TEXTURE=§bНастройки текстур неба
+option.STAR_TYPE=Тип звёзд
+value.STAR_TYPE.0=Нет
+value.STAR_TYPE.1=Точки
+value.STAR_TYPE.2=Ванильные
+option.SKY_TEXTURE_BRIGHTNESS=Яркость текстур
+option.MOON_TEXTURE=Текстура луны
+option.BILINEAR_MOON_TEXTURE=Сглаживание текстуры луны
+option.SKYBOX_TEXTURE=Текстура небосвода
+option.BILINEAR_SKYBOX_TEXTURE=Сглаживание текстуры небосвода
+
+screen.END_SKY=§dНастройки неба Энда
+option.END_PLANET_CYCLE=Период вращения планеты
+suffix.END_PLANET_CYCLE=мин
+option.END_MANUAL_PLANET_CYCLE=Ручное управление фазой
+option.END_MANUAL_PLANET_ANGLE=Угол фазы
+suffix.END_MANUAL_PLANET_ANGLE=°
+option.ACCRETIONDISC_DETAIL_ALONG_LONGTITUDE=Пыльный аккреционный диск
+option.ACCRETIONDISC_DOPPLER_EFFECT=Эффект Доплера аккреционного диска
+
+screen.SURFMISC=Разное
+option.ENTITIES_STATUS_COLOR=Цвет статуса существ
+option.EYES_LIGHTING=Освещение глаз
+option.WAVING_PLANTS=Колыхание растений
+option.SHADOW_WAVING_PLANTS=Колыхание растений в тенях
+option.GENERAL_GRASS_FIX=Общее исправление травы
+option.LINE_IMAGE_OUTPUT=Отключить запись глубины рамки выбора
+option.SELECTION_BOX_COLOR_R=Цвет рамки выбора: красный
+option.SELECTION_BOX_COLOR_G=Цвет рамки выбора: зелёный
+option.SELECTION_BOX_COLOR_B=Цвет рамки выбора: синий
+option.HAND_FOV_MODE=Режим угла обзора руки
+value.HAND_FOV_MODE.0=По умолчанию
+value.HAND_FOV_MODE.1=Следовать настройкам игры
+value.HAND_FOV_MODE.2=Следовать настройкам шейдера
+option.HAND_FOV=Угол обзора руки
+option.ENTITIES_VS_TBN=Сглаживание нормалей вершин существ
+option.TERRAIN_VS_TBN=Сглаживание нормалей вершин блоков
+
+screen.VOL=§b§lОбъёмные эффекты
+
+option.VFOG_REFLECTION=Отображать в отражениях
+option.VFOG_REFRACTION=Отображать в преломлениях
+option.LANDSCATTERING_REFLECTION=Отображать в отражениях
+option.LANDSCATTERING_REFRACTION=Отображать в преломлениях
+option.INDOOR_FOG=Отключить затухание небесного света
+
+option.PLANAR_CLOUDS=§bПлоские облака
+screen.PC=Настройки
+option.PC_COVERAGE=Покрытие
+option.PC_NOISE_SCALE=Масштаб шума
+option.PC_ALTITUDE=Высота
+
+option.VOLUMETRIC_CLOUDS=§bОбъёмные облака
+option.VOLUMETRIC_CLOUDS.comment=§9████████§f████§9██████. §9█████§f█████████§9████. §9███§f██████§7█§f████§7█§9███. §9███§f██████§7█§f████§7██§9██. §9████§f█§7████§f███§7███§9███. §9███████§f██§7███§9██████.
+screen.VC=Настройки
+option.CLOUD_QUALITY=Качество выборки
+option.CLOUD_FADE=Затухание на расстоянии
+option.CLOUD_SPEED=Скорость облаков
+option.CLOUD_SHADOW=Тени от облаков
+
+option.CLOUD_DETAILED_NOISE_STRENGTH=Сила детального шума
+option.CLOUD_BASE_NOISE_SCALE=Масштаб базового шума
+option.CLOUD_DETAILED_NOISE_SCALE=Масштаб детального шума
+option.CLOUD_COVERAGE_NOISE_OFFSET=Смещение шума покрытия
+option.CLOUD_BOTTOM_BRIGHTNESS=Яркость нижней части
+option.CLOUD_OUTSCATTER_FACTOR=Фактор внешнего рассеивания
+
+screen.CLEAR_SETTING=Настройки ясной погоды
+option.CLOUD_CLEAR_ALTITUDE=Высота
+option.CLOUD_CLEAR_THICKNESS=Толщина
+option.CLOUD_CLEAR_COVERY=Покрытие
+option.CLOUD_CLEAR_DENSITY=Плотность
+option.CLOUD_CLEAR_SUNLIGHTING=Сила солнечного света
+option.CLOUD_CLEAR_SKYLIGHTING=Сила небесного света
+option.CLOUD_CLEAR_SCALE=Масштаб
+
+screen.RAIN_SETTING=Настройки дождя
+option.CLOUD_RAIN_ALTITUDE=Высота
+option.CLOUD_RAIN_THICKNESS=Толщина
+option.CLOUD_RAIN_COVERY=Покрытие
+option.CLOUD_RAIN_DENSITY=Плотность
+option.CLOUD_RAIN_SUNLIGHTING=Сила солнечного света
+option.CLOUD_RAIN_SKYLIGHTING=Сила небесного света
+option.CLOUD_RAIN_SCALE=Масштаб
+
+screen.CLOUD_SHADOW_SETTING=Настройки теней облаков
+option.CLOUD_SHADOW_FADE=Затухание теней
+option.CLOUD_SHADOW_RANGE=Дальность теней
+value.CLOUD_SHADOW_RANGE.2048.0=64 чанка
+value.CLOUD_SHADOW_RANGE.3072.0=96 чанков
+value.CLOUD_SHADOW_RANGE.4096.0=128 чанков
+value.CLOUD_SHADOW_RANGE.6144.0=192 чанка
+value.CLOUD_SHADOW_RANGE.8192.0=256 чанков
+value.CLOUD_SHADOW_RANGE.12288.0=384 чанка
+value.CLOUD_SHADOW_RANGE.16384.0=512 чанков
+option.CLOUD_SHADOWTEX_SIZE=Разрешение текстуры теней облаков
+
+option.VFOG=§eОбъёмный туман
+screen.VFOG=Настройки
+option.VFOG_NOISE_TYPE=Тип шума
+value.VFOG_NOISE_TYPE.0=Затухание по высоте
+value.VFOG_NOISE_TYPE.1=Скопление
+option.VFOG_QUALITY=Качество
+option.VFOG_DENSITY=Плотность
+option.VFOG_DENSITY_BASE=Базовая плотность
+option.VFOG_SUNLIGHT_DENSITY=Сила солнечного света
+option.VFOG_FOG_DENSITY=Сила небесного света
+option.VFOG_HEIGHT=Высота средней точки
+option.VFOG_HEIGHT_2=Высота средней точки
+option.VFOG_FALLOFF=Расстояние затухания
+option.VFOG_IGNORE_WORLDTIME=Игнорировать мировое время
+option.VFOG_STAINED=Окрашенная прозрачность
+option.VFOG_CLOUD_SHADOW=Затенение облаками
+option.VFOG_VOLUMETRIC_LIGHTING=Объёмное освещение
+option.VFOG_SUNLIGHT_ABSORPTION=Поглощение объёмного освещения
+option.UNDERWATER_VFOG=Подводный объёмный туман
+option.UNDERWATER_VFOG_DENSITY=Плотность подводного тумана
+
+option.LANDSCATTERING=§aРассеивание света ландшафтом
+screen.LANDSCATTERING=Настройки
+option.LANDSCATTERING_STRENGTH=Сила
+option.LANDSCATTERING_SHADOW=Тени включены
+option.LANDSCATTERING_SHADOW_QUALITY=Качество теней
+
+screen.VOL_MISC=Разное
+option.UNDERWATER_FOG=Подводный туман
+option.WATERFOG_DENSITY=Плотность
+option.NETHERFOG_DENSITY=Плотность тумана в Незере
+option.ATMO_HORIZON=Горизонт атмосферы
+option.ATMO_REFLECTION_HORIZON=Горизонт небосвода
+
+screen.POSTPROCESSING=§d§lПостобработка
+
+screen.TAA_SETTING=Временное сглаживание (TAA)
+option.TAA=TAA
+option.TAA_BLENDWEIGHT=Вес смешивания
+option.TAA_AGGRESSION=Агрессивность отсечения
+
+screen.FIDELITY_FX_SETTING=§4AMD FidelityFX
+option.FSR=§4FSR 1.0
+option.FSR_SHARPNESS=Резкость FSR
+option.FSR_DENOISE=Уменьшение резкости шума
+option.CAS_SHARPNESS=Резкость адаптивной яркости
+value.CAS_SHARPNESS.0=Нет
+option.CAS_DENOISE=Уменьшение резкости шума
+
+screen.DOF_SETTING=§dГлубина резкости
+option.DOF=§dГлубина резкости
+option.DOF_BLUR=Сила размытия
+option.DOF_QUALITY=Качество
+option.DOF_COCSPREAD_QUALITY=Качество распространения пятна рассеивания
+option.DOF_MAX_COC=Максимальный радиус размытия
+option.DOF_CATSEYE=Эффект кошачьего глаза
+option.DOF_CATSEYE_STRENGTH=Сила
+option.DOF_CATSEYE_MIDPOINT=Средняя точка
+option.CAMERA_FOCUS_MODE=Режим фокусировки
+value.CAMERA_FOCUS_MODE.0=Авто
+value.CAMERA_FOCUS_MODE.1=Ручной
+option.CAMERA_FOCAL_POINT=Ручная точка фокуса
+suffix.CAMERA_FOCAL_POINT= м
+option.CAMERA_APERTURE=Диафрагма
+option.DOF_DEPTH_SMMOOTH_HALFLIFE=Период сглаживания фокуса
+option.DOF_FOCUS_IGNORE_HAND_PARTICLE=Игнорировать руку и частицы
+
+screen.EXPOSURE_SETTING=§bЭкспозиция
+option.AE_MODE=§bРежим автоэкспозиции
+value.AE_MODE.0=По умолчанию
+value.AE_MODE.1=С центром по центру
+value.AE_MODE.2=Только центр
+value.AE_MODE.3=Среднее по экрану
+option.AE_CURVE=Кривая автоэкспозиции
+option.AE_OFFSET=Смещение автоэкспозиции
+suffix.AE_OFFSET= зн. эксп.
+option.LUMINANCE_WEIGHT_MODE=Режим взвешенной яркости
+value.LUMINANCE_WEIGHT_MODE.0=Нет
+value.LUMINANCE_WEIGHT_MODE.1=Предустановка 1
+value.LUMINANCE_WEIGHT_MODE.2=Предустановка 2
+value.LUMINANCE_WEIGHT_MODE.3=Приоритет теней
+value.LUMINANCE_WEIGHT_MODE.4=Приоритет света
+option.LUMINANCE_WEIGHT_STRENGTH=Сила взвешивания
+option.SMOOTH_EXPOSURE=Плавная автоэкспозиция
+option.EXPOSURE_TIME=Время перехода автоэкспозиции
+option.MANUAL_EXPOSURE=§bРучная экспозиция
+option.EV_VALUE=Точное значение экспозиции
+suffix.EV_VALUE= зн. эксп.
+
+screen.MOTION_BLUR_SETTING=§aРазмытие в движении
+option.MOTION_BLUR=§aРазмытие в движении
+option.MOTION_BLUR_DITHER=Дизеринг включен
+option.MOTION_BLUR_QUALITY=Качество
+option.MOTION_BLUR_SUTTER_ANGLE=Угол затвора
+suffix.MOTION_BLUR_SUTTER_ANGLE=°
+
+screen.VIGNETTE_SETTING=§eВиньетирование
+option.VIGNETTE=§eВиньетирование
+option.VIGNETTE_FALLOFF=Затухание
+option.VIGNETTE_ROUNDNESS=Закругление
+option.SNEAKING_VIGNETTE=Виньетирование при крадущемся движении
+
+screen.BLOOM_SETTING=§6Свечение (bloom)
+option.BLOOM=§6Свечение
+option.BLOOM_AMOUNT=Сила свечения
+option.NETHER_END_BLOOM_BOOST=Усиление свечения в Незере/Энде
+option.VFOG_BLOOM=Свечение объемного тумана
+option.LENS_GLARE=§6Блики объектива
+option.LENS_FLARE=§6Линзовые блики
+option.GLARE_BRIGHTNESS=Яркость бликов и солнечных лучей
+option.FLARE_BRIGHTNESS=Яркость линзовых бликов
+option.FLARE_GHOSTING=Эффект 'призраков'
+option.GLARE_FLARE_SHADOWBASED=На основе теней
+
+screen.COLOR=§cЦветокоррекция
+option.TONEMAP_OPERATOR=§cТональная коррекция
+value.TONEMAP_OPERATOR.None=Нет
+option.AGX_EV=Динамический диапазон AgX
+suffix.AGX_EV=зн. эксп.
+option.ABNEY_EFFECT_CORRECTION=Коррекция эффекта Эбни
+option.ADVANCED_COLOR=Расширенная цветокоррекция
+screen.ADVANCED_COLOR=Настройки
+option.SATURATION=Насыщенность
+option.GAMMA=Гамма
+option.LUMA_GAMMA=Гамма яркости
+option.WHITE_CLIP=Отсечение белого
+
+screen.POSTMISC=Разное
+option.SEREEN_RATIO=Соотношение сторон
+value.SEREEN_RATIO.0.0=Обычное
+value.SEREEN_RATIO.1.333333=4:3
+value.SEREEN_RATIO.1.435052=IMAX
+value.SEREEN_RATIO.1.5=35-мм плёнка
+value.SEREEN_RATIO.1.6=16:10
+value.SEREEN_RATIO.1.777778=16:9
+value.SEREEN_RATIO.2.0=18:9
+value.SEREEN_RATIO.2.333333=21:9
+value.SEREEN_RATIO.2.39=35-мм анаморфное
+option.PURKINJE_EFFECT=Эффект Пуркинье
+option.PURKINJE_EFFECT_THRESHOLD=Порог
+option.PURKINJE_EFFECT_STRENGTH=Сила
+
+screen.MOD_SUPPORT=§lПоддержка модов
+
+screen.DH_SETTING=Настройки §6Distant Horizons§r
+option.DH_SHADOW=Отображать в тенях
+option.DH_SHADOW_FIX=Исправление теней
+option.DH_TERRAIN_CULLING=Отсечение местности
+option.DH_SHADOW_CULLING=Отсечение теней
+option.DH_TEXTURE_NOISE=Добавлять шум текстур
+option.DH_TEXTURE_NOISE_STEPS=Масштаб
+option.DH_TEXTURE_NOISE_STRENGTH=Сила
+option.DH_LIMIT_VFOG_DIST=Ограничение дальности объёмного тумана
+
+screen.TACZ_SETTING=Настройки §bTaCZ§r
+option.DISABLE_HAND_TAA=Отключить TAA для рук
+option.DISABLE_HAND_GI=Отключить глоб. осв. для рук
+option.DISABLE_HAND_GI_VELOCITY=Отключить скорость рук в глоб. осв.
+option.DISABLE_HAND_SPECULAR=Отключить блики для рук
+
+screen.YSM_SETTING=Настройки §bYes Steve Model§r
+option.DISABLE_PLAYER_TAA_MOTION_BLUR=Отключить TAA и размытие для игрока
+option.DISABLE_PLAYER_GI=Отключить глоб. осв. для игрока
+option.DISABLE_PLAYER_GI_VELOCITY=Отключить скорость игрока в глоб. осв.
+option.DISABLE_PLAYER_SPECULAR=Отключить блики для игрока
+option.DISABLE_PLAYER_SCREEN_SPACE_SHADOWS=Отключить экранные тени для игрока
+
+screen.SHORTCUT=Горячие клавиши
+
+option.CAVE_MODE=Режим пещеры
+
+screen.DEBUG=§7Отладка

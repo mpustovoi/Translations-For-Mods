@@ -1,0 +1,17 @@
+{
+  "block.delightfulchefs.serving_table_block": "Сервировочный пост",
+  "block.delightfulchefs.vendor_table_block": "Торговый прилавок",
+  "block.delightfulchefs.prep_table_block": "Станция заготовки",
+  "block.delightfulchefs.pastry_table_block": "Кондитерский верстак",
+  "block.delightfulchefs.sous_table_block": "Станция су-шефа",
+  "block.delightfulchefs.head_table_block": "Стол шеф-повара",
+
+  "entity.minecraft.villager.customer": "Посетитель",
+  "entity.minecraft.villager.vendor": "Торговец",
+  "entity.minecraft.villager.prep_cook": "Повар-заготовщик",
+  "entity.minecraft.villager.pastry_chef": "Кондитер",
+  "entity.minecraft.villager.sous_chef": "Су-шеф",
+  "entity.minecraft.villager.head_chef": "Шеф-повар",
+
+  "itemGroup.delightfulchefs.group": "Восхитительные Повара"
+}

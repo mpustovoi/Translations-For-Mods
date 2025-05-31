@@ -1,0 +1,9 @@
+{
+  "fluid_type.createbionics.molten_andesite_alloy_fluid": "Molten Andesite Alloy",
+  "fluid_type.createbionics.molten_industrial_iron_fluid": "Molten Industrial Iron",
+  "fluid_type.createbionics.molten_brass_fluid": "Molten Brass",
+  "fluid_type.createbionics.molten_netherite_fluid": "Molten Netherite",
+  
+  "tag.item.createbionics.mold_items": "Mold Items",
+  "itemGroup.createbionics.create_robotics_tab": "Create: Robotics"
+}

@@ -2,7 +2,13 @@
   "tag.item.aether_redux.infused_veridium_items": "Infused Veridium Items",
   "tag.item.aether_redux.veridium_advancement_infusable": "Veridium Advancement Infusable",
   "tag.item.ars_nouveau.magic_food": "Magic Food",
+  "tag.item.bakery.container": "Containers",
+  "tag.item.bakery.knives": "Knives",
   "tag.item.botania.mana_using_items": "Mana Using Items",
+  "tag.item.dehydration.hydrating_drinks": "Hydrating Drinks",
+  "tag.item.dehydration.hydrating_food": "Hydrating Foods",
+  "tag.item.dehydration.hydrating_stew": "Hydrating Stews",
+  "tag.item.dehydration.stronger_hydrating_drinks": "Stronger Hydrating Drinks",
   "tag.item.diet.fruits": "Fruits",
   "tag.item.diet.grains": "Grains",
   "tag.item.diet.proteins": "Proteins",
@@ -19,6 +25,7 @@
   "tag.item.phantasm.gets_xp_speed_boost": "Gets XP Speed Boost",
   "tag.item.some_assembly_required.sandwich_bread": "Sandwich Bread",
   "tag.item.spirit.soul_steel_mainhand": "Soul Steel Mainhand",
+  "tag.item.sprout.peanuts": "Peanuts",
   "tag.item.sullysmod.tortoise_food": "Tortoise Food",
   "tag.item.tconstruct.seeds": "Seeds"
 }

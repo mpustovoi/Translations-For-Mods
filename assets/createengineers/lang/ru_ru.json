@@ -1,0 +1,13 @@
+{
+  "block.createengineers.railway_engineer_table_block": "Путевая инженерная станция",
+  "block.createengineers.hydraulic_engineer_table_block": "Стенд гидравлических систем",
+  "block.createengineers.mechanical_engineer_table_block": "Станция механической сборки",
+  "block.createengineers.worker_table_block": "Верстак заводского техника",
+
+  "entity.minecraft.villager.railway_engineer": "Инженер путей сообщения",
+  "entity.minecraft.villager.hydraulic_engineer": "Специалист по гидравлике",
+  "entity.minecraft.villager.mechanical_engineer": "Техник-механик",
+  "entity.minecraft.villager.worker": "Промышленный техник",
+
+  "itemGroup.createengineers.group": "Create: Инженеры"
+}

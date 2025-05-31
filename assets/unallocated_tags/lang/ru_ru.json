@@ -2,7 +2,13 @@
   "tag.item.aether_redux.infused_veridium_items": "Наполненные веридиумовые предметы",
   "tag.item.aether_redux.veridium_advancement_infusable": "Наполняемые веридиумовые достижения",
   "tag.item.ars_nouveau.magic_food": "Волшебная еда",
+  "tag.item.bakery.container": "Контейнеры",
+  "tag.item.bakery.knives": "Ножи",
   "tag.item.botania.mana_using_items": "Использующие ману предметы",
+  "tag.item.dehydration.hydrating_drinks": "Утоляющие жажду напитки",
+  "tag.item.dehydration.hydrating_food": "Утоляющая жажду еда",
+  "tag.item.dehydration.hydrating_stew": "Утоляющие жажду рагу",
+  "tag.item.dehydration.stronger_hydrating_drinks": "Хорошо утоляющие жажду напитки",
   "tag.item.diet.fruits": "Фрукты",
   "tag.item.diet.grains": "Зёрна",
   "tag.item.diet.proteins": "Белки",
@@ -19,6 +25,7 @@
   "tag.item.phantasm.gets_xp_speed_boost": "Получает бонус к скорости опыта",
   "tag.item.some_assembly_required.sandwich_bread": "Хлеб для сэнвичей",
   "tag.item.spirit.soul_steel_mainhand": "Душесталь основной руки",
+  "tag.item.sprout.peanuts": "Арахис",
   "tag.item.sullysmod.tortoise_food": "Еда сухопутной черепахи",
   "tag.item.tconstruct.seeds": "Семена"
 }
