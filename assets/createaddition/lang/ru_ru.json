@@ -324,12 +324,12 @@
   "death.attack.tesla_coil.player": "%1$s получил смертельный удар током, пока боролся с %2$s",
   "effect.createaddition.shocking.description": "Приводит к значительному снижению скорости передвижения",
 
-  "createaddition.subtitle.loud_zap": "Катушка Теслы разряжается",
-  "createaddition.subtitle.little_zap": "Катушка Теслы искрит",
+  "createaddition.subtitle.loud_zap": "Разряд катушки Теслы",
+  "createaddition.subtitle.little_zap": "Искрение катушки Теслы",
 
   "tag.item.createaddition.large_connector_usable_rods": "Используемые на высоковольтных соединителях стержни",
   "tag.item.createaddition.modular_accumulator_usable_wires": "Используемые многоблочными аккумуляторами провода",
-  "tag.item.createaddition.plant_foods": "Plant Foods",
+  "tag.item.createaddition.plant_foods": "Растительная пища",
   "tag.item.createaddition.plants": "Растения",
   "tag.item.createaddition.spools": "Катушки"
 }

@@ -1,6 +1,6 @@
 {
   "advancement.create_connected.brass_gearbox": "Серьёзная подготовка",
-  "advancement.create_connected.brass_gearbox.desc": "Разместите точную латунную коробку передач",
+  "advancement.create_connected.brass_gearbox.desc": "Разместите латунную коробку передач",
   "advancement.create_connected.control_chip": "Точная машинизация",
   "advancement.create_connected.control_chip.desc": "Соберите контролирующий чип",
   "advancement.create_connected.overpowered_brake_0": "Чересчур сильный",
@@ -17,7 +17,7 @@
   "advancement.create_connected.shear_pin.desc": "Сломайте срезной штифт",
   "block.create_connected.brake": "Тормоз",
   "block.create_connected.brake.tooltip.summary": "Компонент, создающий _колоссальную нагрузку_ при активации, перегружая сеть и останавливая её работу.",
-  "block.create_connected.brass_gearbox": "Точная латунная коробка передач",
+  "block.create_connected.brass_gearbox": "Латунная коробка передач",
   "block.create_connected.brass_gearbox.tooltip.summary": "Коробка передач с _независимо настраиваемыми_ направлениями каждого выхода.",
   "block.create_connected.centrifugal_clutch": "Центробежное сцепление",
   "block.create_connected.centrifugal_clutch.tooltip.summary": "Сцепление, _срабатывающее_, если скорость входящего вращения _ниже_ настраиваемого порога.",
@@ -232,12 +232,10 @@
   "item.create_connected.music_disc_elevator.desc": "Kevin MacLeod — Casa Bossa Nova",
   "item.create_connected.music_disc_interlude": "Пластинка",
   "item.create_connected.music_disc_interlude.desc": "Kevin MacLeod — Local Forecast — Elevator",
-  "item.create_connected.vertical_brass_gearbox": "Точная латунная вертикальная коробка передач",
+  "item.create_connected.vertical_brass_gearbox": "Латунная вертикальная коробка передач",
   "item.create_connected.vertical_brass_gearbox.tooltip.summary": "Коробка передач с _независимо настраиваемыми_ направлениями каждого выхода.",
   "item.create_connected.vertical_parallel_gearbox": "Вертикальная параллельная коробка передач",
   "item.create_connected.vertical_six_way_gearbox": "Вертикальная шестисторонняя коробка передач",
   "item.create_connected.vertical_six_way_gearbox.tooltip.summary": "Коробка передач с выходами на _всех 6 сторонах_. Верхний и нижний вращаются _в два раза медленнее_.",
   "itemGroup.create_connected.main": "Create: Соединённость"
-
-
 }

@@ -8,6 +8,7 @@
   "block.morevillagers.hunting_post": "Пост охотника",
   "block.morevillagers.mining_bench": "Пост шахтёра",
   "block.morevillagers.gilded_station": "Позолоченная станция",
+  "block.morevillagers.chiller": "Охладитель",
 
   "filled_map.bastion_remnant": "Карта исследователя развалин бастиона",
   "filled_map.fortress": "Карта исследователя крепости Незера",
@@ -29,6 +30,7 @@
   "entity.minecraft.villager.morevillagers.hunter": "Охотник",
   "entity.minecraft.villager.morevillagers.miner": "Шахтёр",
   "entity.minecraft.villager.morevillagers.ascended": "Вознесённый",
+  "entity.minecraft.villager.morevillagers.iceman": "Холодильщик",
 
   "entity.minecraft.villager.oceanographer": "Океанограф",
   "entity.minecraft.villager.netherian": "Незеролог",
@@ -39,6 +41,7 @@
   "entity.minecraft.villager.hunter": "Охотник",
   "entity.minecraft.villager.miner": "Шахтёр",
   "entity.minecraft.villager.ascended": "Вознесённый",
+  "entity.minecraft.villager.iceman": "Холодильщик",
 
   "advancements.all_professions_traded.title": "Постоянный клиент",
   "advancements.all_professions_traded.description": "Поторгуйтесь с крестьянином каждой профессии",

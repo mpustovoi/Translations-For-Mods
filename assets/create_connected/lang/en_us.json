@@ -1,6 +1,4 @@
 {
-  "advancement.create_connected.brass_gearbox.desc": "Place down a Brass Gearbox",
-  "block.create_connected.brass_gearbox": "Precision Brass Gearbox",
   "block.create_connected.copycat_vertical_step": "Vertical Copycat Step",
-  "item.create_connected.vertical_brass_gearbox": "Precision Brass Vertical Gearbox"
+  "item.create_connected.vertical_brass_gearbox": "Brass Vertical Gearbox"
 }

@@ -67,10 +67,10 @@
   "subtitles.entity.wither.spawn": "Иссушитель выпущен",
   "subtitles.item.firecharge.use": "Свист огненного шара",
   "tag.item.minecraft.bows": "Луки",
-  "tag.item.minecraft.d_dub": "Д Дуб",
+  "tag.item.minecraft.d_dub": "Опалённые и тёмно-дубовые брёвна",
   "tag.item.minecraft.eggs": "Яйца",
   "tag.item.minecraft.logss": "Брёвна",
-  "tag.item.minecraft.moseek": "Мосик",
+  "tag.item.minecraft.moseek": "Моховое покрытие",
   "tag.item.minecraft.redstones_ores": "Редстоуноносные руды",
   "tag.item.minecraft.secondary_enchantable.bane_of_arthropods": "Вторично зачаровывается «Бичом членистоногих»",
   "tag.item.minecraft.secondary_enchantable.binding_curse": "Вторично зачаровывается «Проклятием несъёмности»",
@@ -100,10 +100,11 @@
   "tag.item.minecraft.secondary_enchantable.thorns": "Вторично зачаровывается «Шипами»",
   "tag.item.minecraft.secondary_enchantable.vanishing_curse": "Вторично зачаровывается «Проклятием утраты»",
   "tag.item.minecraft.shulker_boxes": "Шалкеровые ящики",
+  "tag.item.minecraft.silver_ores": "Сереброносные руды",
   "tag.item.minecraft.slab": "Плиты",
   "tag.item.minecraft.stripped_logs": "Обтёсанные брёвна",
   "tag.item.minecraft.tools.bows": "Луки",
   "tag.item.minecraft.tools.crossbows": "Арбалеты",
   "tag.item.minecraft.weapons": "Оружие",
-  "tag.item.minecraft.woodkr": "Древесина"
+  "tag.item.minecraft.woodkr": "Опалённые брёвна"
 }

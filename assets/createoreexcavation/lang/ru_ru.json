@@ -1,6 +1,6 @@
 {
   "block.createoreexcavation.drilling_machine": "Буровая установка",
-  "block.createoreexcavation.extractor": "Насосная буровая установка",
+  "block.createoreexcavation.extractor": "Насосно-скважинная установка",
   "block.createoreexcavation.io_block": "Вход-выход многоблочной структуры",
   "block.createoreexcavation.kinetic_input": "Вход силы вращения",
   "block.createoreexcavation.multiblock": "Многоблочная структура",
@@ -87,7 +87,7 @@
   "jei.coe.recipe.veins": "Рудные жилы",
   "jm.coe.veinsOverlayToggle": "Create: Рудная Добыча — Отображение руд",
   "ore.coe.hardenedDiamond": "Твёрдая алмазная руда",
-  "tag.item.createoreexcavation.drills": "Все буры",
+  "tag.item.createoreexcavation.drills": "Буры",
   "tooltip.coe.atlas.exclude": "Рудных жил исключено",
   "tooltip.coe.atlas.hide_vein": "Скрыть жилу",
   "tooltip.coe.atlas.include": "Нажмите, чтобы исключить",

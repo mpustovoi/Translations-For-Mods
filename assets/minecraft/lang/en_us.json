@@ -133,10 +133,10 @@
   "potion.potency.8": "9",
   "potion.potency.9": "10",
   "tag.item.minecraft.bows": "Bows",
-  "tag.item.minecraft.d_dub": "D Dub",
+  "tag.item.minecraft.d_dub": "Scorched & Dark Oak Logs",
   "tag.item.minecraft.eggs": "Eggs",
   "tag.item.minecraft.logss": "Logs",
-  "tag.item.minecraft.moseek": "Moseek",
+  "tag.item.minecraft.moseek": "Mossy Cover",
   "tag.item.minecraft.redstones_ores": "Redstone Ores",
   "tag.item.minecraft.secondary_enchantable.bane_of_arthropods": "Bane Of Arthropods Secondary Enchantables",
   "tag.item.minecraft.secondary_enchantable.binding_curse": "Binding Curse Secondary Enchantables",
@@ -166,10 +166,11 @@
   "tag.item.minecraft.secondary_enchantable.thorns": "Thorns Secondary Enchantables",
   "tag.item.minecraft.secondary_enchantable.vanishing_curse": "Vanishing Curse Secondary Enchantables",
   "tag.item.minecraft.shulker_boxes": "Shulker Boxes",
+  "tag.item.minecraft.silver_ores": "Silver Ores",
   "tag.item.minecraft.slab": "Slabs",
   "tag.item.minecraft.stripped_logs": "Stripped Logs",
   "tag.item.minecraft.tools.bows": "Bows",
   "tag.item.minecraft.tools.crossbows": "Crossbows",
   "tag.item.minecraft.weapons": "Weapons",
-  "tag.item.minecraft.woodkr": "Woods"
+  "tag.item.minecraft.woodkr": "Scorched Logs"
 }

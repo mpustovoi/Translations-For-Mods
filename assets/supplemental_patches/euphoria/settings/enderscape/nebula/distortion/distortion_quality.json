@@ -1,0 +1,19 @@
+{
+  "type": "setting",
+  "name": "ES_NEBULA_DISTORTION_QUALITY",
+  "default": 1,
+  "values": [1, 2, 3],
+  "file": "enderscapeNebula.glsl",
+  "en_US": {
+    "option": "Distortion Quality",
+    "value.1": "Low",
+    "value.2": "Medium",
+    "value.3": "High"
+  },
+  "ru_RU": {
+    "option": "Качество искажения",
+    "value.1": "Низкое",
+    "value.2": "Среднее",
+    "value.3": "Высокое"
+  }
+}
