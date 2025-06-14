@@ -27,6 +27,9 @@
   "tag.item.create.postboxes": "Postboxes",
   "tag.item.create.pressurized_air_sources": "Pressurized Air Sources",
   "tag.item.create.pulpifiable": "Pulpifiable",
+  "tag.item.create.runtime_generated.compat.boh.black_walnut": "Black Walnut Logs",
+  "tag.item.create.runtime_generated.compat.boh.dogwood": "Dogwood Logs",
+  "tag.item.create.runtime_generated.compat.boh.sassafras": "Sassafras Logs",
   "tag.item.create.sandpaper": "Sandpaper",
   "tag.item.create.seats": "Seats",
   "tag.item.create.sleepers": "Sleepers",
@@ -48,5 +51,7 @@
   "tag.item.create.toolboxes": "Toolboxes",
   "tag.item.create.tracks": "Tracks",
   "tag.item.create.upright_on_belt": "Upright on Belt",
-  "tag.item.create.valve_handles": "Valve Handles"
+  "tag.item.create.valve_handles": "Valve Handles",
+  "tag.item.create.vanilla_stripped_logs": "Vanilla Stripped Logs",
+  "tag.item.create.vanilla_stripped_wood": "Vanilla Stripped Wood"
 }

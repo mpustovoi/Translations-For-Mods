@@ -1,10 +1,11 @@
 {
-  "item.tacz.ammo": "Empty Ammo",
-  "item.tacz.attachment": "Empty Attachment",
-  "item.tacz.modern_kinetic_gun": "Empty Modern Kinetic Gun",
   "block.tacz.workbench_a": "Advanced Gun Smith Table",
   "block.tacz.workbench_b": "Ammo Assembly Table",
   "block.tacz.workbench_c": "Attachment Assembly Table",
+  "entity.tacz.bullet": "Projectile",
+  "item.tacz.ammo": "Empty Ammo",
+  "item.tacz.attachment": "Empty Attachment",
+  "item.tacz.modern_kinetic_gun": "Empty Modern Kinetic Gun",
 
   "advancements.tacz.get_ammo_workbench.descr": "Create an Ammo Assembly Table",
   "advancements.tacz.get_ammo_workbench.title": "There is no 'Too Much Ammo'",
@@ -176,6 +177,8 @@
   "item.tacz.ammo_box.diamond": "Diamond Ammo Box",
   "item.tacz.ammo_box.gold": "Gold Ammo Box",
   "item.tacz.ammo_box.iron": "Iron Ammo Box",
+  "item.tacz.painting.blood_strike_1": "§eTaCZ & BloodStrike - Ethan",
+  "item.tacz.painting.blood_strike_2": "§eTaCZ & BloodStrike - Striker",
   "item.tacz.target_minecart": "Minecart with Target",
   "itemGroup.tab.tacz.ammo": "TaC | Ammo",
   "itemGroup.tab.tacz.other": "Timeless & Classics Guns: Zero",
@@ -211,6 +214,10 @@
   "message.tacz.fire_select.fail": "Unknown fire mode, unable to shoot",
   "message.tacz.pre": "§a§l[TaCZ]§r ",
   "message.tacz.target_minecart.hit": "Damage: %s Distance: %s",
+  "painting.tacz.blood_strike_1.author": "§eTaCZ & BloodStrike",
+  "painting.tacz.blood_strike_1.title": "Ethan",
+  "painting.tacz.blood_strike_2.author": "§eTaCZ & BloodStrike",
+  "painting.tacz.blood_strike_2.title": "Striker",
   "subtitle.tacz.gun": "Gun Sound",
   "subtitle.tacz.target_block_hit": "Target Block: Hit",
   "tacz.resources.modresources": "TaCZ Gunpacks Resources",
@@ -295,8 +302,6 @@
   "tooltip.tacz.page.previous": "Previous",
   "tooltip.tacz.refit.unload": "Unload",
 
-  "entity.tacz.bullet": "Projectile",
-
   "uNIVERSALDIVIDERLINE": "HERE GOES THE DEFAULT GUNPACK",
 
   "pack.tacz.tacz_default_gun.desc": "That this nation, under God, shall have a new birth of freedom, and that government of the people, by the people, for the people, shall not perish from the earth.",
@@ -357,6 +362,7 @@
   "tacz.attachment.muzzle_brake_cthulhu.name": "Cthulhu K7 Brake",
   "tacz.attachment.muzzle_brake_cyclone_d2.name": "Cyclone D2 Brake",
   "tacz.attachment.muzzle_brake_pioneer.name": "Pioneer A3 Brake",
+  "tacz.attachment.muzzle_brake_timeless50.name": "§6Timeless .50 Cal Brake",
   "tacz.attachment.muzzle_brake_trex.name": "T-Rex Heavy Brake",
   "tacz.attachment.muzzle_compensator_trident.name": "Tempest Trident Compensator",
   "tacz.attachment.muzzle_silencer_knight_qd.name": "Knight QD Silencer",

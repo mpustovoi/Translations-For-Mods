@@ -1,10 +1,11 @@
 {
-  "item.tacz.ammo": "Пустой боеприпас",
-  "item.tacz.attachment": "Пустой обвес",
-  "item.tacz.modern_kinetic_gun": "Пустое современное кинетическое оружие",
   "block.tacz.workbench_a": "Продвинутый оружейный верстак",
   "block.tacz.workbench_b": "Верстак для сборки боеприпасов",
   "block.tacz.workbench_c": "Верстак для сборки обвесов",
+  "entity.tacz.bullet": "Боеприпас",
+  "item.tacz.ammo": "Пустой боеприпас",
+  "item.tacz.attachment": "Пустой обвес",
+  "item.tacz.modern_kinetic_gun": "Пустое современное кинетическое оружие",
 
   "advancements.tacz.get_ammo_workbench.descr": "Создайте верстак для сборки боеприпасов",
   "advancements.tacz.get_ammo_workbench.title": "Боеприпасов много не бывает",
@@ -176,6 +177,8 @@
   "item.tacz.ammo_box.diamond": "Алмазный ящик для боеприпасов",
   "item.tacz.ammo_box.gold": "Золотой ящик для боеприпасов",
   "item.tacz.ammo_box.iron": "Железный ящик для боеприпасов",
+  "item.tacz.painting.blood_strike_1": "§eВиКЗ и Кровобой — Итан",
+  "item.tacz.painting.blood_strike_2": "§eВиКЗ и Кровобой — Ударник",
   "item.tacz.target_minecart": "Вагонетка с мишенью",
   "itemGroup.tab.tacz.ammo": "ВиК | Боеприпасы",
   "itemGroup.tab.tacz.other": "Вечное и Классическое Оружие: Зеро",
@@ -211,6 +214,10 @@
   "message.tacz.fire_select.fail": "Неизвестный режим огня, невозможно стрелять",
   "message.tacz.pre": "§a§l[ВиКЗ]§r ",
   "message.tacz.target_minecart.hit": "Урон: %s / Дистанция: %s",
+  "painting.tacz.blood_strike_1.author": "§eВиКЗ & Кровобой",
+  "painting.tacz.blood_strike_1.title": "Итан",
+  "painting.tacz.blood_strike_2.author": "§eВиКЗ & Кровобой",
+  "painting.tacz.blood_strike_2.title": "Ударник",
   "subtitle.tacz.gun": "Звук оружия",
   "subtitle.tacz.target_block_hit": "Попадание по цели",
   "tacz.resources.modresources": "Ресурсы оружейных наборов ВиКЗ",
@@ -295,8 +302,6 @@
   "tooltip.tacz.page.previous": "Назад",
   "tooltip.tacz.refit.unload": "Снять",
 
-  "entity.tacz.bullet": "Боеприпас",
-
   "uNIVERSALDIVIDERLINE": "ДАЛЬШЕ ИДЁТ НАБОР ОРУЖИЯ ПО УМОЛЧАНИЮ",
 
   "pack.tacz.tacz_default_gun.desc": "Богом хранимая нация обретёт возрождённую свободу и что власть народа, волей народа и для народа не исчезнет с лица земли.",
@@ -357,6 +362,7 @@
   "tacz.attachment.muzzle_brake_cthulhu.name": "Пламегаситель «Ктулху» K7",
   "tacz.attachment.muzzle_brake_cyclone_d2.name": "Пламегаситель «Циклон» D2",
   "tacz.attachment.muzzle_brake_pioneer.name": "Пламегаситель «Пионер» A3",
+  "tacz.attachment.muzzle_brake_timeless50.name": "§6Пламегаситель .50 калибра «Безвременный»",
   "tacz.attachment.muzzle_brake_trex.name": "Тяжёлый пламегаситель «Ти-Рекс»",
   "tacz.attachment.muzzle_compensator_trident.name": "Компенсатор «Трезубец Бури»",
   "tacz.attachment.muzzle_silencer_knight_qd.name": "Глушитель «Рыцарь» QD",

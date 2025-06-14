@@ -3384,6 +3384,9 @@
   "tag.item.create.postboxes": "Почтовые ящики",
   "tag.item.create.pressurized_air_sources": "Источники сжатого воздуха",
   "tag.item.create.pulpifiable": "Измельчаемое",
+  "tag.item.create.runtime_generated.compat.boh.black_walnut": "Брёвна чёрного ореха",
+  "tag.item.create.runtime_generated.compat.boh.dogwood": "Кизиловые брёвна",
+  "tag.item.create.runtime_generated.compat.boh.sassafras": "Сассафрасовые брёвна",
   "tag.item.create.sandpaper": "Наждачная бумага",
   "tag.item.create.seats": "Сиденья",
   "tag.item.create.sleepers": "Спальники",
@@ -3405,5 +3408,7 @@
   "tag.item.create.toolboxes": "Ящики для инструментов",
   "tag.item.create.tracks": "Железнодорожные пути",
   "tag.item.create.upright_on_belt": "Вертикально на поясе",
-  "tag.item.create.valve_handles": "Ручки вентилей"
+  "tag.item.create.valve_handles": "Ручки вентилей",
+  "tag.item.create.vanilla_stripped_logs": "Ванильные обтёсанные брёвна",
+  "tag.item.create.vanilla_stripped_wood": "Ванильная обтёсанная древесина"
 }

@@ -406,7 +406,7 @@
   "gui.xaero_delete_world": "Удалить мир/сервер",
   "gui.xaero_delete": "Удалить",
   "gui.xaero_different_centered": "Некоторые элементы имеют другой вид центровки.",
-  "gui.xaero_disable_enable": "Выключить/включить",
+  "gui.xaero_disable_enable": "Выключить/Включить",
   "gui.xaero_disabled": "Выключена",
   "gui.xaero_disconnect_from_auto_msg": "Вы уверены, что хотите удалить следующую связь подмиров?",
   "gui.xaero_disconnect_from_auto": "Убрать связь подмиров",
