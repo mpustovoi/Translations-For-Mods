@@ -11,7 +11,7 @@
       "offsetX": 0,
       "offsetY": 0,
       "modelMainPartFieldAliases": [
-        "com.faboslav.friendsandfoes.client.render.entity.model.TuffGolemEntityModel;body"
+        "com.faboslav.friendsandfoes.common.client.render.entity.model.TuffGolemEntityModel;body"
       ],
       "renderingFullModel": false,
       "modelPartsRotationReset": true,

@@ -1,6 +1,6 @@
 {
-  "variants" : {
-    "default" : "outlined_sprite:alexsmobs/fly.png",
-  	"layersAllowed":true
+  "variants": {
+    "default": "outlined_sprite:alexsmobs/fly.png",
+    "layersAllowed": true
   }
 }

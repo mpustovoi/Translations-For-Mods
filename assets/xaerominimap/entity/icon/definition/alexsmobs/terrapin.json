@@ -6,8 +6,7 @@
     "alexsmobs:textures/entity/terrapin/terrapin_koopa.png": "outlined_sprite:alexsmobs/terrapin/terrapin_koopa.png",
     "alexsmobs:textures/entity/terrapin/terrapin_painted.png": "outlined_sprite:alexsmobs/terrapin/terrapin_painted.png",
     "alexsmobs:textures/entity/terrapin/terrapin_red_eared.png": "outlined_sprite:alexsmobs/terrapin/terrapin_red_eared.png",
-
-    "default": "outlined_sprite:alexsmobs/terrapin/terrapin_green.png",
+    "alexsmobs:textures/entity/terrapin/overlay/terrapin_with_overlays.png": "outlined_sprite:alexsmobs/terrapin/terrapin_with_overlays.png",
     "layersAllowed": true
   }
 }

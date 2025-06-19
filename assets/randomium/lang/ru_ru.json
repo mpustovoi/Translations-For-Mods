@@ -8,6 +8,7 @@
   "block.randomium.randomium_ore_deepslate": "Рандомиеносный глубинный сланец",
   "entity.randomium.moving_block": "Рандомиевая руда",
   "item.randomium.any_item": "[Любой предмет]",
+  "randomium.jei.duplicate": "Дубликаты",
   "randomium.jei.duplicates": "Дубликаты",
   "itemGroup.randomium": "Рандомий",
   "tag.item.randomium.blacklist": "Чёрный список рандомия",

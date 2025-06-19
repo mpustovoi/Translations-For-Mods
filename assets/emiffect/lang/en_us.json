@@ -1,4 +1,6 @@
 {
+  "info.emiffect.desc_not_found": "§kDescription Missing§r",
+
   "effect.aether_redux.blightward.description": "Grants immunity to the dangerous plants Blighted Fungi and Blightshade.",
   "effect.aether.inebriation.description": "Inflicts damage over time and causes random wobbling while moving.",
   "effect.aether.remedy.description": "Cures and grants target immunity to inebriation.",
@@ -22,7 +24,7 @@
   "effect.netheroverhaul.paralyzie.description": "Disables movement.",
   "effect.nethers_exoticism.wither_cure.description": "Removes and grants immunity to the Wither effect.",
   "effect.quark.danger_sight.description": "Highlights areas where hostile mobs can spawn.",
-  "effect.quark.resilience.description": "Provides 50% knockback resistance.",
+  "effect.quark.resilience.description": "Provides 50%% knockback resistance.",
   "effect.savage_and_ravage.weigth.description": "Makes the target really heavy.",
   "effect.spore.corrosion.description": "Decreases the effectiveness of armor.",
   "effect.spore.marker.description": "Increases infected mobs' search range and causes them to target non-infected mobs with the Marker effect.",

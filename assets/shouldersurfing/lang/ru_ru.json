@@ -3,7 +3,7 @@
   "shouldersurfing.configuration.section.shouldersurfing.client.toml": "Клиентская конфигурация",
   "shouldersurfing.configuration.section.shouldersurfing.client.toml.title": "Клиентская конфигурация",
 
-  "shouldersurfing.configuration.camera.button": "Настроить",
+  "shouldersurfing.configuration.camera.button": "Изменить",
   "shouldersurfing.configuration.camera": "Камера",
   "shouldersurfing.configuration.camera.tooltip": "Настройки камеры.",
 
@@ -26,7 +26,7 @@
   "shouldersurfing.configuration.camera.fov_override": "Переопредление поля зрения",
   "shouldersurfing.configuration.camera.fov_override.tooltip": "Угол обзора камеры при виде от плеча. Зависит от параметра конфигурации 'Включено переопределение поля зрения'",
 
-  "shouldersurfing.configuration.camera_drag.button": "Настроить",
+  "shouldersurfing.configuration.camera_drag.button": "Изменить",
   "shouldersurfing.configuration.camera_drag": "Инерция камеры",
   "shouldersurfing.configuration.camera_drag.tooltip": "Настройки инерции камеры.",
 
@@ -37,7 +37,7 @@
   "shouldersurfing.configuration.camera.camera_drag.multiplier_axis_z": "Множитель оси Z для инерции",
   "shouldersurfing.configuration.camera.camera_drag.multiplier_axis_z.tooltip": "Коэффициент влияния движения по оси Z. Установите 0 для отключения.",
 
-  "shouldersurfing.configuration.camera_sway.button": "Настроить",
+  "shouldersurfing.configuration.camera_sway.button": "Изменить",
   "shouldersurfing.configuration.camera_sway": "Покачивание камеры",
   "shouldersurfing.configuration.camera_sway.tooltip": "Настройки покачивания камеры.",
 
@@ -50,7 +50,7 @@
   "shouldersurfing.configuration.camera.camera_sway.max_velocity_axis_z": "Максимальная скорость по Z",
   "shouldersurfing.configuration.camera.camera_sway.max_velocity_axis_z.tooltip": "Скорость игрока (в блоках/сек), при которой достигается максимальное покачивание по оси Z.",
 
-  "shouldersurfing.configuration.offset.button": "Настроить",
+  "shouldersurfing.configuration.offset.button": "Изменить",
   "shouldersurfing.configuration.offset": "Смещение",
   "shouldersurfing.configuration.offset.tooltip": "Настройки смещения камеры.",
 
@@ -61,7 +61,20 @@
   "shouldersurfing.configuration.camera.offset.offset_z": "Смещение по Z",
   "shouldersurfing.configuration.camera.offset.offset_z.tooltip": "Смещение по Z камеры от третьего лица",
 
-  "shouldersurfing.configuration.min.button": "Настроить",
+  "shouldersurfing.configuration.presets.button": "Изменить",
+  "shouldersurfing.configuration.presets": "Предустановки смещения",
+  "shouldersurfing.configuration.presets.tooltip": "Предустановленные значения смещения камеры.",
+  "shouldersurfing.configuration.offset.presets.offset_x_presets": "Предустановки по X",
+  "shouldersurfing.configuration.offset.presets.offset_x_presets.button": "Изменить...",
+  "shouldersurfing.configuration.offset.presets.offset_x_presets.tooltip": "Список предустановок смещения по оси X, переключаемых клавишей 'Переключить предустановки X'. §cВНИМАНИЕ: дубликаты могут вызвать неопределённое поведение!§r",
+  "shouldersurfing.configuration.offset.presets.offset_y_presets": "Предустановки по Y",
+  "shouldersurfing.configuration.offset.presets.offset_y_presets.button": "Изменить...",
+  "shouldersurfing.configuration.offset.presets.offset_y_presets.tooltip": "Список предустановок смещения по оси Y, переключаемых клавишей 'Переключить предустановки Y'. §cВНИМАНИЕ: дубликаты могут вызвать неопределённое поведение!§r",
+  "shouldersurfing.configuration.offset.presets.offset_z_presets": "Предустановки по Z",
+  "shouldersurfing.configuration.offset.presets.offset_z_presets.button": "Изменить...",
+  "shouldersurfing.configuration.offset.presets.offset_z_presets.tooltip": "Список предустановок смещения по оси Z, переключаемых клавишей 'Переключить предустановки Z'. §cВНИМАНИЕ: дубликаты могут вызвать неопределённое поведение!§r",
+
+  "shouldersurfing.configuration.min.button": "Изменить",
   "shouldersurfing.configuration.min": "Минимум",
   "shouldersurfing.configuration.min.tooltip": "Минимальные смещения.",
   "shouldersurfing.configuration.offset.min.min_offset_x": "Минимальное смещение по X",
@@ -71,7 +84,7 @@
   "shouldersurfing.configuration.offset.min.min_offset_z": "Минимальное смещение по Z",
   "shouldersurfing.configuration.offset.min.min_offset_z.tooltip": "Когда смещение по Z ограничено, это минимальная величина.",
 
-  "shouldersurfing.configuration.max.button": "Настроить",
+  "shouldersurfing.configuration.max.button": "Изменить",
   "shouldersurfing.configuration.max": "Максимум",
   "shouldersurfing.configuration.max.tooltip": "Максимальные смещения.",
   "shouldersurfing.configuration.offset.max.max_offset_x": "Максимальное смещение по X",
@@ -81,7 +94,7 @@
   "shouldersurfing.configuration.offset.max.max_offset_z": "Максимальное смещение по Z",
   "shouldersurfing.configuration.offset.max.max_offset_z.tooltip": "Когда смещение по Z ограничено, это максимальная величина.",
 
-  "shouldersurfing.configuration.limits.button": "Настроить",
+  "shouldersurfing.configuration.limits.button": "Изменить",
   "shouldersurfing.configuration.limits": "Лимит",
   "shouldersurfing.configuration.limits.tooltip": "Пределы смещения.",
   "shouldersurfing.configuration.offset.limits.unlimited_offset_x": "Неограниченное смещение по X",
@@ -91,11 +104,11 @@
   "shouldersurfing.configuration.offset.limits.unlimited_offset_z": "Неограниченное смещение по Z",
   "shouldersurfing.configuration.offset.limits.unlimited_offset_z.tooltip": "Имеет ли смещение по Z какие-либо ограничения.",
 
-  "shouldersurfing.configuration.multiplier.button": "Настроить",
+  "shouldersurfing.configuration.multiplier.button": "Изменить",
   "shouldersurfing.configuration.multiplier": "Множители",
   "shouldersurfing.configuration.multiplier.tooltip": "Множители смещения.",
 
-  "shouldersurfing.configuration.passenger.button": "Настроить",
+  "shouldersurfing.configuration.passenger.button": "Изменить",
   "shouldersurfing.configuration.passenger": "Пассажир",
   "shouldersurfing.configuration.passenger.tooltip": "Смещения пассажира.",
 
@@ -106,7 +119,7 @@
   "shouldersurfing.configuration.offset.multiplier.passenger.multiplier_offset_z": "Множитель смещения по Z для пассажира",
   "shouldersurfing.configuration.offset.multiplier.passenger.multiplier_offset_z.tooltip": "Множитель смещения по Z когда игрок пассажир.",
 
-  "shouldersurfing.configuration.sprint.button": "Настроить",
+  "shouldersurfing.configuration.sprint.button": "Изменить",
   "shouldersurfing.configuration.sprint": "Бег",
   "shouldersurfing.configuration.sprint.tooltip": "Смещения бега.",
 
@@ -117,7 +130,7 @@
   "shouldersurfing.configuration.offset.multiplier.sprint.multiplier_offset_z": "Множитель смещения по Z при беге",
   "shouldersurfing.configuration.offset.multiplier.sprint.multiplier_offset_z.tooltip": "Множитель смещения по Z когда игрок бежит.",
 
-  "shouldersurfing.configuration.aiming.button": "Настроить",
+  "shouldersurfing.configuration.aiming.button": "Изменить",
   "shouldersurfing.configuration.aiming": "Прицеливание",
   "shouldersurfing.configuration.aiming.tooltip": "Смещения прицеливания.",
 
@@ -128,7 +141,7 @@
   "shouldersurfing.configuration.offset.multiplier.aiming.multiplier_offset_z": "Множитель смещения по Z при прицеливании",
   "shouldersurfing.configuration.offset.multiplier.aiming.multiplier_offset_z.tooltip": "Множитель смещения по Z когда игрок прицеливается.",
 
-  "shouldersurfing.configuration.fall_flying.button": "Настроить",
+  "shouldersurfing.configuration.fall_flying.button": "Изменить",
   "shouldersurfing.configuration.fall_flying": "Полёт в падении",
   "shouldersurfing.configuration.fall_flying.tooltip": "Смещения полёта в падении.",
 
@@ -139,7 +152,7 @@
   "shouldersurfing.configuration.offset.multiplier.fall_flying.multiplier_offset_z": "Множитель смещения по Z на элитрах",
   "shouldersurfing.configuration.offset.multiplier.fall_flying.multiplier_offset_z.tooltip": "Множитель смещения по Z при использовании элитр.",
 
-  "shouldersurfing.configuration.climbing.button": "Настроить",
+  "shouldersurfing.configuration.climbing.button": "Изменить",
   "shouldersurfing.configuration.climbing": "Взбирание",
   "shouldersurfing.configuration.climbing.tooltip": "Смещения взбирания.",
 
@@ -150,7 +163,7 @@
   "shouldersurfing.configuration.offset.multiplier.climbing.multiplier_offset_z": "Множитель смещения по Z при взбирании",
   "shouldersurfing.configuration.offset.multiplier.climbing.multiplier_offset_z.tooltip": "Множитель смещения по Z когда игрок взбирается.",
 
-  "shouldersurfing.configuration.modifiers.button": "Настроить",
+  "shouldersurfing.configuration.modifiers.button": "Изменить",
   "shouldersurfing.configuration.modifiers": "Модификаторы",
   "shouldersurfing.configuration.modifiers.tooltip": "Модификаторы смещения.",
 
@@ -189,7 +202,7 @@
   "shouldersurfing.configuration.offset.modifier.climbing.modifier_offset_z": "Модификатор смещения по Z при взбирании",
   "shouldersurfing.configuration.offset.modifier.climbing.modifier_offset_z.tooltip": "Модификатор смещения по Z когда игрок взбирается.",
 
-  "shouldersurfing.configuration.perspective.button": "Настроить",
+  "shouldersurfing.configuration.perspective.button": "Изменить",
   "shouldersurfing.configuration.perspective": "Перспектива",
   "shouldersurfing.configuration.perspective.tooltip": "Настройки перспективы.",
 
@@ -206,7 +219,7 @@
   "shouldersurfing.configuration.perspective.third_person_back_enabled": "Включен ли вид от третьего лица сзади",
   "shouldersurfing.configuration.perspective.third_person_back_enabled.tooltip": "Включен ли вид от третьего лица сзади.",
 
-  "shouldersurfing.configuration.player.button": "Настроить",
+  "shouldersurfing.configuration.player.button": "Изменить",
   "shouldersurfing.configuration.player": "Игрок",
   "shouldersurfing.configuration.player.tooltip": "Настройки игрока.",
 
@@ -221,7 +234,7 @@
   "shouldersurfing.configuration.player.player_y_rot_follow_angle_limit": "Ограничение угла поворота игрока по оси y",
   "shouldersurfing.configuration.player.player_y_rot_follow_angle_limit.tooltip": "Максимальный угол, на который поворот игрока по Y следует за поворотом камеры по Y. Этот параметр настройки применяется только в том случае, если включена опция 'Поворот игрока по Y следует за камерой'.",
 
-  "shouldersurfing.configuration.turning.button": "Настроить",
+  "shouldersurfing.configuration.turning.button": "Изменить",
   "shouldersurfing.configuration.turning": "Поворот",
   "shouldersurfing.configuration.turning.tooltip": "Настройки поворота.",
 
@@ -236,7 +249,7 @@
   "shouldersurfing.configuration.player.turning.turning_lock_time": "Время блокировки поворота (такты)",
   "shouldersurfing.configuration.player.turning.turning_lock_time.tooltip": "Время в секундах, в течение которого игрок будет оставаться повёрнутым после завершения взаимодействия. Установите значение 0 для отключения. Этот параметр настройки применяется только при несвязанной камере.",
 
-  "shouldersurfing.configuration.object_picker.button": "Настроить",
+  "shouldersurfing.configuration.object_picker.button": "Изменить",
   "shouldersurfing.configuration.object_picker": "Выборщик объектов",
   "shouldersurfing.configuration.object_picker.tooltip": "Настройки выборщика объектов.",
 
@@ -245,7 +258,7 @@
   "shouldersurfing.configuration.object_picker.use_custom_raytrace_distance": "Использовать пользовательское расстояние трассировки лучей",
   "shouldersurfing.configuration.object_picker.use_custom_raytrace_distance.tooltip": "Следует ли использовать пользовательское расстояние трассировки лучей, используемое для динамического перекрестия, или нет.",
 
-  "shouldersurfing.configuration.pick_origin.button": "Настроить",
+  "shouldersurfing.configuration.pick_origin.button": "Изменить",
   "shouldersurfing.configuration.pick_origin": "Источник выбора",
   "shouldersurfing.configuration.pick_origin.tooltip": "Настройки источника выбора.",
 
@@ -254,45 +267,45 @@
   "shouldersurfing.configuration.object_picker.pick_origin.block_pick_origin": "Источник выбора блока (статичное перекрестие)",
   "shouldersurfing.configuration.object_picker.pick_origin.block_pick_origin.tooltip": "Источник, с которого начинается выбор блока при использовании статического перекрестия.",
 
-  "shouldersurfing.configuration.pick_vector.button": "Настроить",
+  "shouldersurfing.configuration.pick_vector.button": "Изменить",
   "shouldersurfing.configuration.pick_vector": "Вектор выбора",
   "shouldersurfing.configuration.pick_vector.tooltip": "Настройки вектора выбора.",
 
   "shouldersurfing.configuration.object_picker.pick_vector.pick_vector": "Вектор выбора (динамическое перекрестие)",
   "shouldersurfing.configuration.object_picker.pick_vector.pick_vector.tooltip": "Вектор направления луча при выборе объектов. Этот параметр настройки применяется только при использовании динамического перекрестия.",
 
-  "shouldersurfing.configuration.crosshair.button": "Настроить",
+  "shouldersurfing.configuration.crosshair.button": "Изменить",
   "shouldersurfing.configuration.crosshair": "Перекрестие",
   "shouldersurfing.configuration.crosshair.tooltip": "Настройки перекрестия.",
 
   "shouldersurfing.configuration.crosshair.crosshair_type": "Тип перекрестия",
   "shouldersurfing.configuration.crosshair.crosshair_type.tooltip": "Тип перекрестия для использования при вида от плеча.",
 
-  "shouldersurfing.configuration.crosshair.adaptive_crosshair_hold_items.button": "Настроить",
+  "shouldersurfing.configuration.crosshair.adaptive_crosshair_hold_items.button": "Изменить",
   "shouldersurfing.configuration.crosshair.adaptive_crosshair_hold_items": "Предметы адаптивного перекрестия (удержание)",
   "shouldersurfing.configuration.crosshair.adaptive_crosshair_hold_items.tooltip": "Предметы, которые при удержании активируют динамическое перекрестие в адаптивном режиме. Этот параметр конфигурации поддерживает регулярные выражения. Пример: 'minecraft:.*sword' соответствует 'minecraft:wooden_sword' и 'minecraft:netherite_sword'.",
 
-  "shouldersurfing.configuration.crosshair.adaptive_crosshair_use_items.button": "Настроить",
+  "shouldersurfing.configuration.crosshair.adaptive_crosshair_use_items.button": "Изменить",
   "shouldersurfing.configuration.crosshair.adaptive_crosshair_use_items": "Предметы адаптивного перекрестия (использование)",
   "shouldersurfing.configuration.crosshair.adaptive_crosshair_use_items.tooltip": "Предметы, которые при использовании активируют динамическое перекрестие в адаптивном режиме. Этот параметр конфигурации поддерживает регулярные выражения. Пример: 'minecraft:.*sword' соответствует 'minecraft:wooden_sword' и 'minecraft:netherite_sword'.",
 
-  "shouldersurfing.configuration.crosshair.adaptive_crosshair_hold_item_animations.button": "Настроить",
+  "shouldersurfing.configuration.crosshair.adaptive_crosshair_hold_item_animations.button": "Изменить",
   "shouldersurfing.configuration.crosshair.adaptive_crosshair_hold_item_animations": "Свойства предмета адаптивного перекрестия (удержание)",
   "shouldersurfing.configuration.crosshair.adaptive_crosshair_hold_item_animations.tooltip": "Свойства предмета, которые при удержании активируют динамическое перекрестие в адаптивном режиме.",
 
-  "shouldersurfing.configuration.crosshair.adaptive_crosshair_use_item_animations.button": "Настроить",
+  "shouldersurfing.configuration.crosshair.adaptive_crosshair_use_item_animations.button": "Изменить",
   "shouldersurfing.configuration.crosshair.adaptive_crosshair_use_item_animations": "Свойства предмета адаптивного перекрестия (использование)",
   "shouldersurfing.configuration.crosshair.adaptive_crosshair_use_item_animations.tooltip": "Свойства предмета, которые при использовании активируют динамическое перекрестие в адаптивном режиме.",
 
-  "shouldersurfing.configuration.crosshair.adaptive_crosshair_hold_item_components.button": "Настроить",
+  "shouldersurfing.configuration.crosshair.adaptive_crosshair_hold_item_components.button": "Изменить",
   "shouldersurfing.configuration.crosshair.adaptive_crosshair_hold_item_components": "Компоненты предмета адаптивного перекрестия (удержание)",
   "shouldersurfing.configuration.crosshair.adaptive_crosshair_hold_item_components.tooltip": "Компоненты предмета (только изменённые), которые при удержании предмета активируют динамическое перекрестие в адаптивном режиме.",
 
-  "shouldersurfing.configuration.crosshair.adaptive_crosshair_use_item_components.button": "Настроить",
+  "shouldersurfing.configuration.crosshair.adaptive_crosshair_use_item_components.button": "Изменить",
   "shouldersurfing.configuration.crosshair.adaptive_crosshair_use_item_components": "Компоненты предмета адаптивного перекрестия(использование)",
   "shouldersurfing.configuration.crosshair.adaptive_crosshair_use_item_components.tooltip": "Компоненты предмета (только изменённые), которые при использовании предмета активируют динамическое перекрестие в адаптивном режиме.",
 
-  "shouldersurfing.configuration.obstruction.button": "Настроить",
+  "shouldersurfing.configuration.obstruction.button": "Изменить",
   "shouldersurfing.configuration.obstruction": "Индикатор препятствия",
   "shouldersurfing.configuration.obstruction.tooltip": "Настройки индикатор препятствия",
   "shouldersurfing.configuration.obstruction.show_obstruction_indicator": "Показывать индикатор препятствия",
@@ -304,7 +317,7 @@
   "shouldersurfing.configuration.obstruction.max_distance_to_obstruction": "Максимальное расстояние до препятствия",
   "shouldersurfing.configuration.obstruction.max_distance_to_obstruction.tooltip": "Игнорировать препятствия, которые находятся слишком далеко от игрока. Расстояние измеряется в чанках. Установите значение 0, чтобы отключить.",
 
-  "shouldersurfing.configuration.visibility.button": "Настроить",
+  "shouldersurfing.configuration.visibility.button": "Изменить",
   "shouldersurfing.configuration.visibility": "Видимость",
   "shouldersurfing.configuration.visibility.tooltip": "Настройки видимости",
 
@@ -317,18 +330,18 @@
   "shouldersurfing.configuration.crosshair.visibility.shoulder_surfing": "Видимость перекрестия прицела от плеча",
   "shouldersurfing.configuration.crosshair.visibility.shoulder_surfing.tooltip": "Видимость перекрестия для вида от плеча.",
 
-  "shouldersurfing.configuration.audio.button": "Настроить",
+  "shouldersurfing.configuration.audio.button": "Изменить",
   "shouldersurfing.configuration.audio": "Аудио",
   "shouldersurfing.configuration.audio.tooltip": "Настройки звука.",
 
   "shouldersurfing.configuration.audio.center_player_sounds": "Центрировать звуки игрока",
   "shouldersurfing.configuration.audio.center_player_sounds.tooltip": "Следует ли центрировать звуки, издаваемые игроком.",
 
-  "shouldersurfing.configuration.integrations.button": "Настроить",
+  "shouldersurfing.configuration.integrations.button": "Изменить",
   "shouldersurfing.configuration.integrations": "Интеграции",
   "shouldersurfing.configuration.integrations.tooltip": "Настройки интеграции.",
 
-  "shouldersurfing.configuration.epicfight.button": "Настроить",
+  "shouldersurfing.configuration.epicfight.button": "Изменить",
   "shouldersurfing.configuration.epicfight": "Epic Fight",
   "shouldersurfing.configuration.epicfight.tooltip": "Настройки для Epic Fight.",
 
@@ -348,5 +361,8 @@
   "key.shouldersurfing.toggle_third_person_front": "Переключить первое лицо (спереди)",
   "key.shouldersurfing.toggle_third_person_back": "Переключить первое лицо (сзади)",
   "key.shouldersurfing.free_look": "Свободный обзор",
-  "key.shouldersurfing.toggle_camera_coupling": "Переключить соединение камеры"
+  "key.shouldersurfing.toggle_camera_coupling": "Переключить соединение камеры",
+  "key.shouldersurfing.toggle_x_offset_presets": "Переключить предустановки по X",
+  "key.shouldersurfing.toggle_y_offset_presets": "Переключить предустановки по Y",
+  "key.shouldersurfing.toggle_z_offset_presets": "Переключить предустановки по Z"
 }

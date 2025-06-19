@@ -11,7 +11,7 @@
       "offsetX": 0,
       "offsetY": 0,
       "modelMainPartFieldAliases": [
-        "com.faboslav.friendsandfoes.client.render.entity.model.CopperGolemEntityModel;head"
+        "com.faboslav.friendsandfoes.common.client.render.entity.model.CopperGolemEntityModel;head"
       ],
       "renderingFullModel": false,
       "modelPartsRotationReset": true,

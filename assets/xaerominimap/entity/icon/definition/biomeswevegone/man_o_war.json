@@ -1,0 +1,9 @@
+{
+  "variants": {
+    "biomeswevegone:textures/entity/manowar/blue.png": "outlined_sprite:biomeswevegone/manowar/blue.png",
+    "biomeswevegone:textures/entity/manowar/magenta.png": "outlined_sprite:biomeswevegone/manowar/magenta.png",
+    "biomeswevegone:textures/entity/manowar/purple.png": "outlined_sprite:biomeswevegone/manowar/purple.png",
+    "biomeswevegone:textures/entity/manowar/rainbow.png": "outlined_sprite:biomeswevegone/manowar/rainbow.png",
+    "layersAllowed": true
+  }
+}

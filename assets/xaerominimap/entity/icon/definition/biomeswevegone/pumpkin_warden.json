@@ -1,0 +1,9 @@
+{
+  "variants": {
+    "biomeswevegone:textures/entity/pumpkin_warden/default.png": "outlined_sprite:biomeswevegone/pumpkin_warden/default.png",
+    "biomeswevegone:textures/entity/pumpkin_warden/default_hiding.png": "outlined_sprite:biomeswevegone/pumpkin_warden/default_hiding.png",
+    "biomeswevegone:textures/entity/pumpkin_warden/pale.png": "outlined_sprite:biomeswevegone/pumpkin_warden/pale.png",
+    "biomeswevegone:textures/entity/pumpkin_warden/pale_hiding.png": "outlined_sprite:biomeswevegone/pumpkin_warden/pale_hiding.png",
+    "layersAllowed": true
+  }
+}
