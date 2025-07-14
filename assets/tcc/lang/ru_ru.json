@@ -424,7 +424,7 @@
   "item.tcc.lingering_potion.effect.blind_rage": "Туманное зелье слепой ярости",
   "item.tcc.lingering_potion.effect.fortitude": "Туманное зелье стойкости",
   "item.tcc.lingering_potion.effect.nausea": "Туманное зелье тошноты",
-  "item.tcc.locket_of_learning.lore": "Кол-во опыта: %s / %s",
+  "item.tcc.locket_of_learning.lore": "Количество опыта: %s / %s",
   "item.tcc.locket_of_learning": "Кулон познания",
   "item.tcc.obscurity_tea.lore": "Иммунитет к свечению",
   "item.tcc.obscurity_tea.title": "\uc004",

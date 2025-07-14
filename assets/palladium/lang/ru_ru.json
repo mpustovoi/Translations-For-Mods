@@ -8,7 +8,7 @@
   "palladium.config.page.deduplication": "Дедупликация",
 
   "palladium.config.shader_uniform_caching": "Кэширование униформ шейдеров",
-  "palladium.config.shader_uniform_caching.tooltip": "Кэширует униформы шейдеров, уменьшеньшая кол-во их вызовов, повышая производительность.",
+  "palladium.config.shader_uniform_caching.tooltip": "Кэширует униформы шейдеров, уменьшеньшая количество их вызовов, повышая производительность.",
   "palladium.config.vertex_attribute": "Кэширование атрибутов вершин",
   "palladium.config.vertex_attribute.tooltip": "Кэширование атрибутов вершин позволяет сократить количество их вызовов.",
   "palladium.config.mipmap_level": "Кэширование уровней mip-карты",

@@ -1,0 +1,5 @@
+{
+  "advancement.numismatics.root": "Welcome to Numismatics",
+  "item.numismatics.id_card.tooltip.summary": "_Right Click_ to bind, _shift click_ to clear. Can be placed in the _Trusted Menu_ of many Create: Numismatics blocks to give the bound player access to that block.",
+  "itemGroup.numismatics": "Create: Numismatics"
+}

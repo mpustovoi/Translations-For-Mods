@@ -428,7 +428,7 @@
   "gui.xaero_edit_mode": "Режим редактирования",
   "gui.xaero_edit_waypoint": "Изменить метку",
   "gui.xaero_enlarge_map": "Увеличить миникарту",
-  "gui.xaero_entity_amount": "Кол-во сущностей",
+  "gui.xaero_entity_amount": "Количество сущностей",
   "gui.xaero_entity_category_friend": "Друг",
   "gui.xaero_entity_category_tracked": "Отслеживаемый (например, союзник/участник группы))",
   "gui.xaero_entity_depth": "Показывать глубину сущностей",
