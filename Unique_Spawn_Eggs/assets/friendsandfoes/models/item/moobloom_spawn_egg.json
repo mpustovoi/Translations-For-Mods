@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/template_spawn_egg_model",
   "textures": {
-    "texture": "friendsandfoes:moobloom_spawn_egg"
+    "texture": "friendsandfoes:item/moobloom_spawn_egg"
   }
 }

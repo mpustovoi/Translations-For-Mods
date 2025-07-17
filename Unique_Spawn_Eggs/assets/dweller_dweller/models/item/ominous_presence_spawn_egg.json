@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/template_spawn_egg_model",
   "textures": {
-    "texture": "dweller_dweller:item/dweller_dweller_spawn_egg"
+    "texture": "dweller_dweller:item/ominous_presence_spawn_egg"
   }
 }

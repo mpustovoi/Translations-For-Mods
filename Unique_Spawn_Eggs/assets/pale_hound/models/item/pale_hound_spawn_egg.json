@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/template_spawn_egg_model",
   "textures": {
-    "texture": "friendsandfoes:item/illusioner_spawn_egg"
+    "texture": "pale_hound:item/pale_hound_spawn_egg"
   }
 }
