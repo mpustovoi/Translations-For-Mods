@@ -1,0 +1,8 @@
+{
+  "config.shut_up_gl_error.discord": "Напишите в Discord",
+  "config.shut_up_gl_error.github": "Сообщить о проблемах на GitHub",
+  "config.shut_up_gl_error.mode": "Режим",
+  "config.shut_up_gl_error.mode.silent": "Тихий",
+  "config.shut_up_gl_error.mode.log_once": "Журналировать один раз",
+  "config.shut_up_gl_error.mode.log_always": "Журналировать всегда"
+}

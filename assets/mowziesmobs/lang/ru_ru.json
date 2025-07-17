@@ -197,6 +197,9 @@
   "_comment": "Сообщения о смерти",
   "death.attack.dart": "%1$s был застрелен %2$s",
 
+  "_comment": "Теги",
+  "tag.item.mowziesmobs.hand_weapons": "Hand Weapons",
+
   "_comment": "Конфигурация",
   "config.mowziesmobs.mobs": "Существа",
   "config.mowziesmobs.mobs.tooltip": "Настройки всех существ Mowzie's Mobs.",

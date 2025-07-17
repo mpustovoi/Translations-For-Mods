@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/template_spawn_egg_model",
+  "textures": {
+    "texture": "midnightlurker:item/lurker_aggressive_spawn_egg"
+  }
+}

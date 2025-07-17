@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "the_knocker:item/knocker_spawn_egg"
+  }
+}

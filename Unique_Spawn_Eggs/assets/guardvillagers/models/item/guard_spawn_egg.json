@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/template_spawn_egg_model",
+  "textures": {
+    "texture": "guardvillagers:item/guard_spawn_egg"
+  }
+}

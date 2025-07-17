@@ -172,7 +172,7 @@
   "exposure.configuration.viewfinder_attacking": "Атака в видоискателе",
   "exposure.configuration.waist_level_viewfinder": "Видоискатель на уровне пояса",
   "exposure.configuration.working_range": "Рабочий диапазон",
-  "exposure.configuration.zoom_sensitivity_influence": "Влияние чувствительности к масштабированию",
+  "exposure.configuration.zoom_sensitivity_influence": "Влияние чувствительности к приближению",
   "exposure.jei.info.photograph_frame": "Имеет три размера: 1×1, 2×2 и 3×3. Размещается на стене, полу или потолке. Мешочек светящихся чернил заставит её светиться. Топором можно обтесать края рамки, вернуть — палкой. Стеклянная панель сделает рамку невидимой, а доски вернут ей прежний вид.",
   "gui.exposure.album.add_photograph": "Добавить фотографию",
   "gui.exposure.album.by_author": "Составлен %1$s",

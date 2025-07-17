@@ -1,9 +1,21 @@
 {
-  "fluid_type.createbionics.molten_andesite_alloy_fluid": "Molten Andesite Alloy",
-  "fluid_type.createbionics.molten_industrial_iron_fluid": "Molten Industrial Iron",
-  "fluid_type.createbionics.molten_brass_fluid": "Molten Brass",
-  "fluid_type.createbionics.molten_netherite_fluid": "Molten Netherite",
-  
-  "tag.item.createbionics.mold_items": "Mold Items",
-  "itemGroup.createbionics.create_robotics_tab": "Create: Robotics"
+  "item.createbionics.mini_electron_tube": "Mini Electron Tube",
+  "item.createbionics.rose_quartz_nugget": "Rose Quartz Nugget",
+  "item.createbionics.compound_eye": "Compound Eye",
+
+  "block.createbionics.cassowalker_frame": "Wax Cassowalker Frame",
+  "block.createbionics.cassowalker_frame_wax": "Cassowalker Frame",
+  "block.createbionics.cassowalker_keel": "Wax Cassowalker Keel",
+  "block.createbionics.cassowalker_keel_wax": "Cassowalker Keel",
+  "block.createbionics.cassowalker_exhaust": "Wax Cassowalker Exhaust",
+  "block.createbionics.cassowalker_exhaust_wax": "Cassowalker Exhaust",
+
+  "block.createbionics.chimera_thruster": "Chimera Thruster",
+  "block.createbionics.chimera_thruster_wax": "Wax Chimera Thruster",
+  "block.createbionics.stalker_engine": "Stalker Engine Frame",
+  "block.createbionics.stalker_engine_wax": "Wax Stalker Engine Frame",
+  "block.createbionics.stalker_head": "Stalker Head Frame",
+  "block.createbionics.stalker_head_wax": "Wax Stalker Head Frame",
+
+  "itemGroup.createbionics.create_bionics_tab": "Create: Bionics"
 }

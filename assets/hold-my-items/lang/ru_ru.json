@@ -1,0 +1,40 @@
+{
+  "text.autoconfig.hold-my-items.option.swingSpeed": "Длительность взмаха",
+  "text.autoconfig.hold-my-items.option.swingSpeed.@Tooltip": "Длительность анимации взмаха (в тактах)",
+
+  "text.autoconfig.hold-my-items.option.climbAndCrawl": "Анимация лазания и ползания",
+  "text.autoconfig.hold-my-items.option.climbAndCrawl.@Tooltip": "Включить/выключить анимацию лазания и ползания",
+
+  "text.autoconfig.hold-my-items.option.swimmingAnimation": "Анимация плавания",
+  "text.autoconfig.hold-my-items.option.swimmingAnimation.@Tooltip": "Включить/выключить анимацию плавания",
+
+  "text.autoconfig.hold-my-items.option.tripleSwordAttack": "Тройная атака мечом",
+  "text.autoconfig.hold-my-items.option.tripleSwordAttack.@Tooltip": "Включить третью анимацию взмаха мечом",
+
+  "text.autoconfig.hold-my-items.option.switch_speed": "Скорость смены предметов",
+  "text.autoconfig.hold-my-items.option.switch_speed.@Tooltip": "Изменяет скорость анимации смены предметов (больше = быстрее)",
+
+  "text.autoconfig.hold-my-items.option.viewmodelXOffset": "Смещение модели по X",
+  "text.autoconfig.hold-my-items.option.viewmodelXOffset.@Tooltip": "Смещение модели по оси X",
+
+  "text.autoconfig.hold-my-items.option.viewmodelYOffset": "Смещение модели по Y",
+  "text.autoconfig.hold-my-items.option.viewmodelYOffset.@Tooltip": "Смещение модели по оси Y",
+
+  "text.autoconfig.hold-my-items.option.viewmodelZOffset": "Смещение модели по Z",
+  "text.autoconfig.hold-my-items.option.viewmodelZOffset.@Tooltip": "Смещение модели по оси Z",
+
+  "text.autoconfig.hold-my-items.option.scale": "Масштаб модели",
+  "text.autoconfig.hold-my-items.option.scale.@Tooltip": "Настройка масштаба вашей модели",
+
+  "text.autoconfig.hold-my-items.option.mb3DCompat": "Совместимость с MB-3D",
+  "text.autoconfig.hold-my-items.option.mb3DCompat.@Tooltip": "Режим совместимости с MB-3D",
+
+  "text.autoconfig.hold-my-items.option.blacklist": "Чёрный список (СМ. ПОДСКАЗКУ!)",
+  "text.autoconfig.hold-my-items.option.blacklist.@Tooltip": "Настоятельно не рекомендуется изменять это вручную. Используйте кнопку в меню управления для добавления предметов в чёрный список (minecraft:iron_axe, minecraft:iron_sword...)",
+
+  "text.autoconfig.hold-my-items.category.animations": "Анимации",
+  "text.autoconfig.hold-my-items.category.positions": "Позиционирование",
+  "text.autoconfig.hold-my-items.category.misc": "Разное",
+  "key.categories.hold-my-items": "Подержите Мои Предметы",
+  "key.hold-my-items.custom_key": "Осмотреть оружие"
+}

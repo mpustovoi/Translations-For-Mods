@@ -5,6 +5,7 @@
   "simplebackups.commands.only_modified": "Сохраняются не только изменённые файлы, пожалуйста, проверьте ваш файл конфигурации",
   "simplebackups.commands.is_merging": "Операция слияния уже выполняется",
   "simplebackups.commands.finished": "Слияние резервных копий успешно завершено",
+  "simplebackups.not_enough_space": "Ошибка: недостаточно места на диске для создания резервной копии.",
 
   "simplebackups.configuration.noPlayerBackups": "Резервные копии без игроков",
   "simplebackups.configuration.messagesForEveryone": "Сообщения для всех игроков",

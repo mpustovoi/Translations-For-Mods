@@ -1,5 +1,6 @@
 {
   "entity.immersive_aircraft.airship": "Airship",
+  "entity.immersive_aircraft.bamboo_hopper": "Bamboo Hopper",
   "entity.immersive_aircraft.biplane": "Biplane",
   "entity.immersive_aircraft.cargo_airship": "Cargo Airship",
   "entity.immersive_aircraft.gyrodyne": "Gyrodyne",
@@ -36,6 +37,8 @@
   "immersive_aircraft.upgrade.wind": "%s%% wind effect",
   "item.immersive_aircraft.airship.description": "Slow but easy to maneuver.",
   "item.immersive_aircraft.airship": "Airship",
+  "item.immersive_aircraft.bamboo_hopper.description": "A chonky aircraft with three seats and pontoons to land safely on water.",
+  "item.immersive_aircraft.bamboo_hopper": "Bamboo Hopper",
   "item.immersive_aircraft.biplane.description": "Fast and rather reliable. Make sure your runway is long enough.",
   "item.immersive_aircraft.biplane": "Biplane",
   "item.immersive_aircraft.boiler": "Copper Boiler",

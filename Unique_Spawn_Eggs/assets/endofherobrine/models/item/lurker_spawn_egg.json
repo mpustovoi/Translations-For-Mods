@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/template_spawn_egg_model",
+  "textures": {
+    "texture": "endofherobrine:item/herobrine_spawn_egg"
+  }
+}

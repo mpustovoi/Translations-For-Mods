@@ -117,10 +117,10 @@
   "item.createaddition.gold_goblet.tooltip": "ЗОЛОТОЙ_КУБОК",
   "item.createaddition.gold_goblet.tooltip.summary": "Глоток из этого _кубка_ утоляет жажду лучше, чем обычная бутылочка.",
 
-  "item.createaddition.seed_oil_bucket": "Ведро семенного масла",
-  "item.createaddition.seed_oil_bucket.tooltip": "ВЕДРО_СЕМЕННОГО_МАСЛА",
+  "item.createaddition.seed_oil_bucket": "Ведро растительного масла",
+  "item.createaddition.seed_oil_bucket.tooltip": "ВЕДРО_РАСТИТЕЛЬНОГО_МАСЛА",
   "item.createaddition.seed_oil_bucket.tooltip.summary": "Простая _горючая жидкость_.",
-  "fluid.createaddition.seed_oil": "Семенное масло",
+  "fluid.createaddition.seed_oil": "Растительное масло",
 
   "item.createaddition.bioethanol_bucket": "Ведро биоэтанола",
   "item.createaddition.bioethanol_bucket.tooltip": "ВЕДРО_БИОЭТАНОЛА",
@@ -227,7 +227,7 @@
 
   "block.createaddition.biomass_pellet_block": "Палета биомассы",
 
-  "block.createaddition.seed_oil": "Семенное масло",
+  "block.createaddition.seed_oil": "Растительное масло",
   "block.createaddition.bioethanol": "Биоэтанол",
 
   "block.createaddition.barbed_wire": "Колючая проволока",

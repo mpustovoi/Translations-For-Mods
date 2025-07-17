@@ -5,6 +5,7 @@
   "container.storagedelight.glass_cabinet": "Стеклянная кладовая",
   "container.storagedelight.cabinet_variant": "Кладовая",
   "container.storagedelight.bookshelf_door": "Книжная полка с дверцей",
+  "container.storagedelight.small_drawers": "Маленькие ящики",
 
   "block.storagedelight.oak_drawer": "Дубовый комод",
   "block.storagedelight.birch_drawer": "Берёзовый комод",
@@ -18,6 +19,19 @@
   "block.storagedelight.warped_drawer": "Искажённый комод",
   "block.storagedelight.bamboo_drawer": "Бамбуковый комод",
   "block.storagedelight.pale_oak_drawer": "Комод из бледного дуба",
+
+  "block.storagedelight.small_oak_drawers": "Маленькие дубовые ящики",
+  "block.storagedelight.small_birch_drawers": "Маленькие берёзовые ящики",
+  "block.storagedelight.small_spruce_drawers": "Маленькие еловые ящики",
+  "block.storagedelight.small_cherry_drawers": "Маленькие вишнёвые ящики",
+  "block.storagedelight.small_jungle_drawers": "Маленькие ящики из тропического дерева",
+  "block.storagedelight.small_acacia_drawers": "Маленькие акациевые ящики",
+  "block.storagedelight.small_dark_oak_drawers": "Маленькие ящики из тёмного дуба",
+  "block.storagedelight.small_mangrove_drawers": "Маленькие мангровые ящики",
+  "block.storagedelight.small_crimson_drawers": "Маленькие багровае ящики",
+  "block.storagedelight.small_warped_drawers": "Маленькие искажённые ящики",
+  "block.storagedelight.small_bamboo_drawers": "Маленькие бамбуковые ящики",
+  "block.storagedelight.small_pale_oak_drawers": "Маленькие ящики из бледного дуба",
 
   "block.storagedelight.oak_drawer_with_door": "Дубовый комод с дверцей",
   "block.storagedelight.birch_drawer_with_door": "Березовый комод с дверцей",

@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "description": {
+      "translate": "resourcepack.uncraftable.uniquespawneggs.descr",
+      "fallback": "§cUnique §eSpawn §aEggs §dCollection§r"
+    },
+    "pack_format": 34,
+    "supported_formats": {
+      "min_inclusive": 9,
+      "max_inclusive": 52
+    }
+  }
+}

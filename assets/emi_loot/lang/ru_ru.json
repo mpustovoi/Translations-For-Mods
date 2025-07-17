@@ -99,7 +99,7 @@
   "emi_loot.function.potion": "Устанавливает зелье на %s",
   "emi_loot.function.set_count_add": "Сбрасывает дополнительные предметы",
   "emi_loot.function.set_count_set": "Устанавливает количество предметов",
-  "emi_loot.function.randomly_enchanted_book": "Выпадает случайно зачарованная книга",
+  "emi_loot.function.randomly_enchanted_book": "Выпадает случайная чародейская книга",
   "emi_loot.function.randomly_enchanted_item": "Выпадает предмет со случайными чарами",
   "emi_loot.function.set_enchant_book": "Выпадает книга с определенными зачарованиями",
   "emi_loot.function.set_enchant_item": "Выпадает предмет с определенными зачарованиями",
