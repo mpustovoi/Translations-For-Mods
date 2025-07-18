@@ -1,3 +1,7 @@
 {
+  "entity.endofherobrine.builder": "Herobrine",
+  "entity.endofherobrine.herobrine": "Herobrine",
+  "item.endofherobrine.builder_spawn_egg": "Herobrine Builder Spawn Egg",
+  "item.endofherobrine.lurker_spawn_egg": "Herobrine Lurker Spawn Egg",
   "text.betterf3.line.herobrine": "Herobrines"
 }

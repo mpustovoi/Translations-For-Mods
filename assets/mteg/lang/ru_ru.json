@@ -1,6 +1,6 @@
 {
-  "block.mteg.mo_workbench": "Продвинутый станок",
-  "container.mteg.mo_workbench": "Продвинутый станок",
+  "block.mteg.mo_workbench": "Продвинутый оружейный станок",
+  "container.mteg.mo_workbench": "Продвинутый оружейный станок",
   "entity.mteg.flare": "Сигнальная ракета",
   "entity.mteg.magma_cream": "Аэрозольный сгусток магмы",
   "entity.mteg.taki": "Таки",
