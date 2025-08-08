@@ -1,0 +1,51 @@
+{
+  "itemGroup.create_power_loader.main": "Create: Загрузка Чанков",
+
+  "block.create_power_loader.empty_andesite_chunk_loader": "Пустой андезитовый загрузчик чанков",
+  "block.create_power_loader.andesite_chunk_loader": "Андезитовый загрузчик чанков",
+
+  "block.create_power_loader.empty_brass_chunk_loader": "Пустой латунный загрузчик чанков",
+  "block.create_power_loader.brass_chunk_loader": "Латунный загрузчик чанков",
+  "create_power_loader.brass_chunk_loader.loading_range": "Радиус загрузки чанков",
+  "create_power_loader.brass_chunk_loader.load_1x1": "Квадрат 1×1",
+  "create_power_loader.brass_chunk_loader.load_3x3": "Квадрат 3×3",
+  "create_power_loader.brass_chunk_loader.load_5x5": "Квадрат 5×5",
+
+  "create_power_loader.ponder.empty_chunk_loader_basic.header": "Использованием пустых загрузчиков чанков",
+  "create_power_loader.ponder.empty_chunk_loader_basic.text_1": "ПКМ по гасту с пустым загрузчиком, чтобы захватить его",
+  "create_power_loader.ponder.empty_chunk_loader_basic.text_2": "С подачей вращения захваченные гасты зажигают порталы...",
+  "create_power_loader.ponder.empty_chunk_loader_basic.text_3": "...оживляя загрузчики чанков",
+
+  "create_power_loader.ponder.andesite_chunk_loader_basic.header": "Базовым использованием андезитового загрузчика чанков",
+  "create_power_loader.ponder.andesite_chunk_loader_basic.text_1": "При подаче вращения загрузчик поддерживает текущий чанк загруженным",
+  "create_power_loader.ponder.andesite_chunk_loader_basic.text_2": "Не работает при слишком медленном вращении",
+
+  "create_power_loader.ponder.andesite_chunk_loader_redstone.header": "Редстоуном и андезитовым загрузчиком чанков",
+  "create_power_loader.ponder.andesite_chunk_loader_redstone.text_1": "Загрузчик выдаёт сигнал компаратора при активности",
+  "create_power_loader.ponder.andesite_chunk_loader_redstone.text_2": "При остановке вращения чанк выгружается после задержки (настраивается)",
+  "create_power_loader.ponder.andesite_chunk_loader_redstone.text_3": "Чанк остаётся загруженным, если вращение возобновляется во время задержки",
+
+  "create_power_loader.ponder.brass_chunk_loader_basic.header": "Базовым использованием латунного загрузчика чанков",
+  "create_power_loader.ponder.brass_chunk_loader_basic.text_1": "При подаче вращения загрузчик поддерживает текущий чанк загруженным",
+  "create_power_loader.ponder.brass_chunk_loader_basic.text_2": "Не работает при слишком медленном вращении",
+  "create_power_loader.ponder.brass_chunk_loader_basic.text_3": "Радиус загрузки чанков можно настроить на панели параметров...",
+  "create_power_loader.ponder.brass_chunk_loader_basic.text_4": "...но больший радиус требует более высокой скорости вращения",
+
+  "create_power_loader.ponder.brass_chunk_loader_redstone.header": "Редстоуном и латунным загрузчиком чанков",
+  "create_power_loader.ponder.brass_chunk_loader_redstone.text_1": "Загрузчик выдаёт сигнал компаратора при активности",
+  "create_power_loader.ponder.brass_chunk_loader_redstone.text_2": "При остановке вращения чанки выгружаются после задержки (настраивается)",
+  "create_power_loader.ponder.brass_chunk_loader_redstone.text_3": "Чанки остаются загруженными, если вращение возобновляется во время задержки",
+
+  "create_power_loader.ponder.brass_chunk_loader_contraptions.header": "Загрузкой чанков вокруг движущихся штуковин",
+  "create_power_loader.ponder.brass_chunk_loader_contraptions.text_1": "Латунные загрузчики чанков также работают на штуковинах",
+  "create_power_loader.ponder.brass_chunk_loader_contraptions.text_2": "Они всегда загружают область 3×3 чанка вокруг штуковины",
+  "create_power_loader.ponder.brass_chunk_loader_contraptions.text_3": "В собранном виде не требуют вращения для работы",
+  "create_power_loader.ponder.brass_chunk_loader_contraptions.text_4": "Также работают на стационарных штуковинах",
+
+  "create_power_loader.ponder.brass_chunk_loader_station.header": "Загрузкой чанков вокруг железнодорожных станций",
+  "create_power_loader.ponder.brass_chunk_loader_station.text_1": "Латунные загрузчики можно установить на станциях",
+  "create_power_loader.ponder.brass_chunk_loader_station.text_2": "Разместите их рядом со станциями в правильном направлении",
+  "create_power_loader.ponder.brass_chunk_loader_station.text_3": "Они не требуют вращения, но обычно неактивны",
+  "create_power_loader.ponder.brass_chunk_loader_station.text_4": "При прибытии поезда загружается область 3×3 вокруг загрузчика",
+  "create_power_loader.ponder.brass_chunk_loader_station.text_5": "При отбытии поезда область выгружается"
+}

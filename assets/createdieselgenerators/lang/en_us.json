@@ -29,5 +29,7 @@
   "item.createdieselgenerators.purple_cement_bucket": "Purple Cement Bucket",
   "item.createdieselgenerators.red_cement_bucket": "Red Cement Bucket",
   "item.createdieselgenerators.white_cement_bucket": "White Cement Bucket",
-  "item.createdieselgenerators.yellow_cement_bucket": "Yellow Cement Bucket"
+  "item.createdieselgenerators.yellow_cement_bucket": "Yellow Cement Bucket",
+  "tag.fluid.pumpjack_output": "Pumpjack Output",
+  "tag.item.fermentable": "Fermentables"
 }

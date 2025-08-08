@@ -22,10 +22,10 @@
   "screen.screenshot_viewer.rename_screenshot": "Введите новое имя для своего снимка экрана:",
   "screen.screenshot_viewer.field.screenshot_name": "Новое имя снимка экрана",
   "screen.screenshot_viewer.button_placement.edit": "Редактировать положение",
-  "screen.screenshot_viewer.button_placement.movement": "Щёлкните ПКМ, чтобы переместить виджет в положение мыши.",
+  "screen.screenshot_viewer.button_placement.movement": "Кликните ПКМ, чтобы переместить виджет в положение мыши.",
   "screen.screenshot_viewer.button_placement.confirm": "Нажмите ENTER для подтверждения, ESCAPE для отмены, R для сброса.",
   "tooltip.screenshot_viewer.redirect_to_screenshot_manager": "Открыть снимок экрана в менеджере...",
-  "tooltip.screenshot_viewer.menu_hint": "Щёлкните ПКМ, чтобы управлять \nНажмите Ctrl-C для копирования в буфер обмена",
+  "tooltip.screenshot_viewer.menu_hint": "Кликните ПКМ, чтобы управлять \nНажмите Ctrl-C для копирования в буфер обмена",
 
   "screen.screenshot_viewer.config": "Настройки Просмотра Снимков Экрана",
   "config.screenshot_viewer.show_button_in_game_pause_menu": "Показывать кнопку в меню паузы",

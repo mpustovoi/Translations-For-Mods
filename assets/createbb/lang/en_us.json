@@ -72,5 +72,17 @@
   "advancements.createbb.craft_phenylacetone.title": "Core Component",
   "advancements.createbb.craft_phenylacetone.description": "Craft Phenylacetone",
   "advancements.createbb.craft_white_meth_tray.title": "Tray of Trouble",
-  "advancements.createbb.craft_white_meth_tray.description": "Craft a Methamphetamine Tray"
+  "advancements.createbb.craft_white_meth_tray.description": "Craft a Methamphetamine Tray",
+  "item.minecraft.potion.effect.cyanide_potion": "Potion of Cyanide",
+  "item.minecraft.potion.effect.long_cyanide_potion": "Potion of Cyanide",
+  "item.minecraft.potion.effect.strong_cyanide_potion": "Potion of Cyanide",
+  "item.minecraft.splash_potion.effect.cyanide_potion": "Splash Potion of Cyanide",
+  "item.minecraft.splash_potion.effect.long_cyanide_potion": "Splash Potion of Cyanide",
+  "item.minecraft.splash_potion.effect.strong_cyanide_potion": "Splash Potion of Cyanide",
+  "item.minecraft.lingering_potion.effect.cyanide_potion": "Lingering Potion of Cyanide",
+  "item.minecraft.lingering_potion.effect.long_cyanide_potion": "Lingering Potion of Cyanide",
+  "item.minecraft.lingering_potion.effect.strong_cyanide_potion": "Lingering Potion of Cyanide",
+  "item.minecraft.tipped_arrow.effect.cyanide_potion": "Arrow of Cyanide",
+  "item.minecraft.tipped_arrow.effect.strong_cyanide_potion": "Arrow of Cyanide",
+  "item.minecraft.tipped_arrow.effect.long_cyanide_potion": "Arrow of Cyanide"
 }

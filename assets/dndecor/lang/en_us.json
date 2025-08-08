@@ -1,4 +1,6 @@
 {
+  "block.dndecor.deepslate_tiles": "Deepslate Paving",
+  "block.dndecor.red_deepslate_tiles": "Red Deepslate Paving",
   "itemGroup.dndecor.base": "Create: Design n' Decor",
   "tag.item.dndecor.dark_metal_decor": "Dark Metal Decor",
   "tag.item.dndecor.dyed_stone_metal_decor": "Dyed Stone Metal Decor",

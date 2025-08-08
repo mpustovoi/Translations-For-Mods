@@ -435,7 +435,7 @@
   "distanthorizons.title": "Далёкие Горизонты",
   "distanthorizons.updater.later": "Не сейчас",
   "distanthorizons.updater.never": "Больше не показывать",
-  "distanthorizons.updater.silent.@tooltip": "Каждый раз, когда будет доступно обновление, оно будет получено\n(§6ПРЕДУПРЕЖДЕНИЕ§r: Он не будет запрашивать у пользователя обновление, хотя и будет поддерживать мод в актуальном состоянии).",
+  "distanthorizons.updater.silent.@tooltip": "Каждый раз, когда будет доступно обновление, оно будет получено\n(§6ПРЕДУПРЕЖДЕНИЕ§r: оно не будет запрашивать у пользователя обновление.",
   "distanthorizons.updater.silent": "Всегда тихое обновление",
   "distanthorizons.updater.text1": "§lДоступно новое обновление!",
   "distanthorizons.updater.text2": "§fВы хотите обновиться с %s§f на %s§f?",

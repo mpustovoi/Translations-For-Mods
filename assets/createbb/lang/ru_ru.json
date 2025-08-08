@@ -73,6 +73,18 @@
   "advancements.createbb.craft_phenylacetone.description": "Создайте фенилацетон",
   "advancements.createbb.craft_white_meth_tray.title": "Поднос неприятностей",
   "advancements.createbb.craft_white_meth_tray.description": "Создайте поднос с метамфетамином",
+  "item.minecraft.potion.effect.cyanide_potion": "Зелье с цианидом",
+  "item.minecraft.potion.effect.long_cyanide_potion": "Зелье с цианидом",
+  "item.minecraft.potion.effect.strong_cyanide_potion": "Зелье с цианидом",
+  "item.minecraft.splash_potion.effect.cyanide_potion": "Взрывное зелье с цианидом",
+  "item.minecraft.splash_potion.effect.long_cyanide_potion": "Взрывное зелье с цианидом",
+  "item.minecraft.splash_potion.effect.strong_cyanide_potion": "Взрывное зелье с цианидом",
+  "item.minecraft.lingering_potion.effect.cyanide_potion": "Туманное зелье с цианидом",
+  "item.minecraft.lingering_potion.effect.long_cyanide_potion": "Туманное зелье с цианидом",
+  "item.minecraft.lingering_potion.effect.strong_cyanide_potion": "Туманное зелье с цианидом",
+  "item.minecraft.tipped_arrow.effect.cyanide_potion": "Стрела с цианидом",
+  "item.minecraft.tipped_arrow.effect.strong_cyanide_potion": "Стрела с цианидом",
+  "item.minecraft.tipped_arrow.effect.long_cyanide_potion": "Стрела с цианидом",
 
   "### DEPRECATED KEYS ###": "Устаревшие ключи",
 

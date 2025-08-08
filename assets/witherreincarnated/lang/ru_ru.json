@@ -1,0 +1,18 @@
+{
+  "subtitles.entity.possessed.hurt": "Одержимый моб ранен",
+  "subtitles.entity.possessed.idle": "Одержимый моб стонет",
+  "subtitles.entity.possessed.unpossess": "Одержимый моб высвобожден",
+  "subtitles.entity.wither.barrage": "Иссушитель извергает пламя",
+  "subtitles.entity.wither.charge": "Иссушитель заряжается",
+  "subtitles.entity.wither.death": "Иссушитель погибает",
+  "subtitles.entity.wither.deflect_skull": "Снаряд отражён",
+  "subtitles.entity.wither.hurt": "Иссушитель ранен",
+  "subtitles.entity.wither.idle_weak": "Иссушитель шипит",
+  "subtitles.entity.wither.idle": "Иссушитель рычит",
+  "subtitles.entity.wither.laser": "Иссушитель заряжает лазер душ",
+  "subtitles.entity.wither.possess": "Иссушитель подчиняет моба",
+  "subtitles.entity.wither.projectile_explosion": "Отдалённый взрыв",
+  "subtitles.entity.wither.shoot": "Иссушитель стреляет",
+  "subtitles.entity.wither.spawn": "Иссушитель выпущен",
+  "subtitles.entity.wither.stun": "Иссушитель оглушён"
+}

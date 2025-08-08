@@ -16,6 +16,7 @@
 
   "create_aquatic_ambitions.tooltip.conduitcage.header": "Информация о клетке морского источника",
   "tooltip.create_aquatic_ambitions.effect.cleansing": "Очищение",
+  "tooltip.create_aquatic_ambitions.effect.burning": "Сжигание",
 
   "create.item_attributes.can_be_channeled": "можно каналировать",
 

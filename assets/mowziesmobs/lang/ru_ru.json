@@ -191,7 +191,7 @@
   "entity.mowziesmobs.sculptor.trade": "Скульптор",
   "entity.mowziesmobs.sculptor.trade.button.text": "Начать тест",
   "entity.mowziesmobs.sculptor.boss_info.timer.text": "Оставшееся время",
-  "entity.mowziesmobs.sculptor.trade.button.hover": "Доберитесь до вершины поля и щёлкните ПКМ по Скульптору, чтобы пройти!\nРазмещение блоков, разрушение блоков, телепортация и полёты запрещены.",
+  "entity.mowziesmobs.sculptor.trade.button.hover": "Доберитесь до вершины поля и кликните ПКМ по Скульптору, чтобы пройти!\nРазмещение блоков, разрушение блоков, телепортация и полёты запрещены.",
   "entity.mowziesmobs.sculptor.trade.blocked": "Тест заблокирован!",
 
   "_comment": "Сообщения о смерти",

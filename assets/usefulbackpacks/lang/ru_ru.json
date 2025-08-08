@@ -11,7 +11,7 @@
   "general.usefulbackpacks.backpack.tooltip.filter_applied_item.1": "(строгий)",
   "general.usefulbackpacks.backpack.tooltip.filter_applied_tag.0": "- Тег: %s",
   "general.usefulbackpacks.backpack.tooltip.filter_not_advanced.0": "Включите расширенные всплывающие подсказки, чтобы увидеть, какие фильтры настроены",
-  "general.usefulbackpacks.click.tooltip.right_click.0": "Щёлкните ПКМ",
+  "general.usefulbackpacks.click.tooltip.right_click.0": "Кликните ПКМ",
   "general.usefulbackpacks.click.tooltip.shift_right_click.0": "Нажмите Shift + ПКМ",
   "item.usefulbackpacks.backpack_enderchest": "Эндер-рюкзак",
   "item.usefulbackpacks.backpack_large": "Большой рюкзак",

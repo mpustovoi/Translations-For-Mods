@@ -39,9 +39,15 @@
   "block.cratedelight.potato_crate": "Ящик с картофелем",
   "block.cratedelight.beetroot_crate": "Ящик со свёклой",
 
-  "block.cratedelight.stacked_melons": "Сложенные арбузы",
-  "block.cratedelight.stacked_pumpkins": "Сложенные тыквы",
   "block.cratedelight.cookie_bag": "Мешок с печеньем",
+
+  "block.cratedelight.poisonous_potato_crate": "Ящик с ядовитым картофелем",
+  "block.cratedelight.brown_egg_crate": "Ящик с коричневыми яйцами",
+  "block.cratedelight.blue_egg_crate": "Ящик с голубыми яйцами",
+  "block.cratedelight.pumpkin_slice_crate": "Ящик с ломтиками тыквы",
+  "block.cratedelight.bread_bag": "Мешок с хлебом",
+
+  "itemGroup.cratedelight": "Ящичные Изыски",
 
   "block.cratedelight.black_berry_crate": "Ящик с чёрными ягодами",
   "block.cratedelight.green_berry_crate": "Ящик с зелёными ягодами",
@@ -49,6 +55,8 @@
   "block.cratedelight.yellow_berry_crate": "Ящик с жёлтыми ягодами",
   "block.cratedelight.purple_berry_crate": "Ящик с фиолетовыми ягодами",
 
-  "itemGroup.cratedelight": "Ящичные Изыски",
-  "creativetab.cratedelight_tab": "Ящичные Изыски"
+  "creativetab.cratedelight_tab": "Ящичные Изыски",
+
+  "block.cratedelight.stacked_melons": "Сложенные арбузы",
+  "block.cratedelight.stacked_pumpkins": "Сложенные тыквы"
 }

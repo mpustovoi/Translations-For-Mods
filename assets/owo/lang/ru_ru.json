@@ -5,7 +5,7 @@
     { "index": 1, "color": "dark_gray" }
   ],
   "text.owo.itemGroup.select_hint": {
-    "text": "Щёлкните ПКМ, чтобы выбрать несколько",
+    "text": "Кликните ПКМ, чтобы выбрать несколько",
     "color": "gray"
   },
   "text.owo.configure_hot_reload.title": "Настройка горячей перезагрузки",

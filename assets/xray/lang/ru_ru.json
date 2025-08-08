@@ -1,0 +1,67 @@
+{
+  "xray.mod_name": "Продвинутый Рентген",
+  "xray.debug.init": "Рентген инициализирован",
+
+  "xray.single.cancel": "Отмена",
+  "xray.single.add": "Добавить",
+  "xray.single.delete": "Удалить",
+  "xray.single.save": "Сохранить",
+  "xray.single.tools": "Инструменты",
+  "xray.single.close": "Закрыть",
+  "xray.single.search": "Поиск",
+  "xray.single.help": "Помощь",
+
+  "xray.overlay": "Рентген активен",
+
+  "xray.color.red": "Красный: %s",
+  "xray.color.green": "Зелёный: %s",
+  "xray.color.blue": "Синий: %s",
+
+  "xray.input.gui": "Название в интерфейсе",
+  "xray.input.add": "Добавить блок",
+  "xray.input.add_hand": "Добавить блок в руке",
+  "xray.input.add_look": "Добавить целевой блок",
+  "xray.input.distance": "Дальность: %s",
+  "xray.input.show-lava": "Показывать лаву: %s",
+  "xray.input.toggle_oredict": "Использовать словарь",
+
+  "xray.title.config": "Настройка блока",
+  "xray.title.edit": "Редактировать блок",
+  "xray.title.edit_meta": "Редактировать метаданные",
+
+  "xray.chat.first-time": "§6Спасибо за использование Продвинутого Рентгена! §rОткройте меню клавишей §a[%s§a] §rи активируйте рентген клавишей §a[%s§a]§r.",
+  "xray.chat.first-time-line-2": "Клавиши можно изменить в настройках -> управление -> привязка клавиш. §cЭто сообщение покажется только один раз.",
+
+  "xray.message.missing_input": "Заполните все поля",
+  "xray.message.already_exists": "Этот блок уже добавлен в список",
+  "xray.message.added_block": "Успешно добавлен %s.",
+  "xray.message.updated_block": "Запись обновлена",
+  "xray.message.remove_block": "%s удалён",
+  "xray.message.block_exists": "%s уже существует. Введите другое имя.",
+  "xray.message.unknown": "Похоже, редактируемый блок не существует.",
+  "xray.message.removed": "Успешно удалён %s.",
+  "xray.message.config_missing": "Файл конфигурации не найден. Создаю новый.",
+  "xray.message.invalid_hand": "%s должен быть блоком",
+  "xray.message.thats_odd": "Что-то пошло не так? Создайте issue, если проблема повторится",
+  "xray.message.nothing_infront": "Вы же не смотрите ни на что конкретное?",
+  "xray.message.not_a_number": "{%s} не является числом. Введите число для метаданных",
+  "xray.message.meta_not_supported": "{%s} недопустимые метаданные для {%s}",
+  "xray.message.state_warning": "Внимание: это ограничит вас стандартными блоками.\nИспользуйте 'целевой блок' или 'в руке' для точного выбора.\nДля некоторых блоков (сундуки) это необходимо.",
+
+  "xray.tooltips.add_block": "Выберите блок для добавления в рентген\nИспользует значения по умолчанию. Для точного выбора\nиспользуйте 'целевой блок'.",
+  "xray.tooltips.add_block_in_hand": "Автоматически добавляет блок,\nкоторый держите в руке.",
+  "xray.tooltips.add_block_looking_at": "Автоматически добавляет блок,\nна который вы смотрите.",
+  "xray.tooltips.show_lava": "Показывает лаву КРАСНЫМ цветом.\nОсторожно! Она горячая.",
+  "xray.tooltips.distance": "Внимание: большой радиус вызовет лаги при обновлении.",
+  "xray.tooltips.edit1": "Нажмите, чтобы переключить",
+  "xray.tooltips.edit2": "Shift+клик: редактировать",
+
+  "xray.message.help.gui": "Для редактирования блока удерживайте Shift и кликните на него.\nДля включения/выключения просто кликните на блок.",
+  "xray.message.help.warning": "Внимание: дистанция свыше 64 вызовет падение FPS\nиз-за огромного количества сканируемых блоков.",
+
+  "xray.config.toggle": "Переключить рентген",
+  "xray.config.open": "Открыть меню рентгена",
+
+  "xray.toggle.activated": "Рентген включён",
+  "xray.toggle.deactivated": "Рентген выключен"
+}

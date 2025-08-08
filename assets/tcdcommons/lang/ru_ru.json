@@ -33,7 +33,7 @@
   "tcdcommons.api.util.interfaces.tfilefilter.all_files": "Все файлы (*.*)",
   "tcdcommons.api.util.interfaces.tfilefilter.x_files": "Файлы %1$s (%1$s)",
 
-  "tcdcommons.api.client.gui.panel.tpanelelement.mouse_scroll_tip": "Используйте колёсико мыши или щелкните ЛКМ + перетащите, чтобы прокрутить этот раздел...",
+  "tcdcommons.api.client.gui.panel.tpanelelement.mouse_scroll_tip": "Используйте колёсико мыши или щёлкните ЛКМ + перетащите, чтобы прокрутить этот раздел...",
 
   "tcdcommons.api.client.gui.panel.explorer.filelistpanel.err_nosuchdir": "Каталог не существует",
   "tcdcommons.api.client.gui.panel.explorer.filelistpanel.err_noaccess": "Отказано в доступе",

@@ -284,5 +284,7 @@
   "mold.createdieselgenerators.bowl": "Форма чаши",
   "mold.createdieselgenerators.chain": "Форма цепи",
   "mold.createdieselgenerators.lines": "Волнистая форма",
-  "sounds.createdieselgenerators.engine_normal": "Рёв дизельного двигателя."
+  "sounds.createdieselgenerators.engine_normal": "Рёв дизельного двигателя.",
+  "tag.fluid.pumpjack_output": "Выход нефтяного насоса",
+  "tag.item.fermentable": "Ферментируемое"
 }

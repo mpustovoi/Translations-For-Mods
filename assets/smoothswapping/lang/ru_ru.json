@@ -4,7 +4,7 @@
   "smoothswapping.config.toggle.on": "Включен",
   "smoothswapping.config.toggle.off": "Отключен",
   "smoothswapping.config.testinventory": "Тестовый инвентарь",
-  "smoothswapping.config.option.animationspeed.tooltip": "-Щёлкните ПКМ на пустом месте, чтобы создать новую точку кривой\n-Щёлкните ЛКМ и перетащите точку, чтобы переместить её\n-Щёлкните ПКМ по одной из них, чтобы удалить",
+  "smoothswapping.config.option.animationspeed.tooltip": "-Кликните ПКМ на пустом месте, чтобы создать новую точку кривой\n-Щёлкните ЛКМ и перетащите точку, чтобы переместить её\n-Кликните ПКМ по одной из них, чтобы удалить",
   "smoothswapping.config.option.animationspeed": "Скорость анимации",
   "smoothswapping.config.option.animationspeed.speed": "Скорость",
   "smoothswapping.config.option.animationspeed.reset": "Сбросить",

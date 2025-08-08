@@ -15,6 +15,8 @@
   "config.tectonic.option.increased_height.tooltip": "Увеличивает максимальную высоту построения и генерации до y640.",
   "config.tectonic.option.lava_tunnels": "Лавовые туннели",
   "config.tectonic.option.lava_tunnels.tooltip": "Редкие, глубокие подземные туннели из лавы иногда генерируются на дне шара.",
+  "config.tectonic.option.ultrasmooth": "Сверхгладкость",
+  "config.tectonic.option.ultrasmooth.tooltip": "Значительно сглаживает рельеф, как в Tectonic v2, устраняя артефакты ступеньчатости, за счёт странной/сломанной генерации в глубоких океанах и выветренных биомах.\n§cТребуется перезапуск игры на 1.20!",
 
   "config.tectonic.category.continents": "Континенты",
   "config.tectonic.option.ocean_offset": "Смещение океана: %s",

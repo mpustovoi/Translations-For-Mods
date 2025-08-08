@@ -1,0 +1,6 @@
+{
+  "block.linkedchests.linked_chest": "Связанный сундук",
+  "block.linkedchests.linked_chest.description": "Предоставляет доступ к предметам, хранящимся в межпространственных мирах.",
+  "item.linkedchests.linked_pouch": "Связывающий мешочек",
+  "itemGroup.linkedchests.main": "Связанные Сундуки"
+}
