@@ -1,0 +1,13 @@
+{
+  "text.autoconfig.forgottengraves.option.spawning.sinkThroughBlocks.@Tooltip": "Should graves sink through blocks found in the 'Graves Sink Through' tag?",
+  "text.autoconfig.forgottengraves.option.spawning.replaceBlocks.@Tooltip": "Should graves replace blocks found in the 'Replaceable Blocks' (replaceable) tag?",
+  "tag.block.forgottengraves.do_not_replace": "Non-Replaceable Blocks",
+  "tag.block.forgottengraves.replaceable": "Replaceable Blocks",
+  "tag.block.forgottengraves.sink_through": "Graves Sink Through",
+  "tag.enchantment.forgottengraves.binding_curses": "Binding Curses",
+  "tag.enchantment.forgottengraves.soulbound_enchants": "Soulbound Enchantments",
+  "tag.enchantment.forgottengraves.vanishing_curses": "Vanishing Curses",
+  "tag.item.forgottengraves.decay_item": "Decay Items",
+  "text.autoconfig.forgottengraves.option.sink.sinkThroughBlocks.@Tooltip": "Should graves sink through blocks found in the 'Graves Sink Through' tag?",
+  "text.autoconfig.forgottengraves.option.sink.replaceBlocks.@Tooltip": "Should graves replace blocks found in the 'Replaceable Blocks' (replaceable) tag?"
+}

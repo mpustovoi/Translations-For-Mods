@@ -16,6 +16,7 @@
 
   "minecraft-cursor.options.search": "Поиск",
   "minecraft-cursor.options.search.clear": "Очистить поиск",
+  "minecraft-cursor.options.refresh.info": "Refresh cursors from resource packs.",
 
   "minecraft-cursor.options.cursor-types": "Типы курсоров",
   "minecraft-cursor.options.cursor-type": "Курсор %1$s",
@@ -67,6 +68,8 @@
   "minecraft-cursor.options.compat.remap_cursors.empty": "Нет курсоров для переназначения",
   "minecraft-cursor.options.compat.aggressive_cursor": "Активное обновление",
   "minecraft-cursor.options.compat.aggressive_cursor.info": "Постоянно обновляет курсор вместо обновления только при изменениях.\n\nПо умолчанию отключено.",
+  "minecraft-cursor.options.compat.virtual_mode": "Виртуальный режим",
+  "minecraft-cursor.options.compat.virtual_mode.info": "Отображает курсор вручную, а не с помощью GLFW.\n\nВНИМАНИЕ: Может устранить некоторые проблемы, но также вызвать другие.",
 
   "minecraft-cursor.options.debug": "Отладка",
   "minecraft-cursor.options.debug.inspect": "Инспектор элементов",

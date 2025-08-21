@@ -417,6 +417,7 @@
   "block.sculkhorde.fungal_sculk_stem_block": "Блок стебля грибкового скалка",
   "block.sculkhorde.brood_nest_block": "Блок выводкового гнезда",
   "block.sculkhorde.brood_nest_core_block": "Блок сердцевины выводкового гнезда",
+  "block.sculkhorde.tendril_core_block": "Блок сердцевины усиков",
   "item.sculkhorde.soul_disrupter": "Разрушитель душ",
   "tooltip.sculkhorde.soul_disrupter.functionality": "§7§oОружие, ослабляющее жнеца душ на 1 минуту при направлении на него. Пока слабость активна, сложность снижается на один уровень.",
   "tooltip.sculkhorde.soul_disrupter.lore": "§7§oИмпровизированное оружие, предназначенное для временного подавления способностей жнеца душ.",
@@ -471,7 +472,9 @@
   "item.minecraft.lingering_potion.effect.corroded_potion": "Туманное зелье корродирования",
   "item.minecraft.tipped_arrow.effect.corroded_potion": "Стрела корродирования",
 
-  "block.sculkhorde.tendril_core_block": "Сердцевина усиков",
+  "sounds.sculkhorde.infestation_ambience": "Заражающая атмосфера",
+  "sounds.sculkhorde.soulite_ambience": "Душелитовый перезвон",
+
   "effect.sculkhorde.neurotoxin_stage1": "Нейротоксин",
   "effect.sculkhorde.neurotoxin_stage1.description": "§1§kОписание отсутствует§r",
   "effect.sculkhorde.neurotoxin_stage2": "Нейротоксин",
