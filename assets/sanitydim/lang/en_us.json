@@ -2,11 +2,70 @@
   "advancements.sanitydim.first_death.descr": "Become a victim of your own insanity",
   "advancements.sanitydim.first_death.title": "§0How did you take off your straitjacket?",
   "advancements.sanitydim.for_god_sake.descr": "Get rid of the Sneaking Terror",
-  "advancements.sanitydim.for_god_sake.title": "§0For God's sake!",
+  "advancements.sanitydim.for_god_sake.title": "§0For God's Sake!",
   "advancements.sanitydim.for_what_sake.descr": "Get rid of the Rotting Stalker",
-  "advancements.sanitydim.for_what_sake.title": "§0For what sake?",
+  "advancements.sanitydim.for_what_sake.title": "§0For what Sake?",
   "advancements.sanitydim.insane_1.descr": "Destroy the Rotting Stalker 10 times",
   "advancements.sanitydim.insane_1.title": "§0Did I ever tell you what the definition of insanity is?",
   "advancements.sanitydim.insane_2.descr": "Destroy the Sneaking Terror 10 times",
-  "advancements.sanitydim.insane_2.title": "§0Insanity is doing the exact... same fucking thing... over and over again expecting... shit to change..."
+  "advancements.sanitydim.insane_2.title": "§0Insanity is doing the exact... same fucking thing... over and over again expecting... shit to change...",
+
+  "entity.sanitydim.rotting_stalker": "Rotting Stalker",
+  "entity.sanitydim.sneaking_terror": "Sneaking Terror",
+
+  "commands.sanity.set.success.single": "Set %s's sanity to %s",
+  "commands.sanity.set.success.multiple": "Set sanity to %s for %s players",
+  "commands.sanity.add.success.single": "Added %s sanity to %s",
+  "commands.sanity.add.success.multiple": "Added %s sanity to %s players",
+  "commands.sanity.get.success": "Player %s has %s sanity",
+  "commands.sanity.config.reload": "Reloaded dimension configs successfully",
+
+  "gui.sanitydim.hint.paranoid.0.swish": "What are these sounds?",
+  "gui.sanitydim.hint.paranoid.1": "I'm feeling a bit uneasy",
+  "gui.sanitydim.hint.paranoid.2": "What was that?",
+  "gui.sanitydim.hint.paranoid.3": "What a strange feeling...",
+  "gui.sanitydim.hint.paranoid.4": "I don't like this...",
+  "gui.sanitydim.hint.paranoid.5": "Huh?",
+  "gui.sanitydim.hint.paranoid.6": "Hmm?",
+  "gui.sanitydim.hint.paranoid.7": "What?",
+  "gui.sanitydim.hint.paranoid.8": "What's there?",
+  "gui.sanitydim.hint.paranoid.9": "Was that me?",
+  "gui.sanitydim.hint.paranoid.10": "Weird...",
+  "gui.sanitydim.hint.paranoid.11": "Did I just see something?",
+
+  "gui.sanitydim.hint.insane.0.swish": "SOMEONE'S BEHIND ME",
+  "gui.sanitydim.hint.insane.1": "One, two, three, four...",
+  "gui.sanitydim.hint.insane.2": "...five, six, seven, eight...",
+  "gui.sanitydim.hint.insane.3": "THEY ARE IN MY HEAD",
+  "gui.sanitydim.hint.insane.4": "LEAVE ME ALONE",
+  "gui.sanitydim.hint.insane.5": "DON'T SPACE OUT",
+  "gui.sanitydim.hint.insane.6": "WHY WON'T THEY GO AWAY?!",
+  "gui.sanitydim.hint.insane.7": "TOO LOUD TOO LOUD TOO LOUD",
+  "gui.sanitydim.hint.insane.8": "THE VOICES... I CAN'T...",
+
+  "gui.sanitydim.hint.insomnia.0": "WHY CAN'T I SLEEP!!",
+  "gui.sanitydim.hint.insomnia.1": "PLEASE JUST LET ME SLEEP!!!",
+  "gui.sanitydim.hint.insomnia.2": "THEY WON'T LET ME SLEEP...",
+  "gui.sanitydim.hint.insomnia.3": "THERE'S SOMETHING WATCHING ME SLEEP!!",
+  "gui.sanitydim.hint.insomnia.4": "I CAN'T CLOSE MY EYES...",
+  "gui.sanitydim.hint.insomnia.5": "IT'S WATCHING ME",
+  "gui.sanitydim.hint.insomnia.6": "I NEED TO STAY AWAKE",
+  "gui.sanitydim.hint.insomnia.7.swish": "THERE'S SOMETHING UNDER MY BED",
+  "gui.sanitydim.hint.insomnia.8": "One sheep, two sheep, three sheep...",
+  "gui.sanitydim.hint.insomnia.9": "IT'S NOT WORKING",
+  "gui.sanitydim.hint.insomnia.10.swish": "THEY'RE HERE!!",
+
+  "item.sanitydim.tooltip.press_shift": "§7Press §9SHIFT§7 for more information",
+
+  "item.sanitydim.garland": "Garland",
+  "item.sanitydim.garland.tooltip": "§7Something to help soothe the nerves\n\nSlowly restores your sanity and makes you slightly more resistant to stress",
+
+  "item.sanitydim.nightmare_fuel": "Nightmare Fuel",
+  "item.sanitydim.nightmare_fuel.tooltip": "§8It feels oily to the touch...\n\n§7Burns for a long time as furnace fuel-- maybe it has alchemical uses?",
+
+  "item.sanitydim.nightmare_flesh": "Nightmare Flesh",
+  "item.sanitydim.nightmare_flesh.tooltip": "§8The flesh is practically inedible, not like you'd want to eat it anyway...\n\n§7Might make for a good leather if you could treat it.",
+
+  "item.sanitydim.nightmare_leather": "Nightmare Leather",
+  "item.sanitydim.nightmare_leather.tooltip": "§8Slick and tough, but seems to be vulnerable to daylight.\n\nMaybe cooking it even more will make it normal?"
 }

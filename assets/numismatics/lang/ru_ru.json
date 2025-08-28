@@ -46,7 +46,7 @@
   "gui.numismatics.vendor.mode.buy.action": "Кликните для покупки",
   "gui.numismatics.vendor.mode.sell": "Продажа",
   "gui.numismatics.vendor.mode.sell.action": "Кликните для продажи",
-  "gui.numismatics.vendor.no_item_in_hand": "Держите в руке стак продаваемых предметов",
+  "gui.numismatics.vendor.no_item_in_hand": "Держите в руке стопку продаваемых предметов",
   "gui.numismatics.vendor.out_of_stock": "Товар закончился",
   "gui.numismatics.vendor.out_of_stock.named": "Товар закончился, свяжитесь с %s, чтобы тот его пополнил",
   "gui.numismatics.vendor.too_few_items": "Слишком мало",

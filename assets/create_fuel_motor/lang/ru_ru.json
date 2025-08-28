@@ -1,0 +1,29 @@
+{
+  "item_group.create_fuel_motor.tab": "Create: Топливный Двигатель",
+
+  "block.create_fuel_motor.fuel_motor": "Топливный двигатель",
+  "create.tooltip.create_fuel_motor.fuel_info": "Топливный двигатель работает:",
+  "create.tooltip.create_fuel_motor.fuel_status_burn": "Время горения:",
+  "create.tooltip.create_fuel_motor.burn_time": "%sс / %sс",
+  "create.tooltip.create_fuel_motor.fuel_status_header": "Статус топлива:",
+  "create.tooltip.create_fuel_motor.fuel_status": "%s",
+  "create.tooltip.create_fuel_motor.fuel_name_header": "Тип топлива:",
+  "create.tooltip.create_fuel_motor.fuel_name": "%s",
+  "create.tooltip.create_fuel_motor.no_fuel": "Поиск топлива",
+  "create.tooltip.create_fuel_motor.generates": "Создаёт нагрузку, используя топливо",
+  "create.tooltip.create_fuel_motor.generates_fuel": "Поддерживает все предметы, подходящие для печи",
+  "create.tooltip.create_fuel_motor.burns": "Сжигает топливо со временем",
+  "create.tooltip.create_fuel_motor.fuel_burn_time": "Топливо определяет, как долго работает двигатель",
+  "create.tooltip.create_fuel_motor.max_speed": "Максимальная скорость вращения",
+  "create.tooltip.create_fuel_motor.rpm": "%s об/мин",
+  "create_fuel_motor.ponder.fuel_motor.tags.fuel": "Топливный двигатель",
+  "create_fuel_motor.ponder.ffuel_motor.header": "Заправкой топливного двигателя с помощью выбрасывания топлива",
+  "create_fuel_motor.ponder.fuel_motor.text_1": "Топливный двигатель создаёт вращательную силу, потребляя горючее топливо",
+  "create_fuel_motor.ponder.fuel_motor.text_2": "Просто бросьте предмет-топливо в радиусе 3×3 блока от двигателя!",
+  "create_fuel_motor.ponder.fuel_motor.text_3": "Каждый предмет-топливо питает двигатель в течение времени, основанного на его времени горения",
+
+  "create_fuel_motor.ponder.fuel_motor_1.header": "Заправкой топливного двигателя с помощью воронки",
+  "create_fuel_motor.ponder.fuel_motor_1.text_1": "Топливный двигатель создаёт вращательную силу, потребляя горючее топливо",
+  "create_fuel_motor.ponder.fuel_motor_1.text_2": "Вы также можете подавать топливо с помощью воронки!",
+  "create_fuel_motor.ponder.fuel_motor_1.text_3": "Каждый предмет-топливо питает двигатель в течение времени, основанного на его времени горения"
+}

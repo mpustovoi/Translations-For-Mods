@@ -39,11 +39,11 @@
   "block.createrailwaysnavigator.advanced_display_slab.tooltip.condition1": "ПКМ гаечным ключом",
   "block.createrailwaysnavigator.advanced_display_slab.tooltip.behaviour1": "Открывает меню _настройки_ табло.",
   "block.createrailwaysnavigator.train_station_clock.tooltip.summary": "Показывает _текущее время_.",
-  "block.createrailwaysnavigator.train_station_clock.tooltip.condition1": "ПКМ",
+  "block.createrailwaysnavigator.train_station_clock.tooltip.condition1": "ПКМ по блоку",
   "block.createrailwaysnavigator.train_station_clock.tooltip.behaviour1": "Отображает _текущее время_ над панелью быстрого доступа.",
   "block.createrailwaysnavigator.train_station_clock.tooltip.condition2": "ПКМ по другим станционным часам",
   "block.createrailwaysnavigator.train_station_clock.tooltip.behaviour2": "Изменяет часы для отображения времени _со всех четырёх сторон_.",
-  "block.createrailwaysnavigator.navigator_lectern": "Lectern with Navigator",
+  "block.createrailwaysnavigator.navigator_lectern": "Кафедра с навигатором",
 
   "block.createrailwaysnavigator.advanced_display.ber.not_in_service": "Не работает!",
   "block.createrailwaysnavigator.advanced_display.ber.do_not_board": "Не входить!",
@@ -423,7 +423,7 @@
   "goggles.createrailwaysnavigator.train_listener.departures.name": "Отправления по названиям:",
   "goggles.createrailwaysnavigator.train_listener.departures.nothing": "(Нет последних отправлений)",
   "goggles.createrailwaysnavigator.train_listener.departures.has_more": "+ ещё %s...",
-  "goggles.createrailwaysnavigator.train_listener.departures.press_shift_for_in_game_time": "Нажмите Shift для отображения в игровом времени",
+  "goggles.createrailwaysnavigator.train_listener.departures.press_shift_for_in_game_time": "Удерживайте Shift для отображения в игровом времени",
 
   "display.createrailwaysnavigator.train_destination.simple": "Компактный",
   "display.createrailwaysnavigator.train_destination.extended": "Расширенный",

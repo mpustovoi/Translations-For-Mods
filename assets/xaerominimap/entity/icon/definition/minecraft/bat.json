@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "default": "outlined_sprite:minecraft/bat.png",
+    "layersAllowed": true
+  }
+}
