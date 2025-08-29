@@ -1,8 +1,10 @@
 {
   "block.mynethersdelight.blackstone_bricks_cabinet": "Polished Blackstone Brick Cabinet",
 
-  "effect.mynethersdelight.b_pungent.description": "Increases heat sensitivity and prevents burns when leaving the heat zone",
-  "effect.mynethersdelight.g_pungent.description": "Regenerates with heat",
+  "effect.mynethersdelight.b_pungent": "Caustic Pungency",
+  "effect.mynethersdelight.b_pungent.desc": "Induces combustion upon heat exposure; flames are automatically doused when at a safe distance.",
+  "effect.mynethersdelight.g_pungent": "Invigorating Pungency",
+  "effect.mynethersdelight.g_pungent.desc": "Provides natural regeneration while exposed to heat.",
 
   "item.mynethersdelight.cooked_loin": "Cooked Hoglin Loin",
 
@@ -14,24 +16,24 @@
   "tag.item.mynethersdelight.hot_spice": "Hot Spices",
   "tag.item.mynethersdelight.stove_fire_fuel": "Stove Fire Fuels",
   "tag.item.mynethersdelight.stove_soul_fuel": "Stove Soul Fuels",
-  "tag.item.mynethersdelight.stuffed_hoglin_items": "Stuffed Hoglin Items",
+  "tag.item.mynethersdelight.stuffed_hoglin_items": "Stuffed Hoglin Ingredients",
 
   "tag.item.mynethersdelight.chili_meats": "Chili Meats",
   "tag.item.mynethersdelight.curry_meats": "Curry Meats",
   "tag.item.mynethersdelight.ghast_meats": "Ghast Meats",
   "tag.item.mynethersdelight.strider_meats": "Strider Meats",
 
-  "tag.item.mynethersdelight.bullet_pepper": "Bullet Pepper",
-  "tag.item.mynethersdelight.cooked_hoglin_loin": "Cooked Hoglin Loin",
+  "tag.item.mynethersdelight.bullet_pepper": "Bullet Peppers",
+  "tag.item.mynethersdelight.cooked_hoglin_loin": "Cooked Hoglin Loins",
   "tag.item.mynethersdelight.cooked_hoglin": "Cooked Hoglin",
-  "tag.item.mynethersdelight.crimson_colony": "Crimson Fungus Colony",
+  "tag.item.mynethersdelight.crimson_colony": "Crimson Fungus Colonies",
   "tag.item.mynethersdelight.hoglin_hide": "Hoglin Hide",
   "tag.item.mynethersdelight.loin_hoglin": "Hoglin Loin",
   "tag.item.mynethersdelight.minced_strider": "Minced Strider",
-  "tag.item.mynethersdelight.powder_cannon": "Powder Cannon",
-  "tag.item.mynethersdelight.raw_hoglin_loin": "Raw Hoglin Loin",
+  "tag.item.mynethersdelight.powder_cannon": "Powder Cannons",
+  "tag.item.mynethersdelight.raw_hoglin_loin": "Raw Hoglin Loins",
   "tag.item.mynethersdelight.raw_hoglin": "Raw Hoglin",
-  "tag.item.mynethersdelight.strider_slice": "Strider Slice",
+  "tag.item.mynethersdelight.strider_slice": "Strider Slices",
   "tag.item.mynethersdelight.stuffed_hoglin": "Stuffed Hoglin",
-  "tag.item.mynethersdelight.warped_colony": "Warped Fungus Colony"
+  "tag.item.mynethersdelight.warped_colony": "Warped Fungus Colonies"
 }
