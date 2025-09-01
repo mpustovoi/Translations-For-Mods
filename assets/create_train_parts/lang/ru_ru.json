@@ -1,0 +1,47 @@
+{
+  "block.create_train_parts.train_step_andesite": "Андезитовые железнодорожные ступени",
+  "block.create_train_parts.train_step_brass": "Латунные железнодорожные ступени",
+  "block.create_train_parts.train_step_copper": "Медные железнодорожные ступени",
+  "block.create_train_parts.train_step_train": "Железнодорожные ступени",
+  "block.create_train_parts.train_slide_andesite": "Андезитовый железнодорожный пандус",
+  "block.create_train_parts.train_slide_brass": "Латунный железнодорожный пандус",
+  "block.create_train_parts.train_slide_copper": "Медный железнодорожный пандус",
+  "block.create_train_parts.train_slide_train": "Железнодорожный пандус",
+  "block.create_train_parts.glass_sliding_window": "Раздвижное окно",
+  "block.create_train_parts.andesite_sliding_window": "Андезитовое железнодорожное раздвижное окно",
+  "block.create_train_parts.brass_sliding_window": "Латунное железнодорожное раздвижное окно",
+  "block.create_train_parts.copper_sliding_window": "Медное железнодорожное раздвижное окно",
+  "block.create_train_parts.train_sliding_window": "Железнодорожное раздвижное окно",
+
+  "create_train_parts.ponder.train_assembly.header": "Использованием железнодорожных ступеней и пандусов",
+  "create_train_parts.ponder.train_assembly.text_1": "Иногда поезд слишком далеко от станции, чтобы войти в него",
+  "create_train_parts.ponder.train_assembly.text_2": "Используйте ступени или пандусы для более лёгкого доступа",
+  "create_train_parts.ponder.train_assembly.text_3": "Ступени и пандусы автоматически открываются при прибытии на станцию",
+  "create_train_parts.ponder.train_assembly.text_4": "И закрываются, когда поезд отъезжает от станции",
+
+  "create_train_parts.ponder.train_steps.header": "Настройкой режимов железнодорожных ступеней",
+  "create_train_parts.ponder.train_steps.text_1": "Ступени обычно выдвигаются с 'пандусом'",
+  "create_train_parts.ponder.train_steps.text_2": "Но это проблема, если впереди есть блок",
+  "create_train_parts.ponder.train_steps.text_3": "Чтобы решить это, настройте ступень не выдвигать пандус",
+  "create_train_parts.ponder.train_steps.text_4": "Удерживайте Ctrl, чтобы изменить все соединённые железнодорожные ступени",
+
+  "create_train_parts.ponder.window_modes.header": "Настройкой режимов железнодорожных раздвижных окон",
+  "create_train_parts.ponder.window_modes.text_1": "Раздвижные окна обычно открываются вверх",
+  "create_train_parts.ponder.window_modes.text_2": "Но вы можете настроить открывание в другом направлении",
+  "create_train_parts.ponder.window_modes.text_3": "Соединённые окна с одинаковым режимом будут открываться вместе",
+  "create_train_parts.ponder.window_modes.text_4": "Удержание Ctrl изменяет все окна",
+
+  "create_train_parts.ponder.train_behaviour.header": "Поведением раздвижных окон в поездах",
+  "create_train_parts.ponder.train_behaviour.text_1": "Окна, настроенные на открывание влево или вправо, автоматически открываются на станциях",
+  "create_train_parts.ponder.train_behaviour.text_2": "Окна, настроенные на открывание вверх или вниз, можно открыть только вручную",
+
+  "create_train_parts.sliding_window.mode": "Режим железнодорожного раздвижного окна",
+  "create.window.mode.up": "Движение вверх",
+  "create.window.mode.down": "Движение вниз",
+  "create.window.mode.left": "Движение влево",
+  "create.window.mode.right": "Движение вправо",
+  "create_train_parts.train_step.mode": "Режим пандуса",
+  "create.step.mode.slide": "Выдвигать пандус",
+  "create.step.mode.no_slide": "Не выдвигать пандус",
+  "itemGroup.create_train_parts.base": "Create: Детали Поездов"
+}
