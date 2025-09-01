@@ -23,7 +23,7 @@
   "createaddition.tooltip.charging.info": "Информация о катушке Теслы:",
   "createaddition.tooltip.charging.time_remaining": "Оставшееся время зарядки:",
 
-  "createaddition.tooltip.alternator.info": "Информация об альтернаторе:",
+  "createaddition.tooltip.alternator.info": "Информация о генераторе переменного тока:",
   "createaddition.tooltip.accumulator.info": "Информация об аккумуляторе:",
   "createaddition.tooltip.relay.info": "Информация о реле:",
   "createaddition.tooltip.connector.info": "Информация о соединителе:",
@@ -156,7 +156,7 @@
 
   "block.createaddition.electric_motor": "Электромотор",
 
-  "block.createaddition.alternator": "Альтернатор",
+  "block.createaddition.alternator": "Генератор переменного тока",
 
   "block.createaddition.creative_energy": "Творческий генератор",
   "block.createaddition.creative_energy.tooltip": "ТВОРЧЕСКИЙ_ГЕНЕРАТОР",
@@ -249,8 +249,8 @@
   "createaddition.ponder.electric_motor.text_3": "Для работы электромотора требуется источник энергии (⚡)",
   "createaddition.ponder.electric_motor.text_4": "Энергопотребление мотора определяется генерируемой скоростью вращения",
 
-  "createaddition.ponder.alternator.header": "Выработкой электроэнергии с помощью альтернатора",
-  "createaddition.ponder.alternator.text_1": "Для работы альтернатора требуется скорость вращения не менее 32 об/мин",
+  "createaddition.ponder.alternator.header": "Выработкой электроэнергии с помощью генератора переменного тока",
+  "createaddition.ponder.alternator.text_1": "Для работы генератора переменного тока требуется скорость вращения не менее 32 об/мин",
   "createaddition.ponder.alternator.text_2": "Он генерирует электрическую энергию (⚡) за счёт силы вращения",
   "createaddition.ponder.alternator.text_3": "Выработка энергии определяется входной скоростью вращения",
 
