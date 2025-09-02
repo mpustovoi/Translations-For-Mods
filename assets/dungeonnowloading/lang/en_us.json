@@ -1,4 +1,6 @@
 {
+  "advancements.dungeonnowloading.find_jungle_pyramid.description": "Find the Jungle Temple",
+  "advancements.dungeonnowloading.find_jungle_pyramid.title": "Tropical Tomb",
   "block.dungeonnowloading.explosive_barrel": "Gunpowder Barrel",
   "block.dungeonnowloading.wooden_wall_platform": "Wooden Platform",
   "block.dungeonnowloading.wooden_wall_rack": "Wooden Rack",
@@ -8,9 +10,13 @@
   "item.dungeonnowloading.music_disc_clash_of_duality_boros.desc": "Callister Corvus - Clash of Duality 'Boros'",
   "item.dungeonnowloading.music_disc_clash_of_duality_ouros.desc": "Callister Corvus - Clash of Duality 'Ouros'",
   "item.dungeonnowloading.music_disc_clash_of_duality_pythonic_overdrive.desc": "Callister Corvus - Clash of Duality 'Pythonic Overdrive'",
+  "item.dungeonnowloading.temple_of_duality_map": "Temple of Duality Map",
   "sounds.dungeonnowloading.clash_of_duality_boros": "Clash of Duality 'Boros' playing",
   "sounds.dungeonnowloading.clash_of_duality_ouros": "Clash of Duality 'Ouros' playing",
   "sounds.dungeonnowloading.disc_clash_of_duality_boros": "Clash of Duality - Boros playing",
   "sounds.dungeonnowloading.disc_clash_of_duality_ouros": "Clash of Duality - Ouros playing",
-  "sounds.dungeonnowloading.disc_clash_of_duality_pythonic_overdrive": "Clash of Duality - Pythonic Overdrive playing"
+  "sounds.dungeonnowloading.disc_clash_of_duality_pythonic_overdrive": "Clash of Duality - Pythonic Overdrive playing",
+  "tag.item.dungeonnowloading.ouros_boros_music_disc": "Ouros & Boros Music Discs",
+  "tag.item.dungeonnowloading.redstone_circuit_or_core": "Redstone Circuit or Core",
+  "tag.item.dungeonnowloading.stone_notch_material": "Stone Notch Materials"
 }
