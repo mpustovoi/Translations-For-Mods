@@ -1,6 +1,6 @@
 {
-  "description": "Toxic Caves Additions",
+  "description": "Дополнения токисчных пещер",
   "icon": "alexscaves:textures/misc/advancement/icon/toxic_caves.png",
-  "name": "Toxic Caves",
+  "name": "Токсичные пещеры",
   "sortnum": 3
 }

@@ -1,25 +1,25 @@
 {
   "category": "alexscavesexemplified:toxic_caves",
   "icon": "minecraft:paper",
-  "name": "Tremorzilla",
+  "name": "Сотрясозилла",
   "pages": [
     {
       "type": "patchouli:image",
       "images": [
         "alexscavesexemplified:textures/gui/wiki/toxic_caves/tremorzilla/gamma_tremorzilla.png"
       ],
-      "text": "Born from pure condensed energy, Gamma Tremorzilla is an ascension above its former self",
-      "title": "Gamma Tremorzilla"
+      "text": "Рождённая из чистой конденсированной энергии, гамма-сотрясозилла представляет собой превосходство над своей прежней формой",
+      "title": "Гамма-сотрясозилла"
     },
     {
       "type": "patchouli:spotlight",
       "item": "alexscavesexemplified:gamma_nuclear_bomb",
-      "text": "Gamma Nuclear Bombs can be made by blasting a dropped nuclear bomb with a gamma raygun",
-      "title": "Gamma Nuke Making"
+      "text": "Гамма-ядерные бомбы можно создать, взорвав брошенную ядерную бомбу с помощью гамма-излучателя",
+      "title": "Создание гамма-бомбы"
     },
     {
       "type": "patchouli:text",
-      "text": "Gamma Tremorzilla can be summoned by lighting a gamma nuclear bomb near them"
+      "text": "Гамма-сотрясозиллу можно призвать, активировав гамма-ядерную бомбу рядом с ней"
     }
   ]
 }

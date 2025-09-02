@@ -1,63 +1,63 @@
 {
   "category": "alexscavesexemplified:toxic_caves",
   "icon": "minecraft:paper",
-  "name": "General",
+  "name": "Общее",
   "pages": [
     {
       "type": "patchouli:image",
       "images": [
         "alexscavesexemplified:textures/gui/wiki/toxic_caves/exemplified_irradiation.png"
       ],
-      "text": "When reaching a certain level of irradiation, severe side effects are afflicted",
-      "title": "Exemplified Irradiation"
+      "text": "При достижении определённого уровня облучения проявляются серьёзные побочные эффекты",
+      "title": "Усиленное облучение"
     },
     {
       "type": "patchouli:text",
-      "text": "Side effects are as follows \nWeakness, Hunger, Nausea, Slowness, (If Alex's Mobs is present) Exsanguination"
+      "text": "Побочные эффекты следующие:\nслабость, голод, тошнота, замедление, (если установлены мобы Alex'а) обескровливание"
     },
     {
       "type": "patchouli:image",
       "images": [
         "alexscavesexemplified:textures/gui/wiki/toxic_caves/kirov_reporting.png"
       ],
-      "text": "Allows the dropping of explosives when airborne, with a flint and steel on the other hand",
-      "title": "Kirov Reporting!"
+      "text": "Позволяет сбрасывать взрывчатку в полёте, с огнивом во второй руке",
+      "title": "Киров докладывает"
     },
     {
       "type": "patchouli:text",
-      "text": "Usable explosives are as follows \n TNT,TNT Minecarts, Nuclear Bombs, Gamma Nuclear Bombs, (If AC Enriched is present) Bombs from Enriched"
+      "text": "Используемая взрывчатка:\nдинамит, вагонетки с динамитом, ядерные бомбы, гамма-ядерные бомбы, (если установлены пещеры Alex'а: Обогащённость) обогащённые бомбы"
     },
     {
       "type": "patchouli:image",
       "images": [
         "alexscavesexemplified:textures/gui/wiki/toxic_caves/armored_liquidators.png"
       ],
-      "text": "Hazmat Armor resists radiation sources better",
-      "title": "Armored Liquidators"
+      "text": "Защитный костюм лучше сопротивляется источникам облучения",
+      "title": "Бронированные ликвидаторы"
     },
     {
       "type": "patchouli:image",
       "images": [
         "alexscavesexemplified:textures/gui/wiki/toxic_caves/rearayngement.png"
       ],
-      "text": "Improves Rayguns to be more destructive,(Compatible with AC Enriched,Mk2 version",
-      "title": "Rearayngement"
+      "text": "Улучшает излучатели, делая их более разрушительными, (совместимо с версией Мк. II из пещеры Alex'а: Обогащённость)",
+      "title": "Переизлучение"
     },
     {
       "type": "patchouli:image",
       "images": [
         "alexscavesexemplified:textures/gui/wiki/toxic_caves/irradiation_washoff.png"
       ],
-      "text": "Douse yourself in water to reduce irradiation,(If Supplementaries present) Can use soap to further wash off such",
-      "title": "Irradiation Washoff"
+      "text": "Окатите себя водой, чтобы уменьшить облучение, (если установлен Supplementaries) можно использовать мыло для дополнительного смывания",
+      "title": "Смывание радиации"
     },
     {
       "type": "patchouli:image",
       "images": [
         "alexscavesexemplified:textures/gui/wiki/toxic_caves/geothermal_effects.png"
       ],
-      "text": "Effects those on top of geothermal vents based on the liquid that is being spewed",
-      "title": "Geothermal Effects"
+      "text": "Воздействует на тех, кто находится на геотермальных вентиляциях, в зависимости от выбрасываемой жидкости",
+      "title": "Геотермальные эффекты"
     }
   ]
 }

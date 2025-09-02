@@ -1,0 +1,63 @@
+{
+  "category": "alexscavesexemplified:toxic_caves",
+  "icon": "minecraft:paper",
+  "name": "General",
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": [
+        "alexscavesexemplified:textures/gui/wiki/toxic_caves/exemplified_irradiation.png"
+      ],
+      "text": "When reaching a certain level of Irradiation, severe side effects are afflicted",
+      "title": "Exemplified Irradiation"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Side effects are as follows\nWeakness, Hunger, Nausea, Slowness, (if Alex's Mobs is present) Exsanguination"
+    },
+    {
+      "type": "patchouli:image",
+      "images": [
+        "alexscavesexemplified:textures/gui/wiki/toxic_caves/kirov_reporting.png"
+      ],
+      "text": "Allows the dropping of explosives when airborne, with a Flint and Steel on the offhand",
+      "title": "Kirov Reporting!"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Usable explosives are as follows\n TNT, TNT Minecarts, Nuclear Bombs, Gamma Nuclear Bombs, (if Alex's Caves: Enriched is present) Bombs from Enriched"
+    },
+    {
+      "type": "patchouli:image",
+      "images": [
+        "alexscavesexemplified:textures/gui/wiki/toxic_caves/armored_liquidators.png"
+      ],
+      "text": "Hazmat Armor resists radiation sources better",
+      "title": "Armored Liquidators"
+    },
+    {
+      "type": "patchouli:image",
+      "images": [
+        "alexscavesexemplified:textures/gui/wiki/toxic_caves/rearayngement.png"
+      ],
+      "text": "Improves Rayguns to be more destructive, (compatible with Alex's Caves: Enriched's Mk. II version)",
+      "title": "Rearayngement"
+    },
+    {
+      "type": "patchouli:image",
+      "images": [
+        "alexscavesexemplified:textures/gui/wiki/toxic_caves/irradiation_washoff.png"
+      ],
+      "text": "Douse yourself in water to reduce Irradiation, (if Supplementaries present) you can use soap to further wash off such",
+      "title": "Irradiation Washoff"
+    },
+    {
+      "type": "patchouli:image",
+      "images": [
+        "alexscavesexemplified:textures/gui/wiki/toxic_caves/geothermal_effects.png"
+      ],
+      "text": "Effects those on top of Geothermal Vents based on the liquid that is being spewed",
+      "title": "Geothermal Effects"
+    }
+  ]
+}

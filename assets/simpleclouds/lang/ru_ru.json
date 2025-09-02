@@ -153,7 +153,7 @@
   "gui.simpleclouds.notice.vivecraft": "Поддержка Vivecraft экспериментальна. Ожидайте снижения FPS, нестабильности и графических артефактов. Сообщайте об ошибках на GitHub.",
   "gui.simpleclouds.reload_confirmation.server.info": "На сервере был изменён параметр конфигурации, требующий перезагрузки рендерера облаков. Нажмите 'Продолжить' для продолжения.",
   "gui.simpleclouds.requires_reload.info": "Был изменён параметр конфигурации, требующий перезагрузки рендерера облаков. Хотите перезагрузить рендерер для применения изменений?",
-  "gui.simpleclouds.unknown_or_invalid_client_side_cloud_type.info": "Неизвестный или недопустимый тип облаков '%s'. Пожалуйста, выберите допустимый тип облаков. \n\nДопустимые типы облаков:\n\n%s",
+  "gui.simpleclouds.unknown_or_invalid_client_side_cloud_type.info": "Неизвестный или недопустимый тип облаков '%s'. Пожалуйста, выберите допустимый тип облаков.\n\nДопустимые типы облаков:\n\n%s",
   "simpleclouds.config.preset.classic_style": "Классический стиль",
   "simpleclouds.config.preset.classic_style.description": "Классический стиль Simple Clouds",
   "simpleclouds.config.preset.low": "Низкий",

@@ -1,23 +1,23 @@
 {
   "category": "alexscavesexemplified:forlorn_hollows",
   "icon": "minecraft:paper",
-  "name": "Corrodent",
+  "name": "Разкрысатель",
   "pages": [
     {
       "type": "patchouli:image",
       "images": [
         "alexscavesexemplified:textures/gui/wiki/forlorn_hollows/corrodent/knawing.png"
       ],
-      "text": "Corrodents knaw on items and foods",
-      "title": "Knawing"
+      "text": "Разкрысатели грызут предметы и еду",
+      "title": "Грызение"
     },
     {
       "type": "patchouli:image",
       "images": [
         "alexscavesexemplified:textures/gui/wiki/forlorn_hollows/corrodent/corrodent_conversion.png"
       ],
-      "text": "Corrodents can be assimilated into Underzealots",
-      "title": "Corrodent Conversion"
+      "text": "Разкрысатели могут быть ассимилированы в подзектантов",
+      "title": "Преображение разкрысателей"
     }
   ]
 }

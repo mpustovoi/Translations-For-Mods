@@ -1,15 +1,15 @@
 {
   "category": "alexscavesexemplified:toxic_caves",
   "icon": "minecraft:paper",
-  "name": "Radgill",
+  "name": "Радиабр",
   "pages": [
     {
       "type": "patchouli:image",
       "images": [
         "alexscavesexemplified:textures/gui/wiki/toxic_caves/radgill/fish_mutation.png"
       ],
-      "text": "Fish can be mutated into radgills in acid",
-      "title": "Fish Mutation"
+      "text": "Рыбу можно мутировать в радиабров в кислоте",
+      "title": "Мутация рыбы"
     }
   ]
 }

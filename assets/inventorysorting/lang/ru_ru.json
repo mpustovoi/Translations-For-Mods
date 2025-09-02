@@ -21,7 +21,7 @@
   "key.inventorysorter.config.hidesort": "Скрыть обе кнопки сортировки",
   "key.inventorysorter.config.nosort": "Показывать только сортировку инвентаря игрока",
   "key.inventorysorter.config.hidetooltip": "Ни открытый инвентарь, ни инвентарь вашего игрока\nне будут доступны для сортировки при открытии этого инвентаря",
-  "key.inventorysorter.config.nosorttooltip": "Кнопка сортировки открытого инвентаря не будет видна, \nтолько игроку, когда этот инвентарь будет открыт",
+  "key.inventorysorter.config.nosorttooltip": "Кнопка сортировки открытого инвентаря не будет видна,\nтолько игроку, когда этот инвентарь будет открыт",
   "key.inventorysorter.toast.pass": "Успешно загружено",
   "key.inventorysorter.toast.error": "Ошибка загрузки",
   "key.inventorysorter.toast.error2": "Дополнительную информацию смотрите в журналах",

@@ -1,0 +1,140 @@
+{
+  "category": "alexscavesexemplified:candy_cavity",
+  "icon": "minecraft:paper",
+  "name": "General",
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": [
+        "alexscavesexemplified:textures/gui/wiki/candy_cavity/gluttony.png"
+      ],
+      "text": "Eat Candy blocks by right clicking while crouching",
+      "title": "Gluttony"
+    },
+    {
+      "type": "patchouli:image",
+      "images": [
+        "alexscavesexemplified:textures/gui/wiki/candy_cavity/gluttony2.png"
+      ],
+      "text": "Adds minor interactions with eating food"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Consuming Frostmint and Purple Soda will also cause a minor explosion"
+    },
+    {
+      "type": "patchouli:image",
+      "images": [
+        "alexscavesexemplified:textures/gui/wiki/candy_cavity/sticky_soda.png"
+      ],
+      "text": "Purple Soda applies Slowness when in it",
+      "title": "Sticky Soda"
+    },
+    {
+      "type": "patchouli:image",
+      "images": [
+        "alexscavesexemplified:textures/gui/wiki/candy_cavity/radiant_wrath.png"
+      ],
+      "text": "Overdrives your casted Sugar Staff abilities at the cost of a Radiant Essence held in offhand",
+      "title": "Radiant Wrath"
+    },
+    {
+      "type": "patchouli:image",
+      "images": [
+        "alexscavesexemplified:textures/gui/wiki/candy_cavity/tuned_sating.png"
+      ],
+      "text": "Upgrades Sack of Sating, adding new interactions and features",
+      "title": "Tuned Sating"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Can drop items onto a dropped sack,\n Can eat food that cant be picked up when in inventory,\n Creates a Jellybean when giving it a food with effects at the cost of 10 Gelatin in inventory"
+    },
+    {
+      "type": "patchouli:image",
+      "images": [
+        "alexscavesexemplified:textures/gui/wiki/candy_cavity/sugar_crash.png"
+      ],
+      "text": "Inflicts you with Sugar Crash after the effects of Sugar Rush, causing minor damage and Slowness",
+      "title": "Sugar Crash"
+    },
+    {
+      "type": "patchouli:image",
+      "images": [
+        "alexscavesexemplified:textures/gui/wiki/candy_cavity/iced_cream.png"
+      ],
+      "text": "Thrown Ice Cream Scoops inflict Frost",
+      "title": "Iced Cream"
+    },
+    {
+      "type": "patchouli:image",
+      "images": [
+        "alexscavesexemplified:textures/gui/wiki/candy_cavity/cryonic_cavity.png"
+      ],
+      "text": "Candy Cavity slowly freezes you",
+      "title": "Cryonic Cavity"
+    },
+    {
+      "type": "patchouli:image",
+      "images": [
+        "alexscavesexemplified:textures/gui/wiki/candy_cavity/breaking_candy.png"
+      ],
+      "text": "Allows the cooking of Gelatin with a lit Cauldron",
+      "title": "Breaking Candy"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "tag:alexscavesexemplified:gelatinable",
+      "text": "To cook Gelatin, drop in a Dye of choice for the color, and a Bone inside a heated Cauldron, and simply wait",
+      "title": ""
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "alexscavesexemplified:ice_cream_cone",
+      "text": "Assemble tasty Ice Creams (I love Ice Cream), note that the Ice Cream sequence doesn't matter apart from the Cone",
+      "title": "Ice Cream Cone"
+    },
+    {
+      "type": "patchouli:multiblock",
+      "multiblock": {
+        "mapping": {
+          "0": "alexscaves:wafer_cookie_wall",
+          "B": "alexscaves:wafer_cookie_block",
+          "C": "alexscaves:chocolate_ice_cream",
+          "S": "alexscaves:sweetberry_ice_cream",
+          "V": "alexscaves:vanilla_ice_cream"
+        },
+        "pattern": [["V"], ["S"], ["C"], ["B"], ["0"]]
+      },
+      "name": ""
+    },
+    {
+      "type": "patchouli:image",
+      "images": [
+        "alexscavesexemplified:textures/gui/wiki/candy_cavity/overdrived_conversion.png"
+      ],
+      "text": "Allows a Conversion Crucible to be overdrived by dropping a Radiant Essence to increase the radius of it",
+      "title": "Overdrived Conversion"
+    },
+    {
+      "type": "patchouli:image",
+      "images": [
+        "alexscavesexemplified:textures/gui/wiki/candy_cavity/purple_leathered.png"
+      ],
+      "text": "Tints uncolored armor to purple, when in Soda, (compatible with modded armor)",
+      "title": "Purple Colored"
+    },
+    {
+      "type": "patchouli:image",
+      "images": [
+        "alexscavesexemplified:textures/gui/wiki/candy_cavity/amplified_frostmint.png"
+      ],
+      "text": "Adds interactibility with Frostmint items, in item and spear form",
+      "title": "Amplified Frostmint"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Dropped Frostmint items will explode similar to falling Frostmint\nFrostmint Spears when in collision will solidify nearby liquids"
+    }
+  ]
+}

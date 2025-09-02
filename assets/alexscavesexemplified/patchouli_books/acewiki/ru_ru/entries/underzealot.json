@@ -1,27 +1,27 @@
 {
   "category": "alexscavesexemplified:forlorn_hollows",
   "icon": "minecraft:paper",
-  "name": "Underzealot",
+  "name": "Подзектант",
   "pages": [
     {
       "type": "patchouli:image",
       "images": [
         "alexscavesexemplified:textures/gui/wiki/forlorn_hollows/underzealot/underzealot_respect.png"
       ],
-      "text": "Wearing the full set of the Underzealot's clothing makes them neutral with you",
-      "title": "Underzealot Respect"
+      "text": "Ношение полного комплекта одежды подзектантов делает их нейтральными к вам",
+      "title": "Уважение подзектантов"
     },
     {
       "type": "patchouli:image",
       "images": [
         "alexscavesexemplified:textures/gui/wiki/forlorn_hollows/underzealot/dark_offering.png"
       ],
-      "text": "Allows a player to leash sacrificeable denizens and give them to Underzealots for their rituals by right clicking,",
-      "title": "Dark Offering"
+      "text": "Позволяет игроку приносить в жертву пригодных обитателей на поводке и отдавать их подзектантам для их ритуалов, нажав ПКМ,",
+      "title": "Тёмное приношение"
     },
     {
       "type": "patchouli:text",
-      "text": "(REQUIRES 'Underzealot Respect' FOR THIS PART OF THE FEATURE) \n If neutral with the Underzealots,They will give an item native to the Forlorn Hollows in return of offering them a sacrifice,What they give in return is dependant on the sacrifice type"
+      "text": "(ТРЕБУЕТ 'УВАЖЕНИЕ ПОДЗЕКТАНТОВ' ДЛЯ ЭТОЙ ЧАСТИ ФУНКЦИОНАЛА)\nЕсли вы нейтральны с подзектантами, они дадут предмет, характерный для забвенных пустот, в обмен на приношение в жертву. Что они дают в ответ, зависит от типа жертвы"
     }
   ]
 }

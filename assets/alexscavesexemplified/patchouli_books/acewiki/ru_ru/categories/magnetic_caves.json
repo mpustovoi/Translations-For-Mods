@@ -1,6 +1,6 @@
 {
-  "description": "Magnetic Caves Additions",
+  "description": "Дополнения магниных пещер",
   "icon": "alexscaves:textures/misc/advancement/icon/magnetic_caves.png",
-  "name": "Magnetic Caves",
+  "name": "Магнитные пещеры",
   "sortnum": 5
 }

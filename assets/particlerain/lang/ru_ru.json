@@ -101,7 +101,7 @@
   "particlerain.ParticleOptions.constantScreenSize": "Постоянный размер на экране",
   "particlerain.ParticleOptions.constantScreenSize.description": "Масштабирует частицу с расстоянием, сохраняя её размер на экране неизменным.",
   "particlerain.ParticleOptions.renderType": "Тип отрисовки",
-  "particlerain.ParticleOptions.renderType.description": "Определяет обработку прозрачности. \nТип BLENDED может некорректно отображаться с некоторыми модами и несовместим с наборами шейдеров в Minecraft 1.21.5.",
+  "particlerain.ParticleOptions.renderType.description": "Определяет обработку прозрачности.\nТип BLENDED может некорректно отображаться с некоторыми модами и несовместим с наборами шейдеров в Minecraft 1.21.5.",
   "particlerain.ParticleOptions.spriteLocations": "Спрайты",
   "particlerain.ParticleOptions.tintType": "Тип тонировки",
   "particlerain.ParticleOptions.customTint": "Пользовательская тонировка",

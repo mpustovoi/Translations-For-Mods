@@ -1,98 +1,98 @@
 {
   "category": "alexscavesexemplified:candy_cavity",
   "icon": "minecraft:paper",
-  "name": "General",
+  "name": "Общее",
   "pages": [
     {
       "type": "patchouli:image",
       "images": [
         "alexscavesexemplified:textures/gui/wiki/candy_cavity/gluttony.png"
       ],
-      "text": "Eat candy blocks by right clicking while crouching",
-      "title": "Gluttony"
+      "text": "Поедайте конфетные блоки, нажимая ПКМ крадучись",
+      "title": "Обжорство"
     },
     {
       "type": "patchouli:image",
       "images": [
         "alexscavesexemplified:textures/gui/wiki/candy_cavity/gluttony2.png"
       ],
-      "text": "Adds minor interactions with eating food"
+      "text": "Добавляет небольшие взаимодействия с поеданием еды"
     },
     {
       "type": "patchouli:text",
-      "text": "Consuming frostmint and purple soda will also cause a minor explosion"
+      "text": "Употребление мятной жвачки и фиолетовой газировки также вызовет небольшой взрыв"
     },
     {
       "type": "patchouli:image",
       "images": [
         "alexscavesexemplified:textures/gui/wiki/candy_cavity/sticky_soda.png"
       ],
-      "text": "Purple soda applys slowness when in it",
-      "title": "Sticky Soda"
+      "text": "Фиолетовая газировка накладывает замедление при нахождении в ней",
+      "title": "Липкая газировка"
     },
     {
       "type": "patchouli:image",
       "images": [
         "alexscavesexemplified:textures/gui/wiki/candy_cavity/radiant_wrath.png"
       ],
-      "text": "Overdrives your casted sugar staff abilities at the cost of a radiant essence held off-offhand",
-      "title": "Radiant Wrath"
+      "text": "Усиливает способности вашего сахарного посоха ценой сияющей эссенции во второй руке",
+      "title": "Гнев сияния"
     },
     {
       "type": "patchouli:image",
       "images": [
         "alexscavesexemplified:textures/gui/wiki/candy_cavity/tuned_sating.png"
       ],
-      "text": "Upgrades Sack Of Sating, adding new interactions and features",
-      "title": "Tuned Sating"
+      "text": "Улучшает мешок насыщения, добавляя новые взаимодействия и функции",
+      "title": "Настроенное насыщение"
     },
     {
       "type": "patchouli:text",
-      "text": "Can drop items onto a dropped sack, \n Can eat food that cant be picked up when in inventory, \n Creates a jellybean when giving it a food with effects at the cost of 10 gelatin in inventory"
+      "text": "Можно бросать предметы на брошенный мешок,\n Он может съедать еду, которую нельзя подобрать, когда находится в инвентаре,\n Создаёт мармеладный боб, когда ему дают еду с эффектами, ценой 10 желатина в инвентаре"
     },
     {
       "type": "patchouli:image",
       "images": [
         "alexscavesexemplified:textures/gui/wiki/candy_cavity/sugar_crash.png"
       ],
-      "text": "Inflicts you with sugar crash after the effects of Sugar Rush, causing minor damage and slowness",
-      "title": "Sugar Crash"
+      "text": "Накладывает на вас сахарный взрыв после эффектов сахарной лихорадки, нанося небольшой урон с замедлением",
+      "title": "Сахарный взрыв"
     },
     {
       "type": "patchouli:image",
       "images": [
         "alexscavesexemplified:textures/gui/wiki/candy_cavity/iced_cream.png"
       ],
-      "text": "Thrown Ice Cream Scoops inflict frost",
-      "title": "Iced Cream"
+      "text": "Брошенные шарики мороженого замораживают",
+      "title": "За-мороженное"
     },
     {
       "type": "patchouli:image",
       "images": [
         "alexscavesexemplified:textures/gui/wiki/candy_cavity/cryonic_cavity.png"
       ],
-      "text": "Candy Cavity slowly freezes you",
-      "title": "Cryonic Cavity"
+      "text": "Конфетный котлован медленно замораживает вас",
+      "title": "Криогенный котлован"
     },
     {
       "type": "patchouli:image",
       "images": [
         "alexscavesexemplified:textures/gui/wiki/candy_cavity/breaking_candy.png"
       ],
-      "text": "Allows the cooking of gelatin with a lit cauldron",
-      "title": "Breaking Candy"
+      "text": "Позволяет варить желатин с помощью зажжённого котла",
+      "title": "Во все конфетные"
     },
     {
       "type": "patchouli:spotlight",
       "item": "tag:alexscavesexemplified:gelatinable",
-      "text": "To cook gelatin, drop in a dye of choice for the color, and a bone item,inside a heated cauldron,and simply wait",
-      "title": " "
+      "text": "Чтобы сварить желатин, бросьте краситель на выбор для цвета и кость в нагретый котёл и просто подождите",
+      "title": ""
     },
     {
       "type": "patchouli:spotlight",
       "item": "alexscavesexemplified:ice_cream_cone",
-      "text": "Assemble tasty ice creams (i love ice cream), Note that the Ice Cream sequence doesnt matter apart from the cone",
-      "title": "Ice Cream Cone"
+      "text": "Собирайте вкусное мороженое (я люблю мороженое), обратите внимание, что последовательность мороженого не имеет значения, кроме рожка",
+      "title": "Рожок мороженого"
     },
     {
       "type": "patchouli:multiblock",
@@ -104,53 +104,37 @@
           "S": "alexscaves:sweetberry_ice_cream",
           "V": "alexscaves:vanilla_ice_cream"
         },
-        "pattern": [
-          [
-            "V"
-          ],
-          [
-            "S"
-          ],
-          [
-            "C"
-          ],
-          [
-            "B"
-          ],
-          [
-            "0"
-          ]
-        ]
+        "pattern": [["V"], ["S"], ["C"], ["B"], ["0"]]
       },
-      "name": " "
+      "name": ""
     },
     {
       "type": "patchouli:image",
       "images": [
         "alexscavesexemplified:textures/gui/wiki/candy_cavity/overdrived_conversion.png"
       ],
-      "text": "Allows a conversion crucible to be overdrived by dropping a radiant essence to increase the radius of it",
-      "title": "Overdrived Conversion"
+      "text": "Позволяет перегрузить тигель трансформации, бросив в него сияющую эссенцию, чтобы увеличить его радиус",
+      "title": "Ускоренная реакция"
     },
     {
       "type": "patchouli:image",
       "images": [
         "alexscavesexemplified:textures/gui/wiki/candy_cavity/purple_leathered.png"
       ],
-      "text": "Tints uncolored armor to purple, when in soda,(Compatible with modded armor)",
-      "title": "Purple Leathered"
+      "text": "Окрашивает неокрашенную броню в фиолетовый цвет при погружении в газировку (совместимо с бронёй из модов)",
+      "title": "Фиолетовая краска"
     },
     {
       "type": "patchouli:image",
       "images": [
         "alexscavesexemplified:textures/gui/wiki/candy_cavity/amplified_frostmint.png"
       ],
-      "text": "Adds interactibility with frostmint items, in item and spear form",
-      "title": "Amplified Frostmint"
+      "text": "Добавляет возможность взаимодействия с предметами из мятной жвачки, в виде предмета и копья",
+      "title": "Усиленная мятная жвачка"
     },
     {
       "type": "patchouli:text",
-      "text": "Dropped Frostmint items will explode similar to falling frostmint \nFrostmint Spears when in collision will solidify nearby liquids"
+      "text": "Брошенные предметы из мятной жвачки взрываются как падающая жвачка\nКопьz морозной свежести при столкновении затвердевают ближайшую жидкость"
     }
   ]
 }

@@ -1,13 +1,13 @@
 {
   "category": "alexscavesexemplified:general",
   "icon": "minecraft:paper",
-  "name": "Redoable Spelunky",
+  "name": "Повторяемая спелеология",
   "pages": [
     {
       "type": "patchouli:spotlight",
       "item": "alexscaves:spelunkery_table",
-      "text": "Allows for you to back-out of the spelunkery table and not have the tablet break,useful for when interrupted by any unwanted interruptions",
-      "title": "Redoable Spelunky"
+      "text": "Позволяет выйти из стола спелеолога без разрушения таблички, что полезно при прерывании нежелательными вмешательствами",
+      "title": "Повторяемая спелеология"
     }
   ]
 }

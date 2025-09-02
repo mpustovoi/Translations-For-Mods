@@ -1,26 +1,26 @@
 {
   "category": "alexscavesexemplified:magnetic_caves",
   "icon": "minecraft:paper",
-  "name": "General",
+  "name": "Общее",
   "pages": [
     {
       "type": "patchouli:image",
       "images": [
         "alexscavesexemplified:textures/gui/wiki/magnetic_caves/magneticism.png"
       ],
-      "text": "Magneticism is an enchantment given to gears from Magnetic Caves,adding new mechanics",
-      "title": "Magneticism"
+      "text": "Магнетизм — это зачарование, применяемое к механизмам из магнитных пещер, добавляющее новые механики",
+      "title": "Магнетизм"
     },
     {
       "type": "patchouli:spotlight",
       "item": "alexscaves:galena_gauntlet",
-      "text": "Galena Gaunlet now has the ability to be able to appropriate Teletor weapons for your own \nGrab magnetic and crystalized items from afar \n and the ability to rip out the hearts of Magnetrons, at the cost of significant damage and cooldown dealt ",
+      "text": "Галенитовая перчатка теперь имеет способность забирать оружие у телеторов для собственного использования\nПритягивайте магнитные и кристаллические предметы издалека\n и вырывайте сердца магнетронов ценой значительного урона и перезарядки",
       "title": " "
     },
     {
       "type": "patchouli:spotlight",
       "item": "alexscaves:resistor_shield",
-      "text": "Resistor Shield now has the ability to affect dropped items \nCan launch nearby seeking arrows at a pointed target if the shield is azure \nCircle nearby seeking arrows during use while scarlet",
+      "text": "Щит сопротивления теперь имеет способность воздействовать на брошенные предметы\nМожет запускать ближайшие самонаводящиеся стрелы в указанную цель, если щит лазурный\nЗакруживать ближайшие самонаводящиеся стрелы во время использования, если щит алый",
       "title": " "
     },
     {
@@ -28,40 +28,40 @@
       "images": [
         "alexscavesexemplified:textures/gui/wiki/magnetic_caves/shocking_therapy.png"
       ],
-      "text": "Tesla Bulbs directly shock nearby players when in range",
-      "title": "Shocking Therapy"
+      "text": "Плазменные лампы напрямую бьют током ближайших игроков в радиусе действия",
+      "title": "Шоковая терапия"
     },
     {
       "type": "patchouli:text",
-      "text": "Also adds sfx from the franchise, Command And Conquer for the tesla bulbs"
+      "text": "Также добавляет спецэффекты из франшизы Command and Conquer для плазменных ламп"
     },
     {
       "type": "patchouli:image",
       "images": [
         "alexscavesexemplified:textures/gui/wiki/magnetic_caves/scalable_hologram.png"
       ],
-      "text": "Scale Holograms with Azure/Scarlet Ingots",
-      "title": "Scalable Hologram"
+      "text": "Масштабируйте голограммы с помощью слитков лазурного и алого неодима",
+      "title": "Масштабируемая голограмма"
     },
     {
       "type": "patchouli:image",
       "images": [
         "alexscavesexemplified:textures/gui/wiki/magnetic_caves/magnetic_movement.png"
       ],
-      "text": "(CLIENT SIDE) Magnetic Items sway around if within the Magnetic Caves",
-      "title": "Magnetic Movement"
+      "text": "(КЛИЕНТСКАЯ ЧАСТЬ) Магнитные предметы колеблются, если находятся в пределах магнитных пещер",
+      "title": "Магнитное движение"
     },
     {
       "type": "patchouli:image",
       "images": [
         "alexscavesexemplified:textures/gui/wiki/magnetic_caves/magnerip.png"
       ],
-      "text": "Rips out magnetic items out of hand with the magnetic forces if inflicted with weakness",
-      "title": "Magnerip"
+      "text": "Вырывает магнитные предметы из рук с помощью магнитных сил в купе с эффектом слабости",
+      "title": "Магнитный отрыв"
     },
     {
       "type": "patchouli:text",
-      "text": "(IF HARDCORE_MAGNERIP ENABLED) Rips out all magnetic items off of your inventory, Disabled By Default"
+      "text": "(ЕСЛИ ВКЛЮЧЁНО В НАСТРОЙКАХ) Вырывает все магнитные предметы из вашего инвентаря, по умолчанию отключено"
     }
   ]
 }

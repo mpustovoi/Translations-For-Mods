@@ -1,19 +1,19 @@
 {
   "category": "alexscavesexemplified:general",
   "icon": "minecraft:paper",
-  "name": "Cavial Bonemeal",
+  "name": "Пещерная костная мука",
   "pages": [
     {
       "type": "patchouli:image",
       "images": [
         "alexscavesexemplified:textures/gui/wiki/general/cavial_bonemeal.png"
       ],
-      "text": "Bonemealing compatible flora to improve or populate the area with flora when bonemealing",
-      "title": "Cavial Bonemeal"
+      "text": "Удобряйте совместимую флору, чтобы улучшить или заселить участок флорой при внесении удобрений",
+      "title": "Пещерная костная мука"
     },
     {
       "type": "patchouli:text",
-      "text": "Ping-Pong Sponges to improve length \nPrimordial Caves to propagate flora"
+      "text": "Расставьте губки для увеличения дальность распространения флоры первобытных пещер"
     }
   ]
 }

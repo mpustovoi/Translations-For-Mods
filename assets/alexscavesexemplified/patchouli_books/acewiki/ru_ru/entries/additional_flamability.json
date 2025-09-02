@@ -1,19 +1,19 @@
 {
   "category": "alexscavesexemplified:general",
   "icon": "minecraft:paper",
-  "name": "Additional Flamability",
+  "name": "Дополнительная воспламеняемость",
   "pages": [
     {
       "type": "patchouli:image",
       "images": [
         "alexscavesexemplified:textures/gui/wiki/general/additional_flamability.png"
       ],
-      "text": "Adds flamability with AC blocks that cant be lit originally",
-      "title": "Additional Flamability"
+      "text": "Добавляет воспламеняемость блокам из пещер Alex'а, которые изначально нельзя было поджечь",
+      "title": "Дополнительная воспламеняемость"
     },
     {
       "type": "patchouli:text",
-      "text": "Amber,Pewen Blocks,Stripped Pewen Blocks,Archaic Vine,Fiddlehead,Curly Fern,Flytrap,Cycad,Ancient Leaves,Fern ThatchThornwood Blocks,Stripped Thornwood Blocks,Underwood,Forsaken Idol"
+      "text": "Янтарь, араукариевые и обтёсанные араукариевые блоки, архаичные лианы, побеги папоротника, вьющийся папоротник, мухоловка, саговник, древняя листва, сноп папоротника, терновые и обтёсанные терновые блоки, подсорняк, тотем забытого"
     }
   ]
 }

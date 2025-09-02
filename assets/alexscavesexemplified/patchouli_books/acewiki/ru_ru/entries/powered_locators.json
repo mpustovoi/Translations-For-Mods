@@ -1,15 +1,15 @@
 {
   "category": "alexscavesexemplified:general",
   "icon": "minecraft:paper",
-  "name": "Powered Locators",
+  "name": "Усиленные локаторы",
   "pages": [
     {
       "type": "patchouli:image",
       "images": [
         "alexscavesexemplified:textures/gui/wiki/general/powered_locators.png"
       ],
-      "text": "Sacrifice a held wither star to empower a locating item to prevent godly intervention",
-      "title": "Powered Locators"
+      "text": "Принесите в жертву звезду Незера, чтобы усилить предмет-локатор и предотвратить божественное вмешательство",
+      "title": "Усиленные локаторы"
     }
   ]
 }

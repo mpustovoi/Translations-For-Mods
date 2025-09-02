@@ -1,15 +1,15 @@
 {
   "category": "alexscavesexemplified:toxic_caves",
   "icon": "minecraft:paper",
-  "name": "Brainiac",
+  "name": "Мозгоньяк",
   "pages": [
     {
       "type": "patchouli:image",
       "images": [
         "alexscavesexemplified:textures/gui/wiki/toxic_caves/brainiac/waste_pickup.png"
       ],
-      "text": "Brainiacs pickups dropped waste drums when unarmed",
-      "title": "Waste Pickup"
+      "text": "Мозгоньяки подбирают брошенные бочки радиоактивных отходов, когда не вооружены",
+      "title": "Подбор отходов"
     }
   ]
 }
