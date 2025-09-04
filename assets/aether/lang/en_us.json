@@ -1,4 +1,10 @@
 {
+  "block.aether.angelic_slab": "Angelic Stone Slab",
+  "block.aether.angelic_stairs": "Angelic Stone Stairs",
+  "block.aether.angelic_wall": "Angelic Stone Wall",
+  "block.aether.hellfire_slab": "Hellfire Stone Slab",
+  "block.aether.hellfire_stairs": "Hellfire Stone Stairs",
+  "block.aether.hellfire_wall": "Hellfire Stone Wall",
   "itemGroup.aether.armor_and_accessories": "Aether | Armor & Accessories",
   "itemGroup.aether.building_blocks": "Aether | Building Blocks",
   "itemGroup.aether.dungeon_blocks": "Aether | Dungeon Blocks",
