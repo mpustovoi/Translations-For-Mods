@@ -1,0 +1,54 @@
+{
+  "item.trailandtales_delight.cherry_blossom": "Цветок вишни",
+  "item.trailandtales_delight.cherry_petal": "Лепесток вишни",
+  "item.trailandtales_delight.dried_cherry_petal": "Высушенный лепесток вишни",
+  "item.trailandtales_delight.pottery_bowl": "Глиняная миска",
+  "block.trailandtales_delight.pottery_cooking_pot": "Глиняная кастрюля",
+  "block.trailandtales_delight.mud_stove": "Саманная печь",
+  "item.trailandtales_delight.baked_pitcher_pod": "Запечённый стручок кувшинницы",
+  "item.trailandtales_delight.baked_torchflower_seeds": "Запечённые семена факельника",
+  "item.trailandtales_delight.cheese_slice": "Ломтик сыра",
+  "item.trailandtales_delight.lantern_fruit_seeds": "Семена фонарного фрукта",
+  "item.trailandtales_delight.lantern_fruit": "Фонарный фрукт",
+  "item.trailandtales_delight.pitcher_plant": "Кувшинница",
+  "item.trailandtales_delight.golden_lantern_fruit": "Золотой фонарный фрукт",
+  "item.trailandtales_delight.pitcher_taro": "Таро кувшинницы",
+  "item.trailandtales_delight.cooked_pitcher_taro": "Приготовленное таро кувшинницы",
+  "item.trailandtales_delight.cherry_cheese_slice": "Ломтик вишнёвого сыра",
+  "item.trailandtales_delight.cherry_cake_slice": "Кусочек вишнёвого торта",
+  "item.trailandtales_delight.cherry_cheese_pie_slice": "Кусочек вишнёвого сырного пирога",
+  "item.trailandtales_delight.sniffer_eggshell_slice": "Ломтик скорлупы яйца нюхача",
+  "item.trailandtales_delight.fried_sniffer_egg": "Жареное яйцо нюхача",
+  "item.trailandtales_delight.stuffed_sniffer_egg": "Миска фаршированного яйца нюхача",
+  "item.trailandtales_delight.sniffer_egg_soup": "Миска супа из яйца нюхача",
+
+  "item.trailandtales_delight.cherry_petal_tea": "Чай из лепестков вишни",
+  "item.trailandtales_delight.torchflower_tea": "Чай из факельника",
+  "item.trailandtales_delight.pitcher_plant_tea": "Чай из кувшинницы",
+  "item.trailandtales_delight.ancient_coffee": "Древний кофе",
+
+  "block.trailandtales_delight.budding_lantern_fruit": "Цветущий фонарный фрукт",
+  "block.trailandtales_delight.lantern_fruits": "Лоза фонарного фрукта",
+  "block.trailandtales_delight.lantern_fruit_crate": "Ящик с фонарными фруктами",
+  "block.trailandtales_delight.pitcher_taro_crate": "Ящик с таро кувшинницы",
+
+  "block.trailandtales_delight.cheese_wheel": "Головка сыра",
+  "block.trailandtales_delight.curd_block": "Блок творога",
+  "block.trailandtales_delight.cherry_cake": "Вишнёвый торт",
+  "block.trailandtales_delight.cherry_cheese_pie": "Вишнёвый сырный пирог",
+  "block.trailandtales_delight.sniffer_eggshell": "Скорлупа яйца нюхача",
+  "block.trailandtales_delight.cooked_sniffer_egg_block": "Приготовленное яйцо нюхача",
+  "block.trailandtales_delight.stuffed_sniffer_egg_block": "Фаршированное яйцо нюхача",
+  "block.trailandtales_delight.sniffer_egg_soup": "Суп из яйца нюхача",
+
+  "item.trailandtales_delight.cherry_iron_knife": "Вишнёвый железный нож",
+  "item.trailandtales_delight.sniffer_eggshell_knife": "Нож из скорлупы яйца нюхача",
+
+  "block.trailandtales_delight.curd_block.tooltip": "Когда блок творога находится в условиях низкой освещённости, он превратится в головку сыра через некоторое время",
+  "item.trailandtales_delight.pitcher_plant.tooltip": "Используется только как сырьё. Нарезка ножом на разделочной доске позволяет получить кувшинницу и таро кувшинницы",
+
+  "advancements.tat_delight.title": "Изыски Троп и Сказок",
+  "advancements.tat_delight.descr": "Отправляйтесь в путешествие с ароматом цветущей вишни и древним очарованием...",
+
+  "itemGroup.trailandtales_delight.item": "Изыски Троп и Сказок"
+}
