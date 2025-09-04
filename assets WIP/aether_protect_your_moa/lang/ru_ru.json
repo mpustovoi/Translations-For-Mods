@@ -1,0 +1,16 @@
+{
+  "item.aether_protect_your_moa.diamond_moa_armor": "Алмазная броня моа",
+  "item.aether_protect_your_moa.golden_moa_armor": "Золотая броня моа",
+  "item.aether_protect_your_moa.gravitite_moa_armor": "Гравититовая броня моа",
+  "item.aether_protect_your_moa.iron_moa_armor": "Железная броня моа",
+  "item.aether_protect_your_moa.leather_moa_armor": "Кожаная броня моа",
+  "item.aether_protect_your_moa.zanite_moa_armor": "Занитовая броня моа",
+  "lore.item.aether_protect_your_moa.diamond_moa_armor": "Часть железной брони для вашего моа, предлагает сильную защиту.",
+  "lore.item.aether_protect_your_moa.golden_moa_armor": "Часть золотой брони для вашего моа, предлагает достойную защиту.",
+  "lore.item.aether_protect_your_moa.gravitite_moa_armor": "Часть гравититовой брони для вашего моа, предлагает сильную защиту и увеличивает количество прыжков.",
+  "lore.item.aether_protect_your_moa.iron_moa_armor": "Часть железной брони для вашего моа, предлагает некоторую защиту.",
+  "lore.item.aether_protect_your_moa.leather_moa_armor": "Крашуемая часть кожаной брони для вашего моа, предлагает небольшую защиту.",
+  "lore.item.aether_protect_your_moa.zanite_moa_armor": "Часть занитовой брони для вашего моа, предлагает некоторую защиту.",
+  "pack.aether_protect_your_moa.mod.description": "Ресурсы Эфир: Защити Своего Моа",
+  "subtitles.aether_protect_your_moa.entity.moa.chest": "Сундук моа экипирован"
+}

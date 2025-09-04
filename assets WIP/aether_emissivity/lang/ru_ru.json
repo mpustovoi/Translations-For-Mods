@@ -1,0 +1,14 @@
+{
+  "aether_emissivity.configuration.Emissives": "Свечение",
+  "aether_emissivity.configuration.Emissives.tooltip": "Настройки для свечения",
+  "aether_emissivity.configuration.section.aether_emissivity.client.toml": "Клиентские настройки",
+  "aether_emissivity.configuration.section.aether_emissivity.client.toml.title": "Конфигурация свечения (клиент)",
+  "aether_emissivity.configuration.title": "Конфигурация свечения",
+  "config.aether_emissivity.client.emissives.emissive_phoenix_armor": "Включить свечение для брони Феникса",
+  "config.aether_emissivity.client.emissives.emissive_phoenix_armor.tooltip": "Включает свечение для брони Феникса",
+  "config.aether_emissivity.client.emissives.emissive_sentry_boots": "Включить свечение для ботинок караульного",
+  "config.aether_emissivity.client.emissives.emissive_sentry_boots.tooltip": "Включает свечение для ботинок караульного",
+  "config.aether_emissivity.client.emissives.emissive_shield_of_repulsion": "Включить свечение для щита отражения",
+  "config.aether_emissivity.client.emissives.emissive_shield_of_repulsion.tooltip": "Включает свечение для щита отражения",
+  "pack.aether_emissivity.mod.description": "Ресурсы Эфир: Свечение"
+}

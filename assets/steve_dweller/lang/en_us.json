@@ -1,4 +1,19 @@
 {
-  "item.steve_dweller.steve_dweller_spawn_egg": "Steve Mimic Spawn Egg",
-  "entity.steve_dweller.steve_dweller": "Steve"
+  "advancements.i_see_you.descr": "Be sure",
+  "advancements.i_see_you.title": "I See You",
+  "entity.steve_dweller.fake_steve_cave": "Steve",
+  "entity.steve_dweller.placeholder_treeline_entity": "Steve",
+  "entity.steve_dweller.spawn_trigger_entity_stalk": "Steve",
+  "entity.steve_dweller.steve_dweller_attack": "Steve",
+  "entity.steve_dweller.steve_dweller_stalking": "Steve",
+  "entity.steve_dweller.steve_dweller_woods": "Steve",
+  "item.steve_dweller.steve_dweller_attack_spawn_egg": "Steve Mimic Spawn Egg",
+  "item.steve_dweller.steve_dweller_stalking_spawn_egg": "Steve Mimic Spawn Egg",
+  "item.steve_dweller.steve_dweller_woods_spawn_egg": "Steve Mimic Spawn Egg",
+  "subtitles.cavenoise": "",
+  "subtitles.chase": "",
+  "subtitles.chasequieter": "",
+  "subtitles.disappear": "",
+  "subtitles.spotted": "",
+  "subtitles.surfaceambience": ""
 }

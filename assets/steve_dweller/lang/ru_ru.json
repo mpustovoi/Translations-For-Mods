@@ -1,4 +1,19 @@
 {
-  "item.steve_dweller.steve_dweller_spawn_egg": "Яйцо призыва Стива-мимика",
-  "entity.steve_dweller.steve_dweller": "Стив"
+  "advancements.i_see_you.descr": "Будь уверен",
+  "advancements.i_see_you.title": "Я тебя вижу",
+  "entity.steve_dweller.fake_steve_cave": "Стив",
+  "entity.steve_dweller.placeholder_treeline_entity": "Стив",
+  "entity.steve_dweller.spawn_trigger_entity_stalk": "Стив",
+  "entity.steve_dweller.steve_dweller_attack": "Стив",
+  "entity.steve_dweller.steve_dweller_stalking": "Стив",
+  "entity.steve_dweller.steve_dweller_woods": "Стив",
+  "item.steve_dweller.steve_dweller_attack_spawn_egg": "Яйцо призыва Стива-мимика",
+  "item.steve_dweller.steve_dweller_stalking_spawn_egg": "Яйцо призыва Стива-мимика",
+  "item.steve_dweller.steve_dweller_woods_spawn_egg": "Яйцо призыва Стива-мимика",
+  "subtitles.cavenoise": "",
+  "subtitles.chase": "",
+  "subtitles.chasequieter": "",
+  "subtitles.disappear": "",
+  "subtitles.spotted": "",
+  "subtitles.surfaceambience": ""
 }
