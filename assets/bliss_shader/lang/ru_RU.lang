@@ -1,5 +1,5 @@
-option.SHADER_VERSION_LABEL = Bliss версия «в разработке»
-    prefix.SHADER_VERSION_LABEL = КОММИТ #
+profile.SHADER_VERSION_LABEL = Bliss v2.1.0
+profile.OLD_BLISS_TONEMAP = Bliss v2.1.0 + v2.0.4 Color Processing
 
 # Эти настройки не делают то, что заявлено
 profile.QUALITY=Качество
@@ -131,6 +131,7 @@ screen.Ambient_light = Фоновое освещение
     option.AO_Strength = Множитель окр. оккл.
     option.GI_Strength = Множитель глоб. осв.
     option.HQ_SSGI = Дальний SSGI
+    option.UseQuarterResDepth = Выборка с глубиной разрешения 1/4 (SSRT)
     option.Hand_Held_lights = Ручной фонарь
     option.SKY_CONTRIBUTION_IN_SSRT = Высококачественный фоновый свет
     option.ambientOcclusionLevel = Уровень окр. оккл. из игры
