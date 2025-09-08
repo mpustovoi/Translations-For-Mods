@@ -1,0 +1,15 @@
+{
+  "item.mutantszombies.crawler_spawn_egg": "Zombie Crawler Spawn Egg",
+  "item.mutantszombies.spitter_spawn_egg": "Zombie Spitter Spawn Egg",
+  "item.mutantszombies.zombie_brute_spawn_egg": "Zombie Brute Spawn Egg",
+  "item.mutantszombies.mutant_brute_spawn_egg": "Mutant Zombie Brute Spawn Egg",
+  "item.mutantszombies.blister_zombie_spawn_egg": "Blister Zombie Spawn Egg",
+  "item.mutantszombies.split_head_zombie_spawn_egg": "Split Head Zombie Spawn Egg",
+  "entity.mutantszombies.zombie_brute": "Zombie Brute",
+  "entity.mutantszombies.mutant_brute": "Mutant Zombie Brute",
+  "entity.mutantszombies.blister_zombie": "Blister Zombie",
+  "entity.mutantszombies.split_head_zombie": "Split Head Zombie",
+  "entity.mutantszombies.crawler": "Zombie Crawler",
+  "entity.mutantszombies.spitter": "Zombie Spitter",
+  "entity.mutantszombies.spitter_projectile": "Zombie Spitter Bile"
+}

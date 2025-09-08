@@ -17,7 +17,7 @@
   "item.sculkhorde.custom_item_projectile": "Предмет-снаряд",
   "tooltip.sculkhorde.custom_item_projectile": "Это предмет разработчика для тестирования снарядов. Это родительский класс всех снарядов. Добавлен как предмет только для дурачества",
   "item.sculkhorde.sculk_acidic_projectile": "Кислотная масса",
-  "tooltip.sculkhorde.sculk_acidic_projectile.functionality": "§7Кислотный снаряд §eскалкового плевателя§f§7. Имеет шанс выпасть в виде предмета при попадании в блок. Может быть брошен.",
+  "tooltip.sculkhorde.sculk_acidic_projectile.functionality": "§7Кислотный снаряд §eскалкового плевальщика§f§7. Имеет шанс выпасть в виде предмета при попадании в блок. Может быть брошен.",
   "tooltip.sculkhorde.sculk_acidic_projectile.lore": "§7Кислое вещество, к которому можно прикоснуться. Оно тёплое и летучее. Может растворять любое органическое или неорганическое вещество.",
 
   "item.sculkhorde.sculk_matter": "Скалковая материя",
@@ -196,7 +196,7 @@
 
   "item.sculkhorde.sculk_spore_spewer_spawn_egg": "Яйцо призыва скалкового извергателя спор",
   "item.sculkhorde.sculk_zombie_spawn_egg": "Яйцо призыва скалкового зомби",
-  "item.sculkhorde.sculk_spitter_spawn_egg": "Яйцо призыва скалкового плевателя",
+  "item.sculkhorde.sculk_spitter_spawn_egg": "Яйцо призыва скалкового плевальщика",
   "item.sculkhorde.sculk_mite_spawn_egg": "Яйцо призыва скалкового клеща",
   "item.sculkhorde.sculk_mite_aggressor_spawn_egg": "Яйцо призыва клеща-агрессора",
   "item.sculkhorde.sculk_hatcher_spawn_egg": "Яйцо призыва скалкового инкубатора",
@@ -272,7 +272,7 @@
   "entity.sculkhorde.sculk_spine_spike_attack": "Атака позвоночными скалковыми шипами",
 
   "entity.sculkhorde.sculk_zombie": "Скалковый зомби",
-  "entity.sculkhorde.sculk_spitter": "Скалковый плеватель",
+  "entity.sculkhorde.sculk_spitter": "Скалковый плевальщик",
   "entity.sculkhorde.sculk_mite": "Скалковый клещ",
   "entity.sculkhorde.sculk_mite_aggressor": "Скалковый клещ-агрессор",
   "entity.sculkhorde.sculk_hatcher": "Скалковый инкубатор",

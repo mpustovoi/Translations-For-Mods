@@ -1,11 +1,15 @@
 {
-  "item.mutantszombies.crawler_spawn_egg": "Яйцо призыва ползуна",
-  "item.mutantszombies.spitter_spawn_egg": "Яйцо призыва плевателя",
-  "item.mutantszombies.zombie_brute_spawn_egg": "Яйцо призыва зверозомби",
-  "item.mutantszombies.blister_zombie_spawn_egg": "Яйцо призыва зомби-волдыря",
-  "entity.mutantszombies.zombie_brute": "Зверозомби",
-  "entity.mutantszombies.blister_zombie": "Зомби-волдырь",
-  "entity.mutantszombies.crawler": "Ползун",
-  "entity.mutantszombies.spitter": "Плеватель",
-  "entity.mutantszombies.spitter_projectile": "Желчь плевателя"
+  "item.mutantszombies.crawler_spawn_egg": "Яйцо призыва зомби-ползуна",
+  "item.mutantszombies.spitter_spawn_egg": "Яйцо призыва зомби-плевальщика",
+  "item.mutantszombies.zombie_brute_spawn_egg": "Яйцо призыва зомби-громилы",
+  "item.mutantszombies.mutant_brute_spawn_egg": "Яйцо призыва зомби-громилы-мутанта",
+  "item.mutantszombies.blister_zombie_spawn_egg": "Яйцо призыва пузырчатого зомби",
+  "item.mutantszombies.split_head_zombie_spawn_egg": "Яйцо призыва разорванного зомби",
+  "entity.mutantszombies.zombie_brute": "Зомби-громила",
+  "entity.mutantszombies.mutant_brute": "Зомби-громила-мутант",
+  "entity.mutantszombies.blister_zombie": "Пузырчатый зомби",
+  "entity.mutantszombies.split_head_zombie": "Разорваный зомби",
+  "entity.mutantszombies.crawler": "Зомби-олзун",
+  "entity.mutantszombies.spitter": "Зомби-левальщик",
+  "entity.mutantszombies.spitter_projectile": "Жёлчь зомби-плевальщика"
 }
