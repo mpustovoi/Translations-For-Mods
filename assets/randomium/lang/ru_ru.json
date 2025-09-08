@@ -12,5 +12,8 @@
   "randomium.jei.duplicates": "Дубликаты",
   "itemGroup.randomium": "Рандомий",
   "tag.item.randomium.blacklist": "Чёрный список рандомия",
+  "tag.item.randomium.randomium_blacklist": "Чёрный список рандомия",
+  "tag.item.randomium.randomium_whitelist": "Белый список рандомия",
+  "tag.item.randomium.trollium_mimic": "Имитатор троллия",
   "tag.item.randomium.whitelist": "Белый список рандомия"
 }

@@ -1,6 +1,9 @@
 {
-  "block.randomium.randomium_ore_end": "End Stone Randomium Ore",
   "block.randomium.randomium_ore_deepslate": "Deepslate Randomium Ore",
+  "block.randomium.randomium_ore_end": "End Stone Randomium Ore",
   "tag.item.randomium.blacklist": "Randomium Blacklist",
+  "tag.item.randomium.randomium_blacklist": "Randomium Blacklist",
+  "tag.item.randomium.randomium_whitelist": "Randomium Whitelist",
+  "tag.item.randomium.trollium_mimic": "Trollium Mimic",
   "tag.item.randomium.whitelist": "Randomium Whitelist"
 }
