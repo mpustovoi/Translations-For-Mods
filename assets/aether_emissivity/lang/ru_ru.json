@@ -10,5 +10,5 @@
   "config.aether_emissivity.client.emissives.emissive_sentry_boots.tooltip": "Включает свечение для ботинок стража",
   "config.aether_emissivity.client.emissives.emissive_shield_of_repulsion": "Свечение щита отражения",
   "config.aether_emissivity.client.emissives.emissive_shield_of_repulsion.tooltip": "Включает свечение для щита отражения",
-  "pack.aether_emissivity.mod.description": "Ресурсы Эфир: Свечение"
+  "pack.aether_emissivity.mod.description": "Ресурсы «Эфир: Свечение»"
 }
