@@ -124,7 +124,7 @@
   "emi_loot.function.set_attributes.multiply": "[умножает значение %2$s на %1$s]",
   "emi_loot.function.banner": "Применяет уникальный шаблон баннера",
   "emi_loot.function.lore": "К этому предмету добавлено уникальное описание",
-  "emi_loot.function.set_stew": "Подозрительному рагу случайным образом присвоен статусный эффект из числа %s",
+  "emi_loot.function.set_stew": "Загадочному рагу случайным образом присвоен статусный эффект из числа %s",
   "emi_loot.function.set_stew_unknown": "неизвестного списка эффектов...",
   "emi_loot.function.set_nbt": "NBT этих предметов задаётся с помощью пользовательских данных",
   "emi_loot.function.set_loot_table": "Таблица добычи этого предмета установлена на %s",

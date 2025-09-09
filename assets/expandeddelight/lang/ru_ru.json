@@ -8,7 +8,7 @@
 
   "item.expandeddelight.sweet_potato": "Батат",
   "item.expandeddelight.baked_sweet_potato": "Запечённый батат",
-  "item.expandeddelight.sweet_potato_salad": "Салат из батата",
+  "item.expandeddelight.sweet_potato_salad": "Салат с бататом",
   "item.expandeddelight.sweet_potato_casserole": "Запеканка из батата",
 
   "item.expandeddelight.chili_pepper": "Перец чили",
@@ -26,7 +26,7 @@
 
   "item.expandeddelight.cranberries": "Клюква",
   "item.expandeddelight.cranberry_chicken": "Курица с клюквой",
-  "item.expandeddelight.cranberry_cobbler_slice": "Ломтик клюквенного коблера",
+  "item.expandeddelight.cranberry_cobbler_slice": "Ломтик клюквенного коб,лера",
 
   "item.expandeddelight.lemon": "Лимон",
 
@@ -44,8 +44,8 @@
   "item.expandeddelight.goat_cheese_slice": "Ломтик козьего сыра",
   "item.expandeddelight.cheese_sandwich": "Сэндвич с сыром",
   "item.expandeddelight.grilled_cheese": "Сыр на гриле",
-  "item.expandeddelight.cranberry_goat_cheese_toast": "Тост с козьим сыром и клюквой",
-  "item.expandeddelight.honeyed_goat_cheese_tart_slice": "Ломтик пирога с козьим сыром в меду",
+  "item.expandeddelight.cranberry_goat_cheese_toast": "Тост с клюквой и козьим сыром",
+  "item.expandeddelight.honeyed_goat_cheese_tart_slice": "Кусочек пирога с козьим сыром в меду",
 
   "item.expandeddelight.mac_and_cheese": "Макароны с сыром",
   "item.expandeddelight.sweet_roll": "Сладкий рулет",
@@ -105,7 +105,7 @@
 
   "block.expandeddelight.cranberry_plant": "Клюква",
   "block.expandeddelight.cranberry_bag": "Мешок с клюквой",
-  "block.expandeddelight.cranberry_cobbler": "Клюквенный коблер",
+  "block.expandeddelight.cranberry_cobbler": "Клюквенный кобблер",
 
   "block.expandeddelight.salt_ore": "Соляная руда",
   "block.expandeddelight.deepslate_salt_ore": "Соленосный глубинный сланец",
