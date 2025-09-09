@@ -3,7 +3,7 @@
   "block.displaydelight.small_food_plate": "Маленькая тарелка с едой",
   "item.displaydelight.tooltip.can_placed_on": "Можно разместить на: ",
   "item.displaydelight.tooltip.displayable": "Можно разместить крадучись",
-  
+
   "block.displaydelight.mushroom_stew": "Mushroom Stew",
   "block.displaydelight.rabbit_stew": "Rabbit Stew",
   "block.displaydelight.beetroot_soup": "Beetroot Soup",
@@ -317,5 +317,10 @@
   "block.displaydelight.acd_small_plated_fried_perch_roll": "Small Plated Fried Perch Roll",
   "block.displaydelight.erd_small_plated_chorus_pie_slice": "Small Plated Chorus Pie Slice",
   "block.displaydelight.edd_small_plated_chorus_fruit_pie_slice": "Small Plated Chorus Fruit Pie Slice",
-  "block.displaydelight.mnd_small_plated_magma_cake_slice": "Small Plated Magma Cake Slice"
+  "block.displaydelight.mnd_small_plated_magma_cake_slice": "Small Plated Magma Cake Slice",
+
+  "tag.displaydelight.foods.apple_cider": "Apple Cider",
+  "tag.displaydelight.displayable": "Displayables",
+  "tag.displaydelight.plate_displayable": "Plate Displayables",
+  "tag.displaydelight.small_plate_displayable": "Small Plate Displayables"
 }

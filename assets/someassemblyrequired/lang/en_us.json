@@ -1,3 +1,8 @@
 {
-  "tag.item.someassemblyrequired.sandwich_bread": "Sandwich Bread"
+  "block.someassemblyrequired.sandwiching_station": "Sandwicher",
+  
+  "someassemblyrequired.sandwiching_station.info.creating_sandwiches.2": "1. Start your sandwich by right-clicking the Sandwicher with a Bread Slice or Burger Bun Bottom.",
+  "someassemblyrequired.sandwiching_station.info.creating_sandwiches.3": "2. Right-click the Sandwicher with additional ingredients to build your sandwich. Any edible item can be added, including potions. Ingredients can be removed by right-clicking the Sandwicher with an empty hand.",
+
+  "tag.block.someassemblyrequired.sandwiching_stations": "Sandwichers"
 }
