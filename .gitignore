@@ -26,5 +26,3 @@ generated/
 *.mcmeta
 !pack.mcmeta
 *.lnk
-
-*.py
