@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "minecraft:textures/entity/ghast/happy_ghast.png": "outlined_sprite:minecraft/ghast/happy_ghast.png",
+    "minecraft:textures/entity/ghast/happy_ghast_baby.png": "outlined_sprite:minecraft/ghast/happy_ghast_baby.png",
+    "layersAllowed": true
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "minecraft:textures/entity/ghast/ghast.png": "outlined_sprite:minecraft/ghast/ghast.png",
+    "minecraft:textures/entity/ghast/ghast_shooting.png": "outlined_sprite:minecraft/ghast/ghast_shooting.png",
+    "layersAllowed": true
+  }
+}

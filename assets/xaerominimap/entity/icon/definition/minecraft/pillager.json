@@ -1,6 +1,6 @@
 {
   "variants": {
-    "default": "sprite:minecraft/illager/pillager.png",
+    "default": "outlined_sprite:minecraft/illager/pillager.png",
     "layersAllowed": true
   }
 }

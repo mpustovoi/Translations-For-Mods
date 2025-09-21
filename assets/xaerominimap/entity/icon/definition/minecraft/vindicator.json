@@ -1,6 +1,6 @@
 {
   "variants": {
-    "default": "sprite:minecraft/illager/vindicator.png",
+    "default": "outlined_sprite:minecraft/illager/vindicator.png",
     "layersAllowed": true
   }
 }

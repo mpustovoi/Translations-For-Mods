@@ -1,6 +1,6 @@
 {
   "variants": {
-    "default": "sprite:minecraft/illager/evoker.png",
+    "default": "outlined_sprite:minecraft/illager/evoker.png",
     "layersAllowed": true
   }
 }
