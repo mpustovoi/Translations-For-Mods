@@ -1,0 +1,23 @@
+{
+  "type": "setting",
+  "name": "LUNAR_EVENT_LIGHTING_SATURATION",
+  "default": 0.7,
+  "values": [
+    {
+      "type": "range",
+      "start": 0.0,
+      "stop": 2.05,
+      "step": 0.05
+    }
+  ],
+  "slider": true,
+  "file": "enhancedCelestials.glsl",
+  "en_US": {
+    "option": "Lunar Event Lighting Saturation",
+    "comment": "Controls saturation of ambient and skylight during lunar events."
+  },
+  "ru_RU": {
+    "option": "Насыщенность освещения лунного события",
+    "comment": "Контролирует насыщенность окружающего и небесного света во время лунных событий."
+  }
+}

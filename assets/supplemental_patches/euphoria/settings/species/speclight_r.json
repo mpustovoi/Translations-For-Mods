@@ -1,0 +1,21 @@
+{
+  "type": "setting",
+  "name": "SPECLIGHT_R",
+  "default": 180,
+  "values": [
+    {
+      "type": "range",
+      "start": 0,
+      "stop": 256,
+      "step": 1
+    }
+  ],
+  "slider": true,
+  "file": "materials.glsl",
+  "en_US": {
+    "option": "Speclight Red"
+  },
+  "ru_RU": {
+    "option": "Красный для спектральной лампы"
+  }
+}

@@ -1,4 +1,29 @@
 {
-  "colorwheel.pack.incompatible": "%s несовместим",
-  "colorwheel.pack.contains_broken_shader": "Набор шейдеров может быть сломан — возможны графические артефакты"
+    "colorwheel.fallback_mode": "режим совместимости",
+    "colorwheel.fallback_mode.enable": "Включить режим совместимости",
+
+    "colorwheel.alert.ask_disable": "Отключить это предупреждение",
+
+    "colorwheel.alert.incompatible_pack": "Набор шейдеров %1$s несовместим",
+    "colorwheel.alert.incompatible_pack.patch_available": "Вместо этого вам следует выбрать %1$s в меню 'Наборы шейдеров'",
+    "colorwheel.alert.incompatible_pack.ask_fallback_mode": "Вы можете запросить поддержку Colorwheel у разработчика набора шейдеров. Вы также можете включить %1$s для полностью автоматической поддержки. При этом ВОЗНИКНУТ графические проблемы, и расширенная поддержка НЕ предоставляется.",
+    "colorwheel.alert.incompatible_pack.disable": "Отключить предупреждение о несовместимом наборе шейдеров",
+
+    "colorwheel.alert.broken_pack": "Текущий набор шейдеров содержит некорректные шейдеры, возможны графические проблемы",
+    "colorwheel.alert.broken_pack.disable": "Отключить предупреждение о некорректном наборе шейдеров",
+
+    "command.colorwheel.alert_incompatible_pack.get.on": "Предупреждение о несовместимом наборе шейдеров включено",
+    "command.colorwheel.alert_incompatible_pack.get.off": "Предупреждение о несовместимом наборе шейдеров отключено",
+    "command.colorwheel.alert_incompatible_pack.set.on": "Предупреждение о несовместимом наборе шейдеров теперь включено",
+    "command.colorwheel.alert_incompatible_pack.set.off": "Предупреждение о несовместимом наборе шейдеров теперь отключено",
+
+    "command.colorwheel.alert_broken_pack.get.on": "Предупреждение о некорректном наборе шейдеров включено",
+    "command.colorwheel.alert_broken_pack.get.off": "Предупреждение о некорректном наборе шейдеров отключено",
+    "command.colorwheel.alert_broken_pack.set.on": "Предупреждение о некорректном наборе шейдеров теперь включено",
+    "command.colorwheel.alert_broken_pack.set.off": "Предупреждение о некорректном наборе шейдеров теперь отключено",
+
+    "command.colorwheel.fallback_mode.get.on": "Режим совместимости включен",
+    "command.colorwheel.fallback_mode.get.off": "Режим совместимости отключен",
+    "command.colorwheel.fallback_mode.set.on": "Режим совместимости теперь включен. Используйте на свой страх и риск!",
+    "command.colorwheel.fallback_mode.set.off": "Режим совместимости теперь отключен"
 }
