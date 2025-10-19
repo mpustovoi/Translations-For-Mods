@@ -368,7 +368,7 @@
   "item.sculkhorde.tome_of_sacrifice": "Tome of Sacrifice",
   "item.sculkhorde.graveminds_symbiote": "Gravemind's Symbiote",
 
-  "sounds.sculkhorde.burrowed_burst": "A Mite bursts out of the body a creature.",
+  "sounds.sculkhorde.burrowed_burst": "Sculk Mite Bursts Out",
   "sounds.sculkhorde.sculk_mite_idle": "Sculk Mite Squeaks",
   "sounds.sculkhorde.sculk_mite_hurt": "Sculk Mite Hurts",
   "sounds.sculkhorde.sculk_mite_death": "Sculk Mite Dies",
@@ -393,6 +393,7 @@
   "entity.sculkhorde.sculk_broodling": "Sculk Broodling",
   "entity.sculkhorde.sculk_stinger": "Sculk Stinger",
   "entity.sculkhorde.sculk_leech": "Sculk Leech",
+  "entity.sculkhorde.sculk_sheep": "Sculk Sheep",
   "block.sculkhorde.soulite_core_block": "Soulite Core Block",
   "block.sculkhorde.soulite_block": "Soulite Block",
   "block.sculkhorde.depleted_soulite_block": "Depleted Soulite Block",
@@ -457,6 +458,7 @@
   "item.sculkhorde.soul_animator": "Soul Animator",
   "tooltip.sculkhorde.soul_animator.functionality": "§7§oA crafting ingredient dropped from the Soul Reaper.",
   "tooltip.sculkhorde.soul_animator.lore": "§7§oAn artifact with the ability to animate both living and unliving things. It can both hold the power of tortured and pure souls to create constructs and golems.",
+  "sounds.sculkhorde.soul_spear_emerge": "Soul Spear Emerges",
 
   "effect.sculkhorde.diseased_atmosphere": "Diseased Atmosphere",
   "effect.sculkhorde.diseased_atmosphere.description": "Causes entities to take damage and exhaustion.",
@@ -493,7 +495,6 @@
   "entity.sculkhorde.living_armor": "Living Armor",
   "entity.sculkhorde.sculk_ghast": "Sculk Ghast",
   "entity.sculkhorde.sculk_metamorphosis_pod": "Sculk Metamorphosis Pod",
-  "entity.sculkhorde.sculk_sheep": "Sculk Sheep",
   "entity.sculkhorde.soul_breeze_projectile": "Soul Breeze Projectile",
   "entity.sculkhorde.soul_fire_projectile": "Soul Fire Projectile",
   "entity.sculkhorde.soul_fly_swatter_projectile": "Soul Fly Swatter Projectile",

@@ -53,5 +53,5 @@
   "mechanicals.ui.recipe_requirement.waterlogged.tooltip.missing": "Не затоплен",
   "mechanicals.ui.recipe_requirement.waterlogged.tooltip.title": "Затоплен",
   "mechanicals.ui.recipe_requirement.waterlogged.tooltip.value": "",
-  "tag.item.createsifter.stone_types.basalt": "Базальтовые камни"
+  "tag.item.createsifter.stone_types.basalt": "Базальт"
 }

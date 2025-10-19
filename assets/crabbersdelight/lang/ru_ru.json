@@ -70,6 +70,36 @@
   "item.crabbersdelight.crab_spawn_egg": "Яйцо призыва краба",
   "item.crabbersdelight.crab_bucket": "Краб в ведре",
 
+  "block.crabbersdelight.palm_log": "Бревно кокосовой пальмы",
+  "block.crabbersdelight.stripped_palm_log": "Обтёсанное бревно кокосовой пальмы",
+  "block.crabbersdelight.palm_wood": "Кокосовая пальма",
+  "block.crabbersdelight.stripped_palm_wood": "Обтёсанная древесина кокосовой пальмы",
+  "block.crabbersdelight.palm_planks": "Доски из кокосовой пальмы",
+  "block.crabbersdelight.palm_slab": "Плита из кокосовой пальмы",
+  "block.crabbersdelight.palm_stairs": "Ступеньки из кокосовой пальмы",
+  "block.crabbersdelight.palm_fence": "Забор из кокосовой пальмы",
+  "block.crabbersdelight.palm_fence_gate": "Калитка из кокосовой пальмы",
+  "block.crabbersdelight.palm_door": "Дверь из кокосовой пальмы",
+  "block.crabbersdelight.palm_trapdoor": "Люк из кокосовой пальмы",
+  "block.crabbersdelight.palm_pressure_plate": "Нажимная плита из кокосовой пальмы",
+  "block.crabbersdelight.palm_button": "Кнопка из кокосовой пальмы",
+  "block.crabbersdelight.palm_leaves": "Листья кокосовой пальмы",
+  "block.crabbersdelight.palm_sapling": "Саженец кокосовой пальмы",
+  "block.crabbersdelight.palm_sign": "Табличка из кокосовой пальмы",
+  "block.crabbersdelight.palm_hanging_sign": "Подвесная табличка из кокосовой пальмы",
+  "item.crabbersdelight.palm_boat": "Лодка из кокосовой пальмы",
+  "item.crabbersdelight.palm_chest_boat": "Грузовая лодка из кокосовой пальмы",
+  "block.crabbersdelight.palm_cabinet": "Кладовая из кокосовой пальмы",
+
+  "block.crabbersdelight.coconut": "Кокос",
+  "item.crabbersdelight.coconut_helmet": "Кокосовый шлем",
+  "block.crabbersdelight.coconut_crate": "Ящик с кокосами",
+  "death.attack.crabbersdelight.falling_coconut": "%s раздавлен упавшим кокосом",
+  "item.crabbersdelight.coconut_halve": "Половина кокоса",
+  "item.crabbersdelight.coconut_milk": "Кокосовое молоко",
+  "farmersdelight.tooltip.coconut_milk": "Снимает 1 эффект",
+  "item.crabbersdelight.coconut_pudding": "Кокосовый пудинг",
+
   "block.crabbersdelight.crab_trap": "Крабовая ловушка",
   "block.crabbersdelight.crab_barrel": "Бочка с крабами",
   "block.crabbersdelight.clam_barrel": "Бочка с моллюсками",
@@ -87,6 +117,7 @@
   "block.crabbersdelight.pearl_block": "Жемчужный блок",
   "block.crabbersdelight.scute_block": "Блок черепашьих щитков",
   "block.crabbersdelight.sea_pickle_crate": "Ящик с морскими огурцами",
+  "block.crabbersdelight.seashells": "Ракушки",
 
   "entity.crabbersdelight.crab": "Краб",
 
@@ -144,8 +175,6 @@
   "tag.item.crabbersdelight.jei_display_results.minecraft.tropical_fish": "Ловля на тропическую рыбу",
 
   "trim_material.crabbersdelight.pearl": "Жемчужная",
-
-  "deprecated_keys.crabbersdelight": "Deprecated Lines of crabbersdelight",
 
   "item.crabbersdelight.frog_leg_kebob": "Лягушачья ножка на палочке",
   "item.crabbersdelight.squid_kebob": "Спрут на палочке"

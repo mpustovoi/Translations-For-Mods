@@ -393,6 +393,7 @@
   "entity.sculkhorde.sculk_broodling": "Скалковый выводок",
   "entity.sculkhorde.sculk_stinger": "Скалковый жалоносец",
   "entity.sculkhorde.sculk_leech": "Скалковая пиявка",
+  "entity.sculkhorde.sculk_sheep": "Скалковая овца",
   "block.sculkhorde.soulite_core_block": "Блок душелитового ядра",
   "block.sculkhorde.soulite_block": "Душелитовый блок",
   "block.sculkhorde.depleted_soulite_block": "Истощённый душелитовый блок",
@@ -457,6 +458,7 @@
   "item.sculkhorde.soul_animator": "Аниматор души",
   "tooltip.sculkhorde.soul_animator.functionality": "§7§oИнгредиент для создания, выпадающий из жнеца душ.",
   "tooltip.sculkhorde.soul_animator.lore": "§7§oАртефакт, способный оживлять как живые, так и неживые предметы. Он может содержать силу как измученных, так и чистых душ для создания конструкций и големов.",
+  "sounds.sculkhorde.soul_spear_emerge": "Появляется копьё душ",
 
   "effect.sculkhorde.diseased_atmosphere": "Заражённая атмосфера",
   "effect.sculkhorde.diseased_atmosphere.description": "Заставляет существ получать урон и истощаться.",
@@ -493,7 +495,6 @@
   "entity.sculkhorde.living_armor": "Живая броня",
   "entity.sculkhorde.sculk_ghast": "Скалковый гаст",
   "entity.sculkhorde.sculk_metamorphosis_pod": "Скалковый стручок метаморфозы",
-  "entity.sculkhorde.sculk_sheep": "Скалковая овца",
   "entity.sculkhorde.soul_breeze_projectile": "Сняряд вихря душ",
   "entity.sculkhorde.soul_fire_projectile": "Сняряд огня душ",
   "entity.sculkhorde.soul_fly_swatter_projectile": "Сняряд мухобойки душ",

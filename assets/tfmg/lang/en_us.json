@@ -15,8 +15,8 @@
   "tag.item.tfmg.flux": "Flux",
   "tag.item.tfmg.rods": "Rods",
   "tag.item.tfmg.spools": "Spools",
-  "tag.item.tfmg.stone_types.bauxite": "Bauxite Stone Types",
-  "tag.item.tfmg.stone_types.galena": "Galena Stone Types",
+  "tag.item.tfmg.stone_types.bauxite": "Bauxite",
+  "tag.item.tfmg.stone_types.galena": "Galena",
   "tfmg.ponder.blast_furnace.header": "Blast Furnace Building",
   "tfmg.ponder.coke_oven.header": "Coke Oven Building",
   "tfmg.ponder.distillation_tower.header": "Distillation Tower Building"

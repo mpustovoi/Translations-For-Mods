@@ -1,4 +1,8 @@
 {
+  "block.gigeresque.black_fluid": "Black Goo",
+  "config.gigeresque.option.blackfuildNonrepacle": "Makes Black Goo Nonreplacable",
+  "item.gigeresque.black_fluid_bucket": "Black Goo Bucket",
+  "item.gigeresque.sealed_ampoule_goo": "Ampule of Black Goo",
   "effect.gigeresque.acid.description": "§8§kDescription Missing§r",
   "effect.gigeresque.dna_disintegration.description": "§8§kDescription Missing§r",
   "effect.gigeresque.dungeon_status.description": "§8§kDescription Missing§r",
@@ -6,7 +10,7 @@
   "effect.gigeresque.impregnation.description": "§8§kDescription Missing§r",
   "effect.gigeresque.neo_spore.description": "§8§kDescription Missing§r",
   "effect.gigeresque.trauma.description": "§8§kDescription Missing§r",
-  "tag.fluid.gigeresque.black_fluid": "Black Fluids",
+  "tag.fluid.gigeresque.black_fluid": "Black Goo",
   "tag.item.gigeresque.burster_foods": "Burster Foods",
   "tag.item.gigeresque.potions": "Potions",
   "tag.mob_effect.gigeresque.gigstatuseffects": "Gigeresque: Status Effects"
