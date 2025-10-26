@@ -24,5 +24,9 @@
   "advancements.create_ltab.windmill.title": "Тишь на сеновале",
   "advancements.create_ltab.windmill.description": "Найдите ветряную мельницу",
   "enchantment.create_ltab.luck": "Удача",
-  "enchantment.create_ltab.luck.desc": "Увеличивает шанс получения более лучшей добычи."
+  "enchantment.create_ltab.luck.desc": "Увеличивает шанс получения более лучшей добычи.",
+  "item.create_ltab.potion_of_luck": "Зелье удачи",
+  "item.create_ltab.potion_of_luck_lore": "Увеличивает шансы на получение лучшей добычи из сундуков.",
+  "item.create_ltab.grot_map": "Карта исследователя грота",
+  "item.create_ltab.explorer_map": "Карта исследователя"
 }

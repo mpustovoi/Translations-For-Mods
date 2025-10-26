@@ -1,0 +1,16 @@
+{
+  "rpo.lumi": "${Lumi} ${Lights}",
+  "rpo.lumi.tonemap": "Режим тональной коррекции",
+  "rpo.lumi.tonemap.tooltip": "Тест подсказки",
+  "rpo.lumi.tonemap.default": "Стандартная тональная коррекция",
+  "rpo.lumi.tonemap.vibrant": "Яркая тональная коррекция",
+  "rpo.lumi.tonemap.film": "Кинематографичная тональная коррекция",
+  "rpo.lumi.pbr": "Включить PBR",
+  "rpo.lumi.debugMode": "Режим отладки",
+  "rpo.lumi.debugMode.normal": "${Normal} Режим",
+  "rpo.lumi.waterVertexWavy": "Волнистая модель воды",
+  "rpo.lumi.subcategoryTest.sliderTest.tooltip": "Урааа",
+
+  "rpo.unitpack": "Набор единиц",
+  "rpo.unitpack.b1": "Первый переключатель"
+}

@@ -1,7 +1,18 @@
 {
   "tab.ellsso.main": "Опции Хранения",
 
-  "block.ellsso.barrel": "Подозрительная бочка",
+  "block.ellsso.oak_barrel": "Дубовая бочка",
+  "block.ellsso.spruce_barrel": "Еловая бочка",
+  "block.ellsso.birch_barrel": "Берёзовая бочка",
+  "block.ellsso.jungle_barrel": "Бочка из тропического дерева",
+  "block.ellsso.acacia_barrel": "Акациевая бочка",
+  "block.ellsso.dark_oak_barrel": "Бочка из тёмного дуба",
+  "block.ellsso.mangrove_barrel": "Мангровая бочка",
+  "block.ellsso.cherry_barrel": "Вишнёвая бочка",
+  "block.ellsso.bamboo_barrel": "Бамбуковая бочка",
+  "block.ellsso.crimson_barrel": "Багровая бочка",
+  "block.ellsso.pale_oak_barrel": "Бочка из бледного дуба",
+  "block.ellsso.warped_barrel": "Искажённая бочка",
   "container.ellsso.barrel": "Высокая бочка",
 
   "block.ellsso.classic_chest": "Классический сундук",
@@ -39,5 +50,31 @@
   "block.ellsso.crimson_chest": "Багровый сундук",
   "block.ellsso.jungle_chest": "Сундук из тропического дерева",
   "block.ellsso.pale_oak_chest": "Сундук из бледного дуба",
-  "block.ellsso.warped_chest": "Искажённый сундук"
+  "block.ellsso.warped_chest": "Искажённый сундук",
+
+  "item.ellsso.oak_chest_minecart": "Вагонетка с дубовым сундуком",
+  "item.ellsso.spruce_chest_minecart": "Вагонетка с еловым сундуком",
+  "item.ellsso.dark_oak_chest_minecart": "Вагонетка с сундуком из тёмного дуба",
+  "item.ellsso.acacia_chest_minecart": "Вагонетка с акациевым сундуком",
+  "item.ellsso.bamboo_chest_minecart": "Вагонетка с бамбуковым сундуком",
+  "item.ellsso.birch_chest_minecart": "Вагонетка с берёзовым сундуком",
+  "item.ellsso.cherry_chest_minecart": "Вагонетка с вишнёвым сундуком",
+  "item.ellsso.crimson_chest_minecart": "Вагонетка с багровым сундуком",
+  "item.ellsso.jungle_chest_minecart": "Вагонетка с сундуком из тропического дерева",
+  "item.ellsso.pale_oak_chest_minecart": "Вагонетка с сундуком из бледного дуба",
+  "item.ellsso.warped_chest_minecart": "Вагонетка с искажённым сундуком",
+  "item.ellsso.classic_chest_minecart": "Вагонетка с классическим сундуком",
+
+  "entity.ellsso.oak_chest_minecart": "Вагонетка с дубовым сундуком",
+  "entity.ellsso.spruce_chest_minecart": "Вагонетка с еловым сундуком",
+  "entity.ellsso.dark_oak_chest_minecart": "Вагонетка с сундуком из тёмного дуба",
+  "entity.ellsso.acacia_chest_minecart": "Вагонетка с акациевым сундуком",
+  "entity.ellsso.bamboo_chest_minecart": "Вагонетка с бамбуковым сундуком",
+  "entity.ellsso.birch_chest_minecart": "Вагонетка с берёзовым сундуком",
+  "entity.ellsso.cherry_chest_minecart": "Вагонетка с вишнёвым сундуком",
+  "entity.ellsso.crimson_chest_minecart": "Вагонетка с багровым сундуком",
+  "entity.ellsso.jungle_chest_minecart": "Вагонетка с сундуком из тропического дерева",
+  "entity.ellsso.pale_oak_chest_minecart": "Вагонетка с сундуком из бледного дуба",
+  "entity.ellsso.warped_chest_minecart": "Вагонетка с искажённым сундуком",
+  "entity.ellsso.classic_chest_minecart": "Вагонетка с классическим сундуком"
 }

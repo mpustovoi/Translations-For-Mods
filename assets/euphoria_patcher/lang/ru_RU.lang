@@ -1240,7 +1240,7 @@ screen.LIGHT_SETTINGS=Настройки света
 screen.BLOCKLIGHT=Блочный свет
 screen.BLOCKLIGHT.comment=Цветовые параметры блочного света.
 screen.COLORED_LIGHT=Цветное освещение
-screen.SSBL_SETTINGS=Экранный блочный свет
+screen.SSBL_SETTINGS=Экранный блочный свет (ЭБС)
 screen.ACT_SETTINGS=Продвинутая цветовая трассировка
 screen.LIGHTMAP_CURVES_SETTINGS=Кривые освещения
 screen.OVERLAY_NOISE=Шум наложения
@@ -2014,6 +2014,7 @@ option.MCBL_MAIN_DEFINE.comment=Включает многоцветное бло
 value.MCBL_MAIN_DEFINE.0=
 value.MCBL_MAIN_DEFINE.1=Экранное пространство
 value.MCBL_MAIN_DEFINE.2=ПЦТ + экранное пространство
+value.MCBL_MAIN_DEFINE.3=ПЦТ + экр. пр. + дин. освещ.
 
 option.MCBL_INFLUENCE=Влияние многоцветного блочного освещения
 option.MCBL_INFLUENCE.comment=Регулирует влияние многоцветного блочного освещения на стандартный блочный свет.

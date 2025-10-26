@@ -37,6 +37,7 @@
   "text.autoconfig.dragonloot.option.dragon_armor_toughness": "Твёрдость драконьей брони",
   "text.autoconfig.dragonloot.option.dragon_armor_knockback_resistance": "Сопротивление к отбрасыванию драконьей брони",
   "text.autoconfig.dragonloot.option.dragon_armor_enchantability": "Зачаровываемость драконьей брони",
+  "text.autoconfig.dragonloot.option.dragon_tool_enchantability": "Зачаровываемость драконьих инструментов",
   "text.autoconfig.dragonloot.option.dragon_item_mining_speed_multiplier": "Множитель скорости добычи драконьих предметов",
 
   "dragonloot.advancements.dragon_armor.title": "Из чешуи зверя",

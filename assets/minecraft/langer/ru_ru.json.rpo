@@ -1,0 +1,11 @@
+{
+  "conditions": "lumi.subcategoryTest.enableLang & (!subcategoryTest.enableLangForceDisable) & version('respackopts', '*')",
+  "fallback": "assets/minecraft/lang/ru_ru_joke.json",
+  "expansions": {
+    "Lights": "lumi.subcategoryTest.enableLang || lumi.someString",
+    "Mode": "lumi.debugMode",
+    "Normal": "lumi.numTest * lumi.subcategoryTest.numberInSub",
+    "Lumi": "'model'",
+    "Regeneration": "'Industrie'"
+  }
+}
