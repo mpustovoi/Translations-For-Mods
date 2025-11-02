@@ -299,7 +299,7 @@ option.DETAIL_QUALITY=Качество деталей
 option.DETAIL_QUALITY.comment=Настраивает несколько мелких параметров, влияющих на производительность. Влияет на: материал воды, временное сглаживание (TAA), настройки освещения, ночную туманность, шторм Незера, лучи Энда, эффекты отражения неба, точность дождевых луж, эффект колыхания.
 value.DETAIL_QUALITY.0=§aКартошка
 value.DETAIL_QUALITY.2=§eСреднее
-value.DETAIL_QUALITY.3=§cвысокое
+value.DETAIL_QUALITY.3=§cВысокое
 
 option.CLOUD_QUALITY=Качество облаков
 option.CLOUD_QUALITY.comment=Настраивает освещение, детализацию и качество выборки стилей облаков Reimagined или Unbound. §e[*]§r Работает только со стилями облаков Reimagined или Unbound.
@@ -2529,6 +2529,9 @@ value.END_CENTER_LIGHTING.0=Нет
 option.END_CENTER_LIGHTING_R=Красный для освещения
 option.END_CENTER_LIGHTING_G=Зелёный для освещения
 option.END_CENTER_LIGHTING_B=Синий для освещения
+
+option.END_CENTER_LIGHTING_AFFECT_BLOCKLIGHT=Влияет на блочное освещение
+option.END_CENTER_LIGHTING_AFFECT_BLOCKLIGHT.comment=Изменяет цвет блочного освещения в Энде в зависимости от цвета освещения центра.
 
 option.NETHER_HEAT_DISTORTION=Искажение от жары
 option.NETHER_HEAT_DISTORTION.comment=Добавляет эффект искажения от жары в Незере.
