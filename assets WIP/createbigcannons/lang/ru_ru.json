@@ -243,7 +243,7 @@
   "createbigcannons.display_source.cannon_mount.yaw": "Наклон по горизонтали: ",
   "createbigcannons.goggles.cannon_mount.pitch": "Наклон по вертикали: ",
   "createbigcannons.goggles.cannon_mount.yaw": "Наклон по горизонтали: ",
-  "createbigcannons.display_source.cannon_mount.degrees": "%s\u00BA",
+  "createbigcannons.display_source.cannon_mount.degrees": "%s°",
   "createbigcannons.display_source.cannon_mount.for_cannon_status": "Для информации пушки",
   "createbigcannons.display_source.cannon_mount.no_cannon_present": "Нету информации от пушки",
   "createbigcannons.display_source.cannon_mount.not_enough_space": "Не хватает места",

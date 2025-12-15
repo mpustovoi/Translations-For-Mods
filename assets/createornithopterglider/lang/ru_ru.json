@@ -1,0 +1,43 @@
+{
+  "creativetab.createornithopterglider_tab": "Create: Планёр-Махолёт",
+
+  "item.createornithopterglider.ornithopterglider": "Планёр-махолёт",
+  "item.createornithopterglider.ornithopterglider_light_gray": "Светло-серый планёр-махолёт",
+  "item.createornithopterglider.ornithopterglider_gray": "Серый планёр-махолёт",
+  "item.createornithopterglider.ornithopterglider_black": "Чёрный планёр-махолёт",
+  "item.createornithopterglider.ornithopterglider_brown": "Коричневый планёр-махолёт",
+  "item.createornithopterglider.ornithopterglider_red": "Красный планёр-махолёт",
+  "item.createornithopterglider.ornithopterglider_orange": "Оранжевый планёр-махолёт",
+  "item.createornithopterglider.ornithopterglider_yellow": "Жёлтый планёр-махолёт",
+  "item.createornithopterglider.ornithopterglider_lime": "Лаймовый планёр-махолёт",
+  "item.createornithopterglider.ornithopterglider_green": "Зелёный планёр-махолёт",
+  "item.createornithopterglider.ornithopterglider_cyan": "Бирюзовый планёр-махолёт",
+  "item.createornithopterglider.ornithopterglider_light_blue": "Голубой планёр-махолёт",
+  "item.createornithopterglider.ornithopterglider_blue": "Синий планёр-махолёт",
+  "item.createornithopterglider.ornithopterglider_purple": "Фиолетовый планёр-махолёт",
+  "item.createornithopterglider.ornithopterglider_magenta": "Пурпурный планёр-махолёт",
+  "item.createornithopterglider.ornithopterglider_pink": "Розовый планёр-махолёт",
+
+  "item.createornithopterglider.wing_mesh": "Сетчатое крыло",
+  "item.createornithopterglider.wing_mesh_light_gray": "Светло-серое сетчатое крыло",
+  "item.createornithopterglider.wing_mesh_gray": "Серое сетчатое крыло",
+  "item.createornithopterglider.wing_mesh_black": "Чёрное сетчатое крыло",
+  "item.createornithopterglider.wing_mesh_brown": "Коричневое сетчатое крыло",
+  "item.createornithopterglider.wing_mesh_red": "Красное сетчатое крыло",
+  "item.createornithopterglider.wing_mesh_orange": "Оранжевое сетчатое крыло",
+  "item.createornithopterglider.wing_mesh_yellow": "Жёлтое сетчатое крыло",
+  "item.createornithopterglider.wing_mesh_lime": "Лаймовое сетчатое крыло",
+  "item.createornithopterglider.wing_mesh_green": "Зелёное сетчатое крыло",
+  "item.createornithopterglider.wing_mesh_cyan": "Бирюзовое сетчатое крыло",
+  "item.createornithopterglider.wing_mesh_light_blue": "Голубое сетчатое крыло",
+  "item.createornithopterglider.wing_mesh_blue": "Синее сетчатое крыло",
+  "item.createornithopterglider.wing_mesh_purple": "Фиолетовое сетчатое крыло",
+  "item.createornithopterglider.wing_mesh_magenta": "Пурпурное сетчатое крыло",
+  "item.createornithopterglider.wing_mesh_pink": "Розовое сетчатое крыло",
+
+  "item.createornithopterglider.elytra_piece": "Элитра",
+  "item.createornithopterglider.rope": "Трос планёра-махолёта",
+
+  "key.category.createornithopterglider.ornithopter": "Create: Планёр-Махолёт",
+  "key.createornithopterglider.boost_glider": "Взмахнуть крыльями планёра"
+}

@@ -13,6 +13,8 @@
   "config.tectonic.category.global_terrain": "Глобальный ландшафт",
   "config.tectonic.option.vertical_scale": "Вертикальный масштаб: %s",
   "config.tectonic.option.vertical_scale.tooltip": "Позволяет увеличить высоту поверхности над уровнем моря по вертикали. Увеличение этого значения вдвое увеличивает высоту поверхности в данной точке относительно уровня моря.\n§cТребуется перезапуск игры на 1.20!",
+  "config.tectonic.option.elevation_boost": "Высота рельефа: %s",
+  "config.tectonic.option.elevation_boost.tooltip": "Увеличивает эффект вертикального масштабирования для гористой местности. Это позволит увеличить масштаб гор и плато быстрее, чем низменностей.",
   "config.tectonic.option.min_y": "Минимальный Y: %s",
   "config.tectonic.option.min_y.tooltip": "Минимальная высота для строительства и генерации.\n§cВ настоящее время уровень лавы на -54 не изменяется вместе с этой настройкой.",
   "config.tectonic.option.max_y": "Максимальный Y: %s",

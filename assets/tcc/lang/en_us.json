@@ -1,4 +1,7 @@
 {
+  "effect.tcc.minor_instant_damage.description": "Damages living entities, heals undead; higher levels increase the effect potency.",
+  "effect.tcc.minor_instant_health.description": "Heals living entities, damages undead; higher levels increase the effect potency.",
+  "enchantment.tcc.learning.desc": "Increases the experience gained by killing mobs.",
   "item.minecraft.tipped_arrow.effect.tcc:blind_rage": "Arrow of Blind Rage",
   "item.minecraft.tipped_arrow.effect.tcc:fortitude": "Arrow of Fortitude",
   "tag.item.tcc.can_be_potted": "Can Be Potted",

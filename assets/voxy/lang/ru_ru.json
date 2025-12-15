@@ -1,32 +1,33 @@
 {
   "voxy.config.title": "Настройки Voxy",
 
-  "voxy.config.general": "Основные",
-  "voxy.config.threads": "Обработка",
-  "voxy.config.storage": "Хранение",
-
   "voxy.config.general.enabled": "Включить Voxy",
   "voxy.config.general.enabled.tooltip": "Полностью переключает функционал Voxy.",
+
+  "voxy.config.general.serviceThreads": "Служебные потоки",
+  "voxy.config.general.serviceThreads.tooltip": "Количество потоков, которое может использовать пул службы.",
+
+  "voxy.config.general.useSodiumBuilder": "Использовать потоки Sodium",
+  "voxy.config.general.useSodiumBuilder.tooltip": "Использует потоки сборщика Sodium как часть пула потоков Voxy. Может уменьшить рывки и лаги при быстром движении на высокой дальности прорисовки.",
+
   "voxy.config.general.ingest": "Поглощение чанков",
-  "voxy.config.general.ingest.tooltip": "Включает или отключает возможность Voxy преобразовывать новые чанки.",
-  "voxy.config.general.quality": "Качество детализации",
-  "voxy.config.general.quality.tooltip": "Удалённость области понижения детализации.",
-  "voxy.config.general.geometryBuffer": "Геометрический буфер",
-  "voxy.config.general.geometryBuffer.tooltip": "Максимальное количество пар полигонов в геометрическом буфере.",
-  "voxy.config.general.maxSections": "Лимит секций",
-  "voxy.config.general.maxSections.tooltip": "Максимальное количество секций для отрисовки.",
-  "voxy.config.general.renderDistance": "Прорисовка",
-  "voxy.config.general.renderDistance.tooltip": "Дальность выгрузки чанков ('-1' для отключения).",
-  "voxy.config.general.nvmesh": "Использовать сеточные шейдеры",
-  "voxy.config.general.nvmesh.tooltip": "Использовать сеточные шейдеры Nvidia для\nускорения отрисовки уровней детализации\n(если поддерживается).",
+  "voxy.config.general.ingest.tooltip": "Включает или отключает возможность Voxy преобразовывать новые чанки в уровни детализации.",
 
-  "voxy.config.threads.ingest": "Поглощение",
-  "voxy.config.threads.ingest.tooltip": "Сколько потоков Voxy будет использовать для поглощения новых чанков.",
-  "voxy.config.threads.saving": "Сохранение",
-  "voxy.config.threads.saving.tooltip": "Сколько потоков Voxy будет использовать для сохранения секций во внутреннем хранилище.",
-  "voxy.config.threads.render": "Отрисовка",
-  "voxy.config.threads.render.tooltip": "Сколько потоков Voxy будет использовать для генерации данных для отрисовки.",
+  "voxy.config.general.rendering": "Отрисовка Voxy",
+  "voxy.config.general.rendering.tooltip": "Включает или отключает отрисовку Voxy.",
 
-  "modmenu.summaryTranslation.voxy": "Мод для отрисовки уровней детализации.",
-  "modmenu.descriptionTranslation.voxy": "Отрисовка геометрии удалённой местности с использованием уровней детализации."
+  "voxy.config.general.subDivisionSize": "Размер подразделения (пиксели)",
+  "voxy.config.general.subDivisionSize.tooltip": "Максимальный размер в пикселях (в квадрате) ограничивающего прямоугольника в экранном пространстве перед разделением на более мелкие уровни детализации (меньшее значение — выше качество).",
+
+  "voxy.config.general.renderDistance": "Дальность прорисовки",
+  "voxy.config.general.renderDistance.tooltip": "Дальность прорисовки Voxy в чанках.",
+
+  "voxy.config.general.environmental_fog": "Включить окружающий туман",
+  "voxy.config.general.environmental_fog.tooltip": "Включает или отключает отрисовку окружающего тумана в Voxy.",
+
+  "voxy.config.general.vanilla_fog": "Включить ванильный туман",
+  "voxy.config.general.vanilla_fog.tooltip": "Включает или отключает стандартный эффект тумана.",
+
+  "voxy.config.general.render_statistics": "Включить статистику отрисовки",
+  "voxy.config.general.render_statistics.tooltip": "Включает статистику отрисовки в меню F3. Полезно для отладки."
 }

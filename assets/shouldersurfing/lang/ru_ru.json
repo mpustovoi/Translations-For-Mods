@@ -283,29 +283,21 @@
   "shouldersurfing.configuration.crosshair.crosshair_type": "Тип перекрестия",
   "shouldersurfing.configuration.crosshair.crosshair_type.tooltip": "Тип перекрестия для использования при вида от плеча.",
 
-  "shouldersurfing.configuration.crosshair.adaptive_crosshair_hold_items.button": "Изменить",
+  "shouldersurfing.configuration.adaptive_crosshair_hold_items.button": "Изменить",
   "shouldersurfing.configuration.crosshair.adaptive_crosshair_hold_items": "Предметы адаптивного перекрестия (удержание)",
   "shouldersurfing.configuration.crosshair.adaptive_crosshair_hold_items.tooltip": "Предметы, которые при удержании активируют динамическое перекрестие в адаптивном режиме. Этот параметр конфигурации поддерживает регулярные выражения. Пример: 'minecraft:.*sword' соответствует 'minecraft:wooden_sword' и 'minecraft:netherite_sword'.",
 
-  "shouldersurfing.configuration.crosshair.adaptive_crosshair_use_items.button": "Изменить",
+  "shouldersurfing.configuration.adaptive_crosshair_use_items.button": "Изменить",
   "shouldersurfing.configuration.crosshair.adaptive_crosshair_use_items": "Предметы адаптивного перекрестия (использование)",
   "shouldersurfing.configuration.crosshair.adaptive_crosshair_use_items.tooltip": "Предметы, которые при использовании активируют динамическое перекрестие в адаптивном режиме. Этот параметр конфигурации поддерживает регулярные выражения. Пример: 'minecraft:.*sword' соответствует 'minecraft:wooden_sword' и 'minecraft:netherite_sword'.",
 
-  "shouldersurfing.configuration.crosshair.adaptive_crosshair_hold_item_animations.button": "Изменить",
+  "shouldersurfing.configuration.adaptive_crosshair_hold_item_animations.button": "Изменить",
   "shouldersurfing.configuration.crosshair.adaptive_crosshair_hold_item_animations": "Свойства предмета адаптивного перекрестия (удержание)",
   "shouldersurfing.configuration.crosshair.adaptive_crosshair_hold_item_animations.tooltip": "Свойства предмета, которые при удержании активируют динамическое перекрестие в адаптивном режиме.",
 
-  "shouldersurfing.configuration.crosshair.adaptive_crosshair_use_item_animations.button": "Изменить",
+  "shouldersurfing.configuration.adaptive_crosshair_use_item_animations.button": "Изменить",
   "shouldersurfing.configuration.crosshair.adaptive_crosshair_use_item_animations": "Свойства предмета адаптивного перекрестия (использование)",
   "shouldersurfing.configuration.crosshair.adaptive_crosshair_use_item_animations.tooltip": "Свойства предмета, которые при использовании активируют динамическое перекрестие в адаптивном режиме.",
-
-  "shouldersurfing.configuration.crosshair.adaptive_crosshair_hold_item_components.button": "Изменить",
-  "shouldersurfing.configuration.crosshair.adaptive_crosshair_hold_item_components": "Компоненты предмета адаптивного перекрестия (удержание)",
-  "shouldersurfing.configuration.crosshair.adaptive_crosshair_hold_item_components.tooltip": "Компоненты предмета (только изменённые), которые при удержании предмета активируют динамическое перекрестие в адаптивном режиме.",
-
-  "shouldersurfing.configuration.crosshair.adaptive_crosshair_use_item_components.button": "Изменить",
-  "shouldersurfing.configuration.crosshair.adaptive_crosshair_use_item_components": "Компоненты предмета адаптивного перекрестия(использование)",
-  "shouldersurfing.configuration.crosshair.adaptive_crosshair_use_item_components.tooltip": "Компоненты предмета (только изменённые), которые при использовании предмета активируют динамическое перекрестие в адаптивном режиме.",
 
   "shouldersurfing.configuration.obstruction.button": "Изменить",
   "shouldersurfing.configuration.obstruction": "Индикатор препятствия",
@@ -342,6 +334,16 @@
   "shouldersurfing.configuration.integrations.button": "Изменить",
   "shouldersurfing.configuration.integrations": "Интеграции",
   "shouldersurfing.configuration.integrations.tooltip": "Настройки интеграции.",
+
+  "shouldersurfing.configuration.curios.button": "Изменить",
+  "shouldersurfing.configuration.curios": "Curios API",
+  "shouldersurfing.configuration.curios.tooltip": "Настройки для Curios API.",
+
+  "shouldersurfing.configuration.integrations.curios.adaptive_crosshair_items": "Элементы адаптивного перекрестия",
+  "shouldersurfing.configuration.integrations.curios.adaptive_crosshair_items.tooltip": "Предметы, которые при установке в слот Curios запускают динамическое перекрестие в адаптивном режиме. Этот параметр конфигурации поддерживает регулярные выражения. Слот Curios должен указываться перед выражением и разделяться символом '@'. Пример: 'ring@angelring:.*_ring' соответствует 'angelring:diamond_ring' и 'angelring:angel_ring' при надевании в слот 'кольца'.",
+
+  "shouldersurfing.configuration.integrations.curios.adaptive_crosshair_item_properties": "Свойства предмета адаптивного перекрестия",
+  "shouldersurfing.configuration.integrations.curios.adaptive_crosshair_item_properties.tooltip": "Свойства предмета, который при установке в слот Curios, активирует динамическое перекрестие в адаптивном режиме. Пример: 'necklace@charged'",
 
   "shouldersurfing.configuration.epicfight.button": "Изменить",
   "shouldersurfing.configuration.epicfight": "Epic Fight",

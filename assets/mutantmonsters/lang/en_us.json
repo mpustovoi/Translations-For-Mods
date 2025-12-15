@@ -1,4 +1,4 @@
 {
   "advancements.mutantmore.kill_all_mutants.description": "Kill one of every hostile mutant, unlocks the Concoction W",
-  "effect.mutantmonsters.chemical_x.description": "Turns an entity to a mutant form with a 50% chance. Explodes, dealing 25 points of damage, if transformation is impossible."
+  "effect.mutantmonsters.chemical_x.description": "Turns an entity to a mutant form with a 50%% chance. Explodes, dealing 25 points of damage, if transformation is impossible."
 }

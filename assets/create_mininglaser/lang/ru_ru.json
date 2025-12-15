@@ -1,0 +1,67 @@
+{
+  "death.attack.laser.1": "%1$s был сожжён заживо лазерным лучом",
+  "death.attack.laser.2": "%1$s сгорел дотла в луче бурового лазера",
+  "death.attack.laser.3": "%1$s растворился в ослепляющем свете лазерного луча",
+  "death.attack.laser.4": "%1$s был пронзён лучом бурового лазера",
+  "death.attack.laser.player.1": "%1$s был сожжён заживо лазерным лучом, пока боролся с %2$s",
+  "death.attack.laser.player.2": "%1$s сгорел дотла в луче бурового лазера, пока боролся с %2$s",
+  "death.attack.laser.player.3": "%1$s растворился в ослепляющем свете лазерного луча, пока боролся с %2$s",
+  "death.attack.laser.player.4": "%1$s был пронзён лучом бурового лазера, пока боролся с %2$s",
+
+  "adv.create_mininglaser.root.title": "Добро пожаловать в Create: Буровой Лазер!",
+  "adv.create_mininglaser.root.desc": "Пора обуздать силу направленного света",
+  "adv.create_mininglaser.laser_drill.title": "Сила света",
+  "adv.create_mininglaser.laser_drill.desc": "Получите лазерный бур",
+  "adv.create_mininglaser.core_t1.title": "Первый уровень",
+  "adv.create_mininglaser.core_t1.desc": "Получите лазерный коллиматор первого уровня",
+  "adv.create_mininglaser.core_t2.title": "Второй уровень",
+  "adv.create_mininglaser.core_t2.desc": "Получите лазерный коллиматор второго уровня",
+  "adv.create_mininglaser.core_t3.title": "Третий уровень",
+  "adv.create_mininglaser.core_t3.desc": "Получите лазерный коллиматор третьего уровня",
+  "adv.create_mininglaser.core_t4.title": "Четвёртый уровень",
+  "adv.create_mininglaser.core_t4.desc": "Получите лазерный коллиматор четвёртого уровня",
+  "adv.create_mininglaser.core_t5.title": "Пятый уровень",
+  "adv.create_mininglaser.core_t5.desc": "Получите лазерный коллиматор пятого уровня",
+  "adv.create_mininglaser.laser_touch.title": "Жжётся!",
+  "adv.create_mininglaser.laser_touch.desc": "Коснитесь луча лазерной буровой установки",
+
+  "config.jade.plugin_create_mininglaser.laser_drill_core": "Информация о коллиматоре ЛБУ",
+  "config.jade.plugin_create_mininglaser.laser_drill_core.desc": "Отображать информацию о типе и уровне установленного лазерного коллиматора.",
+
+  "itemGroup.create_mininglaser": "Create: Буровой Лазер",
+
+  "item.create_mininglaser.drill_core_t1": "Лазерный коллиматор первого уровня",
+  "item.create_mininglaser.drill_core_t2": "Лазерный коллиматор второго уровня",
+  "item.create_mininglaser.drill_core_t3": "Лазерный коллиматор третьего уровня",
+  "item.create_mininglaser.drill_core_t4": "Лазерный коллиматор четвёртого уровня",
+  "item.create_mininglaser.drill_core_t5": "Лазерный коллиматор пятого уровня",
+
+  "item.create_mininglaser.crystal_t2": "Флюкситовый кристалл",
+  "item.create_mininglaser.crystal_t3": "Синтитовый кристалл",
+  "item.create_mininglaser.crystal_t4": "Нейрофазовый кристалл",
+  "item.create_mininglaser.crystal_t5": "Ионовый кристалл",
+  "item.create_mininglaser.crystal_t6": "Квантовый кристалл",
+
+  "item.create_mininglaser.laser_mechanism": "Лазерный механизм",
+  "item.create_mininglaser.incomplete_laser_mechanism": "Незаконченный лазерный механизм",
+
+  "item.create_mininglaser.incomplete_core_frame": "Незаконченный лазерный коллиматор",
+
+  "block.create_mininglaser.laser_drill": "Лазерный бур",
+  "block.create_mininglaser.drill_casing": "Корпус лазерной буровой установки",
+  "block.create_mininglaser.drill_hatch": "Выводящий отсек лазерной буровой установки",
+
+  "create_mininglaser.ponder.laser_multiblock.header": "Сборкой лазерной буровой установки",
+  "create_mininglaser.ponder.laser_multiblock.text_1": "Заложите основание из корпусов...",
+  "create_mininglaser.ponder.laser_multiblock.text_2": "...и разместите бур в центре",
+  "create_mininglaser.ponder.laser_multiblock.text_3": "Прикрепите сбоку выводящий отсек — через него будут выходить добытые ресурсы",
+  "create_mininglaser.ponder.laser_multiblock.text_4": "Используйте гаечный ключ на лазерном буре, чтобы собрать установку воедино",
+
+  "create_mininglaser.ponder.insert_core.header": "Установкой и заменой лазерного коллиматора",
+  "create_mininglaser.ponder.insert_core.text_1": "Возьмите желаемый коллиматор в руку и кликните ПКМ по центральному блоку установки",
+  "create_mininglaser.ponder.insert_core.text_2": "Гаечный ключ может быть использован для демонтажа уже установленного коллиматора",
+
+  "create_mininglaser.ponder.output_setup.header": "Извлечением ресурсов из лазерной буровой установки",
+  "create_mininglaser.ponder.output_setup.text_1": "Добытые лазерной буровой установкой предметы хранятся в выводящем отсеке",
+  "create_mininglaser.ponder.output_setup.text_2": "Прикрепите к отсеку шлюз или другой логистический элемент для их извлечения"
+}
